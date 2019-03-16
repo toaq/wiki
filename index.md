@@ -13,4 +13,4 @@ Bruno's resource pages:
 * [links.md](links.md)
 * [names.csv](names.csv)
 * [doubts](doubts.md)
-* [we_are_exploring](we_are_exploring.md)
+* [we-are-exploring](we-are-exploring.md)
