@@ -4,3 +4,13 @@
 * [Help for Nuogāı](nuogai)
 * [Dotsies + Toaq](dotsies)
 * [MathJax + Toaq](jax)
+* [Xmodmap file](Xmodmap.Xmodmap)
+
+Bruno's resource pages:
+* [Original README file of the ‘resources‘ repository](README.md)
+* [gotchas.md](gotchas.md)
+* [jargon.md](jargon.md)
+* [links.md](links.md)
+* [names.csv](names.csv)
+* [questions](questions)
+* [weAreExploring](weAreExploring)
