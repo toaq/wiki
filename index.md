@@ -12,5 +12,5 @@ Bruno's resource pages:
 * [jargon.md](jargon.md)
 * [links.md](links.md)
 * [names.csv](names.csv)
-* [questions](questions)
-* [weAreExploring](weAreExploring)
+* [doubts](doubts.md)
+* [we_are_exploring](we_are_exploring.md)
