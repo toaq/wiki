@@ -7,7 +7,7 @@
 * [Xmodmap file](Xmodmap.Xmodmap)
 
 Bruno's resource pages:
-* [Original README file of the ‘resources‘ repository](README.md)
+* [Original README file of the ‘resources’ repository](README.md)
 * [gotchas.md](gotchas.md)
 * [jargon.md](jargon.md)
 * [links.md](links.md)
