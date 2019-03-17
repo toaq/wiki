@@ -569,3 +569,374 @@ A nice game of Toaq of the Day :)
 **mi Moinlul**
 > With the number serial rule, **nıaqnē gủ** = the duration of two years, i.e. 2 × 365¼ days
 >
+
+## On indirect questions
+
+### 2019-03-17, #general
+
+
+ShủaoToday at 8:01 AM
+The concept of 'indirect questions' has always confused me.
+What is this black magic?
+🍵Today at 8:05 AM
+what exactly about indirect questions do you find to be like black magic?
+there is a significant difference about a question mentioned (not asked – thus ‘indirect’) in the sentence and its answer
+’I don't know what friends he has’ means that you don't know what would answer the question: ’What friends does he have?’
+in English, though, you can have a (tenuously) polysemous question like ’I don't know what you're pointing at’
+on the one hand, it can mean: ‘I don't know the thing that you're pointing at,’ so if you were pointing at Bob, I'd be saying: ’I don't know Bob’
+on the other hand, it can mean, ‘I don't know what the answer to the question: What you're pointing at? is’
+ShủaoToday at 8:14 AM
+But... how?!
+🍵Today at 8:15 AM
+thow
+indirect questions are a concept that can't be analysed into smaller parts, and it's so by definition
+an indirect question is a subordinate clause that pertains to an unasked question
+and it is different from a relative clause that points to the answer of such a question
+the Biblish ‘he who…’ might be easier to understand, I guess
+’I don't know him who did that’ – I don't know the person
+’I don't know who did that’ – I don't know the answer to the question: ‘Who did that?’
+https://en.wikipedia.org/wiki/Content_clause#Interrogative_content_clauses
+ShủaoToday at 8:18 AM
+Are there not less nonsensical methods with the same effect?
+🍵Today at 8:18 AM
+[T]hey are often direct objects of verbs of cognition, reporting, and perception, but here they emphasize knowledge or lack of knowledge of one element of a fact[.]
+no
+if you have content clauses, you have to have indirect questions too
+in case of Toaq, you have:
+Bủ dủa jí tâo hı ráı máq da. – I don't know who did that.
+Bủ rảqdūa jí lú tảo hóa máq da. – I don't know the one who did that.
+HỏemāıToday at 8:21 AM
+(but the second sense of "know" is different, and not dua)
+🍵Today at 8:21 AM
+yes, I corrected for that
+dua can be applied to context clauses only; I used raqdūa here for the meaning: ‘I know of him.’
+@Shủao of course, you might try making a language where, instead of indirect questions, you have predicates like ‘X doesn't know what has property Y,’ but indirect questions are handier in that they don't require you to know that you're going to use one before the moment they're stated
+in general, every sentence with an interrogative content clause can be transformed into one with declarative content clauses only:
+Bủ dủa jí tâo hı ráı máq da. (I don't know who did that.) → Sa dó tǔq lủ tảo hóa máq bı, bủ dủa jí tâo dó máq da. (There's somebody who did that for which I don't know to have done that.)
+but, as you can see, the above is messy
+and, to nitpick even further, the above transformation relies on the assumption that there is somebody who did that
+in the end, you'd need to construct a sentence like: ‘If there isn't anybody who X-es, then I don't know that there is nobody who X-es; and if there is somebody who X-es, then for all people p such that p X-es, I don't know that p X-es’
+@Hỏemāı @Mỏılūq if I made a mistake anywhere above here, please let me know
+or, even better: ‘For all plural constants pp, I know that pp has p-ty X if pp has p-ty X, and I know that pp doesn't have p-ty X if pp doesn't have p-ty X.‘
+ShủaoToday at 8:37 AM
+I've found a bug in toadua.
+🍵Today at 8:37 AM
+the need for indirect questions could also be avoided with a predicate with a definition like: ‘X knows what n-tuple of arguments satisfies n-ary relation Y’ (for any n, including 0)
+what is it, @Shủao?
+the fix will most probably come with toadua2, because toadua1's code is fundamentally flawed
+ShủaoToday at 8:38 AM
+Spaces in a search -> (load URL again in whatever manner) -> %20 in the search
+🍵Today at 8:39 AM
+you're not supposed to use spaces in a search, by the way
+if you want to search for the word tue joemieq, then input:
+% tuejoemieq
+nuogaiBOTToday at 8:39 AM
+1–1/1 — tue jỏemīeq ∿ — examination (knowledge test)
+ShủaoToday at 8:40 AM
+They should be handled properly either way, though, right?
+🍵Today at 8:41 AM
+you're right, of course
+@Shủao wait… are your doubts about indirect questions gone, or have you decided not to dwell further on them?
+ShủaoToday at 8:46 AM
+I found the bug when I was going to figure out what tao meant so I could try to figure out what you said.
+🍵Today at 8:46 AM
+alright
+I've got about 40 minutes before I leave home, so make sure your contemplating's done by then
+ShủaoToday at 9:27 AM
+I suppose I've decided not to dwell further on them.
+I should just accept it as black magic and move on.
+🍵Today at 9:46 AM
+perhaps not
+they aren’t black magic
+ShủaoToday at 9:52 AM
+The concept doesn't seem to fit with everything else; therefore, it is black magic.
+HeukueqcheToday at 10:01 AM
+"Any sufficiently advanced technology is indistinguishable from magic"
+so, it will be magic until we explain it thoroughly XD
+🍵Today at 10:02 AM
+it isn’t black magic because it does fit with everything else
+HeukueqcheToday at 10:02 AM
+Thanks for asking @Shủao ! I don't understand indirect questions either  XD
+🍵Today at 10:02 AM
+as they say, you ‘understand’ them, but you don’t understand them
+ShủaoToday at 10:02 AM
+What something actually is is irrelevant; only what it seems to be matters.
+🍵Today at 10:03 AM
+pffff
+ShủaoToday at 10:03 AM
+seem is a weird word.
+🍵Today at 10:03 AM
+you seem to be naïve
+by the same measure
+ShủaoToday at 10:03 AM
+I may as well be naïve, then.
+🍵Today at 10:03 AM
+>:)
+HeukueqcheToday at 10:03 AM
+oh, I agree it fits into everything else. Just like airplanes fit into all of aerodynamics and physics. But to me, mere mortal in my dirt hut, it stays in the air because of magic XD
+you'll have to teach me physics to see it as science
+ShủaoToday at 10:04 AM
+Indeed.
+🍵Today at 10:04 AM
+it’s enough to be told by a doctor of aerodynamics that it’s not magic that holds the airplanes up
+HeukueqcheToday at 10:04 AM
+but man, I'M STUDYING MEDICINE!
+🍵Today at 10:04 AM
+so, listen to your bachelor of indirect questions
+ShủaoToday at 10:04 AM
+The doctor of aerodynamics is a magician.
+HeukueqcheToday at 10:04 AM
+I need the explanation
+anyways, I appreciate the explanation : ) I'll archive it and peruse it in my spare time
+🍵Today at 10:05 AM
+I could try taking another go at explaining at some other point
+oh yes, please do archive it
+also, please comply with the format
+it took me half an hour to properly stylise the archive
+https://uakci.pl/wiki/ and see the new style and form
+form(at)
+HeukueqcheToday at 10:07 AM
+oh, thanks! I didn't know there was a document explaining the format. I was just trying to follow what you had done the first time XD
+I'll read it
+🍵Today at 10:07 AM
+no, there isn’t any
+just follow the format of the archive
+when adding new entries
+you should be able to grok it just by looking
+HeukueqcheToday at 10:08 AM
+#blackmagic XD
+sorry, sorry
+🍵Today at 10:09 AM
+no, #grokking
+I’ll go now
+remember to merge from the parent repository often
+i.e., before you introduce a change
+HeukueqcheToday at 10:10 AM
+as fagri said. You think too fast and too clearly. It would take me an hour to deduce the formatting from the document alone. I'm learning markdown on the fly XD! if you could whip out something quick, I would appreciate it a lot
+all right, will do. Thanks mi Chai : )
+ShủaoToday at 10:24 AM
+Mankind is not meant to understand the languages they speak.
+🍵Today at 11:49 AM
+it is
+that you haven’t yet got the necessary preliminary knowledge doesn’t mean it can’t be understood by those who have it
+in such a case, though, you can catch up by reading such preliminary material
+ShủaoToday at 11:53 AM
+... we can always go against what we're "meant to" do, though, with enough work.
+🍵Today at 11:53 AM
+alright then
+but then don’t complain about me being unintelligible
+HỏaqgīoToday at 12:18 PM
+uakci, your expansion of the indirect question was wrong
+I'm on mobile and in bed right now, I'll be more specific later
+nuogaiBOTToday at 1:00 PM
+hỉo jí tỉrēa kǎqgāı hóa kenēıdē shq̂hūalāpīsīu da. mảq báq dẻo da. kỉhā.
+MỏılūqToday at 1:01 PM
+shq̂hūalāpīsīu
+lol
+🍵Today at 1:46 PM
+@Hỏaqgīo therefore, I am asking to nitpick and correct
+nuogāi seems to be entering some kind of lethargic state, judging by their recent babbling in computerese
+🍵Today at 1:56 PM
+I should emphasise that it’s my understanding of indirect questions that I was dwelling
+it isn’t necessarily the most elegant definition
+I, too, would like indirect questions gone
+je m’aussi voudrais
+@Mỏılūq is this the correct ante-predicat-ive order?
+MỏılūqToday at 2:05 PM
+#off-topic
+HỏaqgīoToday at 2:45 PM
+First problem:
+> Bủ dủa jí tâo hı ráı máq da. – I don't know who did that.
+> Bủ rảqdūa jí lú tảo hóa máq da. – I don't know the one who did that.
+These sentences aren't alike
+🍵Today at 2:46 PM
+I’m aware
+what point are you trying to make here?
+HỏaqgīoToday at 2:46 PM
+Nice picture
+🍵Today at 2:46 PM
+kủaq kỉe ka
+HỏaqgīoToday at 2:47 PM
+I'm not really making a point, unless you consider "that's wrong" to be a point
+(Which I do -- retracting incorrect information is important even if you don't have correct information to replace it with)
+But that there wasn't my main correction
+🍵Today at 2:48 PM
+I was showing an example of the almost same sentence and its not so same translation
+they were somewhat supposed to turn out as different from each other
+but, to the main tea, please
+HỏaqgīoToday at 2:49 PM
+Ah wait, I just found:
+or, even better: ‘For all plural constants pp, I know that pp has p-ty X if pp has p-ty X, and I know that pp doesn't have p-ty X if pp doesn't have p-ty X.‘
+I was going to correct you on:
+in the end, you'd need to construct a sentence like: ‘If there isn't anybody who X-es, then I don't know that there is nobody who X-es; and if there is somebody who X-es, then for all people p such that p X-es, I don't know that p X-es’
+But the "even better" one isn't wrong
+🍵Today at 2:50 PM
+are you saying that the one above is correct and the one below is wrong?
+because if so, I agree
+HỏaqgīoToday at 2:50 PM
+Yes
+(Or slightly more accurately: that the one above is a plausible rendition. We might not go with that)
+🍵Today at 2:51 PM
+I didn’t say we should go with any of that – again, it’s my interpretation specifically
+although indeed it would be beneficial to keep this definition at the back of your head and see if it works in different, more convoluted sentences
+note, however, how such an îndirect quẻstion is dependent in meaning on the containing predication
+which means that :t5: + hi dó attains special semantic powers, just like :t6: in Toaq and macros in Scheme
+(not Scheme macros, because they can only operate on their own arguments and not on their surroundings, and I’m trying to make the point that :t5: + hi dó does transform the outer clause)
+HỏaqgīoToday at 2:55 PM
+How do they transform the outer clause?
+🍵Today at 2:57 PM
+‘I don’t know what caused this’ -> ‘for all pp, I don’t know that pp caused this if pp caused this, and I don’t know that pp didn’t cause this if pp didn’t cause this.’
+the italic parts are attachments onto the outer clause; moreover, this clause, with the modification (did -> didn’t), is copied to make a second claim (underlined)
+HỏaqgīoToday at 2:58 PM
+Hmm, I think I understand
+Are you saying that Bủ dủa jí câ hi ráı ní should be the same as Bủ dûa jí câ hi ráı ní, since there is no change in scope, but it requires special semantics to do so?
+🍵Today at 3:00 PM
+this is not what I’m scared about – serial predicates and scoping in sentences where they’re present don’t bother me because they’re lightweight and predictable
+(lightweight = requiring little thinking power to crack, allowing one to gain an intuitive, no-brainer understanding over time)
+what I’m scared about is this:
+you can’t consider râi hi rái in isolation, but only rai râi hi rái – one level up from the clause
+furthermore, if you answer a question with a fragment that is a case of t5 + hi do, you’re actively transforming the asker’s sentence
+and the change is not lightweight
+this means that the answer doesn’t really answer the original question, but a transformed version of it
+this is different from, for example, ‘ma shie súq moq’ — ‘[jeo hóq] rào dío’
+because the answerer gives an explicit condition of the sentence being true, using an afterthought sentence transformer that :t6: is one of
+with t5+hido, it’s nothing like that
+HỏaqgīoToday at 3:06 PM
+So would Dủa súq hi ráı -> câ hi dó be an example of this?
+🍵Today at 3:06 PM
+yes, I was going to type this exact example in right now
+the question is transformed opaquely
+and it’s done with what’s supposed to be the most transparent and well-behaved construct in the grammar, namely :t5:
+HỏaqgīoToday at 3:08 PM
+But isn't your interpretation -- that an indirect Q is just a statment in disguise -- the antedote for this problem?
+In that interpretation, the sentence isn't transformed
+🍵Today at 3:08 PM
+antidote*?
+HỏaqgīoToday at 3:08 PM
+Yes
+🍵Today at 3:09 PM
+I’ve come to realise that indirect questions can’t be statements in disguise
+they do complex stuff
+all their heavy work is abstracted out into a mere collocation of a tone and a question word
+so I can no longer accept an interpretation where the outer claim isn’t transformed
+HỏaqgīoToday at 3:11 PM
+I still don't understand what transformation is necessary
+🍵Today at 3:11 PM
+I, on the other hand, don’t understand how it can be not essential
+of course, we can keep indirect q’s as an inanalysable construct that you’re just supposed to understand
+if you find a satisfactory transformation that is bounded by the :t5:, let me know
+HỏaqgīoToday at 3:13 PM
+What's wrong with "what caused this" -> "that whatever caused this caused this and whatever didn't didn't"?
+🍵Today at 3:13 PM
+»[…] the philosophy that indirect questions are their own type of semantic object and cannot be reduced to statements to be fed into "dua".«
+(this is what I’m trying to put into doubt and see if there are alternatives)
+> What's wrong with "what caused this" -> "that whatever caused this caused this and whatever didn't didn't"?
+there are two issues here
+HỏaqgīoToday at 3:15 PM
+Oh wait a second wait a second
+The quantification leaks out into the outer claim, right?
+🍵Today at 3:16 PM
+1) bu dua jí câ hi rái -> either bu dua jí câ cá, which is a tautology, or sa dó ca3 bi bu dua jí câ dó (same problem)
+yes ^^
+smart one
+HỏaqgīoToday at 3:16 PM
+Now I see
+Okay, that sucks
+🍵Today at 3:17 PM
+2) even if there’s a way to keep the quantification inside, there’s still relativism that ought to be remembered. I might know what caused this, but it might not be the actual things that caused this
+…and implementing this behaviour would require to… know the outer predication
+HỏaqgīoToday at 3:18 PM
+Hmm, what now?
+I don't know what you mean by that
+> I might know what caused this, but it might not be the actual things that caused this
+this
+🍵Today at 3:20 PM
+okay, let’s switch around the outer predicate:
+dua jí chîaidua jí câ hi rái
+we would somehow need to transform this into dua jí chîaidua jí câ + an argument phrase that would signify some referent for which the chîaidua clause holds
+because we can’t substitute it with the real cá, because we know we’re supposed to be wrong about what we know
+HỏaqgīoToday at 3:23 PM
+Aha
+So even if "I know [what caused this]" goes magically to "I know [that the candle caused this]", that breaks on "I am wrong about [what cause this]" because that will go to "I am wrong about [that the candle caused this]"
+🍵Today at 3:24 PM
+yes
+HỏaqgīoToday at 3:25 PM
+Looks like a big oof for "questions are statements in disguise" theory
+🍵Today at 3:25 PM
+and the ‘questions are black boxes’ theory too, unless we allow :t5: to transform their containing clauses
+HỏaqgīoToday at 3:26 PM
+Is that so?
+"I am wrong about [what caused this]" seems fine as a black box
+🍵Today at 3:27 PM
+the indirect questions are black boxes theory would stand solid if either :t5: could transform the outer clauses or predicates that expect indirect q’s had rules on handling them
+the latter is easier to prove the existence of a feasible implementation of, of course
+HỏaqgīoToday at 3:28 PM
+Oh, well yes
+🍵Today at 3:28 PM
+let’s call it a small oof
+HỏaqgīoToday at 3:28 PM
+I was counting "rules for indirect q's built into the predicate" as part of black box thoery
+🍵Today at 3:28 PM
+okay
+then give it a better name, if you may
+»indirect questions are black boxes with special handling from their receiving predicates«
+HỏaqgīoToday at 3:29 PM
+black box theory is the perfect name already
+🍵Today at 3:29 PM
+alright
+HỏaqgīoToday at 3:29 PM
+Just remember that "black box" is stronger than "opaque in-place transformation"
+🍵Today at 3:30 PM
+or maybe ‘primitive indirect question(s) theory’
+which makes a looser claim
+HỏaqgīoToday at 3:30 PM
+Or "the amiguity approach" (predicates which can take IQs are ambiguos)
+This one is stolen from a paper than was linked here
+🍵Today at 3:30 PM
+kay
+the amiguilty approach
+and its friend, the yesyouare implementation
+HỏaqgīoToday at 3:31 PM
+I'm wooshing
+Anyhow Dủa súq hi ráı -> Bỏao jí câ hi ráı becomes sensible because now the latter is an explicit transformation of the former
+🍵Today at 3:34 PM
+just playing around with words
+wait
+how is that a transformation?
+what from and what to?
+HỏaqgīoToday at 3:34 PM
+Well
+The latter stands in for a transformation of the former
+"boao jí ..." expands to "tu ... bi dua jí ..."
+Thus you get the satisfying "What do you know?" -> "I know ..." without forcing quantifiers into somebody else's sentence
+🍵Today at 3:36 PM
+dua jí câ hi rái, then?
+HỏaqgīoToday at 3:36 PM
+Sure
+🍵Today at 3:36 PM
+alright
+I was confused
+HỏaqgīoToday at 3:36 PM
+I mean, I propose a texture pack where dua splits into dua and boao but yes
+🍵Today at 3:36 PM
+make an edit for the future generations
+and smile!
+:camera_with_flash:
+HỏaqgīoToday at 3:37 PM
+:grimacing:
+🍵Today at 3:37 PM
+I’m okay with dua being polymorphic like it seems to be now
+HỏaqgīoToday at 3:37 PM
+Oops, I was making a face
+🍵Today at 3:37 PM
+too late
+HỏaqgīoToday at 3:38 PM
+But the polymorphis lets you be lazy and say câ hi ráı alone as a response
+Hoemai, thoughts on this conversation?
+ShủaoToday at 3:56 PM
+:grimacing:
+🍵Today at 4:27 PM
+@Hỏaqgīo > I’m okay with dua being polymorphic like it seems to be now
+
+exactly what I was saying.
+
