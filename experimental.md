@@ -109,9 +109,13 @@ Message me (Discord = `@uakci#4467`, email = `ciuak` dot `prog` at `gmail` dot `
 * <b>*Devour*</b> <a name="devour" href="#devour">#</a> *by* uakci; *status* draft (04/02/2019)
   *Devour* is an idea for another type of argument slot (alongside *Concrete, Abstract, [Number](#numberserial)*). In essence, it removes all slots of the subordinated (*devoured*) predicate. There are two somewhat incompatible proposed behaviours for *Devour*: one (hereafter named *Gobble*) considers only the highest arity definition of the predicate, while the other (*Serve*) allows the devourer to decide which arity to consider. (*Serve* essentially implements a quoting mechanism and is thus more versatile, at the cost of being slightly more complex; note that all instances of *Gobble* can be replaced with *Serve* alongside a contract on the devourer's behalf to consider only the highest arity). It's worth noting that the devoured predicate's places are gone forever; it depends on the devourer if any of the devoured predicate's argument places reappear as part of the devourer's definition. Consider the following cobbled-up examples:
   > **sahaor**: ▯/*Serve* is satisfied by at least one sequence of arguments of any length. (*Predicate doesn't let any of the original predicate's places past.*) → **Sanhaor jeon da.** ‘Something is true, or something satisfies some property.’
+  >
   > **liaqjeor**: ▯/*Serve* is satisfied by the sequence ▯/*Concrete*. (*The predicate's argument structure is reused in a non-obvious way – this kind of relation can't be formalised in the frame definition.*)
+  >
   > [**mejeor**](https://uakci.pl/toadua/#1I0cRBaCB): ▯/*Serve* is satisfied by the following sequence of arguments. (*Frame:* \[S…\]. *Same comment as above.*)
+  >
   > **liaqduar**: ▯/*Concrete* knows that the predicate ▯/*Serve* is satisfied by the following sequence of arguments. (*Frame:* \[CS…\]. *Note that the result is variadic – if **liaqduar** is served* n *arguments, then exactly* n−1 *are implicitly passed to the embedded predicate.*) → **Liamduar jip nip da.** ‘I know this to be true.’; **Liamduar jip nip hob da.** ‘I know this to be/do that.’
+  >
   > **liaqcheor**: ▯/*Concrete*'s members satisfy the predicate ▯/*Gobble* in all non-repeating permutations. (Gobble, *because the semantics would have been messy otherwise.*) → **Liamcheor kien duan subjir da.** ‘We thank each other for knowing each other’; ‘For each distinct *A*, *B*, *C* in **subjir**, *A* thanks *B* for knowing *C.*’
 
   The idea for *Devour* arose from discussion about the word [**janer**](https://uakci.pl/toadua/#SyvvCRFbE) (▯ is an arity of the predicate ▯; frame would be \[*ND*\]). Some other words that could benefit from a separate *Devour* kind would be **mejeor**, **cuaq** (proposed word for ‘predicate’), and others. Note that *Devour*'s behaviour is meta-semantical, as it requires the devourer to peek into the argument structure(s) of the devoured predicate in a way more intrusive than that of *Abstract*.
@@ -126,10 +130,13 @@ Message me (Discord = `@uakci#4467`, email = `ciuak` dot `prog` at `gmail` dot `
   These changes, at the cost of sentence-initial marking of what was **hi raip**/**co raip** before (this strategy can be found in many languages – notably English – but not *all* languages), would allow for the question subject – now **hoa** – to be buried deep in the sentence (in regular Toaq, the **hi**/**co** would be caught by a fifth-tone phrase and form an unwanted indirect question there instead), mimicking **hi raip pa lun…** . Furthermore, it would streamline question construction, which is currently very messy and context-dependent in function. Take a look at the following examples:
   
   > **Bun duan jip *lop* chum hop.** ‘I don't know *that* he's eating.’ (**Lo** used here for symmetry.)
+  >
   > **Bun duan jip *map* chum hop.** ‘I don't know *if* he's eating.’
   > → ***Man* chum hop moq.** ‘*Is* he eating?’
+  >
   > **Bun duan jip *hip* chum hop (*hoap*).** ‘I don't know *what* he's eating.’
   > → ***Hin* chum hop (*hoap*) moq.** ‘*What* is he eating?’
+  >
   > **Bun duan jip *cop* chum hop (*hoap*).** ‘I don't know *how many things* he's eating.’
   > → ***Con* chum hop (*hoap*) moq.** ‘*How many things* is he eating?’
   
