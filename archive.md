@@ -370,3 +370,247 @@ mi Hỏaqgīo
 >
 > The translation is: "Eight children gather here."
 >
+
+## On inflecting serials
+### 2019-03-16, #general
+
+
+mi Heukueqche
+> I'm having trouble parsing this sentence
+>
+> Chỏ jí báq nảo da.
+>
+
+BREAK...
+
+mi Hỏemāı
+> Probably the báq nảo part
+>
+
+mi Heukueqche
+> exactly
+>
+
+mi Hỏemāı
+> So the trick here is
+>
+> you can turn serial predicates into nouns, just like you can turn single predicates into nouns, using :t2:
+>
+> But when you do this with serial predicates, only the first predicate gets that tone
+>
+> the rest keep their falling tone
+>
+> bảq nảo -> báq nảo
+>
+> This works with every tone
+>
+
+mi Heukueqche
+> so bảq nảo is a serial predicate, and a serial predicate can be ?conjugated? to any of the tones, and the first verb of the serial predicate gets the target tone, but the others keep the falling tone.
+>
+
+mi Hỏemāı
+> Exactly.
+>
+
+BREAK...
+
+mi Hỏemāı
+> Inflection in Toaq happens by way of suprafixation.
+>
+
+## On inflection
+### 2019-03-16, #general
+
+mi Heukueqche
+> what's the name of applying a tone to a word?
+>
+
+mi seaqtaq
+> suprafixation
+>
+> i love them, and have used tones to mark the scope of affixes in one of my conlangs
+>
+
+mi Hỏemāı
+> I think you can say "inflect"
+>
+
+mi seaqtaq
+> Suprafixation is also broader than just tones tho
+>
+
+mi seaqtaq
+> >In linguistics, a suprafix is a type of affix that gives a suprasegmental pattern (such as tone, stress, or nasalization) to either a neutral base or a base with a preexisting suprasegmental pattern. This affix will, then, convey a derivational or inflectional meaning.
+
+mi Hỏemāı
+> I would say inflect or decline
+>
+> But conjugate would also be understood
+>
+
+mi seaqtaq
+> Suprafixation would just be applying a suprafix, so just use the above definition when archiving and uh for the others
+
+mi Hỏemāı
+> Inflection in Toaq happens by way of suprafixation.
+>
+
+So, there are 4 words to say that a tone was applied to a predicate:  
+Inflect, Decline, Conjugate, Suprafixate.
+
+
+### 2019-02-24, #general
+
+mi Mỏılūq
+> suprafix — (linguistic morphology) A type of affix where a suprasegmental change (such as tone or stress) modifies an existing morpheme's meaning.
+>
+> Ah, that's relevant to Toaq.
+>
+
+## On naming time
+
+### 2019-02-24, #luaq
+
+A nice game of Toaq of the Day : )
+
+mi Lıq
+> I elect @Hỏemāı as the winner ^_^
+>
+> (thank you for the new roots)
+>
+
+mi 🍵
+> …and the new dealer
+>
+
+mi Hỏemāı
+> TotD #3
+>
+> "The train will arrive at ten o'clock, which is when I'm usually still asleep."
+>
+
+mi Lıq
+> (TotD.LIQ.3)  (that's how I intended the numbering to go, for what it's worth.)
+>
+> Tỉshā chúe(chāo) rào héıhōrāsīao, lǔ dủq nủo jí rào hóa da.
+>
+> * heıhōrā = hour 10 of the day (the 10:00–11:00 hour), just like shıchāq = day 1 of the month (I already defined this in Toadua).
+>
+> → heıhōrāsīao = the start of hour 10 of the day.
+>
+
+mi seaqtaq
+> n+hora gives that part of the day, but n+day gives that part of the month? Why not that part of the week since that is the next unit up?
+>
+> Also we have been adding numbers to subscript kinda e.g. doshi, hoagu so why not continue that and have horahei and chaqshi?
+>
+> semcur shuaif keo jam chon jip lut moin sa raip pop bab damchiur
+>
+> Ah
+>
+> I reread your explanation with more attention and i see why you skipped weeks, but my ordering beef still stands
+>
+
+mi Lıq
+> niaqgu is a twosome of something, a kind of gu, namely of consecutive years.
+>
+> whereas guniaq is a kind of niaq, namely the second one.
+>
+
+mi 🍵
+> clever, Liq hu mi
+>
+> I do understand why you’d choose days->months instead of weeks->months
+>
+> because the latter would be ill-defined
+>
+
+mi Lıq
+> it also mimics Chinese/Japanese 2019年, 3月, that kinda stuff
+>
+
+mi Níucūq
+> (TotD.3.NCQ) Jỉa tỉshā chúe lũ chảqpāqchīu kó hẻı hóa, ju dủq rảo hóa hôaı nủo jí da.
+>
+
+mi Níucūq
+> (soa pó mí niqdao roi mí Liq jí bâi ru je taoroa jí tîe kúo kúqtoai nò mí Diko da.) (kuaq hai tua shai tie ka.)
+>
+
+mi Hỏaqgīo
+> (TodD.3.HGO) Tỉshā chúe rào hórāchīu hẻı, ju dủq jí lî hỏaı nủo rào hóa da.
+>
+
+mi Níucūq
+> (pójībi du huaq gi mó Tỉshā jĩa teo mǔa ru je le gi tûa beo keo taoroa shoe bu hoi lu tua beo da)
+>
+
+mi Hỏemāı
+> So should we vote or should I just declare a winner?
+>
+
+mi Níucūq
+> setting up an emoji poll by the dealer in the case of indecision sounds sufficient
+>
+
+mi Hỏemāı
+> Okay, so I'll just make a decision. 
+>
+> First, some comments: I like both of the suggested systems. A downside with Lỉq's system is that because it's all in the form a single compound, it is less flexible w.r.t. other complements, like questions ("at what time") and if you want to fill in things like "(at the time we agreed to meet"). I think this is easier to do with Hoaqgīo's proposal. Also conceptually, the -sīao in Lỉq's system bugs me a little. I'm sure the system itself is still very useful outside of specifying X o'clock, so it's still good to have no matter what. 
+>
+> Second comment: Everyone used hoa in the ju phrase, but this is illegal. It should be maq or hoq. Also, ju is better than lǔ here. 
+>
+> All things considered, I'll go with Hoaqgīo.
+>
+> @Hỏaqgīo congratulations
+>
+
+mi Lıq
+> oh, because it's a {noi} not a {poi}
+>
+
+mi Hỏaqgīo
+> Woot woot
+>
+
+### 2019-02-24, #general
+
+mi Lıq
+> To elaborate on my #luaq  submission:
+>
+>
+> I've envisioned a convention where  (number)+(time unit)  is a compound for   “the n-th time unit within the one-level-up unit, going  second → minute → hour → day → month → year → calendar era.”
+>
+> (skipping weeks seems okay; we have separate color-words for the weekdays, and usually weeks are not used as a date unit)
+>
+> 
+>
+> and  (time unit)+(number)  is a new time unit that's n times longer,  like  nıaqhēı decade, joagū fortnight.
+>
+> and probably concatenating  (m+unit₁+n+unit₂) means:   the n-th unit₂ of the m-th unit₁ (of the salient unit-above-unit₁).
+>
+> 
+>
+> saqjūe pāchāq = the 1st of March (of the year).
+>
+> heıcīhōrā jōhēımīnū = 16:40 o'clock (of the day).   (would probably be written 16hōrā40mīnū  or 16h̄40m̄)
+>
+> now, people talk about “10 a.m.” more than they talk about the 10 a.m. – 11 a.m. hour range.  so maybe heıhōrāsīao deserves some sort of abbreviation
+>
+
+mi Lıq
+> (but then again   heıshīhōrāsīao  is as many syllables as  e-le-ven o'clock !  maybe it's fine)
+>
+
+mi Níucūq
+> m̂, lertcitydetrysmi nò a compound jũhoshuhi
+>
+
+mi Lıq
+> ja'a
+>
+
+mi Mỏılūq
+> With the number serial rule, nıaqnē gủ = the duration of two years, i.e. 2 × 365¼ days
+>
