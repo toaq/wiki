@@ -1,3 +1,5 @@
+<title>Gotchas</title>
+
 # Gotchas
 
 ## 1. Argument order

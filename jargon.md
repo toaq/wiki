@@ -1,3 +1,5 @@
+<title>Jargon</title>
+
 # Jargon
 
 Abstraction:

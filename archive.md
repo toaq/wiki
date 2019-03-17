@@ -1,33 +1,35 @@
+<title>Archive</title>
+
 # Archive
 
 ## On names with falling tone
 
 ### 2018-07-10, #chiejio
 **mi Lim**:
-> "In (NAM.1) and (NAM.2), the name after mi carries a falling tone. It can also
+> > In (NAM.1) and (NAM.2), the name after mi carries a falling tone. It can also
 carry any other tone. The name ends automatically when the phrase started by
-the name's tone ends."
+the name's tone ends.
 >
 > I'm actually a little confused about this phrasing
 >
 > oh, phrase means something very specific, right
 
 **mi Hoenmair**
-> %miu mi4 bu7
+> %miu **min buf**
 
 **mi Nuongair**
-> (mỉ bũ)
+> **(mỉ bũ)**
 > {λ𝑋 chua(‹bũ›, 𝑋)}().
 
 **mi Hoenmair**
-> %miu mi4 neo6 ni2
+> %miu **min neok nip**
 
 **mi Nuongair**
-> (mỉ {no ní})
-> {λ𝑋 chua(‹no ní›, 𝑋)}().
+> **(mỉ {nèo ní})**
+> {λ𝑋 chua(‹nèo ní›, 𝑋)}().
 
 **mi Hoenmair**
-> So here the names are "bũ" and "nèo ní"
+> So here the names are **bũ** and **nèo ní**
 >
 > An adverbial phrase and a prepositional phrase
 >
@@ -38,13 +40,13 @@ the name's tone ends."
 > And then the name is automatically over
 
 **mi Linmel**
-> %miu mỉ mỏq
+> %miu **mỉ mỏq**
 
 **mi Nuongair**
 > syntax error :1.7: want [bB], [cC], [dD], [fF], [gG], [hH], [jJ], [kK], [lL], [mM], [nN], [pP], [rR], [sS], or [tT]; got EOF
 
 **mi Lim**
-> so, if my name is Lı̉q, that tone is part of the name? as in, mi Líq and mi Lĩq are different persons
+> so, if my name is **Lı̉q**, that tone is part of the name? as in, **mi Líq** and **mi Lĩq** are different persons
 
 **mi Hoenmair**
 > Unless you also go by those names
@@ -65,7 +67,7 @@ the name's tone ends."
 
 ### 2019-03-08, #general
 **mi Niuncul**
-> m̂, fragments of terms and serial predicates also can be taken as a name/phrase by mi/shu
+> **m̂**, fragments of terms and serial predicates also can be taken as a name/phrase by **mi**/**shu**
 
 ### Summary
 Names can have any tone, but the most common one is the fourth tone.
@@ -79,8 +81,8 @@ This file contains most of the common frames.
 ### 2019-03-08, #general
 **mi Hoamgior**
 > As for frames-list.txt...
-> Since there are only a few common types in the type system 
->     (c, 0, 1, and 2),
+> Since there are only a few common types in the type system  
+>     (c, 0, 1, and 2),  
 > and since each word has usually only one or two slots, it happens that a lot of
 > words have the same signature as each other.
 > 
@@ -88,9 +90,9 @@ This file contains most of the common frames.
 > vocabulary, so many words that deal with similar concepts are given them same
 > signature on purpose.
 > -- see the triplet 
->     (dua, chi, miu) 
-> or 
->     (jui, jao, leaq, poe, cuao) )
+>     (**dua**, **chi**, **miu**)  
+> or  
+>     (**jui**, **jao**, **leaq**, **poe**, **cuao**) )
 > 
 > A frame is just a common signature that lots of words fit into.
 > For example, the LEO frame is the signature
@@ -99,24 +101,24 @@ This file contains most of the common frames.
 > meaning takes a concrete object and a property (a proposition with one open
 > slot)
 > 
-> Math stuff here, don't look if you're already feeling overwhelmed :smiley: : There's also the special case of the JEO frame, which has the signature [(0) (c 1)] and the special requirement that, for a predicate P to be in the JEO frame, it must satisfy the equivalence P(x, y) = P(jeo(x, y)).  We also have the MAO frame, which is defined as predicates which have a signature of [(0) (c 1)] but which don't satisfy that equality, which is named the "JEO-frame Equivalence"
+> Math stuff here, don't look if you're already feeling overwhelmed :smiley: : There's also the special case of the JEO frame, which has the signature [(0) (c 1)] and the special requirement that, for a predicate P to be in the JEO frame, it must satisfy the equivalence P(x, y) = P(**jeo**(x, y)).  We also have the MAO frame, which is defined as predicates which have a signature of [(0) (c 1)] but which don't satisfy that equality, which is named the "JEO-frame Equivalence"
 
 ## On ternary predicates
 
 ### 2019-03-13, #general
 
 **mi Hoamgior**
-> % cutaq
+> % **cutaq**
 
 **mi Nuongair**
-> 1–1/1 — cutaq + — <▯1, ▯2> are such that <x1, x2, x1> satisfy ternary relation ▯/3; ▯ does/is ▯/3 to themselves.
+> 1–1/1 — **cutaq** + — <▯1, ▯2> are such that <x1, x2, x1> satisfy ternary relation ▯/3; ▯ does/is ▯/3 to themselves.
 
 **mi Hoamgior**
 > Here's one that was added recently
 >
 > It's the first one I know of though
 >
-> 2-ary properties are useful for words like mia (▯ satisfies property ▯ with many things) and jeq (▯ and ▯ satisfy property ▯ with the same thing)
+> 2-ary properties are useful for words like **mia** (▯ satisfies property ▯ with many things) and **jeq** (▯ and ▯ satisfy property ▯ with the same thing)
 > 3-ary properties aren't useful for much, as far as we've discovered
 
 
@@ -131,13 +133,13 @@ This file contains most of the common frames.
 >
 > For example:
 >
-> "Shie jí rào kôi hó"
+> "**Shie jí rào kôi hó**"
 >
-> Here, the rao with the :t6: grabs the entire rest of the sentence, throws it into a :t5: clause, then passes it as the x1 place to the predicate rao.  :t6: also has the effect of taking the following noun and passing it to the predicate as the x2 place.
+> Here, the **rao** with the :t6: grabs the entire rest of the sentence, throws it into a :t5: clause, then passes it as the x1 place to the predicate rao.  :t6: also has the effect of taking the following noun and passing it to the predicate as the x2 place.
 >
 > Thus the sentence is equivalent to:
 >
-> "Rao (shîe jí na) kôi hó"
+> "**Rao (shîe jí na) kôi hó**"
 >
 > With the originally top-level claim in parentheses
 >
@@ -160,23 +162,9 @@ This file contains most of the common frames.
 **mi Seamtal**
 > Those are lojban words
 >
-> rinka=ca
->
-> nibli=lica
->
-> krinu≈mu kui (edited)
-
-**mi Bunrurnor**
-> thanks!
-
-**mi Seamtal**
-> jum [vietoaq]
-
-[...]
-
-**mi Seamtal**
-> oh woops lica was supposed to be luca
-> i always mix those up
+> * rinka = **ca**
+> * nibli = **lucar**
+> * krinu ≈ **mu kui**
 
 ## On ordinal compounds
 
@@ -187,15 +175,7 @@ This file contains most of the common frames.
 >
 > Also I need to add the ordinal compounds to the official dictionary.
 
-You make ordinal compounds by concatenating the number name with the (ko) predicate:
-
-> shiko
->
-> guko
->
-> saqko
->
-> ...
+You make ordinal compounds by concatenating the number name with the (**ko**) predicate: **shikor**, **gukor**, **saqkor**…
 
 ## On laughter and the lambda quantifier (ja)
 
@@ -215,7 +195,7 @@ You make ordinal compounds by concatenating the number name with the (ko) predic
 **mi Chain**
 > you don’t necessarily want to laugh with the lambda variable quantifier
 >
-> unless it’s ja dó ja dó ja dó ja dó
+> unless it’s **ja dó ja dó ja dó ja dó**
 
 **mi Bunrurnor**
 > would that mean XXXX?
@@ -232,10 +212,10 @@ You make ordinal compounds by concatenating the number name with the (ko) predic
 > and the whole wouldn’t really mean anything without context
 >
 
-BREAK [...]
+[...]
 
 **mi Bunrurnor**
-> O.O, I didn't realize that each ja do would represent a different variable
+> O.O, I didn't realize that each **ja dop** would represent a different variable
 
 **mi Chain**
 > it always does
@@ -243,31 +223,21 @@ BREAK [...]
 > so, how do you differentiate between their values? by position?
 
 **mi Chain**
-> ?cheon subjir lit seam ja pob ja pob
+> **chẻo súqjī lî sẻaq ja póq ja póq**
 >
-
-**mi Nuongair**
-> chẻo súqjī lî sẻaq ja póq ja póq
-
-**mi Chain**
 > = we are reciprocal in relation λxy. x has sex with y
 >
 > = we have sex with each other
 >
-> ?= cheon seam subjir
->
-
-**mi Nuongair**
-> = chẻo sẻaq súqjī
+> = **chẻo sẻaq súqjī**
 
 **mi Chain**
-> ja binds variables
->
+> **ja** binds variables
 
 **mi Bunrurnor**
 > oooh, I see! and the variables are predicates?
 >
-> like poq and do?
+> like **poq** and **do**?
 >
 
 **mi Chain**
@@ -275,43 +245,37 @@ BREAK [...]
 >
 > I mean, yes
 >
-> but poq isn’t a variable predicate
+> but **poq** isn’t a variable predicate
 >
-> if you say ja póq, then poq won’t refer to that
+> if you say **ja póq**, then **poq** won’t refer to [the bound variable]
 >
-> but ja dó will make do refer to the lambda variable
+> but **ja dó** will[, because **do** is a variable predicate]
 >
 
 **mi Bunrurnor**
 > oh, its the lambda calculus
 >
-> ok, the first ja means the x, the second ja means the y
+> ok, the first **ja** means the x, the second **ja** means the y
 >
-> ja
->
-> I don't understand what ja do/ refers to
->
+> I don't understand what **ja dop** refers to
 
 **mi Chain**
-> do doesn’t mean anything until it’s bound by a quantifier
->
+> **do** doesn’t mean anything until it’s bound by a quantifier
 
 **mi Hoenmair**
-> %miu lẻo jí lî nủo ja dó
->
+> %miu **lẻo jí lî nủo ja dó**
 
 **mi Nuongair**
-> (lẻo {jí [lî <nủo (ja dó)>]})
+> **(lẻo {jí [lî <nủo (ja dó)>]})**
 >
 > [℩𝐽 : ji(𝐽)] leo(𝐽, {λ𝑋 nuo(𝑋)}).
 >
 
 **mi Chain**
-> %miu lẻo jí lî nủo ja póq
->
+> %miu **lẻo jí lî nủo ja póq**
 
 **mi Nuongair**
-> (lẻo {jí [lî <nủo (ja póq)>]})
+> **(lẻo {jí [lî <nủo (ja póq)>]})**
 >
 > [℩𝐽 : ji(𝐽)] leo(𝐽, {[λ𝑃 : poq(𝑃)] nuo(𝑃)}).
 >
@@ -320,9 +284,9 @@ BREAK [...]
 ### 2019-03-16, #general
 
 **mi Bunrurnor**
-> why are there two different words for "gather", one transitive (tua tijeq) and the other intransitive?
+> why are there two different words for "gather", one transitive (**tua tijeq**) and the other intransitive?
 >
-> wait, I think I misunderstood the idea. is it the tua that makes tijeq transitive?
+> wait, I think I misunderstood the idea. is it the **tua** that makes **tijeq** transitive?
 >
 **mi Hoamgior**
 > Intransitive is used like "The marbles all gathered together at the bottom of the bucket"
@@ -331,19 +295,19 @@ BREAK [...]
 >
 > The second kind has a place for a person making the things gather
 >
-> And yes, it's tua that makes it so
+> And yes, it's **tua** that makes it so
 >
 
 **mi Bunrurnor**
 > I see, thanks!
 >
-> could you use the intransitive tijeq in a toaq sentence?
+> could you use the intransitive **tijeq** in a toaq sentence?
 >
 
 **mi Hoamgior**
 > Sure!
 >
-> "Tijēq sa róai deo ní da"
+> "**Tinjel sa róai deon ní da**"
 >
 > Would you like me to give the translation or do you want to work it out?
 >
@@ -351,11 +315,11 @@ BREAK [...]
 [...]
 
 **mi Seamtal**
-> It would be better with sho tijeq
+> It would be better with **sho tinjel**
 >
 
 **mi Hoenmair**
-> tıjēq only means "to be in the same place", not "to gather" (which would be sho tỉjēq). But also, note that there is a root for "gather" (kueq)
+> **tıjēq** only means "to be in the same place", not "to gather" (which would be **sho tỉjēq**). But also, note that there is a root for "gather" (**kueq**)
 >
 
 **mi Hoamgior**
@@ -363,9 +327,7 @@ BREAK [...]
 >
 > Then let me try again
 >
-> "Kueq sa róai deo ní da."
->
-> Also, bear in mind that kueq and deo both have a :t4:, i just can't type it
+> "**Kuem sa róai deon ní da.**"
 >
 > The translation is: "Eight children gather here."
 >
@@ -373,14 +335,12 @@ BREAK [...]
 ## On inflecting serials
 ### 2019-03-16, #general
 
-
 **mi Bunrurnor**
 > I'm having trouble parsing this sentence
 >
-> Chỏ jí báq nảo da.
->
+> > **Chỏ jí báq nảo da.**
 
-BREAK...
+[...]
 
 **mi Hoenmair**
 > Probably the báq nảo part
@@ -399,20 +359,20 @@ BREAK...
 >
 > the rest keep their falling tone
 >
-> bảq nảo -> báq nảo
+> **bảq nảo** -> **báq nảo**
 >
 > This works with every tone
 >
 
 **mi Bunrurnor**
-> so bảq nảo is a serial predicate, and a serial predicate can be ?conjugated? to any of the tones, and the first verb of the serial predicate gets the target tone, but the others keep the falling tone.
+> so **bảq nảo** is a serial predicate, and a serial predicate can be ?conjugated? to any of the tones, and the first verb of the serial predicate gets the target tone, but the others keep the falling tone.
 >
 
 **mi Hoenmair**
 > Exactly.
 >
 
-BREAK...
+[...]
 
 **mi Hoenmair**
 > Inflection in Toaq happens by way of suprafixation.
@@ -440,7 +400,7 @@ BREAK...
 >
 
 **mi Seamtal**
-> >In linguistics, a suprafix is a type of affix that gives a suprasegmental pattern (such as tone, stress, or nasalization) to either a neutral base or a base with a preexisting suprasegmental pattern. This affix will, then, convey a derivational or inflectional meaning.
+> > In linguistics, a suprafix is a type of affix that gives a suprasegmental pattern (such as tone, stress, or nasalization) to either a neutral base or a base with a preexisting suprasegmental pattern. This affix will, then, convey a derivational or inflectional meaning.
 
 **mi Hoenmair**
 > I would say inflect or decline
@@ -471,7 +431,7 @@ Inflect, Decline, Conjugate, Suprafixate.
 
 ### 2019-02-24, #luaq
 
-A nice game of Toaq of the Day : )
+A nice game of Toaq of the Day :)
 
 **mi Lim**
 > I elect @Hỏemāı as the winner \^\_\^
@@ -492,35 +452,34 @@ A nice game of Toaq of the Day : )
 **mi Lim**
 > (TotD.LIQ.3)  (that's how I intended the numbering to go, for what it's worth.)
 >
-> Tỉshā chúe(chāo) rào héıhōrāsīao, lǔ dủq nủo jí rào hóa da.
+> **Tỉshā chúe(chāo) rào héıhōrāsīao, lǔ dủq nủo jí rào hóa da.**
 >
-> * heıhōrā = hour 10 of the day (the 10:00–11:00 hour), just like shıchāq = day 1 of the month (I already defined this in Toadua).
+> * **heıhōrā** = hour 10 of the day (the 10:00–11:00 hour), just like **shıchāq** = day 1 of the month (I already defined this in Toadua).
 >
-> → heıhōrāsīao = the start of hour 10 of the day.
+> → **heıhōrāsīao** = the start of hour 10 of the day.
 >
 
 **mi Seamtal**
-> n+hora gives that part of the day, but n+day gives that part of the month? Why not that part of the week since that is the next unit up?
+> *n* + **horar** gives that part of the day, but *n* + **chaq** gives that part of the month? Why not that part of the week since that is the next unit up?
 >
-> Also we have been adding numbers to subscript kinda e.g. doshi, hoagu so why not continue that and have horahei and chaqshi?
+> Also we have been adding numbers to subscript kinda e.g. **doshir**, **hoagur** so why not continue that and have **horarheir** and **chaqshir**?
 >
-> semcur shuaif keo jam chon jip lut moin sa raip pop bab damchiur
+> **semcur shuaif keo jam chon jip lut moin sa raip pop bab damchiur**
 >
 > Ah
 >
 > I reread your explanation with more attention and i see why you skipped weeks, but my ordering beef still stands
->
 
 **mi Lim**
-> niaqgu is a twosome of something, a kind of gu, namely of consecutive years.
+>** niaqgu** is a twosome of something, a kind of **gu**, namely of consecutive years.
 >
-> whereas guniaq is a kind of niaq, namely the second one.
+> whereas **guniaq** is a kind of **niaq**, namely the second one.
 >
 
 **mi Chain**
-> clever, Liq hu mi
+> clever, **Lim hu mi**
 >
-> I do understand why you’d choose days->months instead of weeks->months
+> I do understand why you’d choose days-\>months instead of weeks-\>months
 >
 > because the latter would be ill-defined
 >
@@ -530,19 +489,19 @@ A nice game of Toaq of the Day : )
 >
 
 **mi Niuncul**
-> (TotD.3.NCQ) Jỉa tỉshā chúe lũ chảqpāqchīu kó hẻı hóa, ju dủq rảo hóa hôaı nủo jí da.
+> (TotD.3.NCQ) **Jỉa tỉshā chúe lũ chảqpāqchīu kó hẻı hóa, ju dủq rảo hóa hôaı nủo jí da.**
 >
 
 **mi Niuncul**
-> (soa pó mí niqdao roi mí Liq jí bâi ru je taoroa jí tîe kúo kúqtoai nò mí Diko da.) (kuaq hai tua shai tie ka.)
+> **(soan pó mí nimdaor roi mí Lim jí bâi ru je taonroar jí tîe kúo kúqtoair nò mí Dinkor da.) (kuam hain tuan shain tien ka.)**
 >
 
 **mi Hoamgior**
-> (TodD.3.HGO) Tỉshā chúe rào hórāchīu hẻı, ju dủq jí lî hỏaı nủo rào hóa da.
+> (TodD.3.HGO) **Tỉshā chúe rào hórāchīu hẻı, ju dủq jí lî hỏaı nủo rào hóa da.**
 >
 
 **mi Niuncul**
-> (pójībi du huaq gi mó Tỉshā jĩa teo mǔa ru je le gi tûa beo keo taoroa shoe bu hoi lu tua beo da)
+> **(pójībi dun huam gin mó Tỉshā jĩa teo mǔa ru je len gin tûa beon keo taonroar shoen bun hoin lun tuan beon da)**
 >
 
 **mi Hoenmair**
@@ -556,17 +515,17 @@ A nice game of Toaq of the Day : )
 **mi Hoenmair**
 > Okay, so I'll just make a decision. 
 >
-> First, some comments: I like both of the suggested systems. A downside with Lỉq's system is that because it's all in the form a single compound, it is less flexible w.r.t. other complements, like questions ("at what time") and if you want to fill in things like "(at the time we agreed to meet"). I think this is easier to do with Hoaqgīo's proposal. Also conceptually, the -sīao in Lỉq's system bugs me a little. I'm sure the system itself is still very useful outside of specifying X o'clock, so it's still good to have no matter what. 
+> First, some comments: I like both of the suggested systems. A downside with **Lỉq**'s system is that because it's all in the form a single compound, it is less flexible w.r.t. other complements, like questions ("at what time") and if you want to fill in things like "(at the time we agreed to meet"). I think this is easier to do with Hoaqgīo's proposal. Also conceptually, the **-sīao** in Lỉq's system bugs me a little. I'm sure the system itself is still very useful outside of specifying X o'clock, so it's still good to have no matter what. 
 >
-> Second comment: Everyone used hoa in the ju phrase, but this is illegal. It should be maq or hoq. Also, ju is better than lǔ here. 
+> Second comment: Everyone used **hoa** in the **ju** phrase, but this is illegal. It should be **maq** or **hoq**. Also, **ju** is better than **lǔ** here. 
 >
-> All things considered, I'll go with Hoaqgīo.
+> All things considered, I'll go with **Hoaqgīo**.
 >
 > @Hỏaqgīo congratulations
 >
 
 **mi Lim**
-> oh, because it's a {noi} not a {poi}
+> oh, because it's a {noi}, not a {poi}
 >
 
 **mi Hoamgior**
@@ -576,34 +535,30 @@ A nice game of Toaq of the Day : )
 ### 2019-02-24, #general
 
 **mi Lim**
-> To elaborate on my #luaq  submission:
+> To elaborate on my #luaq submission:
 >
 >
-> I've envisioned a convention where  (number)+(time unit)  is a compound for   “the n-th time unit within the one-level-up unit, going  second → minute → hour → day → month → year → calendar era.”
+> I've envisioned a convention where  (number)+(time unit)  is a compound for   “the *n*-th time unit within the one-level-up unit, going  second → minute → hour → day → month → year → calendar era.”
 >
 > (skipping weeks seems okay; we have separate color-words for the weekdays, and usually weeks are not used as a date unit)
 >
-> 
+> and  (time unit)+(number)  is a new time unit that's *n* times longer,  like  **nıaqhēı** decade, **joagū** fortnight.
 >
-> and  (time unit)+(number)  is a new time unit that's n times longer,  like  nıaqhēı decade, joagū fortnight.
+> and probably concatenating  (*m* + unit₁ + *n* + unit₂) means:   the *n*-th unit₂ of the *m*-th unit₁ (of the salient unit-above-unit₁).
 >
-> and probably concatenating  (m+unit₁+n+unit₂) means:   the n-th unit₂ of the m-th unit₁ (of the salient unit-above-unit₁).
+> **saqjūe pāchāq** = the 1st of March (of the year).
 >
-> 
->
-> saqjūe pāchāq = the 1st of March (of the year).
->
-> heıcīhōrā jōhēımīnū = 16:40 o'clock (of the day).   (would probably be written 16hōrā40mīnū  or 16h̄40m̄)
+> **heıcīhōrā jōhēımīnū** = 16:40 o'clock (of the day).   (would probably be written **16hōrā40mīnū** or **16h̄40m̄**)
 >
 > now, people talk about “10 a.m.” more than they talk about the 10 a.m. – 11 a.m. hour range.  so maybe heıhōrāsīao deserves some sort of abbreviation
 >
 
 **mi Lim**
-> (but then again   heıshīhōrāsīao  is as many syllables as  e-le-ven o'clock !  maybe it's fine)
+> (but then again **heıshīhōrāsīao** is as many syllables as  e-le-ven o'clock !  maybe it's fine)
 >
 
 **mi Niuncul**
-> m̂, lertcitydetrysmi nò a compound jũhoshuhi
+> **m̂**, *lertcitydetrysmi* **nò** *a compound* **jufhorshurhir**
 >
 
 **mi Lim**
@@ -611,5 +566,5 @@ A nice game of Toaq of the Day : )
 >
 
 **mi Moinlul**
-> With the number serial rule, nıaqnē gủ = the duration of two years, i.e. 2 × 365¼ days
+> With the number serial rule, **nıaqnē gủ** = the duration of two years, i.e. 2 × 365¼ days
 >
