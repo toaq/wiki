@@ -415,6 +415,7 @@ You make ordinal compounds by concatenating the number name with the (**ko**) pr
 > Inflection in Toaq happens by way of suprafixation.
 >
 
+### Summary
 So, there are 4 words to say that a tone was applied to a predicate:  
 Inflect, Decline, Conjugate, Suprafixate.
 
