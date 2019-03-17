@@ -8,7 +8,7 @@ Message me (Discord = `@uakci#4467`, email = `ciuak` dot `prog` at `gmail` dot `
 > 
 > - *official* – this previously experimental feature has since been incorporated into the language by **mi Hoenmair** (*this is yet to happen*);
 > - *mainstream* – this feature is widely used and recognised by almost every seasoned Toaqist;
-> - *sidestream* – this feature is used by some (so'o~so'e), but general knowledge about it is held;
+> - *sidestream* – this feature is used by some, but general knowledge about it is held by the majority;
 > - *idiosyncratic* – this feature is part of a/the idiolect/s of one or a few Toaqist/s and is not widely recognised and approved;
 > - *buried* – this feature used to be *mainstream* or *sidestream*, but no longer is;
 > - *dead* – this feature has never taken off and is no longer considered a worthwhile idea;
