@@ -6,7 +6,7 @@ Message me (Discord = `@uakci#4467`, email = `ciuak` dot `prog` at `gmail` dot `
 
 > <a name="status" href="#status">#</a> A proposal can have one of the following seven status:
 > 
-> - *official* – this previously experimental feature has since been incorporated into the language by Solpahi. (*This is yet to happen*);
+> - *official* – this previously experimental feature has since been incorporated into the language by **mi Hoenmair** (*this is yet to happen*);
 > - *mainstream* – this feature is widely used and recognised by almost every seasoned Toaqist;
 > - *sidestream* – this feature is used by some (so'o~so'e), but general knowledge about it is held;
 > - *idiosyncratic* – this feature is part of a/the idiolect/s of one or a few Toaqist/s and is not widely recognised and approved;
@@ -14,11 +14,11 @@ Message me (Discord = `@uakci#4467`, email = `ciuak` dot `prog` at `gmail` dot `
 > - *dead* – this feature has never taken off and is no longer considered a worthwhile idea;
 > - *draft* – this feature has not yet taken off, but conscious effort is being spent on improving or advertising it.
 > 
-> Please be aware that these are just a note and should be taken with a grain of salt. 
+> Please be aware that these are just a note and should be taken with a grain of salt. A large lump of salt, even.
 
 ******
 
-* <b>**FI RAIN**</b> <a name="firai" href="#firai">#</a> *by* uakci; *status* idiosyncratic (11/2018)
+* <b>**FI RAIN**</b> <a name="firai" href="#firai">#</a> *by* uakci; *status* sidestream (11/2018)
   **FI RAIN** (i.e., any of **fi, go, cu, ke,** and then a predicate) attaches a verbal description to a place of the preceding verb (in serials, binds tightly) and removes said place. Example:
   > **chuq**: x1 eats x2.
   > **nuq**: x1 is a snake.
@@ -57,7 +57,7 @@ Message me (Discord = `@uakci#4467`, email = `ciuak` dot `prog` at `gmail` dot `
   **re** represents the logical connective *if and only if* (*iff*, ⇔).
   
 * <b>**so**</b> <a name="so" href="#so">#</a> *by* Ilmen; *status* sidestream (2018)
-  **so** creates an interjectional (attitudinal) clause that expresses the emotion given by the following predicate. (Grammatical class: **HU**).
+  **so** creates an interjectional (attitudinal) clause that expresses the emotion given by the following predicate. (Grammatical class: **HU**.)
 
 * <b>**huq**</b> <a name="huq" href="#huq">#</a> *by* Ilmen; *status* sidestream (2018)
   The logical connective **huq** ‘ignores’ the clause on the left (the sentence is true if and only if it's true for the right clause). Useful for corrections.
@@ -94,7 +94,7 @@ Message me (Discord = `@uakci#4467`, email = `ciuak` dot `prog` at `gmail` dot `
   > `sentence...` **RAIK<sub>1</sub> RAIK<sub>2</sub>… RAIK<sub>n−1</sub> RAIF<sub>n</sub>** → **RAIN<sub>n</sub> RAIT<sub>n−1</sub>… RAIT<sub>2</sub> RAIT<sub>1</sub> lut** `sentence...` = `sentence...` **RAIF<sub>n</sub> RAIF<sub>n−1</sub>… RAIF<sub>2</sub> RAIF<sub>1</sub>** (afterthought subordination in reverse order to **RAIF**);
   > `sentence...` **RAIK<sub>1</sub> RAIK<sub>2</sub>… RAIK<sub>n−1</sub> RAIK<sub>n</sub> DOP** → **RAIN<sub>n</sub> (go) DOP RAIT<sub>n−1</sub>… RAIT<sub>2</sub> RAIT<sub>1</sub> lut** `sentence...` = `sentence...` **RAIK<sub>n</sub> DOP RAIF<sub>n−1</sub> RAIF<sub>n−2</sub>… RAIF<sub>2</sub> RAIF<sub>1</sub>** (carrying the **RAIK<sub>n</sub> DOP** term down the (reversed) **RAIF** chain)
 
-  *la fagri* is currently wondering what **RAIK fi DOP** – with the 1st place marker **fi** specifically – could be taken to mean.
+  *la fagri* is currently wondering what **RAIK fi DOP** – with the 1st place marker **fi** specifically – could be taken to mean.
 
 * <b>Number predicate subordination</b> <a name="numberserial" href="#numberserial">#</a> *by* Ilmen; *status* draft (Winter 2018; earliest mention on 23/03/2018)
   *Ilmen* proposes special handling for number predicates in serials.
@@ -115,3 +115,24 @@ Message me (Discord = `@uakci#4467`, email = `ciuak` dot `prog` at `gmail` dot `
   > **liaqcheor**: ▯/*Concrete*'s members satisfy the predicate ▯/*Gobble* in all non-repeating permutations. (Gobble, *because the semantics would have been messy otherwise.*) → **Liamcheor kien duan subjir da.** ‘We thank each other for knowing each other’; ‘For each distinct *A*, *B*, *C* in **subjir**, *A* thanks *B* for knowing *C.*’
 
   The idea for *Devour* arose from discussion about the word [**janer**](https://uakci.pl/toadua/#SyvvCRFbE) (▯ is an arity of the predicate ▯; frame would be \[*ND*\]). Some other words that could benefit from a separate *Devour* kind would be **mejeor**, **cuaq** (proposed word for ‘predicate’), and others. Note that *Devour*'s behaviour is meta-semantical, as it requires the devourer to peek into the argument structure(s) of the devoured predicate in a way more intrusive than that of *Abstract*.
+  
+* <b>Streamlined direct and indirect question construction</b> <a name="mamoq" href="#mamoq">#</a> *by* uakci; *status* draft (15/03/2019)
+  Let **ma, hi, co** be LU with meaning: ‘▯ is the indirect question of {question word} {content of the LU-inner predication},’ having **hi** and **co** bind **hoa**, and let **moq** be a ‘question applicator’ which asks (applies) the (otherwise indirect) question that satisfies the main predication at the first place (allowing other question constructions besides the three above to be applied as well). In other words, redefine the three question words as:
+  
+  > **ma**: ▯ is (the indirect question of) whether the predication is true;
+  > **hi**: ▯ is (the indirect question of) what satisfies the predication at **hoa**;
+  > **co**: ▯ is (the indirect question of) how many things satisfy the predication at **hoa**.
+  
+  These changes, at the cost of sentence-initial marking of what was **hi raip**/**co raip** before (this strategy can be found in many languages – notably English – but not *all* languages), would allow for the question subject – now **hoa** – to be buried deep in the sentence (in regular Toaq, the **hi**/**co** would be caught by a fifth-tone phrase and form an unwanted indirect question there instead), mimicking **hi raip pa lun…** . Furthermore, it would streamline question construction, which is currently very messy and context-dependent in function. Take a look at the following examples:
+  
+  > **Bun duan jip *lop* chum hop.** ‘I don't know *that* he's eating.’ (**Lo** used here for symmetry.)
+  > **Bun duan jip *map* chum hop.** ‘I don't know *if* he's eating.’
+  > → ***Man* chum hop moq.** ‘*Is* he eating?’
+  > **Bun duan jip *hip* chum hop (*hoap*).** ‘I don't know *what* he's eating.’
+  > → ***Hin* chum hop (*hoap*) moq.** ‘*What* is he eating?’
+  > **Bun duan jip *cop* chum hop (*hoap*).** ‘I don't know *how many things* he's eating.’
+  > → ***Con* chum hop (*hoap*) moq.** ‘*How many things* is he eating?’
+  
+  This proposal could also be implemented with **ma**, **hi** and **co** as sentence prefixes (just like the current **ma**), but with the last two still binding **hoa**. The only difference would be the tone used for indirect questions (fifth – **hit** – instead of **hip** as above).
+  
+  (Note: if you want to include both a direct and an indirect question in your sentence at the same time, you'll need to differentiate between the two **hoa**'s. Ideally there would be a separate word for **hi**'s and **co**'s **hoa**, but for now you can use **hoihoar** (‘outermost **hoa** in the sentence’): **Hin bun duan sub hip pun tuan muam hoap hoihoap moq** = ‘Who was the one you didn't know who had killed?’.)
