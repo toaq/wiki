@@ -598,3 +598,19 @@ mi Lıq
 >
 > now, people talk about “10 a.m.” more than they talk about the 10 a.m. – 11 a.m. hour range.  so maybe heıhōrāsīao deserves some sort of abbreviation
 >
+
+mi Lıq
+> (but then again   heıshīhōrāsīao  is as many syllables as  e-le-ven o'clock !  maybe it's fine)
+>
+
+mi Níucūq
+> m̂, lertcitydetrysmi nò a compound jũhoshuhi
+>
+
+mi Lıq
+> ja'a
+>
+
+mi Mỏılūq
+> With the number serial rule, nıaqnē gủ = the duration of two years, i.e. 2 × 365¼ days
+>
