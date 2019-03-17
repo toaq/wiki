@@ -3,7 +3,7 @@
 ## On names with falling tone
 
 ### 2018-07-10, #chiejio
-mı Lỉq:
+**mi Lim**:
 > "In (NAM.1) and (NAM.2), the name after mi carries a falling tone. It can also
 carry any other tone. The name ends automatically when the phrase started by
 the name's tone ends."
@@ -12,21 +12,21 @@ the name's tone ends."
 >
 > oh, phrase means something very specific, right
 
-mı Hỏemāı
+**mi Hoenmair**
 > %miu mi4 bu7
 
-mı Nủogāı
+**mi Nuongair**
 > (mỉ bũ)
 > {λ𝑋 chua(‹bũ›, 𝑋)}().
 
-mı Hỏemāı
+**mi Hoenmair**
 > %miu mi4 neo6 ni2
 
-mı Nủogāı
+**mi Nuongair**
 > (mỉ {no ní})
 > {λ𝑋 chua(‹no ní›, 𝑋)}().
 
-mı Hỏemāı
+**mi Hoenmair**
 > So here the names are "bũ" and "nèo ní"
 >
 > An adverbial phrase and a prepositional phrase
@@ -37,22 +37,22 @@ mı Hỏemāı
 >
 > And then the name is automatically over
 
-mı Lỉmēq
+**mi Linmel**
 > %miu mỉ mỏq
 
-mı Nủogāı
+**mi Nuongair**
 > syntax error :1.7: want [bB], [cC], [dD], [fF], [gG], [hH], [jJ], [kK], [lL], [mM], [nN], [pP], [rR], [sS], or [tT]; got EOF
 
-mı Lỉq
+**mi Lim**
 > so, if my name is Lı̉q, that tone is part of the name? as in, mi Líq and mi Lĩq are different persons
 
-mı Hỏemāı
+**mi Hoenmair**
 > Unless you also go by those names
 
-mı Lỉq
+**mi Lim**
 > right
 
-mı Hủaqchī
+**mi Huamchir**
 > That’s the difference between Ms. Being a female, Ms. A Female and Ms. Femininely
 > 
 > roughly
@@ -60,16 +60,16 @@ mı Hủaqchī
 > zo’orei
 
 ### 2019-03-07, #general
-mı Sẻaqtāq
+**mi Seamtal**
 > Anyhow normally you will find a name in the fourth tone
 
 ### 2019-03-08, #general
-mı Nỉucūq
+**mi Niuncul**
 > m̂, fragments of terms and serial predicates also can be taken as a name/phrase by mi/shu
 
 ### Summary
 Names can have any tone, but the most common one is the fourth tone.
-Two names with the same word, but different tones are technically different names (mı Lỉq <> mı Líq <> mı Lĩq).
+Two names with the same word, but different tones are technically different names (**mi Lim** ≶ **mi Lib** ≶ **mi Liv**).
 
 ## On frames and signatures 
 
@@ -77,7 +77,7 @@ This file contains most of the common frames.
 [frames-list.txt](https://github.com/acotis/serial-predicate-engine/blob/master/code/dict/frame-list.txt)
 
 ### 2019-03-08, #general
-mı Hỏaqgīo
+**mi Hoamgior**
 > As for frames-list.txt...
 > Since there are only a few common types in the type system 
 >     (c, 0, 1, and 2),
@@ -105,25 +105,25 @@ mı Hỏaqgīo
 
 ### 2019-03-13, #general
 
-mi Hỏaqgīo
+**mi Hoamgior**
 > % cutaq
 
-nuogaiBOT
+**mi Nuongair**
 > 1–1/1 — cutaq + — <▯1, ▯2> are such that <x1, x2, x1> satisfy ternary relation ▯/3; ▯ does/is ▯/3 to themselves.
 
-mi Hỏaqgīo
+**mi Hoamgior**
 > Here's one that was added recently
 >
 > It's the first one I know of though
 >
-> 2-ary properties are useful for words like mia (___ satisfies property ___ with many things) and jeq (___ and ___ satisfy property ___ with the same thing)
+> 2-ary properties are useful for words like mia (▯ satisfies property ▯ with many things) and jeq (▯ and ▯ satisfy property ▯ with the same thing)
 > 3-ary properties aren't useful for much, as far as we've discovered
 
 
 ## On the low tone
 
 ### 2019-03-13, #general
-mi Hỏaqgīo
+**mi Hoamgior**
 > Here's how :t6: works:
 > Both :t6: and :t7: serve to create adverbials. An adverbial is a part of a sentence that makes a claim about the sentence itself (not its text, but its content).
 >
@@ -146,7 +146,7 @@ mi Hỏaqgīo
 ## On the necessity of the tones
 
 ### 2019-03-13, #general
-mi Hỏaqgīo
+**mi Hoamgior**
 > :t6: and :t7: can be excluded without too much difficulty
 >
 > :t3: might be possible to get rid of, but it would take some work to prove that. It doesn't just expand to something else like those other two tones do
@@ -157,7 +157,7 @@ mi Hỏaqgīo
 
 ### 2019-03-14, #general
 
-mi seaqtaq
+**mi Seamtal**
 > Those are lojban words
 >
 > rinka=ca
@@ -166,15 +166,15 @@ mi seaqtaq
 >
 > krinu≈mu kui (edited)
 
-mi brunofrancosalamin
+**mi Bunrurnor**
 > thanks!
 
-mi seaqtaq
+**mi Seamtal**
 > jum [vietoaq]
 
 [...]
 
-mi seaqtaq
+**mi Seamtal**
 > oh woops lica was supposed to be luca
 > i always mix those up
 
@@ -182,8 +182,7 @@ mi seaqtaq
 
 ### 2019-03-14, #general
 
-
-mi Hỏemāı
+**mi Hoenmair**
 > I have written a possible lesson 2.
 >
 > Also I need to add the ordinal compounds to the official dictionary.
@@ -202,32 +201,32 @@ You make ordinal compounds by concatenating the number name with the (ko) predic
 
 ### 2019-03-16, #general
 
-mi Heutijeqtua
+**mi Bunrurnor**
 > jajajaja
 
-mi 🍵
-> hahahaha*
+**mi Chain**
+> hahahaha\*
 >
 > we’re in Toaqistan, sir
 
-mi Heutijeqtua
+**mi Bunrurnor**
 > sorry, my spanish showed XD
 
-mi 🍵
+**mi Chain**
 > you don’t necessarily want to laugh with the lambda variable quantifier
 >
 > unless it’s ja dó ja dó ja dó ja dó
 
-mi Heutijeqtua
+**mi Bunrurnor**
 > would that mean XXXX?
 
-mi 🍵
+**mi Chain**
 > it would
 >
 > kind of
 >
 
-mi 🍵
+**mi Chain**
 > although each of the X’s would be distinct
 >
 > and the whole wouldn’t really mean anything without context
@@ -235,22 +234,22 @@ mi 🍵
 
 BREAK [...]
 
-mi Heutijeqtua
+**mi Bunrurnor**
 > O.O, I didn't realize that each ja do would represent a different variable
 
-mi 🍵
+**mi Chain**
 > it always does
 >
 > so, how do you differentiate between their values? by position?
 
-mi 🍵
+**mi Chain**
 > ?cheon subjir lit seam ja pob ja pob
 >
 
-mi nuogaiBOT
+**mi Nuongair**
 > chẻo súqjī lî sẻaq ja póq ja póq
 
-mi 🍵
+**mi Chain**
 > = we are reciprocal in relation λxy. x has sex with y
 >
 > = we have sex with each other
@@ -258,20 +257,20 @@ mi 🍵
 > ?= cheon seam subjir
 >
 
-mi nuogaiBOT
+**mi Nuongair**
 > = chẻo sẻaq súqjī
 
-mi 🍵
+**mi Chain**
 > ja binds variables
 >
 
-mi Heutijeqtua
+**mi Bunrurnor**
 > oooh, I see! and the variables are predicates?
 >
 > like poq and do?
 >
 
-mi 🍵
+**mi Chain**
 > no
 >
 > I mean, yes
@@ -283,7 +282,7 @@ mi 🍵
 > but ja dó will make do refer to the lambda variable
 >
 
-mi Heutijeqtua
+**mi Bunrurnor**
 > oh, its the lambda calculus
 >
 > ok, the first ja means the x, the second ja means the y
@@ -293,25 +292,25 @@ mi Heutijeqtua
 > I don't understand what ja do/ refers to
 >
 
-mi 🍵
+**mi Chain**
 > do doesn’t mean anything until it’s bound by a quantifier
 >
 
-mi Hỏemāı
+**mi Hoenmair**
 > %miu lẻo jí lî nủo ja dó
 >
 
-mi nuogaiBOT
+**mi Nuongair**
 > (lẻo {jí [lî <nủo (ja dó)>]})
 >
 > [℩𝐽 : ji(𝐽)] leo(𝐽, {λ𝑋 nuo(𝑋)}).
 >
 
-mi 🍵
+**mi Chain**
 > %miu lẻo jí lî nủo ja póq
 >
 
-mi nuogaiBOT
+**mi Nuongair**
 > (lẻo {jí [lî <nủo (ja póq)>]})
 >
 > [℩𝐽 : ji(𝐽)] leo(𝐽, {[λ𝑃 : poq(𝑃)] nuo(𝑃)}).
@@ -320,12 +319,12 @@ mi nuogaiBOT
 ## On Transitive and intransitive verbs
 ### 2019-03-16, #general
 
-mi Heutijeqtua
+**mi Bunrurnor**
 > why are there two different words for "gather", one transitive (tua tijeq) and the other intransitive?
 >
 > wait, I think I misunderstood the idea. is it the tua that makes tijeq transitive?
 >
-mi Hỏaqgīo
+**mi Hoamgior**
 > Intransitive is used like "The marbles all gathered together at the bottom of the bucket"
 >
 > Transitive is used as "I gathered together some firewood"
@@ -335,13 +334,13 @@ mi Hỏaqgīo
 > And yes, it's tua that makes it so
 >
 
-mi Heutijeqtua
+**mi Bunrurnor**
 > I see, thanks!
 >
 > could you use the intransitive tijeq in a toaq sentence?
 >
 
-mi Hỏaqgīo
+**mi Hoamgior**
 > Sure!
 >
 > "Tijēq sa róai deo ní da"
@@ -351,15 +350,15 @@ mi Hỏaqgīo
 
 [...]
 
-mi seaqtaq
+**mi Seamtal**
 > It would be better with sho tijeq
 >
 
-mi Hỏemāı
+**mi Hoenmair**
 > tıjēq only means "to be in the same place", not "to gather" (which would be sho tỉjēq). But also, note that there is a root for "gather" (kueq)
 >
 
-mi Hỏaqgīo
+**mi Hoamgior**
 > Oh
 >
 > Then let me try again
@@ -375,7 +374,7 @@ mi Hỏaqgīo
 ### 2019-03-16, #general
 
 
-mi Heukueqche
+**mi Bunrurnor**
 > I'm having trouble parsing this sentence
 >
 > Chỏ jí báq nảo da.
@@ -383,15 +382,15 @@ mi Heukueqche
 
 BREAK...
 
-mi Hỏemāı
+**mi Hoenmair**
 > Probably the báq nảo part
 >
 
-mi Heukueqche
+**mi Bunrurnor**
 > exactly
 >
 
-mi Hỏemāı
+**mi Hoenmair**
 > So the trick here is
 >
 > you can turn serial predicates into nouns, just like you can turn single predicates into nouns, using :t2:
@@ -405,54 +404,54 @@ mi Hỏemāı
 > This works with every tone
 >
 
-mi Heukueqche
+**mi Bunrurnor**
 > so bảq nảo is a serial predicate, and a serial predicate can be ?conjugated? to any of the tones, and the first verb of the serial predicate gets the target tone, but the others keep the falling tone.
 >
 
-mi Hỏemāı
+**mi Hoenmair**
 > Exactly.
 >
 
 BREAK...
 
-mi Hỏemāı
+**mi Hoenmair**
 > Inflection in Toaq happens by way of suprafixation.
 >
 
 ## On inflection
 ### 2019-03-16, #general
 
-mi Heukueqche
+**mi Bunrurnor**
 > what's the name of applying a tone to a word?
 >
 
-mi seaqtaq
+**mi Seamtal**
 > suprafixation
 >
 > i love them, and have used tones to mark the scope of affixes in one of my conlangs
 >
 
-mi Hỏemāı
+**mi Hoenmair**
 > I think you can say "inflect"
 >
 
-mi seaqtaq
+**mi Seamtal**
 > Suprafixation is also broader than just tones tho
 >
 
-mi seaqtaq
+**mi Seamtal**
 > >In linguistics, a suprafix is a type of affix that gives a suprasegmental pattern (such as tone, stress, or nasalization) to either a neutral base or a base with a preexisting suprasegmental pattern. This affix will, then, convey a derivational or inflectional meaning.
 
-mi Hỏemāı
+**mi Hoenmair**
 > I would say inflect or decline
 >
 > But conjugate would also be understood
 >
 
-mi seaqtaq
+**mi Seamtal**
 > Suprafixation would just be applying a suprafix, so just use the above definition when archiving and uh for the others
 
-mi Hỏemāı
+**mi Hoenmair**
 > Inflection in Toaq happens by way of suprafixation.
 >
 
@@ -462,7 +461,7 @@ Inflect, Decline, Conjugate, Suprafixate.
 
 ### 2019-02-24, #general
 
-mi Mỏılūq
+**mi Moinlul**
 > suprafix — (linguistic morphology) A type of affix where a suprasegmental change (such as tone or stress) modifies an existing morpheme's meaning.
 >
 > Ah, that's relevant to Toaq.
@@ -474,23 +473,23 @@ mi Mỏılūq
 
 A nice game of Toaq of the Day : )
 
-mi Lıq
-> I elect @Hỏemāı as the winner ^_^
+**mi Lim**
+> I elect @Hỏemāı as the winner \^\_\^
 >
 > (thank you for the new roots)
 >
 
-mi 🍵
+**mi Chain**
 > …and the new dealer
 >
 
-mi Hỏemāı
+**mi Hoenmair**
 > TotD #3
 >
 > "The train will arrive at ten o'clock, which is when I'm usually still asleep."
 >
 
-mi Lıq
+**mi Lim**
 > (TotD.LIQ.3)  (that's how I intended the numbering to go, for what it's worth.)
 >
 > Tỉshā chúe(chāo) rào héıhōrāsīao, lǔ dủq nủo jí rào hóa da.
@@ -500,7 +499,7 @@ mi Lıq
 > → heıhōrāsīao = the start of hour 10 of the day.
 >
 
-mi seaqtaq
+**mi Seamtal**
 > n+hora gives that part of the day, but n+day gives that part of the month? Why not that part of the week since that is the next unit up?
 >
 > Also we have been adding numbers to subscript kinda e.g. doshi, hoagu so why not continue that and have horahei and chaqshi?
@@ -512,13 +511,13 @@ mi seaqtaq
 > I reread your explanation with more attention and i see why you skipped weeks, but my ordering beef still stands
 >
 
-mi Lıq
+**mi Lim**
 > niaqgu is a twosome of something, a kind of gu, namely of consecutive years.
 >
 > whereas guniaq is a kind of niaq, namely the second one.
 >
 
-mi 🍵
+**mi Chain**
 > clever, Liq hu mi
 >
 > I do understand why you’d choose days->months instead of weeks->months
@@ -526,35 +525,35 @@ mi 🍵
 > because the latter would be ill-defined
 >
 
-mi Lıq
+**mi Lim**
 > it also mimics Chinese/Japanese 2019年, 3月, that kinda stuff
 >
 
-mi Níucūq
+**mi Niuncul**
 > (TotD.3.NCQ) Jỉa tỉshā chúe lũ chảqpāqchīu kó hẻı hóa, ju dủq rảo hóa hôaı nủo jí da.
 >
 
-mi Níucūq
+**mi Niuncul**
 > (soa pó mí niqdao roi mí Liq jí bâi ru je taoroa jí tîe kúo kúqtoai nò mí Diko da.) (kuaq hai tua shai tie ka.)
 >
 
-mi Hỏaqgīo
+**mi Hoamgior**
 > (TodD.3.HGO) Tỉshā chúe rào hórāchīu hẻı, ju dủq jí lî hỏaı nủo rào hóa da.
 >
 
-mi Níucūq
+**mi Niuncul**
 > (pójībi du huaq gi mó Tỉshā jĩa teo mǔa ru je le gi tûa beo keo taoroa shoe bu hoi lu tua beo da)
 >
 
-mi Hỏemāı
+**mi Hoenmair**
 > So should we vote or should I just declare a winner?
 >
 
-mi Níucūq
+**mi Niuncul**
 > setting up an emoji poll by the dealer in the case of indecision sounds sufficient
 >
 
-mi Hỏemāı
+**mi Hoenmair**
 > Okay, so I'll just make a decision. 
 >
 > First, some comments: I like both of the suggested systems. A downside with Lỉq's system is that because it's all in the form a single compound, it is less flexible w.r.t. other complements, like questions ("at what time") and if you want to fill in things like "(at the time we agreed to meet"). I think this is easier to do with Hoaqgīo's proposal. Also conceptually, the -sīao in Lỉq's system bugs me a little. I'm sure the system itself is still very useful outside of specifying X o'clock, so it's still good to have no matter what. 
@@ -566,17 +565,17 @@ mi Hỏemāı
 > @Hỏaqgīo congratulations
 >
 
-mi Lıq
+**mi Lim**
 > oh, because it's a {noi} not a {poi}
 >
 
-mi Hỏaqgīo
+**mi Hoamgior**
 > Woot woot
 >
 
 ### 2019-02-24, #general
 
-mi Lıq
+**mi Lim**
 > To elaborate on my #luaq  submission:
 >
 >
@@ -599,18 +598,18 @@ mi Lıq
 > now, people talk about “10 a.m.” more than they talk about the 10 a.m. – 11 a.m. hour range.  so maybe heıhōrāsīao deserves some sort of abbreviation
 >
 
-mi Lıq
+**mi Lim**
 > (but then again   heıshīhōrāsīao  is as many syllables as  e-le-ven o'clock !  maybe it's fine)
 >
 
-mi Níucūq
+**mi Niuncul**
 > m̂, lertcitydetrysmi nò a compound jũhoshuhi
 >
 
-mi Lıq
+**mi Lim**
 > ja'a
 >
 
-mi Mỏılūq
+**mi Moinlul**
 > With the number serial rule, nıaqnē gủ = the duration of two years, i.e. 2 × 365¼ days
 >
