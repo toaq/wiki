@@ -1,7 +1,3 @@
-<!--
-This is a comment!
--->
-
 # Links
 
 ## Official
