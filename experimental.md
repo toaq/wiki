@@ -2,7 +2,7 @@
 
 # An Experimental Catalogue of Experimental Features <br>**(sienbal pon mip Toam ga leontuer pox leoptuer)**
 
-Message me (Discord = `@uakci#4467`, email = `ciuak` dot `prog` at `gmail` dot `com`) if you want your (or anybody else's, for that matter) feature on this page, or if you'd like to amend or correct an existing entry.
+Message me (Discord = `@uakci#4467`, email = `ciuak` dot `prog` at `gmail` dot `com`) if you want your (or anybody else's, for that matter) feature on this page, or if you'd like to amend or correct an existing entry, of even if you'd like me to elaborate on a given entry, especially when it's hard to understand.
 
 > <a name="status" href="#status">#</a> A proposal can have one of the following seven status:
 > 
