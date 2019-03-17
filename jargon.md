@@ -31,7 +31,7 @@ contentive:
 
 JEO-frame Equivalence:
 
-> See [archive](https://github.com/toaq/resources/blob/master/archive.md), On frames and signatures.
+> See [archive](archive), *On frames and signatures*.
 
 
 frame:
@@ -71,7 +71,7 @@ grammar:
 
 > JA. It identifies properties and relations
 
-See [On laughter and the lambda quantifier, in the archive](https://github.com/toaq/resources/blob/master/archive.md)
+See *On laughter and the lambda quantifier* in [the archive](archive)
 
 
 Serialization:

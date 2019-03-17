@@ -1,3 +1,5 @@
+<title>Toaq Wiki</title>
+
 # Toaq «Wiki»
 
 ## uakci's resource pages
