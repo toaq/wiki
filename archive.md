@@ -581,7 +581,7 @@ A nice game of Toaq of the Day :)
 > What is this black magic?
 >
 
-**mi 🍵**
+**mi Chain**
 > what exactly about indirect questions do you find to be like black magic?
 >
 > there is a significant difference about a question mentioned (not asked – thus ‘indirect’) in the sentence and its answer
@@ -599,7 +599,7 @@ A nice game of Toaq of the Day :)
 > But... how?!
 >
 
-**mi 🍵**
+**mi Chain**
 > thow
 >
 > indirect questions are a concept that can't be analysed into smaller parts, and it's so by definition
@@ -621,7 +621,7 @@ A nice game of Toaq of the Day :)
 > Are there not less nonsensical methods with the same effect?
 >
 
-**mi 🍵**
+**mi Chain**
 > [T]hey are often direct objects of verbs of cognition, reporting, and perception, but here they emphasize knowledge or lack of knowledge of one element of a fact[.]
 >
 > no
@@ -639,7 +639,7 @@ A nice game of Toaq of the Day :)
 > (but the second sense of "know" is different, and not dua)
 >
 
-**mi 🍵**
+**mi Chain**
 > yes, I corrected for that
 >
 > dua can be applied to context clauses only; I used **raqdūa** here for the meaning: ‘I know of him.’
@@ -661,7 +661,7 @@ A nice game of Toaq of the Day :)
 > or, even better: ‘For all plural constants pp, I know that pp has p-ty X if pp has p-ty X, and I know that pp doesn't have p-ty X if pp doesn't have p-ty X.‘
 >
 
-**mi 🍵**
+**mi Chain**
 > the need for indirect questions could also be avoided with a predicate with a definition like: ‘X knows what n-tuple of arguments satisfies n-ary relation Y’ (for any n, including 0)
 
 [...]
@@ -682,13 +682,13 @@ A nice game of Toaq of the Day :)
 > lol
 >
 
-**mi 🍵**
+**mi Chain**
 > @**Hỏaqgīo** therefore, I am asking to nitpick and correct
 >
 > nuogāi seems to be entering some kind of lethargic state, judging by their recent babbling in computerese
 >
 
-**mi 🍵**
+**mi Chain**
 > I should emphasise that it’s my understanding of indirect questions that I was dwelling
 >
 > it isn’t necessarily the most elegant definition
@@ -714,7 +714,7 @@ A nice game of Toaq of the Day :)
 > These sentences aren't alike
 >
 
-**mi 🍵**
+**mi Chain**
 > I’m aware
 >
 > what point are you trying to make here?
@@ -724,7 +724,7 @@ A nice game of Toaq of the Day :)
 > Nice picture
 >
 
-**mi 🍵**
+**mi Chain**
 > **kủaq kỉe ka**
 >
 
@@ -736,7 +736,7 @@ A nice game of Toaq of the Day :)
 > But that there wasn't my main correction
 >
 
-**mi 🍵**
+**mi Chain**
 > I was showing an example of the almost same sentence and its not so same translation
 >
 > they were somewhat supposed to turn out as different from each other
@@ -756,7 +756,7 @@ A nice game of Toaq of the Day :)
 > But the "even better" one isn't wrong
 >
 
-**mi 🍵**
+**mi Chain**
 > are you saying that the one above is correct and the one below is wrong?
 >
 > because if so, I agree
@@ -768,7 +768,7 @@ A nice game of Toaq of the Day :)
 > (Or slightly more accurately: that the one above is a plausible rendition. We might not go with that)
 >
 
-**mi 🍵**
+**mi Chain**
 > I didn’t say we should go with any of that – again, it’s my interpretation specifically
 >
 > although indeed it would be beneficial to keep this definition at the back of your head and see if it works in different, more convoluted sentences
@@ -784,7 +784,7 @@ A nice game of Toaq of the Day :)
 > How do they transform the outer clause?
 >
 
-**mi 🍵**
+**mi Chain**
 > ‘I don’t know what caused this’ -> ‘for all pp, I don’t know that pp caused this if pp caused this, and I don’t know that pp didn’t cause this if pp didn’t cause this.’
 >
 > the italic parts are attachments onto the outer clause; moreover, this clause, with the modification (did -> didn’t), is copied to make a second claim (underlined)
@@ -796,7 +796,7 @@ A nice game of Toaq of the Day :)
 > Are you saying that Bủ dủa jí câ hi ráı ní should be the same as Bủ dûa jí câ hi ráı ní, since there is no change in scope, but it requires special semantics to do so?
 >
 
-**mi 🍵**
+**mi Chain**
 > this is not what I’m scared about – serial predicates and scoping in sentences where they’re present don’t bother me because they’re lightweight and predictable
 >
 > (lightweight = requiring little thinking power to crack, allowing one to gain an intuitive, no-brainer understanding over time)
@@ -822,7 +822,7 @@ A nice game of Toaq of the Day :)
 > So would **Dủa súq hi ráı** -> **câ hi dó be** an example of this?
 >
 
-**mi 🍵**
+**mi Chain**
 > yes, I was going to type this exact example in right now
 >
 > the question is transformed opaquely
@@ -836,7 +836,7 @@ A nice game of Toaq of the Day :)
 > In that interpretation, the sentence isn't transformed
 >
 
-**mi 🍵**
+**mi Chain**
 > I’ve come to realise that indirect questions can’t be statements in disguise
 >
 > they do complex stuff
@@ -850,7 +850,7 @@ A nice game of Toaq of the Day :)
 > I still don't understand what transformation is necessary
 >
 
-**mi 🍵**
+**mi Chain**
 > I, on the other hand, don’t understand how it can be not essential
 >
 > of course, we can keep indirect q’s as an inanalysable construct that you’re just supposed to understand
@@ -862,7 +862,7 @@ A nice game of Toaq of the Day :)
 > What's wrong with "what caused this" -> "that whatever caused this caused this and whatever didn't didn't"?
 >
 
-**mi 🍵**
+**mi Chain**
 > »[…] the philosophy that indirect questions are their own type of semantic object and cannot be reduced to statements to be fed into "dua".«
 >
 > (this is what I’m trying to put into doubt and see if there are alternatives)
@@ -877,7 +877,7 @@ A nice game of Toaq of the Day :)
 > The quantification leaks out into the outer claim, right?
 >
 
-**mi 🍵**
+**mi Chain**
 > 1) **bu dua jí câ hi rái** -> either **bu dua jí câ cá**, which is a tautology, or **sa dó ca3 bi bu dua jí câ dó** (same problem)
 >
 > yes ^^
@@ -891,7 +891,7 @@ A nice game of Toaq of the Day :)
 > Okay, that sucks
 >
 
-**mi 🍵**
+**mi Chain**
 > 2) even if there’s a way to keep the quantification inside, there’s still relativism that ought to be remembered. I might know what caused this, but it might not be the actual things that caused this
 >
 > …and implementing this behaviour would require to… know the outer predication
@@ -906,7 +906,7 @@ A nice game of Toaq of the Day :)
 > this
 >
 
-**mi 🍵**
+**mi Chain**
 > okay, let’s switch around the outer predicate:
 >
 > **dua jí chîaidua jí câ hi rái**
@@ -922,7 +922,7 @@ A nice game of Toaq of the Day :)
 > So even if "I know [what caused this]" goes magically to "I know [that the candle caused this]", that breaks on "I am wrong about [what cause this]" because that will go to "I am wrong about [that the candle caused this]"
 >
 
-**mi 🍵**
+**mi Chain**
 > yes
 >
 
@@ -930,7 +930,7 @@ A nice game of Toaq of the Day :)
 > Looks like a big oof for "questions are statements in disguise" theory
 >
 
-**mi 🍵**
+**mi Chain**
 > and the ‘questions are black boxes’ theory too, unless we allow :t5: to transform their containing clauses
 >
 
@@ -940,7 +940,7 @@ A nice game of Toaq of the Day :)
 > "I am wrong about [what caused this]" seems fine as a black box
 >
 
-**mi 🍵**
+**mi Chain**
 > the indirect questions are black boxes theory would stand solid if either :t5: could transform the outer clauses or predicates that expect indirect q’s had rules on handling them
 >
 > the latter is easier to prove the existence of a feasible implementation of, of course
@@ -950,7 +950,7 @@ A nice game of Toaq of the Day :)
 > Oh, well yes
 >
 
-**mi 🍵**
+**mi Chain**
 > let’s call it a small oof
 >
 
@@ -958,7 +958,7 @@ A nice game of Toaq of the Day :)
 > I was counting "rules for indirect q's built into the predicate" as part of black box thoery
 >
 
-**mi 🍵**
+**mi Chain**
 > okay
 >
 > then give it a better name, if you may
@@ -970,7 +970,7 @@ A nice game of Toaq of the Day :)
 > black box theory is the perfect name already
 >
 
-**mi 🍵**
+**mi Chain**
 > alright
 >
 
@@ -978,7 +978,7 @@ A nice game of Toaq of the Day :)
 > Just remember that "black box" is stronger than "opaque in-place transformation"
 >
 
-**mi 🍵**
+**mi Chain**
 > or maybe ‘primitive indirect question(s) theory’
 >
 > which makes a looser claim
@@ -990,7 +990,7 @@ A nice game of Toaq of the Day :)
 > This one is stolen from a paper than was linked here
 >
 
-**mi 🍵**
+**mi Chain**
 > kay
 >
 > the amiguilty approach
@@ -1004,7 +1004,7 @@ A nice game of Toaq of the Day :)
 > Anyhow **Dủa súq hi ráı** -> **Bỏao jí câ hi ráı** becomes sensible because now the latter is an explicit transformation of the former
 >
 
-**mi 🍵**
+**mi Chain**
 > just playing around with words
 >
 > wait
@@ -1024,7 +1024,7 @@ A nice game of Toaq of the Day :)
 > Thus you get the satisfying "What do you know?" -> "I know ..." without forcing quantifiers into somebody else's sentence
 >
 
-**mi 🍵**
+**mi Chain**
 > **dua jí câ hi rái**, then?
 >
 
@@ -1032,7 +1032,7 @@ A nice game of Toaq of the Day :)
 > Sure
 >
 
-**mi 🍵**
+**mi Chain**
 > alright
 >
 > I was confused
@@ -1042,7 +1042,7 @@ A nice game of Toaq of the Day :)
 > I mean, I propose a texture pack where dua splits into dua and boao but yes
 >
 
-**mi 🍵**
+**mi Chain**
 > make an edit for the future generations
 >
 > and smile!
@@ -1054,7 +1054,7 @@ A nice game of Toaq of the Day :)
 > :grimacing:
 >
 
-**mi 🍵**
+**mi Chain**
 > I’m okay with dua being polymorphic like it seems to be now
 >
 
@@ -1062,7 +1062,7 @@ A nice game of Toaq of the Day :)
 > Oops, I was making a face
 >
 
-**mi 🍵**
+**mi Chain**
 > too late
 >
 
@@ -1076,7 +1076,7 @@ A nice game of Toaq of the Day :)
 > :grimacing:
 >
 
-**mi 🍵**
+**mi Chain**
 > @Hỏaqgīo > I’m okay with dua being polymorphic like it seems to be now
 >
 > exactly what I was saying.
