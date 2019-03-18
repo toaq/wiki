@@ -1,3 +1,5 @@
+<title>This Wiki's formatting rules</title>
+
 # This Wiki's formatting rules
 1. Files cannot be extensionless, because the default extension is `.md`. For structured text, use Markdown files, not plain text.
 2. British spelling is preferred.
