@@ -2,7 +2,7 @@
 
 # Toaq «Wiki»
 
-## uakci's resource pages
+## uakci's pages
 * [An Experimental Catalogue of Experimental Features](experimental)
 * [Vietoaq Resources](vietoaq)
 * [Help for Nuogāı](nuogai)
@@ -16,3 +16,6 @@
 * [jargon](jargon) is a lexicon of the more confusing acronyms and terminology.
 * [gotchas](gotchas) explains misconceptions that one might have about Toaq.
 * [names.csv](names.csv) lists the various names of some Toaqists which might confuse an outsider sometimes.
+
+## Meta
+* [How this wiki is formatted](formatting)
