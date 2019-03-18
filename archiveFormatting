@@ -34,6 +34,7 @@ The **bold** function will replace all the vietoaq to tone marked words.
 5) we add extra info with [], like this: [not in original stuff]
 6) We put quoted english inside double-quotes, like this: "banana"
 
+
 1) remember to escape special characters:
     \^\_\^
     is a pretty little face:
