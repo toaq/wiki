@@ -824,3 +824,191 @@ A nice game of Translation of the Day :)
 > **Chỏ jí sa púq nảo da** = "I like some multiple waters"  
 > Or: **Chỏq jí púq nảo da** = "I like the multiple waters"  
 
+## On having sex with bees
+
+### 2019-18-03, #totd
+
+
+
+**mi Shủao**
+> TotD 15: Sẻaq sa hápī ba.
+>
+
+**mi Heukueqche**
+> XDDD well done! I'm proud of you  and so is that sexy, sexy bee 
+>
+
+**mi Shủao**
+> A meme challenge deserves a meme response.
+>
+
+**mi Heukueqche**
+> well going to sleep. See ya!
+>
+
+**mi 🍵**
+> @Heukueqche @Shủao 
+>
+> it’s not ‘sexy bee,’ but ‘The bee has (is having) sex.’
+>
+> those are two fundamentally different concepts; you can have sex despite not being sexy and you can have no sex despite being sexy
+>
+> for ‘sexy,’ consider something like seaqdē (‘sexually beautiful’)
+>
+
+**mi Shủao**
+> @🍵 Fuck bees.
+>
+
+**mi 🍵**
+> @Shủao no u
+>
+
+**mi Shủao**
+> @🍵 It wasn't directed at you.
+>
+
+**mi 🍵**
+> @Shủao and yet, it was
+>
+
+**mi Shủao**
+> It was, but not in the manner I would expect you to assume; do you understand?
+>
+
+**mi 🍵**
+> then you’re responsible for the mistake in communication, then
+>
+
+**mi Shủao**
+> I thought context would help you work it out after that assumption.
+>
+
+**mi 🍵**
+> sadly, it didn’t
+>
+
+**mi Shủao**
+> "Fuck bees."
+>
+> The (meme) phrase I tried to translate; directed at no specific person, yet imperative.
+>
+> ... perhaps there should be a specific quantifier on hápī, and I'm not sure about nothing filling the second spot, but it's nice to have it concise too.
+>
+
+**mi 🍵**
+> @Shủao and you’re right. the correct v. would be Sẻaq súq sa hápī ba.
+>
+
+**mi Shủao**
+> Why súq?
+>
+
+**mi 🍵**
+> without súq, it could be go
+>
+> ‘May (indetermined) have sex with one or more bees.’
+>
+
+**mi Shủao**
+> The places of seaq don't seem that specific.
+>
+
+**mi 🍵**
+> wdym
+>
+
+**mi Shủao**
+> In the definition I saw, they seemed interchangable.
+>
+
+**mi 🍵**
+> seaq, I believe, is symmetric
+>
+
+**mi Shủao**
+> Then the go would be redundant, would it not?
+>
+
+**mi 🍵**
+> well then, seaq go hápi would suffer from the same issue as seaq hápi
+>
+> I guess it’s only fair to assume that the go omits an implied suq
+>
+> or whoever the command is actually directed towards
+>
+
+**mi Shủao**
+> It's not directed towards anyone, as I said.
+>
+
+**mi 🍵**
+> seaq sa póq sa hápi ba = may somebody fuck a bee
+>
+
+**mi Shủao**
+> I'm not telling people to go out and fuck bees, I'm just telling bees to get fucked.
+>
+
+**mi 🍵**
+> okay then
+>
+> seaq hápi ba, then
+>
+
+**mi Shủao**
+> No more sa?
+>
+> I feel like the last two messages from you might have been made in frustration, but I don't know how to emotion.
+>
+
+**mi 🍵**
+> oh yes, sa
+>
+> bah, I’m not frustrated at all
+>
+> the ‘then’ has a judgmental feel to it
+>
+> can’t dispute that
+>
+
+**mi Shủao**
+> Would tu be bad in place of sa?
+>
+> - and can I edit my submission to include a quantifier?
+>
+
+**mi 🍵**
+> tu would be bad
+>
+> as it would imply all sets of bees
+>
+
+**mi Shủao**
+> Fuck 'em all.
+>
+> Pokémon style.
+>
+
+**mi 🍵**
+> catch ‘em all first
+>
+
+## On the format of the archive
+
+The quoting format is:
+
+    ## On <Title>
+
+    ### date, #channel
+    **mi Hanlirser**
+    > **Hanlirser** said
+    > **Hanlirser** continued to say  
+    > **Hanlirser** said  
+    > > **Hanlirser** quotes **Bonbir** saying
+    ...
+
+    ### Summary
+    summarize summarizing the sum of the marys.
+
+Notice that, to make a linebreak, you add 2 spaces at the end of the line
