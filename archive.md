@@ -1082,3 +1082,31 @@ A nice game of Toaq of the Day :)
 > exactly what I was saying.
 >
 
+## the N-Word Stone
+
+### 2019-03-17, #off-topic
+
+**mi seaqtaq**
+> ? taonshaor nainjiar kum jip toap pon niplair da...NUNTIRRIRSHOLHELCAIR GUINBEALHAL MUOM GO KUONRIRBAR (kio honkeir la tuan foam so dainchir na, kuik lut nampiar go pop gopjir roampiarfur ga pain sa raip roazpiarfur sa meapheor mu paix sa lup gam hoap hoip nim roampiarfur boik deot na cei juxlur guaingal hoap sa pob box hoap sa kupner painniair, ju ceoxrial pon mab pop sa meapheor cuen nazpaor go hoap sa lup pun luem go soinfuair hoap ju pun buangal hop sa chiepgal raok chiettaor na ju jeof bi chunrier pianfur go hop sa lup tuaonbur mu pian hoap sa raip maixpair go hoap sa lup raok koadshor tik sa nuip bi ramduar hop sa jab painruor leambuer, ju limfur go hop sa lup geoner sa niabner roain hop ju chientuar go hop sa raip haox hoip chen hoap mu lizpiar sa geopnerhual ju pain go hop sa lup gam hoap boik pop ceopchierjior ga hoip limpiar  lizpaor sa lup mu roampiarfur hoap sa lup kimruortaor hoap sa nuip kim pon sa puip guan ga ju fam lut mu limpiar sa nab sa lup mu limpiarfur hoap sa raip maixpair sa pob paoxsur sa lup pun seonshor hoap sa nab guaix go pop sa duaopguirjearrial ru tezdoar hoap sa roptir sa lup dum tem hoap sa kiabcher chiex chen ten go bam kiam hoap mu soak sa pob mu lizpiar hoap sa lup to ru luin buanduor peak sa dabjal to jav jeon bi ramduar hoap sa tebjulcher mu paix hoap sa raip mu nazfur hoap hoap sa lup mu luem hoap sa roaplueldoar komparnir cuex go hoap sa raip roazpiarfur hoap sa nib liex jam bonmiar hoap boik jiut na kuik pop luop ju bon  pop hoap sa luebcher mu nazpiar hoap sa raip geoxner go hoap sa niabner shinceir ru chiex hoap pop teipdiur mu gag sa lib chox jav hop hoap ju mu paonsur hop sa lup pun chen gonlurfur ju raon kon gun sa raip hop sa suaipkoir meax go hoap sa lup maingel hoap sa lib luix jean bon hoap sa chaop hain mu chom sa pob lun mu pian hoap sa lup rioncher hoap  ju riomhealfar poik luem sa riopkolparnir lun poif dain tuan piam bi sencal hoap guadtirshor
+>
+
+**mi nuogaiBOT**
+> tảoshāo nảıjīa kủq jí tóa pỏ nílāı da...NỦTĪRĪSHŌQHĒQCĀI GỦIBĒAQHĀQ MỦOQ GO KỦORĪBĀ (kıo hỏkēı la tủa fỏaq so dảıchī na, kùı lû nảqpīa go pó gójī rỏaqpīafū ga pảı sa ráı rǒaqpīafū sa méahēo mu pǎı sa lú gảq hóa hóı nỉq rỏaqpīafū bòı dêo na ceı jǔlū gủaıgāq hóa sa póq bǒ hóa sa kúnē pảınīaı, ju cěorīaq pỏ máq pó sa méahēo củe nǎqpāo go hóa sa lú pủ lủeq go sỏıfūaı hóa ju pủ bủagāq hó sa chíegāq rào chîetāo na ju jẽo bı chủrīe pỉafū go hó sa lú tủaobū mu pỉa hóa sa ráı mǎıpāı go hóa sa lú rào kôaqshō tì sa núı bı rảqdūa hó sa jáq pảırūo lẻaqbūe, ju lỉqfū go hó sa lú geonē sa níaqnē rỏaı hó ju chỉetūa go hó sa ráı hǎo hóı chẻ hóa mu lǐqpīa sa géonēhūaq ju pảı go hó sa lú gảq hóa bòı pó céochīejīo ga hóı lỉqpīa  lǐqpāo sa lú mu rỏaqpīafū hóa sa lú kỉqrūotāo hóa sa núı kỉq pỏ sa púı gủa ga ju fảq lû mu lỉqpīa sa náq sa lú mu lỉqpīafū hóa sa ráı mǎıpāı sa póq pǎosū sa lú pủ sẻoshō hóa sa náq gǔaı go pó sa dúaogūıjēarīaq ru těqdōa hóa sa rótī sa lú dủq tẻq hóa sa kíaqchē chǐe chẻ tẻ go bảq kỉaq hóa mu sòa sa póq mu lǐqpīa hóa sa lú to ru lủı bủadūo pèa sa dáqjāq to jãq jẻo bı rảqdūa hóa sa téqjūqchē mu pǎı hóa sa ráı mu nǎqfū hóa hóa sa lú mu lủeq hóa sa róalūeqdōa kỏqpānī cǔe go hóa sa ráı rǒaqpīafū hóa sa níq lǐe jảq bỏmīa hóa bòı jîu na kùı pó lúo ju bỏ  pó hóa sa lúeqchē mu nǎqpīa hóa sa ráı gěonē go hóa sa níaqnē shỉcēı ru chǐe hóa pó téıdīu mu gàq sa líq chǒ jãq hó hóa ju mu pảosū hó sa lú pủ chẻ gỏlūfū ju rảo kỏ gủ sa ráı hó sa súaıkōı měa go hóa sa lú mảıgēq hóa sa líq lǔı jẻa bỏ hóa sa cháo hảı mu chỏq sa póq lủ mu pỉa hóa sa lú rỉochē hóa  ju rỉoqhēaqfā pòı lủeq sa ríokōqpānī lủ põı dảı tủa pỉaq bı sẻcāq hóa gûaqtīshō
+>
+
+### 2019-03-17, #general
+
+**mi seaqtaq**
+> It is a copypasta
+>
+> namely this:
+>
+> I’m gonna say the n word... NUTRI-GRAIN BLUEBERRY BREAKFAST GRANOLA BARS (it’s okay, my cousin’s friend has a brother who’s girlfriend has another cousin that has a childhood friend who grew up to work with a guy that has a dog who was originally from an owner that has a husband who’s father met a guy in the military that had a college roommate who actually has a half nephew who has a step brother who has a girlfriend that growing up in a small town had a friendly neighbor who had a 8 year old daughter who had a 4th grade teacher that had a student that actually had an older sister that had an old friend from preschool who’s mom had a 2nd cousin who was in a short international film that starred a guy who’s sister has a niece that has a boyfriend who had a grandmother who has an ex husband that worked in a bakery and sold bread to this guy that had a barber who learned to cut hair from this guy who has a sister that moved to Madagascar and actually knows a local cashier that had a best friend who has a son that has a health insurance provider who’s ran by a guy that’s cousins with a girl that was born into a rich family with a butler who has a 16 year old son that has a trigonometry class with this girl he likes that has a grandfather who was a professional golfer that once got second place behind a guy that was dating this girl that bought a used car from a guy that has a brother who is a pilot and flys for an airline which is surprisingly responsible for the death of some guy who got in a plane crash that before he died had a girlfriend who was an aspiring musician that made a song that this one guy tweeted about that also has a cousin who has a best friend who’s very religious and has a pastor that actually eats nutri-grain breakfast bars. Oh and who’s black)
+>
+> Now yall other humans can practice your vietoaq more
+>
+> There are a few errors in my translation I have noticed, but i sped through this one (≈45mins) so i am not too worried
+>
+> I also had to coin some stuff on the fly and quite hastily, like temjulcher for cashier
+>
+
