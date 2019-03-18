@@ -72,25 +72,11 @@ This file contains most of the common frames.
 
 ### 2019-03-08, #general
 **mi Hoamgior**
-> As for frames-list.txt…
-> Since there are only a few common types in the type system  
->     (c, 0, 1, and 2),  
-> and since each word has usually only one or two slots, it happens that a lot of
-> words have the same signature as each other.  
-> (This is bolstered by the fact that Toaq tries to build patterns into the
-> vocabulary, so many words that deal with similar concepts are given them same
-> signature on purpose.
-> -- see the triplet 
->     (**dua**, **chi**, **miu**)  
-> or  
->     (**jui**, **jao**, **leaq**, **poe**, **cuao**) )  
-> A frame is just a common signature that lots of words fit into.
-> For example, the LEO frame is the signature
->     [(c) (c 1)] -- 
-> predicates whose 1-ary meaning takes just a concrete object and whose 2-ary
-> meaning takes a concrete object and a property (a proposition with one open
-> slot)  
-> Math stuff here, don't look if you're already feeling overwhelmed :smiley: : There's also the special case of the JEO frame, which has the signature [(0) (c 1)] and the special requirement that, for a predicate P to be in the JEO frame, it must satisfy the equivalence P(x, y) = P(**jeo**(x, y)).  We also have the MAO frame, which is defined as predicates which have a signature of [(0) (c 1)] but which don't satisfy that equality, which is named the "JEO-frame Equivalence"
+> As for frames-list.txt…  
+> Since there are only a few common types in the type system (c, 0, 1, and 2), and since each word has usually only one or two slots, it happens that a lot of words have the same signature as each other.  
+> (This is bolstered by the fact that Toaq tries to build patterns into the vocabulary, so many words that deal with similar concepts are given them same signature on purpose – see the triplet (**dua**, **chi**, **miu**) or (**jui**, **jao**, **leaq**, **poe**, **cuao**))   
+> A frame is just a common signature that lots of words fit into. For example, the LEO frame is the signature [(c) (c 1)] – predicates whose 1-ary meaning takes just a concrete object and whose 2-ary meaning takes a concrete object and a property (a proposition with one open slot).  
+> Math stuff here, don't look if you're already feeling overwhelmed :smiley: : There's also the special case of the JEO frame, which has the signature [(0) (c 1)] and the special requirement that, for a predicate *P* to be in the JEO frame, it must satisfy the equivalence *P*(*x*, *y*) = *P*(**jeo**(*x*, *y*)).  We also have the MAO frame, which is defined as predicates which have a signature of [(0) (c 1)] but which don't satisfy that equality, which is named the "JEO-frame Equivalence"
 
 ## On ternary predicates
 

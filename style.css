@@ -4,6 +4,9 @@ html {
 body {
   font-family: 'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif;
   font-weight: normal;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  overflow-x: hidden;
 }
 h1, h1 strong {
   font-weight: 300;
