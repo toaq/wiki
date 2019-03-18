@@ -76,7 +76,7 @@ This file contains most of the common frames.
 > Since there are only a few common types in the type system (c, 0, 1, and 2), and since each word has usually only one or two slots, it happens that a lot of words have the same signature as each other.  
 > (This is bolstered by the fact that Toaq tries to build patterns into the vocabulary, so many words that deal with similar concepts are given them same signature on purpose – see the triplet (**dua**, **chi**, **miu**) or (**jui**, **jao**, **leaq**, **poe**, **cuao**))   
 > A frame is just a common signature that lots of words fit into. For example, the LEO frame is the signature [(c) (c 1)] – predicates whose 1-ary meaning takes just a concrete object and whose 2-ary meaning takes a concrete object and a property (a proposition with one open slot).  
-> Math stuff here, don't look if you're already feeling overwhelmed :smiley: : There's also the special case of the JEO frame, which has the signature [(0) (c 1)] and the special requirement that, for a predicate *P* to be in the JEO frame, it must satisfy the equivalence *P*(*x*, *y*) = *P*(**jeo**(*x*, *y*)).  We also have the MAO frame, which is defined as predicates which have a signature of [(0) (c 1)] but which don't satisfy that equality, which is named the "JEO-frame Equivalence"
+> Math stuff here, don't look if you're already feeling overwhelmed 😃 : There's also the special case of the JEO frame, which has the signature [(0) (c 1)] and the special requirement that, for a predicate *P* to be in the JEO frame, it must satisfy the equivalence *P*(*x*, *y*) = *P*(**jeo**(*x*, *y*)).  We also have the MAO frame, which is defined as predicates which have a signature of [(0) (c 1)] but which don't satisfy that equality, which is named the "JEO-frame Equivalence"
 
 ## On ternary predicates
 
@@ -331,7 +331,7 @@ Inflect, Decline, Conjugate, Suprafixate.
 
 ### 2019-02-24, #luaq
 
-A nice game of Toaq of the Day :)
+A nice game of Translation of the Day :)
 
 **mi Lim**
 > I elect @Hỏemāı as the winner \^\_\^  
@@ -700,10 +700,10 @@ A nice game of Toaq of the Day :)
 **mi Chain**
 > make an edit for the future generations  
 > and smile!  
-> :camera\_with\_flash:  
+> 📸
 
 **mi Hỏaqgīo**
-> :grimacing:  
+> 😬  
 
 **mi Chain**
 > I’m okay with **dua** being polymorphic like it seems to be now  
@@ -719,7 +719,7 @@ A nice game of Toaq of the Day :)
 > Hoemai, thoughts on this conversation?  
 
 **mi Shủao**
-> :grimacing:  
+> 😬  
 
 **mi Chain**
 > @Hỏaqgīo
@@ -787,7 +787,7 @@ A nice game of Toaq of the Day :)
 > is this like Plato's Forms?  
 
 **mi Hỏaqgīo**
-> I am not familiar with those :stuck\_out\_tongue:  
+> I am not familiar with those 😛
 > Oh wait! Yes I am  
 > Yes, I think that's a good way to think about it  
 
@@ -799,7 +799,7 @@ A nice game of Toaq of the Day :)
 > **Chom jip naop sa da**  
 
 **mi Hỏaqgīo**
-> In any case, the answer is no :stuck\_out\_tongue:  
+> In any case, the answer is no 😛
 > sa may be glossed as "some", but it's not a willy-nilly word like English has, it's the E quantifier  
 > It's used like this:  
 > **Chỏ jí sa náo da**  
