@@ -936,104 +936,93 @@ A nice game of Translation of the Day :)
 
 ## 2019-03-18, #general
 
-HeukueqcheToday at 4:50 PM
-On the serial expansion of Bủ chỏ jí báq bỉrā da.
-would it be:
-? Bun chot jip bad ja dop biprar da
-nuogaiBOTToday at 4:51 PM
-Bủ chô jí bâq ja dó bírā da
-HỏemāıToday at 4:51 PM
-bâq is not correct
-If you want to expand the argument phrase (báq bỉrā) as well, then:
-Bủ chô jí lú bảq bỉrā hóa da
-🍵Today at 4:52 PM
-you didn’t expand it
-HỏemāıToday at 4:52 PM
-There is also another solution using binary bủ, but I see no point
-Yes true
-🍵Today at 4:53 PM
-lú baq hóa lî bira ja dó
-HỏemāıToday at 4:53 PM
-Yes, that.
-Bủ chô jí lú bảq hóa bîrā ja dó 
-or Bủ chô jí lú bảq hóa lî bỉrā ja dó
-🍵Today at 4:54 PM
-%nui bu cho go baq rai
-nuogaiBOTToday at 4:54 PM
-There was an error (lookup-error cho).
-🍵Today at 4:54 PM
-%nui bu pai go baq rai
-nuogaiBOTToday at 4:54 PM
-((#f) . lî ja dóshī bı bủ dóshī lî ja dógū bı pảı dógū sa lí ja dósāq bı bảq dósāq lî ja dójō bı rảı dójō)
-HỏaqgīoToday at 4:54 PM
-Those are the same
-🍵Today at 4:54 PM
-except that they aren’t
-HỏaqgīoToday at 4:55 PM
-Oh
-🍵Today at 4:55 PM
-I’m on mobile, so I’ll explain later
-but for now all I’m gonna say is that it’s WRONG and leave it there
-because I’m Hoaqgīo, hurr durr
-HỏaqgīoToday at 4:55 PM
-:broken_heart:
-🍵Today at 4:55 PM
-(by the way, they are the same)
-HeukueqcheToday at 4:56 PM
-hahaha, sick burn XD
-might you tell us the binary solution, @Hỏemāı ? different versions of the same thing help a lot to learn
-HỏemāıToday at 4:59 PM
-It's what miu would give if it knew cho
-🍵Today at 5:00 PM
-see what it does with bu pai
-%nui bu pai
-nuogaiBOTToday at 5:00 PM
-((#f #f) . lî ja dóshī ja dógū bı bủ dóshī lî ja dósāq bı pảı dósāq dógū)
-🍵Today at 5:00 PM
-bu x1 lî pai ja dó x2, essentially
-HỏemāıToday at 5:01 PM
-%miu bu mai
-nuogaiBOTToday at 5:01 PM
-syntax error :1.3: want ◌̂, [5^], [aA], [eE], [oO], [ıiI], [qQ], ◌́, [/2], ◌̃, [~7], ◌̀, [\6], ◌̉, [?4], ◌̌, ◌̆, or [V3]; got ' mai'
-HỏemāıToday at 5:01 PM
-omg
-(c c) that
-🍵Today at 5:01 PM
-get your mind out of the gutter, solpahi
-HeukueqcheToday at 5:02 PM
-OH! I saw that XDDD
-HỏemāıToday at 5:02 PM
-%miu bu pai
-nuogaiBOTToday at 5:02 PM
-syntax error :1.3: want ◌̂, [5^], [aA], [eE], [oO], [ıiI], [qQ], ◌́, [/2], ◌̃, [~7], ◌̀, [\6], ◌̉, [?4], ◌̌, ◌̆, or [V3]; got ' pai'
-HỏaqgīoToday at 5:02 PM
-%serial bu pai
-HỏemāıToday at 5:02 PM
-Uh
-nuogaiBOTToday at 5:02 PM
-<[c c] (bủ A pâi ja dó B)>
-HỏaqgīoToday at 5:02 PM
-Not %miu
-HỏemāıToday at 5:02 PM
-yeah sorry
-someone should've told me
-HỏaqgīoToday at 5:02 PM
-I was out :stuck_out_tongue:
-🍵Today at 5:02 PM
-@Heukueqche
-in general, bu is binary in serial predicates, so it would work as ‘x1 doesn’t satisfy property of being a friend to x2,’ instead of ‘it isn’t the case that x1 is a friend of x2’
-however these are equal by virtue of the ‘JEO-frame equivalence’ we all know and love
+**mi Heukueqche**
+> On the serial expansion of **Bủ chỏ jí báq bỉrā da.**
+> would it be:  
+> ? **Bun chot jip bad ja dop biprar da** 
 
-%serial bu mai
-nuogaiBOTToday at 5:07 PM
-<[c c] (bủ A mâi ja dó B)>
-🍵Today at 5:07 PM
-%nui bu mai
-nuogaiBOTToday at 5:07 PM
-((#f #f) . lî ja dóshī ja dógū bı bủ dóshī lî ja dósāq bı mảı dósāq dógū)
-HeukueqcheToday at 5:09 PM
-is there a way to say "Does like Hoamgiortaor"
-🍵Today at 5:10 PM
-@Heukueqche if you examine this definition closely, you should get this:
-λab. bu(a, λx. pai(x, b))
+**Hỏemāı**
+> **bâq** is not correct  
+> If you want to expand the argument phrase (**báq bỉrā**) as well, then:  
+> **Bủ chô jí lú bảq bỉrā hóa da**
 
+**mi Chain**
+> you didn’t expand it  
+
+**Hỏemāı**
+> There is also another solution using binary **bủ**, but I see no point  
+> Yes true  
+
+**mi Chain**
+> **lú baq hóa lî bira ja dó**
+
+**Hỏemāı**
+> Yes, that.  
+> **Bủ chô jí lú bảq hóa bîrā ja dó**
+> or **Bủ chô jí lú bảq hóa lî bỉrā ja dó**
+
+**mi Chain**
+> %nui **bu pai go baq rai**
+
+**nuogaiBOT**
+> ((*#f*) . **lî ja dóshī bı bủ dóshī lî ja dógū bı pảı dógū sa lí ja dósāq bı bảq dósāq lî ja dójō bı rảı dójō**)  
+
+[...]
+
+**mi Chain**
+> (by the way, they are the same)  
+
+**Heukueqche**
+> might you tell us the binary solution, @**Hỏemāı** ? different versions of the same thing help a lot to learn  
+
+**Hỏemāı**
+> It's what **miu** would give if it knew **cho**
+
+**mi Chain**
+> see what it does with **bu pai**
+> %nui **bu pai**
+
+**nuogaiBOT**
+> ((*#f* *#f*) . **lî ja dóshī ja dógū bı bủ dóshī lî ja dósāq bı pảı dósāq dógū)**
+
+**mi Chain**
+> **bu x1 lî pai ja dó** x2, essentially  
+
+**Hỏemāı**
+> %miu **bu mai**
+
+**nuogaiBOT**
+> syntax error :1.3: want ◌̂, [5^], [aA], [eE], [oO], [ıiI], [qQ], ◌́, [/2], ◌̃, [~7], ◌̀, [\6], ◌̉, [?4], ◌̌, ◌̆, or [V3]; got ' **mai**'  
+
+[...]
+
+**Hỏemāı**
+> %miu **bu pai**
+
+**nuogaiBOT**
+> syntax error :1.3: want ◌̂, [5^], [aA], [eE], [oO], [ıiI], [qQ], ◌́, [/2], ◌̃, [~7], ◌̀, [\6], ◌̉, [?4], ◌̌, ◌̆, or [V3]; got ' **pai**'  
+
+**Hỏaqgīo**
+> %serial **bu pai**
+
+**nuogaiBOT**
+> <[c c] (**bủ A pâi ja dó B**)>  
+
+**mi Chain**
+> @**Heukueqche**
+> in general, **bu** is binary in serial predicates, so it would work as ‘x1 doesn’t satisfy property of being a friend to x2,’ instead of ‘it isn’t the case that x1 is a friend of x2’  
+> however these are equal by virtue of the ‘JEO-frame equivalence’ we all know and love  
+> %serial **bu mai**
+
+**nuogaiBOT**
+> <[c c] (bủ A mâi ja dó B)>  
+
+**mi Chain**
+> %nui **bu mai**
+
+**nuogaiBOT**
+> ((*#f* *#f*) . **lî ja dóshī ja dógū bı bủ dóshī lî ja dósāq bı mảı dósāq dógū**)
+
+**mi Chain**
+> @**Heukueqche** if you examine this definition closely, you should get this:  
+> λ*a**b*. **bu**(*a*, λ*x*. **pai**(*x*, *bi*))  
