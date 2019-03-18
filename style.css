@@ -10,6 +10,7 @@ h1, h1 strong {
 }
 pre, code {
   font-family: 'IBM Plex Mono', 'Menlo', 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', Courier, monospace;
+  overflow-x: scroll;
 }
 strong {
   font-family: 'IBM Plex Serif', 'Georgia', Times, serif;
