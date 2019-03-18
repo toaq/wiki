@@ -1110,3 +1110,74 @@ A nice game of Toaq of the Day :)
 > I also had to coin some stuff on the fly and quite hastily, like temjulcher for cashier
 >
 
+## On water, waters, and the idea of water
+
+### 2019-03-18, #general
+
+HeukueqcheToday at 12:10 AM
+in the meantime, I have another question about this sentence Chỏ jí báq nảo da.
+@Hỏaqgīo I have been set up for dissapointment XD
+I don't understand why the bab is necesary to say "I like water"
+? wouldn't Chon jip naop da be enough?
+nuogaiBOTToday at 12:13 AM
+wouldn't Chỏ jí náo da be enòuqh?
+HỏaqgīoToday at 12:13 AM
+No
+The reason is that náo means "the water"
+So if you live by a lake, that would be appropriate to say you like the water in the lake
+Or if somebody serves you water and asks how it is
+HeukueqcheToday at 12:15 AM
+ah, its THE water (only the one referred to at the moment. This water), not water in general
+HỏaqgīoToday at 12:15 AM
+Yes
+(Though not necessarily "this" water. It could be in a cup on the table or it could be on Mars; náo just means "the water (the water we're currently talking about, not some random water)")
+HeukueqcheToday at 12:16 AM
+like, the UofD?
+well, A specific water
+and is that different from the waters?
+HỏaqgīoToday at 12:17 AM
+No
+In fact you've hit on an important point
+If there are multiple waters in the UoD, then náo is all of them
+If we are talking about three lakes then chỏ jí náo da means I like the three lakes
+HeukueqcheToday at 12:18 AM
+so the distinction is between the abstract idea of water, and any concrete instance of water
+HỏaqgīoToday at 12:18 AM
+Yes, that's between báq nảo and náo
+HeukueqcheToday at 12:18 AM
+is this like Plato's Forms?
+HỏaqgīoToday at 12:19 AM
+I am not familiar with those :stuck_out_tongue:
+Oh wait! Yes I am
+Yes, I think that's a good way to think about it
+
+
+HeukueqcheToday at 12:44 AM
+but one last thing, with the water question. If I wanted to talk about some concrete waterS (plural), would it be like this?
+? Chom jip nap sa da
+nuogaiBOTToday at 12:44 AM
+Chỏq jí ná sa da
+HỏaqgīoToday at 12:45 AM
+Do you mean Chỏ jí náo sa da?
+Oops
+That
+In any case, the answer is no :stuck_out_tongue:
+sa may be glossed as "some", but it's not a willy-nilly word like English has, it's the E quantifier
+It's used like this:
+Chỏ jí sa náo da
+HeukueqcheToday at 12:47 AM
+ah, right associating?
+HỏaqgīoToday at 12:47 AM
+No associating
+This is equivalent to the logical proposition:
+∃x. x is-water: I like x
+"There exists some X which is water such that: I like X"
+(This X still could be singular or plural, it isn't specified)
+HeukueqcheToday at 12:49 AM
+hm, I kinda see. So I'm just saying that there is some thing, which is water, and that I like?
+not how many of that thing there is
+HỏaqgīoToday at 12:50 AM
+Yes
+To specify that there are multiple things, you can use the predicate puq
+Chỏ jí sa púq nảo da = "I like some multiple waters"
+Or: Chỏq jí púq nảo da = "I like the multiple waters"
