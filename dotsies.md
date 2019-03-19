@@ -1,4 +1,3 @@
-<title>Dotsies test</title>
 <style>
   @font-face {
     font-family: 'Dotzeez';

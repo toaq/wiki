@@ -1,25 +1,31 @@
-<title>Archive</title>
-
-# Archive
+@@toc@@
 
 ## On the format of the archive
 
-The quoting format is:
-
-    ## On <Title>
-
+    ## On *Title*
+    
     ### date, #channel
-    **mi Hanlirser**
-    > **Hanlirser** said
-    > **Hanlirser** continued to say  
-    > **Hanlirser** said  
-    > > **Hanlirser** quotes **Bonbir** saying
-    ...
+    **mi Hoenmair**
+    > I'm **Hoenmai** and this is what I say␣␣
+    > This is another line of my speech␣␣
+    > **Linmel** said once:
+    > > **Min Linmel jip ka.**
+    >
+    > I find that very deep.
 
-    ### Summary
-    summarize summarizing the sum of the marys.
+Mind the two spaces.
 
-Notice that, to make a linebreak, you add 2 spaces at the end of the line
+This will display as:
+> ## On *Title*
+> 
+> ### date, #channel
+> **mi Hoenmair**
+> > I'm **Hoenmai** and this is what I say  
+> > This is another line of my speech  
+> > **Linmel** said once:
+> > > **Min Linmel jip ka.**
+> >
+> > I find that very deep.
 
 ## On names with falling tone
 
@@ -31,14 +37,14 @@ Notice that, to make a linebreak, you add 2 spaces at the end of the line
 > oh, phrase means something very specific, right
 
 **mi Hoenmair**
-> %miu **min buf**
+> `%miu` **min buf**
 
 **mi Nuongair**
 > **(mỉ bũ)**
 > {λ𝑋 chua(‹bũ›, 𝑋)}().
 
 **mi Hoenmair**
-> %miu **min neok nip**
+> `%miu` **min neok nip**
 
 **mi Nuongair**
 > **(mỉ {nèo ní})**
@@ -53,7 +59,7 @@ Notice that, to make a linebreak, you add 2 spaces at the end of the line
 > And then the name is automatically over
 
 **mi Linmel**
-> %miu **mỉ mỏq**
+> `%miu` **mỉ mỏq**
 
 **mi Nuongair**
 > syntax error :1.7: want [bB], [cC], [dD], [fF], [gG], [hH], [jJ], [kK], [lL], [mM], [nN], [pP], [rR], [sS], or [tT]; got EOF
@@ -102,7 +108,7 @@ This file contains most of the common frames.
 ### 2019-03-13, #general
 
 **mi Hoamgior**
-> % **cutaq**
+> `%` **cutaq**
 
 **mi Nuongair**
 > 1–1/1 — **cutaq** + — <▯1, ▯2> are such that <x1, x2, x1> satisfy ternary relation ▯/3; ▯ does/is ▯/3 to themselves.
@@ -224,14 +230,14 @@ You make ordinal compounds by concatenating the number name with the (**ko**) pr
 > **do** doesn’t mean anything until it’s bound by a quantifier
 
 **mi Hoenmair**
-> %miu **lẻo jí lî nủo ja dó**
+> `%miu` **lẻo jí lî nủo ja dó**
 
 **mi Nuongair**
 > **(lẻo {jí [lî <nủo (ja dó)>]})**  
 > [℩𝐽 : ji(𝐽)] leo(𝐽, {λ𝑋 nuo(𝑋)}).  
 
 **mi Chain**
-> %miu **lẻo jí lî nủo ja póq**
+> `%miu` **lẻo jí lî nủo ja póq**
 
 **mi Nuongair**
 > **(lẻo {jí [lî <nủo (ja póq)>]})**  
@@ -491,10 +497,10 @@ A nice game of Translation of the Day :)
 > but, as you can see, the above is messy  
 > and, to nitpick even further, the above transformation relies on the assumption that there is somebody who did that  
 > in the end, you'd need to construct a sentence like: ‘If there isn't anybody who *X*-es, then I don't know that there is nobody who *X*-es; and if there is somebody who *X*-es, then for all people *p* such that *p* *X*-es, I don't know that *p* *X*-es’  
-> or, even better: ‘For all plural constants *pp*, I know that *pp* has p-ty X if *pp* has p-ty X, and I know that *pp* doesn't have p-ty X if *pp* doesn't have p-ty X.‘  
+> or, even better: ‘For all plural constants *pp*, I know that *pp* has p-ty *X* if *pp* has p-ty *X*, and I know that *pp* doesn't have p-ty *X* if *pp* doesn't have p-ty *X*.‘  
 
 **mi Chain**
-> the need for indirect questions could also be avoided with a predicate with a definition like: ‘X knows what *n*-tuple of arguments satisfies *n*-ary relation Y’ (for any *n*, including 0)
+> the need for indirect questions could also be avoided with a predicate with a definition like: ‘*X* knows what *n*-tuple of arguments satisfies *n*-ary relation *Y*’ (for any *n*, including 0)
 
 […]
 
@@ -530,7 +536,7 @@ A nice game of Translation of the Day :)
 
 **mi Hỏaqgīo**
 > Ah wait, I just found:  
-> or, even better: ‘For all plural constants *pp*, I know that *pp* has p-ty X if *pp* has p-ty X, and I know that *pp* doesn't have p-ty X if *pp* doesn't have p-ty X.‘  
+> or, even better: ‘For all plural constants *pp*, I know that *pp* has p-ty *X* if *pp* has p-ty *X*, and I know that *pp* doesn't have p-ty *X* if *pp* doesn't have p-ty *X*.‘  
 > I was going to correct you on:  
 > in the end, you'd need to construct a sentence like: ‘If there isn't anybody who *X*-es, then I don't know that there is nobody who *X*-es; and if there is somebody who *X*-es, then for all people *p* such that *p* *X*-es, I don't know that *p* *X*-es’  
 > But the "even better" one isn't wrong  
@@ -751,7 +757,7 @@ A nice game of Translation of the Day :)
 ### 2019-03-17, #off-topic
 
 **mi Seamtal**
-> tảoshāo nảıjīa kủq jí tóa pỏ nílāı da…NỦTĪRĪSHŌQHĒQCĀI GỦIBĒAQHĀQ MỦOQ GO KỦORĪBĀ (kıo hỏkēı la tủa fỏaq so dảıchī na, kùı lû nảqpīa go pó gójī rỏaqpīafū ga pảı sa ráı rǒaqpīafū sa méahēo mu pǎı sa lú gảq hóa hóı nỉq rỏaqpīafū bòı dêo na ceı jǔlū gủaıgāq hóa sa póq bǒ hóa sa kúnē pảınīaı, ju cěorīaq pỏ máq pó sa méahēo củe nǎqpāo go hóa sa lú pủ lủeq go sỏıfūaı hóa ju pủ bủagāq hó sa chíegāq rào chîetāo na ju jẽo bı chủrīe pỉafū go hó sa lú tủaobū mu pỉa hóa sa ráı mǎıpāı go hóa sa lú rào kôaqshō tì sa núı bı rảqdūa hó sa jáq pảırūo lẻaqbūe, ju lỉqfū go hó sa lú geonē sa níaqnē rỏaı hó ju chỉetūa go hó sa ráı hǎo hóı chẻ hóa mu lǐqpīa sa géonēhūaq ju pảı go hó sa lú gảq hóa bòı pó céochīejīo ga hóı lỉqpīa  lǐqpāo sa lú mu rỏaqpīafū hóa sa lú kỉqrūotāo hóa sa núı kỉq pỏ sa púı gủa ga ju fảq lû mu lỉqpīa sa náq sa lú mu lỉqpīafū hóa sa ráı mǎıpāı sa póq pǎosū sa lú pủ sẻoshō hóa sa náq gǔaı go pó sa dúaogūıjēarīaq ru těqdōa hóa sa rótī sa lú dủq tẻq hóa sa kíaqchē chǐe chẻ tẻ go bảq kỉaq hóa mu sòa sa póq mu lǐqpīa hóa sa lú to ru lủı bủadūo pèa sa dáqjāq to jãq jẻo bı rảqdūa hóa sa téqjūqchē mu pǎı hóa sa ráı mu nǎqfū hóa hóa sa lú mu lủeq hóa sa róalūeqdōa kỏqpānī cǔe go hóa sa ráı rǒaqpīafū hóa sa níq lǐe jảq bỏmīa hóa bòı jîu na kùı pó lúo ju bỏ  pó hóa sa lúeqchē mu nǎqpīa hóa sa ráı gěonē go hóa sa níaqnē shỉcēı ru chǐe hóa pó téıdīu mu gàq sa líq chǒ jãq hó hóa ju mu pảosū hó sa lú pủ chẻ gỏlūfū ju rảo kỏ gủ sa ráı hó sa súaıkōı měa go hóa sa lú mảıgēq hóa sa líq lǔı jẻa bỏ hóa sa cháo hảı mu chỏq sa póq lủ mu pỉa hóa sa lú rỉochē hóa  ju rỉoqhēaqfā pòı lủeq sa ríokōqpānī lủ põı dảı tủa pỉaq bı sẻcāq hóa gûaqtīshō  
+> **tảoshāo nảıjīa kủq jí tóa pỏ nílāı da…NỦTĪRĪSHŌQHĒQCĀI GỦIBĒAQHĀQ MỦOQ GO KỦORĪBĀ (kıo hỏkēı la tủa fỏaq so dảıchī na, kùı lû nảqpīa go pó gójī rỏaqpīafū ga pảı sa ráı rǒaqpīafū sa méahēo mu pǎı sa lú gảq hóa hóı nỉq rỏaqpīafū bòı dêo na ceı jǔlū gủaıgāq hóa sa póq bǒ hóa sa kúnē pảınīaı, ju cěorīaq pỏ máq pó sa méahēo củe nǎqpāo go hóa sa lú pủ lủeq go sỏıfūaı hóa ju pủ bủagāq hó sa chíegāq rào chîetāo na ju jẽo bı chủrīe pỉafū go hó sa lú tủaobū mu pỉa hóa sa ráı mǎıpāı go hóa sa lú rào kôaqshō tì sa núı bı rảqdūa hó sa jáq pảırūo lẻaqbūe, ju lỉqfū go hó sa lú geonē sa níaqnē rỏaı hó ju chỉetūa go hó sa ráı hǎo hóı chẻ hóa mu lǐqpīa sa géonēhūaq ju pảı go hó sa lú gảq hóa bòı pó céochīejīo ga hóı lỉqpīa  lǐqpāo sa lú mu rỏaqpīafū hóa sa lú kỉqrūotāo hóa sa núı kỉq pỏ sa púı gủa ga ju fảq lû mu lỉqpīa sa náq sa lú mu lỉqpīafū hóa sa ráı mǎıpāı sa póq pǎosū sa lú pủ sẻoshō hóa sa náq gǔaı go pó sa dúaogūıjēarīaq ru těqdōa hóa sa rótī sa lú dủq tẻq hóa sa kíaqchē chǐe chẻ tẻ go bảq kỉaq hóa mu sòa sa póq mu lǐqpīa hóa sa lú to ru lủı bủadūo pèa sa dáqjāq to jãq jẻo bı rảqdūa hóa sa téqjūqchē mu pǎı hóa sa ráı mu nǎqfū hóa hóa sa lú mu lủeq hóa sa róalūeqdōa kỏqpānī cǔe go hóa sa ráı rǒaqpīafū hóa sa níq lǐe jảq bỏmīa hóa bòı jîu na kùı pó lúo ju bỏ  pó hóa sa lúeqchē mu nǎqpīa hóa sa ráı gěonē go hóa sa níaqnē shỉcēı ru chǐe hóa pó téıdīu mu gàq sa líq chǒ jãq hó hóa ju mu pảosū hó sa lú pủ chẻ gỏlūfū ju rảo kỏ gủ sa ráı hó sa súaıkōı měa go hóa sa lú mảıgēq hóa sa líq lǔı jẻa bỏ hóa sa cháo hảı mu chỏq sa póq lủ mu pỉa hóa sa lú rỉochē hóa  ju rỉoqhēaqfā pòı lủeq sa ríokōqpānī lủ põı dảı tủa pỉaq bı sẻcāq hóa gûaqtīshō**
 
 ### 2019-03-17, #general
 
@@ -868,7 +874,7 @@ A nice game of Translation of the Day :)
 **mi Shủao**
 > "Fuck bees."  
 > The (meme) phrase I tried to translate; directed at no specific person, yet imperative.  
-> ... perhaps there should be a specific quantifier on hápī, and I'm not sure about nothing filling the second spot, but it's nice to have it concise too.  
+> ... perhaps there should be a specific quantifier on **hápī**, and I'm not sure about nothing filling the second spot, but it's nice to have it concise too.  
 
 **mi Chain**
 > @Shủao and you’re right. the correct v. would be **Sẻaq súq sa hápī ba**.
@@ -939,7 +945,7 @@ A nice game of Translation of the Day :)
 **mi Heukueqche**
 > On the serial expansion of **Bủ chỏ jí báq bỉrā da.**
 > would it be:  
-> ? **Bun chot jip bad ja dop biprar da** 
+> **Bun chot jip bad ja dop biprar da** 
 
 **Hỏemāı**
 > **bâq** is not correct  
@@ -962,12 +968,12 @@ A nice game of Translation of the Day :)
 > or **Bủ chô jí lú bảq hóa lî bỉrā ja dó**
 
 **mi Chain**
-> %nui **bu pai go baq rai**
+> `%nui` **bu pai go baq rai**
 
 **nuogaiBOT**
-> ((*#f*) . **lî ja dóshī bı bủ dóshī lî ja dógū bı pảı dógū sa lí ja dósāq bı bảq dósāq lî ja dójō bı rảı dójō**)  
+> (`(#f)` . **lî ja dóshī bı bủ dóshī lî ja dógū bı pảı dógū sa lí ja dósāq bı bảq dósāq lî ja dójō bı rảı dójō**)  
 
-[...]
+[…]
 
 **mi Chain**
 > (by the way, they are the same)  
@@ -980,49 +986,35 @@ A nice game of Translation of the Day :)
 
 **mi Chain**
 > see what it does with **bu pai**
-> %nui **bu pai**
+> `%nui` **bu pai**
 
 **nuogaiBOT**
-> ((*#f* *#f*) . **lî ja dóshī ja dógū bı bủ dóshī lî ja dósāq bı pảı dósāq dógū)**
+> (`(#f #f)` . **lî ja dóshī ja dógū bı bủ dóshī lî ja dósāq bı pảı dósāq dógū)**
 
 **mi Chain**
-> **bu x1 lî pai ja dó** x2, essentially  
-
-**Hỏemāı**
-> %miu **bu mai**
-
-**nuogaiBOT**
-> syntax error :1.3: want ◌̂, [5^], [aA], [eE], [oO], [ıiI], [qQ], ◌́, [/2], ◌̃, [~7], ◌̀, [\6], ◌̉, [?4], ◌̌, ◌̆, or [V3]; got ' **mai**'  
-
-[...]
-
-**Hỏemāı**
-> %miu **bu pai**
-
-**nuogaiBOT**
-> syntax error :1.3: want ◌̂, [5^], [aA], [eE], [oO], [ıiI], [qQ], ◌́, [/2], ◌̃, [~7], ◌̀, [\6], ◌̉, [?4], ◌̌, ◌̆, or [V3]; got ' **pai**'  
+> **bu *x₁* lî pai ja dó *x₂***, essentially  
 
 **Hỏaqgīo**
-> %serial **bu pai**
+> `%serial` **bu pai**
 
 **nuogaiBOT**
-> <[c c] (**bủ A pâi ja dó B**)>  
+> <`[c c]` (**bủ A pâi ja dó B**)>  
 
 **mi Chain**
 > @**Heukueqche**
 > in general, **bu** is binary in serial predicates, so it would work as ‘x1 doesn’t satisfy property of being a friend to x2,’ instead of ‘it isn’t the case that x1 is a friend of x2’  
 > however these are equal by virtue of the ‘JEO-frame equivalence’ we all know and love  
-> %serial **bu mai**
+> `%serial` **bu mai**
 
 **nuogaiBOT**
-> <[c c] (bủ A mâi ja dó B)>  
+> <`[c c]` (**bủ A mâi ja dó B**)>  
 
 **mi Chain**
-> %nui **bu mai**
+> `%nui` **bu mai**
 
 **nuogaiBOT**
-> ((*#f* *#f*) . **lî ja dóshī ja dógū bı bủ dóshī lî ja dósāq bı mảı dósāq dógū**)
+> (`(#f #f)` . **lî ja dóshī ja dógū bı bủ dóshī lî ja dósāq bı mảı dósāq dógū**)
 
 **mi Chain**
 > @**Heukueqche** if you examine this definition closely, you should get this:  
-> λ*a**b*. **bu**(*a*, λ*x*. **pai**(*x*, *bi*))  
+> λ*a b*. **bu**(*a*, λ*x*. **pai**(*x*, *b*))  

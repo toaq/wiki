@@ -1,5 +1,3 @@
-<title>Help for Nuogai</title>
-
 # Help for **mi Nuongair**
 
 Here's a short list of commands:

@@ -1,7 +1,3 @@
-<title>Gotchas</title>
-
-# Gotchas
-
 ## 1. Argument order
 The dictionary and the official documentation present content word definitions like this:
 

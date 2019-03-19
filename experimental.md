@@ -1,5 +1,3 @@
-<title>An Experimental Catalogue of Experimental Features</title>
-
 # An Experimental Catalogue of Experimental Features <br>**(sienbal pon mip Toam ga leontuer pox leoptuer)**
 
 Message me (Discord = `@uakci#4467`, email = `ciuak` dot `prog` at `gmail` dot `com`) if you want your (or anybody else's, for that matter) feature on this page, or if you'd like to amend or correct an existing entry, of even if you'd like me to elaborate on a given entry, especially when it's hard to understand.
@@ -91,8 +89,8 @@ Message me (Discord = `@uakci#4467`, email = `ciuak` dot `prog` at `gmail` dot `
   Currently, the only kind of term that can appear after a **RAIK** is an argument phrase (**DOP** or **DOT**). *la fagri,* though, proposes that all kinds of terms – this includes argument places other than the second (**FI DOP**), adverbs, or even subsequent preposition(al phrase)s – be allowed.
 
   Note that **RAIK RAIK** and **RAIK RAIF** would gain somewhat peculiar – nevertheless useful – semantics:
-  > `sentence...` **RAIK<sub>1</sub> RAIK<sub>2</sub>… RAIK<sub>n−1</sub> RAIF<sub>n</sub>** → **RAIN<sub>n</sub> RAIT<sub>n−1</sub>… RAIT<sub>2</sub> RAIT<sub>1</sub> lut** `sentence...` = `sentence...` **RAIF<sub>n</sub> RAIF<sub>n−1</sub>… RAIF<sub>2</sub> RAIF<sub>1</sub>** (afterthought subordination in reverse order to **RAIF**);
-  > `sentence...` **RAIK<sub>1</sub> RAIK<sub>2</sub>… RAIK<sub>n−1</sub> RAIK<sub>n</sub> DOP** → **RAIN<sub>n</sub> (go) DOP RAIT<sub>n−1</sub>… RAIT<sub>2</sub> RAIT<sub>1</sub> lut** `sentence...` = `sentence...` **RAIK<sub>n</sub> DOP RAIF<sub>n−1</sub> RAIF<sub>n−2</sub>… RAIF<sub>2</sub> RAIF<sub>1</sub>** (carrying the **RAIK<sub>n</sub> DOP** term down the (reversed) **RAIF** chain)
+  > `sentence...` **RAIK₁ RAIK₂… RAIKₐ₋₁ RAIFₐ** → **RAINₐ RAITₐ₋₁… RAIT₂ RAIT₁ lut** `sentence...` = `sentence...` **RAIFₐ RAIFₐ₋₁… RAIF₂ RAIF₁** (afterthought subordination in reverse order to **RAIF**);
+  > `sentence...` **RAIK₁ RAIK₂… RAIKₐ₋₁ RAIKₐ DOP** → **RAINₐ (go) DOP RAITₐ₋₁… RAIT₂ RAIT₁ lut** `sentence...` = `sentence...` **RAIKₐ DOP RAIFₐ₋₁ RAIFₐ₋₂… RAIF₂ RAIF₁** (carrying the **RAIKₐ DOP** term down the (reversed) **RAIF** chain)
 
   *la fagri* is currently wondering what **RAIK fi DOP** – with the 1st place marker **fi** specifically – could be taken to mean.
 
@@ -142,4 +140,4 @@ Message me (Discord = `@uakci#4467`, email = `ciuak` dot `prog` at `gmail` dot `
   
   This proposal could also be implemented with **ma**, **hi** and **co** as sentence prefixes (just like the current **ma**), but with the last two still binding **hoa**. The only difference would be the tone used for indirect questions (fifth – **hit** – instead of **hip** as above).
   
-  (Note: if you want to include both a direct and an indirect question in your sentence at the same time, you'll need to differentiate between the two **hoa**'s. Ideally there would be a separate word for **hi**'s and **co**'s **hoa**, but for now you can use **hoihoar** (‘outermost **hoa** in the sentence’): **Hin bun duan sub hip pun tuan muam hoap hoihoap moq** = ‘Who was the one you didn't know who had killed?’.)
+  (Note: if you want to include both a direct and an indirect question in your sentence at the same time, you'll need to differentiate between the two **hoa**'s. Ideally there would be a separate word for **hi**'s and **co**'s **hoa**, but for now you can use **hoihoar** (‘outermost **hoa** in the sentence’): **Hin bun duan sub hip pun tuan muam hoap hoiphoar moq** = ‘Who was the one you didn't know who had killed?’.)

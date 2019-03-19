@@ -1,7 +1,3 @@
-<title>Links</title>
-
-# Links
-
 ## Official
 [The homepage](http://www.toaq.org/)  
 [The official dictionary](http://www.toaq.org/dictionary/)  
