@@ -1051,3 +1051,69 @@ jãq bủ jỉa chủq báq ga lỏjībāq pỏq pó mí pảkī da. pî.
 Z MoToday at 1:16 PM
 Thanks, that's actually pretty insightful
 
+
+## On Corrections and Connections (huq)
+
+### 2019-03-20, #chiejio
+
+XylochoronYesterday at 11:14 PM
+Is there a word for making corrections
+Like “si” in Lojban,
+ShủaoYesterday at 11:26 PM
+huq?
+XylochoronYesterday at 11:33 PM
+Oh ok! Cool
+So that’s where you replace one word with another
+That seems very useful and works for what I’m trying to do, but
+Now I’m wonder if you really wanted to erase something but not replace it with a new thing how that would work shrugs
+Also I’m imagining some confusion in the details of how it works
+If you want to replace one whole phrase with another whole phrase,
+Like I mean what if you said an argument word but you meant to say a predicate word, could you do a replacement? How in the structure of huq would you say you want to replace an argument with a predicate, it seems the grammar might get tricky, I dunno
+Maybe anything in “huq” has to go in quotes? And the quotes are removed before replacement?
+HỏaqgīoToday at 12:06 AM
+I've just coined è, an interjection whose purpose is to erase "some" words
+It doesn't always erase the same number of words or even the same kind of phrase; it cues the listener to figure it out based on context
+Thus Hảı dủa jí, è súq would likely replace jí with súq, whereas Mỉu súq jâq dẻ, è, hi ráı pa mỉu súq jâq dẻ ráı moq? starts the sentence over.
+
+[...]
+
+### Summary
+
+HeukueqcheToday at 10:31 AM
+ok, I'm feeling like summarizing. On Xylochoron's idea, of correcting mistakes in speech. They wanted to correct arbitrary arguments and phrases, and huq does that job (by replacing the left hand argument with the right hand argument). But it is ambiguous with phrases and single arguments. So Hoamgior coined ek to erase words. Ek is not precise, it just cues the listener to replace based on context.
+
+## On Single Words and Interjections
+
+### 2019-03-21, #chiejio
+
+HỏaqgīoToday at 12:06 AM
+I've just coined è, an interjection whose purpose is to erase "some" words
+It doesn't always erase the same number of words or even the same kind of phrase; it cues the listener to figure it out based on context
+Thus Hảı dủa jí, è súq would likely replace jí with súq, whereas Mỉu súq jâq dẻ, è, hi ráı pa mỉu súq jâq dẻ ráı moq? starts the sentence over.
+XylochoronToday at 12:10 AM
+But every word in Toaq starts with a non-“q” consonant so that one can tell where a root starts and ends without listening for pauses, or...?
+HỏaqgīoToday at 12:10 AM
+Yes, there is that
+E.g. dẽ sounds exactly like dè   é if you don't pause
+But Hoemai has declared that the lone vowels, paired with tones, will be interjections, so I think they want us to just pause before them
+To make it unambiguous
+XylochoronToday at 12:12 AM
+Oh, ok!
+Gotta be careful picking them I guess, since there’s only 5 total :stuck_out_tongue:
+ShủaoToday at 12:13 AM
+I think that does work, given the tones, unambiguously.
+
+[...]
+
+XylochoronToday at 12:14 AM
+Can you have dipthong words, like “iao” by itself
+Or “iaq”
+
+[...]
+
+HeukueqcheToday at 10:31 AM
+from what I remember, Hoemai doesn't want tones to carry semantic meaning, only grammatical meaning.
+So, no matter what tone you use, hapi always means bee. But it can be a verb, a noun, a dependent clause, and any other kind of grammatical role
+seaqtaqToday at 10:34 AM
+He does seem to want this with interjections
+Just look at the m-interjections
