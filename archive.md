@@ -992,7 +992,7 @@ A nice game of Translation of the Day :)
 > (`(#f #f)` . **lî ja dóshī ja dógū bı bủ dóshī lî ja dósāq bı pảı dósāq dógū)**
 
 **mi Chain**
-> **bu *x₁* lî pai ja dó *x₂***, essentially  
+> **bu *x₁* lî pai ja dó *x₂* **, essentially  
 
 **Hỏaqgīo**
 > `%serial` **bu pai**
@@ -1018,3 +1018,36 @@ A nice game of Translation of the Day :)
 **mi Chain**
 > @**Heukueqche** if you examine this definition closely, you should get this:  
 > λ*a b*. **bu**(*a*, λ*x*. **pai**(*x*, *b*))  
+
+## On a Complete Grammar
+
+### 2019-03-19, #general
+
+Z MoToday at 11:18 AM
+Hey, I was wondering, how do you ensure that the grammar is actually flexible enough / covers all possibilities etc
+🍵Today at 11:25 AM
+what do you mean?
+Z MoToday at 11:45 AM
+How do you know you've finished the grammar?
+seaqtaqToday at 12:03 PM
+We don't, I mean can you ever know? We don't even think that is the case as we have lists of things we cannot do
+like measuring and telling time, the big ones
+Normally and seemingly someone has been doing irl things until their brain is like "Hey, somethings wrong with toaq, alert the others ASAP," or something similar. Another way of finding out that we just can't say something (the way we would like) is by doing translations
+But that includes grammar and vocab ofc
+HỏemāıToday at 12:07 PM
+The grammar is complete in that you can already say everything using the current available syntax.
+Making words for measurements is not a matter of grammar.
+seaqtaqToday at 12:08 PM
+>But that includes grammar and vocab ofc
+Ah nope, that doesnt work
+HỏemāıToday at 12:09 PM
+Serial predicates alone have unlimited expressive power.
+The only way in which the grammar could be incomplete at this point would be a missing terminator (if we find an ambiguity in the syntax).
+So, how do I know the grammar is finished? I know, because I know what my vision for the grammar was and I made the grammar exactly as I wanted.
+Writing the PEG grammar was one of the necessary steps from vision to reality.
+Since we have a working parser which can parse any sentence I would deem correct and rejects ones I would reject (with only very minor exceptions which are due to oversights or due to minor syntax/morphology changes between beta and now), we can use that as another measurement for completeness.
+nuogaiBOTToday at 1:00 PM
+jãq bủ jỉa chủq báq ga lỏjībāq pỏq pó mí pảkī da. pî.
+Z MoToday at 1:16 PM
+Thanks, that's actually pretty insightful
+
