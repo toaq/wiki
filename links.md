@@ -17,7 +17,7 @@
 ## Individuals
 
 ### Bruno's links
-[A list of links ;)](links)  
+[A list of links ;)](links.md)  
 
 ### Fagri's links
 [A true story on youtube](https://www.youtube.com/watch?v=9V6vMfR3rrk)  
