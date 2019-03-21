@@ -59,7 +59,7 @@
 [And its repo](https://github.com/toaq/miu)  
 [And its grammar](https://github.com/eaburns/toaq/blob/master/ast/toaq.peg)  
 
-‘Uncategorised thoughts’:
+‘Uncategorised thoughts’:  
 <http://itsapad.appspot.com/1jscbyjvpxc>  
 <http://itsapad.appspot.com/1k29vpzm680>  
 <http://itsapad.appspot.com/1kfcw4pyps0>  
