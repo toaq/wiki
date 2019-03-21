@@ -1193,3 +1193,16 @@ Thanks, that's actually pretty insightful
 
 **Hỏemāı**
 > Indeed, **tì** alone doesn't work.  
+
+## On Starting words with Vowels or glottal stops
+
+### 2019-03-21, #chiejio
+
+**Xylochoron**
+> I’m still curious if words like “iaq” will be an option at some point......  
+
+**Hỏemāı**
+> Words cannot begin with a vowel or glottal stop, because it would be ambiguous with the :t7: tone in environments such as **dẽ** vs **dè é**  
+> That's why the currently-proposed interjections have to be considered extra-linguistic or at least grammar-adjacent, the way that laughter or inflating your cheeks with air and the expelling it (to show relief) are meaningful signals, but not grammatical signals, but rather socio-cultural signals.  
+
+
