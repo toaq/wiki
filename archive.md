@@ -947,7 +947,7 @@ A nice game of Translation of the Day :)
 > would it be:  
 > **Bun chot jip bad ja dop biprar da** 
 
-**Hỏemāı**
+**mi Hỏemāı**
 > **bâq** is not correct  
 > If you want to expand the argument phrase (**báq bỉrā**) as well, then:  
 > **Bủ chô jí lú bảq bỉrā hóa da**
@@ -955,14 +955,14 @@ A nice game of Translation of the Day :)
 **mi Chain**
 > you didn’t expand it  
 
-**Hỏemāı**
+**mi Hỏemāı**
 > There is also another solution using binary **bủ**, but I see no point  
 > Yes true  
 
 **mi Chain**
 > **lú baq hóa lî bira ja dó**
 
-**Hỏemāı**
+**mi Hỏemāı**
 > Yes, that.  
 > **Bủ chô jí lú bảq hóa bîrā ja dó**
 > or **Bủ chô jí lú bảq hóa lî bỉrā ja dó**
@@ -978,10 +978,10 @@ A nice game of Translation of the Day :)
 **mi Chain**
 > (by the way, they are the same)  
 
-**Heukueqche**
+**mi Heukueqche**
 > might you tell us the binary solution, @**Hỏemāı** ? different versions of the same thing help a lot to learn  
 
-**Hỏemāı**
+**mi Hỏemāı**
 > It's what **miu** would give if it knew **cho**
 
 **mi Chain**
@@ -994,7 +994,7 @@ A nice game of Translation of the Day :)
 **mi Chain**
 > **bu *x₁* lî pai ja dó *x₂* **, essentially  
 
-**Hỏaqgīo**
+**mi Hỏaqgīo**
 > `%serial` **bu pai**
 
 **nuogai**
@@ -1024,13 +1024,13 @@ A nice game of Translation of the Day :)
 ### 2019-03-19, #general
 
 
-**Z Mo**
+**mi Z Mo**
 > Hey, I was wondering, how do you ensure that the grammar is actually flexible enough / covers all possibilities etc  
 
 **mi Chain**
 > what do you mean?  
 
-**Z Mo**
+**mi Z Mo**
 > How do you know you've finished the grammar?  
 
 **seaqtaq**
@@ -1039,7 +1039,7 @@ A nice game of Translation of the Day :)
 > Normally and seemingly someone has been doing irl things until their brain is like "Hey, somethings wrong with toaq, alert the others ASAP," or something similar. Another way of finding out that we just can't say something (the way we would like) is by doing translations  
 > But that includes grammar and vocab ofc  
 
-**Hỏemāı**
+**mi Hỏemāı**
 > The grammar is complete in that you can already say everything using the current available syntax.  
 > Making words for measurements is not a matter of grammar.  
  
@@ -1047,14 +1047,14 @@ A nice game of Translation of the Day :)
 > > But that includes grammar and vocab ofc  
 > Ah nope, that doesnt work  
 
-**Hỏemāı**
+**mi Hỏemāı**
 > Serial predicates alone have unlimited expressive power.  
 > The only way in which the grammar could be incomplete at this point would be a missing terminator (if we find an ambiguity in the syntax).  
 > So, how do I know the grammar is finished? I know, because I know what my vision for the grammar was and I made the grammar exactly as I wanted.  
 > Writing the PEG grammar was one of the necessary steps from vision to reality.  
 > Since we have a working parser which can parse any sentence I would deem correct and rejects ones I would reject (with only very minor exceptions which are due to oversights or due to minor syntax/morphology changes between beta and now), we can use that as another measurement for completeness.  
 
-**Z Mo**
+**mi Z Mo**
 Thanks, that's actually pretty insightful
 
 
@@ -1079,7 +1079,7 @@ Thanks, that's actually pretty insightful
 > Like I mean what if you said an argument word but you meant to say a predicate word, could you do a replacement? How in the structure of **huq** would you say you want to replace an argument with a predicate, it seems the grammar might get tricky, I dunno  
 > Maybe anything in **huq** has to go in quotes? And the quotes are removed before replacement?  
 
-**Hỏaqgīo**
+**mi Hỏaqgīo**
 > I've just coined **è**, an interjection whose purpose is to erase "some" words  
 > It doesn't always erase the same number of words or even the same kind of phrase; it cues the listener to figure it out based on context  
 > Thus **Hảı dủa jí, è súq** would likely replace **jí** with **súq**, whereas **Mỉu súq jâq dẻ, è, hi ráı pa mỉu súq jâq dẻ ráı moq?** starts the sentence over.  
@@ -1088,7 +1088,7 @@ Thanks, that's actually pretty insightful
 
 ### Summary
 
-**Heukueqche**
+**mi Heukueqche**
 > ok, I'm feeling like summarizing. On Xylochoron's idea, of correcting mistakes in speech. They wanted to correct arbitrary arguments and phrases, and **huq** does that job (by replacing the left hand argument with the right hand argument). But it is ambiguous with phrases and single arguments. So Hoamgior coined **ek** to erase words. **Ek** is not precise, it just cues the listener to replace based on context.  
 
 
@@ -1096,38 +1096,38 @@ Thanks, that's actually pretty insightful
 
 ### 2019-03-20, #chiejio
 
-**Hỏaqgīo**
+**mi Hỏaqgīo**
 > I've just coined **è**, an interjection whose purpose is to erase "some" words  
 > It doesn't always erase the same number of words or even the same kind of phrase; it cues the listener to figure it out based on context  
 > Thus **Hảı dủa jí, è súq** would likely replace **jí** with **súq**, whereas **Mỉu súq jâq dẻ, è, hi ráı pa mỉu súq jâq dẻ ráı moq?** starts the sentence over.  
 
-**Xylochoron**
+**mi Xylochoron**
 > But every word in Toaq starts with a non-“q” consonant so that one can tell where a root starts and ends without listening for pauses, or...?  
 
-**Hỏaqgīo**
+**mi Hỏaqgīo**
 > Yes, there is that  
 > E.g. **dẽ** sounds exactly like **dè   é** if you don't pause  
 > But Hoemai has declared that the lone vowels, paired with tones, will be interjections, so I think they want us to just pause before them  
 > To make it unambiguous  
 
-**Xylochoron**
+**mi Xylochoron**
 > Oh, ok!  
 > Gotta be careful picking them I guess, since there’s only 5 total :stuck_out_tongue:  
 
-**Shủao**
+**mi Shủao**
 > I think that does work, given the tones, unambiguously.  
 
 [...]
 
 
-**Xylochoron**
+**mi Xylochoron**
 > Can you have dipthong words, like “iao” by itself  
 > Or “iaq”  
 
 [...]
 
 
-**Heukueqche**
+**mi Heukueqche**
 > from what I remember, Hoemai doesn't want tones to carry semantic meaning, only grammatical meaning.  
 > So, no matter what tone you use, **hapi** always means bee. But it can be a verb, a noun, a dependent clause, and any other kind of grammatical role  
 
@@ -1137,14 +1137,13 @@ Thanks, that's actually pretty insightful
 
 [...]
 
-**Heukueqche**
+**mi Heukueqche**
 > [so, for (a u i o e, m l r) there are]  
-> (5+3)*7=56 interjections  
+> (5+3)\*7=56 interjections  
 
 ## On Pain
 
 ## 2019-03-20, #general
-
 
 **seaqtaq**
 > **mm**
@@ -1153,7 +1152,7 @@ Thanks, that's actually pretty insightful
 > That thing where you had to remember the inherent part of speech of every root in order to properly apply derivational affixes  
 > That sucked  
 
-**Hỏemāı**
+**mi Hỏemāı**
 > I see  
 > I  t h i n k  the reason for **noi** being defined as it is had to do with pain being in a specific place (?)  
 > like, **noi** is not just **lû noilie**  
@@ -1163,7 +1162,7 @@ Thanks, that's actually pretty insightful
 **seaqtaq**
 > Like the lojban word...  
 
-**Hỏemāı**
+**mi Hỏemāı**
 > The Lojban word has the experiencer in x1, which is what you want  
 > **noi**1 is the pain  
 > (as defined)  
@@ -1173,7 +1172,7 @@ Thanks, that's actually pretty insightful
 > But if **noi** were **noilie**, could you not just say **noige**?  
 > Or if you find **ge** you be ugly, the "base" of this and related words would be **ge** and we would from there apply **lie**  
 
-**Hỏemāı**
+**mi Hỏemāı**
 > I think **noıgē** would be like the impact of a hammer hitting your thumb  
 
 **seaqtaq**
@@ -1182,7 +1181,7 @@ Thanks, that's actually pretty insightful
 > Well, I do not rest my case as a solution hasn't been found if it is even possible, but I rest my case.  
 > for now ofc  
 
-**Hỏemāı**
+**mi Hỏemāı**
 > The case of "my leg hurts" remains problematic.  
 
 **seaqtaq**
@@ -1191,17 +1190,17 @@ Thanks, that's actually pretty insightful
 > My leg is the source of my pain? Using **ceoriaq** or something less physical?  
 > **nỏı tì gójī shỉaq**  
 
-**Hỏemāı**
+**mi Hỏemāı**
 > Indeed, **tì** alone doesn't work.  
 
 ## On Starting words with Vowels or glottal stops
 
 ### 2019-03-21, #chiejio
 
-**Xylochoron**
+**mi Xylochoron**
 > I’m still curious if words like “iaq” will be an option at some point......  
 
-**Hỏemāı**
+**mi Hỏemāı**
 > Words cannot begin with a vowel or glottal stop, because it would be ambiguous with the :t7: tone in environments such as **dẽ** vs **dè é**  
 > That's why the currently-proposed interjections have to be considered extra-linguistic or at least grammar-adjacent, the way that laughter or inflating your cheeks with air and the expelling it (to show relief) are meaningful signals, but not grammatical signals, but rather socio-cultural signals.  
 
@@ -1212,77 +1211,61 @@ Thanks, that's actually pretty insightful
 ### 2019-03-21, #general
 
 
-HeukueqcheToday at 12:34 PM
-flee from death: ?buinfar go cuab muam
-?buinfar go cuab muam
-nuogaiBOTToday at 12:34 PM
-bủıfā go cúaq mủaq
-SheireqToday at 12:35 PM
-I would go with just "rỉeq mủaq"
-possibly prefixed with "dảqmīq"
-HeukueqcheToday at 12:37 PM
-whoa, Riem muam is really good!
-I'll add it to my personal toaq list
-ah, dammib is because he lives forever
-ShủaoToday at 12:38 PM
-I don't know this "Vietoaq" thing yet so I can't read half of that.
-HeukueqcheToday at 12:38 PM
-? dammib Riem muam
-nuogaiBOTToday at 12:38 PM
-dảqmíq Rỉeq mủaq
-SheireqToday at 12:38 PM
-Yeah; lẻo rỉeq mủaq báq pỏq
-Keo bủ lẻo dảqmīq rỉeq mủaq báq pỏq
-HeukueqcheToday at 12:39 PM
-ill ask something in #chiejio
-HeukueqcheToday at 12:49 PM
-how do you say pun in toaq?
-deatoa?
-nuogaiBOTToday at 1:00 PM
-jỉa tẻoqkūq jí jí pa re shú gaı huq mí jỏqshāqkūe bi sỏq púa súao pảq kỏ shỉ ru pủ gú jěq sảo da. dảı pâqdōa cu pó mí pảsā tảı mỏı sa bú jỉq kủqshāo jí méahēo tỏaq mí hủıjūqpōq pũ rôaqrōaq tảı mỏı jí ka.
-HeukueqcheToday at 1:05 PM
-?leon riem muam bap pom
-nuogaiBOTToday at 1:05 PM
-lẻo rỉeq mủaq bá pỏq
-HeukueqcheToday at 1:05 PM
-*baq
-woud that mean "tries to avoid the many dead"
-or: avoids zombies?
-and how does the keo bun changes the phrase? "but doesnt' try to avoid the many dead"?
-HỏemāıToday at 1:07 PM
-I would suggest toalūaqsē for "pun / play on words"
-SheireqToday at 1:08 PM
-"Keo bủ lẻo dảqmīq rỉeq mủaq" = "But does-not try-to eternally avoid-satisfying-the-property-of being-dead"
-HeukueqcheToday at 1:09 PM
-oh, thanks!
-SheireqToday at 1:11 PM
-For "avoid" in the sense of "avoid the zombies" you'd want "rỉeq tỉjūi" = "☆ avoids being near / in the vicinity of ☆"
-HeukueqcheToday at 1:12 PM
-ah, I see. You extend the meaning with a serial predicate
-?Riem tinjuir muam pom ni
-nuogaiBOTToday at 1:13 PM
-Rỉeq tỉjūı mủaq pỏq nı
-HeukueqcheToday at 1:14 PM
-would that mean "avoids being near to the dead person over there"?
-SheireqToday at 1:14 PM
-I think it means "☆ avoids being near ☆ and being a dead person"
-Rỉeq tỉjūi ☆ ní mủaq pỏq = ☆ avoids being near that dead person
-HeukueqcheToday at 1:16 PM
-?Riem tinjuir jip nip muam pom
-nuogaiBOTToday at 1:16 PM
-Rỉeq tỉjūı jí ní mủaq pỏq
-HeukueqcheToday at 1:16 PM
-"I avoid being near that dead person"?
-SheireqToday at 1:17 PM
-Jẻo da!
-HeukueqcheToday at 1:17 PM
-: D thanks!
-?oh, yeah, nip is a predicate, and its argument is the serial predicate muam pom
-nuogaiBOTToday at 1:19 PM
-oh, yeah, ní is a predıcate, and its argumẻt is the serīaq predıcate mủaq pỏq
-HỏemāıToday at 1:19 PM
-More like, ní mủaq pỏq is what you get when you apply the :t2: tone to the serial predicate nỉ mủaq pỏq
-HeukueqcheToday at 1:20 PM
-oh! I see!!! thanks. You first make the serial predicate, and then you transform it into a noun XD thanks!!!!
+
+**mi Heukueqche**
+> flee from death: **bủıfā go cúaq mủaq**  
+
+**mi Sheireq**
+> I would go with just **"rỉeq mủaq"**  
+> possibly prefixed with **"dảqmīq"**  
+
+**mi Heukueqche**
+> **dảqmíq Rỉeq mủaq**  
+
+**mi Sheireq**
+> Yeah; **lẻo rỉeq mủaq báq pỏq**  
+> **Keo bủ lẻo dảqmīq rỉeq mủaq báq pỏq**  
+
+**mi Heukueqche**
+> **lẻo rỉeq mủaq báq pỏq**  
+> woud that mean "tries to avoid the many dead"  
+> or: avoids zombies?  
+> and how does the keo bun changes the phrase? "but doesnt' try to avoid the many dead"?  
+
+**mi Sheireq**
+> **"Keo bủ lẻo dảqmīq rỉeq mủaq"** = "But does-not try-to eternally avoid-satisfying-the-property-of being-dead"  
+
+**mi Sheireq**
+> For "avoid" in the sense of "avoid the zombies" you'd want **"rỉeq tỉjūi"** = "☆ avoids being near / in the vicinity of ☆"  
+
+**mi Heukueqche**
+> ah, I see. You extend the meaning with a serial predicate  
+> **Rỉeq tỉjūı mủaq pỏq nı**  
+
+**mi Heukueqche**
+> would that mean "avoids being near to the dead person over there"?  
+
+**mi Sheireq**
+> I think it means "☆ avoids being near ☆ and being a dead person"  
+> **Rỉeq tỉjūi ☆ ní mủaq pỏq** = ☆ avoids being near that dead person  
+
+**mi Heukueqche**
+> **Rỉeq tỉjūı jí ní mủaq pỏq**  
+
+**mi Heukueqche**
+> "I avoid being near that dead person"?  
+
+**mi Sheireq**
+> Jẻo da!  
+
+**mi Heukueqche**
+> : D thanks!  
+> oh, yeah, **ní** is a predıcate, and its argument is the serial predıcate **mủaq pỏq**  
+
+**mi Hỏemāı**
+> More like, **ní mủaq pỏq** is what you get when you apply the :t2: tone to the serial predicate **nỉ mủaq pỏq**  
+
+**mi Heukueqche**
+> oh! I see!!! thanks. You first make the serial predicate, and then you transform it into a noun XD thanks!!!!  
 
 
