@@ -970,7 +970,7 @@ A nice game of Translation of the Day :)
 **mi Chain**
 > `%nui` **bu pai go baq rai**
 
-**nuogaiBOT**
+**nuogai**
 > (`(#f)` . **lî ja dóshī bı bủ dóshī lî ja dógū bı pảı dógū sa lí ja dósāq bı bảq dósāq lî ja dójō bı rảı dójō**)  
 
 […]
@@ -988,7 +988,7 @@ A nice game of Translation of the Day :)
 > see what it does with **bu pai**
 > `%nui` **bu pai**
 
-**nuogaiBOT**
+**nuogai**
 > (`(#f #f)` . **lî ja dóshī ja dógū bı bủ dóshī lî ja dósāq bı pảı dósāq dógū)**
 
 **mi Chain**
@@ -997,7 +997,7 @@ A nice game of Translation of the Day :)
 **Hỏaqgīo**
 > `%serial` **bu pai**
 
-**nuogaiBOT**
+**nuogai**
 > <`[c c]` (**bủ A pâi ja dó B**)>  
 
 **mi Chain**
@@ -1006,13 +1006,13 @@ A nice game of Translation of the Day :)
 > however these are equal by virtue of the ‘JEO-frame equivalence’ we all know and love  
 > `%serial` **bu mai**
 
-**nuogaiBOT**
+**nuogai**
 > <`[c c]` (**bủ A mâi ja dó B**)>  
 
 **mi Chain**
 > `%nui` **bu mai**
 
-**nuogaiBOT**
+**nuogai**
 > (`(#f #f)` . **lî ja dóshī ja dógū bı bủ dóshī lî ja dósāq bı mảı dósāq dógū**)
 
 **mi Chain**
@@ -1023,32 +1023,38 @@ A nice game of Translation of the Day :)
 
 ### 2019-03-19, #general
 
-Z MoToday at 11:18 AM
-Hey, I was wondering, how do you ensure that the grammar is actually flexible enough / covers all possibilities etc
-🍵Today at 11:25 AM
-what do you mean?
-Z MoToday at 11:45 AM
-How do you know you've finished the grammar?
-seaqtaqToday at 12:03 PM
-We don't, I mean can you ever know? We don't even think that is the case as we have lists of things we cannot do
-like measuring and telling time, the big ones
-Normally and seemingly someone has been doing irl things until their brain is like "Hey, somethings wrong with toaq, alert the others ASAP," or something similar. Another way of finding out that we just can't say something (the way we would like) is by doing translations
-But that includes grammar and vocab ofc
-HỏemāıToday at 12:07 PM
-The grammar is complete in that you can already say everything using the current available syntax.
-Making words for measurements is not a matter of grammar.
-seaqtaqToday at 12:08 PM
->But that includes grammar and vocab ofc
-Ah nope, that doesnt work
-HỏemāıToday at 12:09 PM
-Serial predicates alone have unlimited expressive power.
-The only way in which the grammar could be incomplete at this point would be a missing terminator (if we find an ambiguity in the syntax).
-So, how do I know the grammar is finished? I know, because I know what my vision for the grammar was and I made the grammar exactly as I wanted.
-Writing the PEG grammar was one of the necessary steps from vision to reality.
-Since we have a working parser which can parse any sentence I would deem correct and rejects ones I would reject (with only very minor exceptions which are due to oversights or due to minor syntax/morphology changes between beta and now), we can use that as another measurement for completeness.
-nuogaiBOTToday at 1:00 PM
-jãq bủ jỉa chủq báq ga lỏjībāq pỏq pó mí pảkī da. pî.
-Z MoToday at 1:16 PM
+
+**Z Mo**
+> Hey, I was wondering, how do you ensure that the grammar is actually flexible enough / covers all possibilities etc  
+
+**mi Chain**
+> what do you mean?  
+
+**Z Mo**
+> How do you know you've finished the grammar?  
+
+**seaqtaq**
+> We don't, I mean can you ever know? We don't even think that is the case as we have lists of things we cannot do  
+> like measuring and telling time, the big ones  
+> Normally and seemingly someone has been doing irl things until their brain is like "Hey, somethings wrong with toaq, alert the others ASAP," or something similar. Another way of finding out that we just can't say something (the way we would like) is by doing translations  
+> But that includes grammar and vocab ofc  
+
+**Hỏemāı**
+> The grammar is complete in that you can already say everything using the current available syntax.  
+> Making words for measurements is not a matter of grammar.  
+ 
+ **seaqtaq**
+> > But that includes grammar and vocab ofc  
+> Ah nope, that doesnt work  
+
+**Hỏemāı**
+> Serial predicates alone have unlimited expressive power.  
+> The only way in which the grammar could be incomplete at this point would be a missing terminator (if we find an ambiguity in the syntax).  
+> So, how do I know the grammar is finished? I know, because I know what my vision for the grammar was and I made the grammar exactly as I wanted.  
+> Writing the PEG grammar was one of the necessary steps from vision to reality.  
+> Since we have a working parser which can parse any sentence I would deem correct and rejects ones I would reject (with only very minor exceptions which are due to oversights or due to minor syntax/morphology changes between beta and now), we can use that as another measurement for completeness.  
+
+**Z Mo**
 Thanks, that's actually pretty insightful
 
 
@@ -1056,64 +1062,134 @@ Thanks, that's actually pretty insightful
 
 ### 2019-03-20, #chiejio
 
-XylochoronYesterday at 11:14 PM
-Is there a word for making corrections
-Like “si” in Lojban,
-ShủaoYesterday at 11:26 PM
-huq?
-XylochoronYesterday at 11:33 PM
-Oh ok! Cool
-So that’s where you replace one word with another
-That seems very useful and works for what I’m trying to do, but
-Now I’m wonder if you really wanted to erase something but not replace it with a new thing how that would work shrugs
-Also I’m imagining some confusion in the details of how it works
-If you want to replace one whole phrase with another whole phrase,
-Like I mean what if you said an argument word but you meant to say a predicate word, could you do a replacement? How in the structure of huq would you say you want to replace an argument with a predicate, it seems the grammar might get tricky, I dunno
-Maybe anything in “huq” has to go in quotes? And the quotes are removed before replacement?
-HỏaqgīoToday at 12:06 AM
-I've just coined è, an interjection whose purpose is to erase "some" words
-It doesn't always erase the same number of words or even the same kind of phrase; it cues the listener to figure it out based on context
-Thus Hảı dủa jí, è súq would likely replace jí with súq, whereas Mỉu súq jâq dẻ, è, hi ráı pa mỉu súq jâq dẻ ráı moq? starts the sentence over.
+**mi Xylochoron**
+> Is there a word for making corrections  
+> Like “si” in Lojban,  
+
+**mi Shủao**
+> **huq**?  
+
+**mi Xylochoron**
+> Oh ok! Cool  
+> So that’s where you replace one word with another  
+> That seems very useful and works for what I’m trying to do, but  
+> Now I’m wonder if you really wanted to erase something but not replace it with a new thing how that would work shrugs  
+> Also I’m imagining some confusion in the details of how it works  
+> If you want to replace one whole phrase with another whole phrase,  
+> Like I mean what if you said an argument word but you meant to say a predicate word, could you do a replacement? How in the structure of **huq** would you say you want to replace an argument with a predicate, it seems the grammar might get tricky, I dunno  
+> Maybe anything in **huq** has to go in quotes? And the quotes are removed before replacement?  
+
+**Hỏaqgīo**
+> I've just coined **è**, an interjection whose purpose is to erase "some" words  
+> It doesn't always erase the same number of words or even the same kind of phrase; it cues the listener to figure it out based on context  
+> Thus **Hảı dủa jí, è súq** would likely replace **jí** with **súq**, whereas **Mỉu súq jâq dẻ, è, hi ráı pa mỉu súq jâq dẻ ráı moq?** starts the sentence over.  
 
 [...]
 
 ### Summary
 
-HeukueqcheToday at 10:31 AM
-ok, I'm feeling like summarizing. On Xylochoron's idea, of correcting mistakes in speech. They wanted to correct arbitrary arguments and phrases, and huq does that job (by replacing the left hand argument with the right hand argument). But it is ambiguous with phrases and single arguments. So Hoamgior coined ek to erase words. Ek is not precise, it just cues the listener to replace based on context.
+**Heukueqche**
+> ok, I'm feeling like summarizing. On Xylochoron's idea, of correcting mistakes in speech. They wanted to correct arbitrary arguments and phrases, and **huq** does that job (by replacing the left hand argument with the right hand argument). But it is ambiguous with phrases and single arguments. So Hoamgior coined **ek** to erase words. **Ek** is not precise, it just cues the listener to replace based on context.  
+
 
 ## On Single Words and Interjections
 
-### 2019-03-21, #chiejio
+### 2019-03-20, #chiejio
 
-HỏaqgīoToday at 12:06 AM
-I've just coined è, an interjection whose purpose is to erase "some" words
-It doesn't always erase the same number of words or even the same kind of phrase; it cues the listener to figure it out based on context
-Thus Hảı dủa jí, è súq would likely replace jí with súq, whereas Mỉu súq jâq dẻ, è, hi ráı pa mỉu súq jâq dẻ ráı moq? starts the sentence over.
-XylochoronToday at 12:10 AM
-But every word in Toaq starts with a non-“q” consonant so that one can tell where a root starts and ends without listening for pauses, or...?
-HỏaqgīoToday at 12:10 AM
-Yes, there is that
-E.g. dẽ sounds exactly like dè   é if you don't pause
-But Hoemai has declared that the lone vowels, paired with tones, will be interjections, so I think they want us to just pause before them
-To make it unambiguous
-XylochoronToday at 12:12 AM
-Oh, ok!
-Gotta be careful picking them I guess, since there’s only 5 total :stuck_out_tongue:
-ShủaoToday at 12:13 AM
-I think that does work, given the tones, unambiguously.
+**Hỏaqgīo**
+> I've just coined **è**, an interjection whose purpose is to erase "some" words  
+> It doesn't always erase the same number of words or even the same kind of phrase; it cues the listener to figure it out based on context  
+> Thus **Hảı dủa jí, è súq** would likely replace **jí** with **súq**, whereas **Mỉu súq jâq dẻ, è, hi ráı pa mỉu súq jâq dẻ ráı moq?** starts the sentence over.  
 
-[...]
+**Xylochoron**
+> But every word in Toaq starts with a non-“q” consonant so that one can tell where a root starts and ends without listening for pauses, or...?  
 
-XylochoronToday at 12:14 AM
-Can you have dipthong words, like “iao” by itself
-Or “iaq”
+**Hỏaqgīo**
+> Yes, there is that  
+> E.g. **dẽ** sounds exactly like **dè   é** if you don't pause  
+> But Hoemai has declared that the lone vowels, paired with tones, will be interjections, so I think they want us to just pause before them  
+> To make it unambiguous  
+
+**Xylochoron**
+> Oh, ok!  
+> Gotta be careful picking them I guess, since there’s only 5 total :stuck_out_tongue:  
+
+**Shủao**
+> I think that does work, given the tones, unambiguously.  
 
 [...]
 
-HeukueqcheToday at 10:31 AM
-from what I remember, Hoemai doesn't want tones to carry semantic meaning, only grammatical meaning.
-So, no matter what tone you use, hapi always means bee. But it can be a verb, a noun, a dependent clause, and any other kind of grammatical role
-seaqtaqToday at 10:34 AM
-He does seem to want this with interjections
-Just look at the m-interjections
+
+**Xylochoron**
+> Can you have dipthong words, like “iao” by itself  
+> Or “iaq”  
+
+[...]
+
+
+**Heukueqche**
+> from what I remember, Hoemai doesn't want tones to carry semantic meaning, only grammatical meaning.  
+> So, no matter what tone you use, **hapi** always means bee. But it can be a verb, a noun, a dependent clause, and any other kind of grammatical role  
+
+**seaqtaq**
+> He does seem to want this with interjections  
+> Just look at the m-interjections  
+
+[...]
+
+**Heukueqche**
+> [so, for (a u i o e, m l r) there are]  
+> (5+3)*7=56 interjections  
+
+## On Pain
+
+## 2019-03-20, #general
+
+
+**seaqtaq**
+> **mm**
+> Well on to the next thing while I have your heliosic attention, the **kieq vs **kieqge** and **noi vs **noilie** thing brings me terrible memories of esperanto  
+> Ah yes, reversability!  
+> That thing where you had to remember the inherent part of speech of every root in order to properly apply derivational affixes  
+> That sucked  
+
+**Hỏemāı**
+> I see  
+> I  t h i n k  the reason for **noi** being defined as it is had to do with pain being in a specific place (?)  
+> like, **noi** is not just **lû noilie**  
+> or **noilietue**  
+> but the locus etc  
+
+**seaqtaq**
+> Like the lojban word...  
+
+**Hỏemāı**
+> The Lojban word has the experiencer in x1, which is what you want  
+> **noi**1 is the pain  
+> (as defined)  
+> With **noi** you can say "a pain"  
+
+**seaqtaq**
+> But if **noi** were **noilie**, could you not just say **noige**?  
+> Or if you find **ge** you be ugly, the "base" of this and related words would be **ge** and we would from there apply **lie**  
+
+**Hỏemāı**
+> I think **noıgē** would be like the impact of a hammer hitting your thumb  
+
+**seaqtaq**
+> **m̄**  
+> m̌akes sense  
+> Well, I do not rest my case as a solution hasn't been found if it is even possible, but I rest my case.  
+> for now ofc  
+
+**Hỏemāı**
+> The case of "my leg hurts" remains problematic.  
+
+**seaqtaq**
+> Oh you are still here, and I agree. Maybe something like **huatī**?  
+> Just made that up on the spot so it may not exactly be the best, but I am now trying to think of a definition for that.  
+> My leg is the source of my pain? Using **ceoriaq** or something less physical?  
+> **nỏı tì gójī shỉaq**  
+
+**Hỏemāı**
+> Indeed, **tì** alone doesn't work.  
