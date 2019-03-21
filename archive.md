@@ -1206,3 +1206,83 @@ Thanks, that's actually pretty insightful
 > That's why the currently-proposed interjections have to be considered extra-linguistic or at least grammar-adjacent, the way that laughter or inflating your cheeks with air and the expelling it (to show relief) are meaningful signals, but not grammatical signals, but rather socio-cultural signals.  
 
 
+## On Voldemort, Zombies, and Cereal Killers.
+## Or, Running from the dead, and inflecting serial predicates.
+
+### 2019-03-21, #general
+
+
+HeukueqcheToday at 12:34 PM
+flee from death: ?buinfar go cuab muam
+?buinfar go cuab muam
+nuogaiBOTToday at 12:34 PM
+bủıfā go cúaq mủaq
+SheireqToday at 12:35 PM
+I would go with just "rỉeq mủaq"
+possibly prefixed with "dảqmīq"
+HeukueqcheToday at 12:37 PM
+whoa, Riem muam is really good!
+I'll add it to my personal toaq list
+ah, dammib is because he lives forever
+ShủaoToday at 12:38 PM
+I don't know this "Vietoaq" thing yet so I can't read half of that.
+HeukueqcheToday at 12:38 PM
+? dammib Riem muam
+nuogaiBOTToday at 12:38 PM
+dảqmíq Rỉeq mủaq
+SheireqToday at 12:38 PM
+Yeah; lẻo rỉeq mủaq báq pỏq
+Keo bủ lẻo dảqmīq rỉeq mủaq báq pỏq
+HeukueqcheToday at 12:39 PM
+ill ask something in #chiejio
+HeukueqcheToday at 12:49 PM
+how do you say pun in toaq?
+deatoa?
+nuogaiBOTToday at 1:00 PM
+jỉa tẻoqkūq jí jí pa re shú gaı huq mí jỏqshāqkūe bi sỏq púa súao pảq kỏ shỉ ru pủ gú jěq sảo da. dảı pâqdōa cu pó mí pảsā tảı mỏı sa bú jỉq kủqshāo jí méahēo tỏaq mí hủıjūqpōq pũ rôaqrōaq tảı mỏı jí ka.
+HeukueqcheToday at 1:05 PM
+?leon riem muam bap pom
+nuogaiBOTToday at 1:05 PM
+lẻo rỉeq mủaq bá pỏq
+HeukueqcheToday at 1:05 PM
+*baq
+woud that mean "tries to avoid the many dead"
+or: avoids zombies?
+and how does the keo bun changes the phrase? "but doesnt' try to avoid the many dead"?
+HỏemāıToday at 1:07 PM
+I would suggest toalūaqsē for "pun / play on words"
+SheireqToday at 1:08 PM
+"Keo bủ lẻo dảqmīq rỉeq mủaq" = "But does-not try-to eternally avoid-satisfying-the-property-of being-dead"
+HeukueqcheToday at 1:09 PM
+oh, thanks!
+SheireqToday at 1:11 PM
+For "avoid" in the sense of "avoid the zombies" you'd want "rỉeq tỉjūi" = "☆ avoids being near / in the vicinity of ☆"
+HeukueqcheToday at 1:12 PM
+ah, I see. You extend the meaning with a serial predicate
+?Riem tinjuir muam pom ni
+nuogaiBOTToday at 1:13 PM
+Rỉeq tỉjūı mủaq pỏq nı
+HeukueqcheToday at 1:14 PM
+would that mean "avoids being near to the dead person over there"?
+SheireqToday at 1:14 PM
+I think it means "☆ avoids being near ☆ and being a dead person"
+Rỉeq tỉjūi ☆ ní mủaq pỏq = ☆ avoids being near that dead person
+HeukueqcheToday at 1:16 PM
+?Riem tinjuir jip nip muam pom
+nuogaiBOTToday at 1:16 PM
+Rỉeq tỉjūı jí ní mủaq pỏq
+HeukueqcheToday at 1:16 PM
+"I avoid being near that dead person"?
+SheireqToday at 1:17 PM
+Jẻo da!
+HeukueqcheToday at 1:17 PM
+: D thanks!
+?oh, yeah, nip is a predicate, and its argument is the serial predicate muam pom
+nuogaiBOTToday at 1:19 PM
+oh, yeah, ní is a predıcate, and its argumẻt is the serīaq predıcate mủaq pỏq
+HỏemāıToday at 1:19 PM
+More like, ní mủaq pỏq is what you get when you apply the :t2: tone to the serial predicate nỉ mủaq pỏq
+HeukueqcheToday at 1:20 PM
+oh! I see!!! thanks. You first make the serial predicate, and then you transform it into a noun XD thanks!!!!
+
+
