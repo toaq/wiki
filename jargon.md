@@ -39,7 +39,7 @@ property:
 > Equivalent to the lambda expression
 > > lambda x: x eats the banana
 >
-> [*from [Serial Predicates](https://docs.google.com/document/d/1xgt7dPGWSBHx7LTQzl_JqMrti-hgmk1zVA_gCY9TPfM/edit)*]
+> \[*from [Serial Predicates](https://docs.google.com/document/d/1xgt7dPGWSBHx7LTQzl_JqMrti-hgmk1zVA_gCY9TPfM/edit)*\]
 
 grammar:
 > The rules that parsers use to deconstruct the sentences.
@@ -72,3 +72,9 @@ Template slots:
 
 Transitivity:
 See *On Transitive and intransitive verbs* in [the archive](archive)
+
+Number Notation:
+> Predicates have arguments, and the arguments can be identified by their position like this:  
+> predicate1, predicate2, predicate3  
+> for example:  
+> > koe1, koe2, koe3, koe4 are the first, second, third, and fouth arguments.
