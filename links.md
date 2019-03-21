@@ -60,10 +60,10 @@
 [And its grammar](https://github.com/eaburns/toaq/blob/master/ast/toaq.peg)  
 
 ‘Uncategorised thoughts’:
-<http://itsapad.appspot.com/1jscbyjvpxc>
-<http://itsapad.appspot.com/1k29vpzm680>
-<http://itsapad.appspot.com/1kfcw4pyps0>
-<http://itsapad.appspot.com/1ka8kmo7ta8>
+<http://itsapad.appspot.com/1jscbyjvpxc>  
+<http://itsapad.appspot.com/1k29vpzm680>  
+<http://itsapad.appspot.com/1kfcw4pyps0>  
+<http://itsapad.appspot.com/1ka8kmo7ta8>  
 
 ### Uakci's links
 [Nuigui (Smallcorn) – Tiny Toaq serial predicate engine](https://github.com/ciuak/nuigui)  
