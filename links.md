@@ -30,7 +30,7 @@
 [An AutoKey script](https://github.com/acotis/autokey-toaq-tones)  
 
 ### Hoemai's links
-[Toaq Gold](http://toaq.org/todo/)
+[Toaq Gold](http://toaq.org/todo/)  
 [Toaq with Ease](http://toaq.org/TwE/)  
 [The document for editing Toaq with Ease](https://docs.google.com/document/d/1DXPhnUXNREGbKbsHLr56QroBXcrdaruQRj2koriE1DU/edit?usp=sharing)  
 [A Toaq interactive keyboard](http://toaq.org/letters/)  
