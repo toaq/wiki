@@ -582,7 +582,6 @@ A nice game of Translation of the Day :)
 > ’I don't know him who did that’ – I don't know the person  
 > ’I don't know who did that’ – I don't know the answer to the question: ‘Who did that?’  
 > <https://en.wikipedia.org/wiki/Content_clause#Interrogative_content_clauses>  
-
 **mi Shủao**
 > Are there not less nonsensical methods with the same effect?  
 
@@ -855,6 +854,40 @@ A nice game of Translation of the Day :)
 > > I’m okay with **dua** being polymorphic like it seems to be now  
 >
 > exactly what I was saying.  
+
+### 2018-11-02, #general
+
+**mi Jelca**
+> can someone explain to me **hi** and **ku**? I understand **hi** when the illocution is **moq**. but what is **hi** with **da**? is this an indirect question, similar to how **ma** becomes an indirect question with **da**? I assume so. But then what is **ku**? in **Báorēo nủq ku** seems to be used for an indirect question instead of **hi** for the sentence "He went and listened, and then noticed that it was the birds who were chattering together"  
+> is this just another instance of my inability to understand {**mi kau**}?  
+**mi Hỏemāı**
+> I think so :smiley:  
+> **ku** marks focus.  
+> **hi** without **moq** (or **hi** in subordinate statements) is used for indirect questions  
+> There are a few examples of that on the website  
+
+**mi Jelca**
+> ok. I'll hunt them down and see if i can't finally figure it out
+> **Kủaq kỉe ka**  
+
+**mi Hỏemāı**
+> As for **ku**, compare **Mủaqtūa jí rúaı** "I killed the royal". to **Mủaqtūa ku jí rúaı** "It was me who killed the royal". In the latter, it is already known that somebody killed the royal, but it is new information that it was me.  
+
+**mi Jelca**
+> What would **Mủaqtūa hi jí rúai** translate to?
+**mi Hỏemāı**
+> "Which me killed the royal?" ("which thing that is me")  
+> (with **moq**, to make the question)  
+> **hi** without **moq** is usually not used at top level  
+> The **moq** can be implicit (dropped) in casual speech  
+> Or when you're just saying a fragment  
+> For example, **tîo dẻ for** "How beautiful"  
+> Anyway, **hı** is for asking "which/what" things fill a place.  
+> (Like {mo'oi} in Lojban)  
+> (Except in Lojban, {mo'oi} and all the other question words automatically add an interrogative illocution to the sentence, which is why when you don't want that, you have to undo it with {kau} after the question word.  
+
+**mi Jelca**
+> **Kủaq kỉe ka**
 
 ## the N-Word Stone
 
@@ -1383,3 +1416,5 @@ Thanks, that's actually pretty insightful
 > However exclusive recursive prefixation seems to be uncommon or rare  
 > There has been a survey of 55 languages belonging to 28 language families, for which «Recursive derivational prefixation appears to occur in languages in which there is recursive derivational suffixation, with three exceptions in the study sample: Lakhota, Māori and Yoruba (the last of which does not use suffixation for word-formation processes) show recursive prefixation but not recursive suffixation.»  
 > "Word-Formation in the World's Languages: A Typological Survey"  
+
+
