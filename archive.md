@@ -1372,3 +1372,14 @@ Thanks, that's actually pretty insightful
 **mi Heukueqche**
 > oh! I see!!! thanks. You first make the serial predicate, and then you transform it into a noun XD thanks!!!!  
 
+
+## On the Branching of compounds and serials
+
+### 2019-02-07, #general
+
+**mi Mỏılūq**
+> As for why Toaq compound words are left-branching (i.e. suffixal) whereas serials are right-branching, I don't know; it is the same order as in Lojban compound words and it's also probably for naturalistichood, as most languages with a single affixation direction are suffixal, such as Mandarin or Japanese.  
+> There are many natlangs that use both recursive suffixation and recursive prefixation at the same time  
+> However exclusive recursive prefixation seems to be uncommon or rare  
+> There has been a survey of 55 languages belonging to 28 language families, for which «Recursive derivational prefixation appears to occur in languages in which there is recursive derivational suffixation, with three exceptions in the study sample: Lakhota, Māori and Yoruba (the last of which does not use suffixation for word-formation processes) show recursive prefixation but not recursive suffixation.»  
+> "Word-Formation in the World's Languages: A Typological Survey"  
