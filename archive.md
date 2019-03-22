@@ -110,31 +110,29 @@ This file contains most of the common frames.
 > also, what does it mean for a slot to be concrete?  
 
 **mi Hỏaqgīo**
-> Hello from the land of keyboards larger than a grape  
 > In general, slot types do define what type of argument goes into a slot  
-> So, a 1 slot always takes a property with one hole, like lî mảı ja dó súq  
-> And a 2 slot always takes a property with two holes, like lî pai ja dó ja dó  
-> And a 0 slot takes a proposition, like lû koaq hó  
+> So, a 1 slot always takes a property with one hole, like **lî mảı ja dó súq**  
+> And a 2 slot always takes a property with two holes, like **lî pai ja dó ja dó**  
+> And a 0 slot takes a proposition, like **lû koaq hó**  
 > But a c slot can take anything -- properties, propositions, persons, potatoes  
 > The defining characteristic of a c slot is that, during the formation of serial predicates, it's treated as though it isn't an abstraction of any kind  
-> In dua mai, you end up with mâi (a proposition) being inserted into the second slot of dua, because that slot is a 0 slot  
-> In de mai, nothing is inserted into anything, because de's slot is a c slot  
-> %serial dua mai  
+> In **dua mai**, you end up with **mâi** (a proposition) being inserted into the second slot of **dua**, because that slot is a 0 slot  
+> In **de mai**, nothing is inserted into anything, because **de**'s slot is a c slot  
+> %serial **dua mai**  
 
 **mi Nuogai**
 > <[c c c] (dủa A mâi B C)>  
 
 **mi Hỏaqgīo**
-> %serial de mai  
+> %serial **de mai**  
 
 **mi Nuogai**
-> <[c c] (lủ to ru dẻ A na to mải A B)>  
+> <[c c] (**lủ to ru dẻ A na to mải A B**)>  
 
 **mi Heukueqche**
 > ok... I'll tell you what I got:  
 > Slot types restrict what kind of argument goes into it (whether property, proposition, relation, etc...)  
 > and the c type is the most permissive of them all, it can take any type?  
-> though I'm confused then, why doesn't mai go into de's slot  
 
 **mi Hỏaqgīo**
 > Those sentences are true  
@@ -151,13 +149,13 @@ This file contains most of the common frames.
 ### 2019-03-21, #general
 
 **mi Heukueqche**
-> mỉo lỉ bỏkē ní da  
+> **mỉo lỉ bỏkē ní da**  
 > would that mean "that is a blue cow"?  
 
 **mi Hỏaqgīo**
-> "Miorēo bokē ní da"  
-> mio is the color blue, miorēo is something that's blue  
-> No need for li  
+> **"Miorēo bokē ní da"**  
+> **mio** is the color blue, **miorēo** is something that's blue  
+> No need for **li**  
 > (Words with just one slot of the c type combine with a simple AND: blue-and-a-cow = "blue cow")  
 
 ## On ternary predicates
