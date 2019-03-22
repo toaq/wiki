@@ -136,46 +136,52 @@ This file contains most of the common frames.
 > It means "I am awake while he/she is walking"
 
 ### 2019-03-21, #general
-HeukueqcheToday at 9:41 PM
-the list of candidate monosyllables has been added to links.md in the repo
-under community
-?Dun luait hom juek suq da
-nuogaiBOTToday at 9:45 PM
-Dủ lûaı hỏq jùe suq da
-HeukueqcheToday at 9:45 PM
-that would mean "it seems funny that you think so"?
-oh, sorry, I made a mistake in the tones
-? Dun luait hob jiek sub da
-nuogaiBOTToday at 9:46 PM
-Dủ lûaı hóq jìe súq da
-SheireqToday at 10:05 PM
-%miu Dủ lûaı hóq jìe súq da
-nuogaiBOTToday at 10:05 PM
-({Dủ [lûaı <hóq (jìe súq)>]} da)
-[℩𝐻 : hoq(𝐻)] [℩𝑆 : suq(𝑆)] du({jie({luai(𝐻)}, 𝑆)}).
-SheireqToday at 10:07 PM
-"It seems that you judge it (hoq) to be funny"
-jìe gets the lûai phrase as its first argument; you could also write the sentence as "Dủ jîe lûai hóq na súq da"
-%miu Dủ jîe lûai hóq na súq da
-nuogaiBOTToday at 10:10 PM
-({Dủ [jîe <(lûaı hóq na) súq>]} da)
-[℩𝐻 : hoq(𝐻)] [℩𝑆 : suq(𝑆)] du({jie({luai(𝐻)}, 𝑆)}).
-HeukueqcheToday at 10:10 PM
-oooh yeah, because of the low tone
-wouldn't the first argument to jie be Du luai hoq
-how do you distinguish what part of the sentence becomes the first argument?
-SheireqToday at 10:16 PM
-Take a look at example CCL.3 on toaq.org; basically, adverbs and prepositions take as their argument the content/relative clause (or entire sentence) that in which they're directly contained
-So in this case, if you wanted jìe to get dû lûai hóq as its argument, you would say Dủ lûai hóq na jìe súq da
-%miu Dủ lûai hóq na jìe súq da
-nuogaiBOTToday at 10:19 PM
-({Dủ [<lûaı hóq na> <jìe súq>]} da)
-[℩𝐻 : hoq(𝐻)] [℩𝑆 : suq(𝑆)] jie({du({luai(𝐻)})}, 𝑆).
-SheireqToday at 10:20 PM
-(I love miu so much)
-HeukueqcheToday at 10:20 PM
-I'm starting to like it too, since I'm slowly learning to interpret its output XD
-so, the na finishes clauses. and the :t6: takes as argument the phrase that contains it. So, since jie is contained in the luai hoq jie clause, it takes the head of that clause. If I wanted it to take the whole sentence, I would have to end the clause earlier with a na, and put the jie after it
+
+**mi Heukueqche**
+> This would mean "it seems funny that you think so"?  
+> Dủ lûaı hóq jìe súq da  
+
+**mi Sheireq**
+> %miu Dủ lûaı hóq jìe súq da  
+
+**mi Nuogai**
+> **({Dủ [lûaı <hóq (jìe súq)>]} da)**  
+> [℩𝐻 : hoq(𝐻)] [℩𝑆 : suq(𝑆)] du({jie({luai(𝐻)}, 𝑆)}).  
+
+**mi Sheireq**
+> "It seems that you judge it (**hoq**) to be funny"  
+> **jìe** gets the **lûai** phrase as its first argument; you could also write the sentence as **"Dủ jîe lûai hóq na súq da"**  
+> %miu **Dủ jîe lûai hóq na súq da**  
+
+**mi Nuogai**
+> **({Dủ [jîe <(lûaı hóq na) súq>]} da)**  
+> [℩𝐻 : hoq(𝐻)] [℩𝑆 : suq(𝑆)] du({jie({luai(𝐻)}, 𝑆)}).  
+
+**mi Heukueqche**
+> oooh yeah, because of the low tone  
+> wouldn't the first argument to **jie** be **Du luai hoq**  
+> how do you distinguish what part of the sentence becomes the first argument?  
+**mi Sheireq**
+> Take a look at example CCL.3 on toaq.org; basically, adverbs and prepositions take as their argument the content/relative clause (or entire sentence) that in which they're directly contained  
+> So in this case, if you wanted **jìe** to get **dû lûai hóq** as its argument, you would say **Dủ lûai hóq na jìe súq da**  
+> %miu **Dủ lûai hóq na jìe súq da**  
+
+**mi Nuogai**
+> **({Dủ [<lûaı hóq na> <jìe súq>]} da)**  
+> [℩𝐻 : hoq(𝐻)] [℩𝑆 : suq(𝑆)] jie({du({luai(𝐻)})}, 𝑆).  
+
+**mi Sheireq**
+> (I love miu so much)  
+
+**mi Heukueqche**
+> I'm starting to like it too, since I'm slowly learning to interpret its output XD  
+> so, the **na** finishes clauses. and the :t6: takes as argument the phrase that contains it. So, since **jie** is contained in the **luai hoq jie** clause, it takes the head of that clause. If I wanted it to take the whole sentence, I would have to end the clause earlier with a **na**, and put the **jie** after it  
+
+**mi Sheireq**
+> exactly
+
+**mi Heukueqche**
+> Thanks!!
 
 
 ## On the necessity of the tones
