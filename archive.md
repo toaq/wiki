@@ -103,6 +103,63 @@ This file contains most of the common frames.
 > A frame is just a common signature that lots of words fit into. For example, the LEO frame is the signature [(c) (c 1)] – predicates whose 1-ary meaning takes just a concrete object and whose 2-ary meaning takes a concrete object and a property (a proposition with one open slot).  
 > Math stuff here, don't look if you're already feeling overwhelmed 😃 : There's also the special case of the JEO frame, which has the signature [(0) (c 1)] and the special requirement that, for a predicate *P* to be in the JEO frame, it must satisfy the equivalence *P*(*x*, *y*) = *P*(**jeo**(*x*, *y*)).  We also have the MAO frame, which is defined as predicates which have a signature of [(0) (c 1)] but which don't satisfy that equality, which is named the "JEO-frame Equivalence"
 
+### 2019-03-21, #general
+
+
+**mi Heukueqche**
+> also, what does it mean for a slot to be concrete?  
+
+**mi Hỏaqgīo**
+> Hello from the land of keyboards larger than a grape  
+> In general, slot types do define what type of argument goes into a slot  
+> So, a 1 slot always takes a property with one hole, like lî mảı ja dó súq  
+> And a 2 slot always takes a property with two holes, like lî pai ja dó ja dó  
+> And a 0 slot takes a proposition, like lû koaq hó  
+> But a c slot can take anything -- properties, propositions, persons, potatoes  
+> The defining characteristic of a c slot is that, during the formation of serial predicates, it's treated as though it isn't an abstraction of any kind  
+> In dua mai, you end up with mâi (a proposition) being inserted into the second slot of dua, because that slot is a 0 slot  
+> In de mai, nothing is inserted into anything, because de's slot is a c slot  
+> %serial dua mai  
+
+**mi Nuogai**
+> <[c c c] (dủa A mâi B C)>  
+
+**mi Hỏaqgīo**
+> %serial de mai  
+
+**mi Nuogai**
+> <[c c] (lủ to ru dẻ A na to mải A B)>  
+
+**mi Heukueqche**
+> ok... I'll tell you what I got:  
+> Slot types restrict what kind of argument goes into it (whether property, proposition, relation, etc...)  
+> and the c type is the most permissive of them all, it can take any type?  
+> though I'm confused then, why doesn't mai go into de's slot  
+
+**mi Hỏaqgīo**
+> Those sentences are true  
+> But the real essence of slot types is that they define what happens during serialization  
+> The 0 type sucks up a proposition, while the c type doesn't  
+
+**mi Heukueqche**
+> so its a dynamic thing. WHEN you're making serial predicates, all this slot type comes into play  
+> so, frames are a way to define the characteristics of serial predicates?  
+
+**mi Hỏaqgīo**
+> Yes  
+
+### 2019-03-21, #general
+
+**mi Heukueqche**
+> mỉo lỉ bỏkē ní da  
+> would that mean "that is a blue cow"?  
+
+**mi Hỏaqgīo**
+> "Miorēo bokē ní da"  
+> mio is the color blue, miorēo is something that's blue  
+> No need for li  
+> (Words with just one slot of the c type combine with a simple AND: blue-and-a-cow = "blue cow")  
+
 ## On ternary predicates
 
 ### 2019-03-13, #general
