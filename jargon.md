@@ -41,6 +41,9 @@ property:
 >
 > \[*from [Serial Predicates](https://docs.google.com/document/d/1xgt7dPGWSBHx7LTQzl_JqMrti-hgmk1zVA_gCY9TPfM/edit)*\]
 
+Polysemous:
+> Of a word, that has more than one meaning.
+
 grammar:
 > The rules that parsers use to deconstruct the sentences.
 > Different parsers use slightly different grammars, which might result in different parses (although wider discrepancies can be found in semantics).
