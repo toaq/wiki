@@ -1418,3 +1418,85 @@ Thanks, that's actually pretty insightful
 > "Word-Formation in the World's Languages: A Typological Survey"  
 
 
+## On the -Ables and Utterance
+
+
+
+**mi Heukueqche**
+> how are "**choakiu**" and "**choadeq**" different?  
+
+[...]
+
+**mi Hỏemāı**
+> Anyway, the difference between "**choakīu**" and "**choadēq**":  
+> deq means "to have an ability" -- the first place is an actor, the second place the ability.  
+> "-**kīu**" means "-able" -- there is no actor place. It is more of a passivizer.   
+
+> "**choakīu**" means "to be utterable", while "**choadēq**" means "to be able to utter".  
+> A sound is utterable ("**choakīu**"). I am able to utter (it) ("**choadēq**")  
+> "-**kīu**" is a common suffix. "-**dēq**" is not.  
+> If you just want to get "to be able to do X", you can get that with a serial predicate, so there is no need to make a new compound  
+> E.g., "**dẻq chỏa**"  
+
+**mi Heukueqche**
+> then "**choadeq**" would be the correct one, because @Níucūq wanted to ask if they were able to utter "**shifuediaihei**"  
+> how would you say: can I say X?  
+
+**mi Hỏemāı**
+> **Mả dẻq chỏa jí X moq**  
+> (if say == utter, otherwise use **kuq**)  
+
+**mi seaqtaq**
+> Other alternatives would be **man din choan (kum) jip x moq** and **man tiaon kud jip x moq**, depending on what you want, which is most likely not **deq**  
+> **dỉ** is yet another type of can/able  
+
+**mi Heukueqche**
+> so there are three ables: "**kiu**", "**deq**", and "**di**"  
+
+**mi Hỏemāı**
+> You can add **daı** to the list  
+
+**mi seaqtaq**
+> Thinking just about how you can translate to  
+> **suain sub**!  
+
+**mi Heukueqche**
+> The Ables: "**kiu**", "**dai**", "**deq**", "**di**"  
+
+**mi Hỏemāı**
+> Another "able" would be "**juaodūe**"  
+> "You can't do that" -> "Doing this would be illegal"  
+
+**mi Heukueqche**
+> so, -unable  
+> law-correct  
+
+**mi Hỏemāı**
+> Well, you could also phrase it positively: "Can I take this?" -> "Is it legal to take this?"  
+
+**mi Hỏemāı**
+> So what seaqtaq said was correct, and important. You wouldn't want to use "**deq**" for most of those situations  
+> since it is not about ability, but about other things  
+
+**mi Heukueqche**
+> about what is good or bad, about correctness?  
+
+**mi seaqtaq**
+> And don't forget about "**tiao**" e.g. "Would it be appropriate if I said this"  
+
+**mi Hỏemāı**
+> possibility, legalilty, appropriateness  
+
+**mi Heukueqche**
+> I see, thanks!  
+
+**mi Mỏılūq**
+> Another meaning of -able is closer to "**tıao**"  
+> as in "edible" (eat-able)  
+> and "acceptable" maybe  
+
+**mi Heukueqche**
+> The Ables: "**dai**", "**deq**", "**di**",  "**juaodue**", "**kiu**", "**tiao**"  
+
+**mi Mỏılūq**
+> in a serial, "**tıao**" wouldn't be exactly the appropriate word tho  
