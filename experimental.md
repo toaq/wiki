@@ -84,13 +84,13 @@ Message me (Discord = `@uakci#4467`, email = `ciuak` dot `prog` at `gmail` dot `
 
 * <b>**RAIK** with arbitrary terms</b> <a name="rai6term" href="#rai6term">#</a> *by* la fagri; *status* draft (01/2019, first ideas on 30/09/2018)
   Consider the so-far interpretation of **RAIK DOP** terms:
-  > `sentence...` **RAIK DOP (da)** → **RAIN lut** `sentence...` **na DOP (da)**
+  > `sentence…` **RAIK DOP (da)** → **RAIN lut** `sentence…` **na DOP (da)**
 
   Currently, the only kind of term that can appear after a **RAIK** is an argument phrase (**DOP** or **DOT**). *la fagri,* though, proposes that all kinds of terms – this includes argument places other than the second (**FI DOP**), adverbs, or even subsequent preposition(al phrase)s – be allowed.
 
   Note that **RAIK RAIK** and **RAIK RAIF** would gain somewhat peculiar – nevertheless useful – semantics:
-  > `sentence...` **RAIK₁ RAIK₂… RAIKₐ₋₁ RAIFₐ** → **RAINₐ RAITₐ₋₁… RAIT₂ RAIT₁ lut** `sentence...` = `sentence...` **RAIFₐ RAIFₐ₋₁… RAIF₂ RAIF₁** (afterthought subordination in reverse order to **RAIF**);
-  > `sentence...` **RAIK₁ RAIK₂… RAIKₐ₋₁ RAIKₐ DOP** → **RAINₐ (go) DOP RAITₐ₋₁… RAIT₂ RAIT₁ lut** `sentence...` = `sentence...` **RAIKₐ DOP RAIFₐ₋₁ RAIFₐ₋₂… RAIF₂ RAIF₁** (carrying the **RAIKₐ DOP** term down the (reversed) **RAIF** chain)
+  > `sentence…` **RAIK₁ RAIK₂… RAIKₐ₋₁ RAIFₐ** → **RAINₐ RAITₐ₋₁… RAIT₂ RAIT₁ lut** `sentence…` = `sentence…` **RAIFₐ RAIFₐ₋₁… RAIF₂ RAIF₁** (afterthought subordination in reverse order to **RAIF**);
+  > `sentence…` **RAIK₁ RAIK₂… RAIKₐ₋₁ RAIKₐ DOP** → **RAINₐ (go) DOP RAITₐ₋₁… RAIT₂ RAIT₁ lut** `sentence…` = `sentence…` **RAIKₐ DOP RAIFₐ₋₁ RAIFₐ₋₂… RAIF₂ RAIF₁** (carrying the **RAIKₐ DOP** term down the (reversed) **RAIF** chain)
 
   *la fagri* is currently wondering what **RAIK fi DOP** – with the 1st place marker **fi** specifically – could be taken to mean.
 

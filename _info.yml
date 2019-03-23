@@ -1,0 +1,46 @@
+index.md:
+  title: Toaq Wiki
+experimental.md:
+  title: "An Experimental Catalogue of Experimental Features"
+  cat: "uakci's resources"
+  suppress_title: true
+  desc: a comprehensive catalogue of the most important experimental grammar proposals made so far, alongside miscellany.
+vietoaq.md:
+  title: Vietoaq
+  cat: "uakci's resources"
+nuogai.md:
+  title: Help for Nuogai
+  cat: "uakci's resources"
+  suppress_title: true
+Xmodmap.Xmodmap:
+  title: Xmodmap
+  cat: "uakci's resources"
+  desc: a helpful file for inputting tones on (most) Linux machines.
+freq.txt:
+  title: A frequency list (Feb 2019)
+
+links.md:
+  title: Links
+  cat: "Bruno's library"
+  desc: a list of links to many other resources.
+archive.md:
+  title: Archive
+  cat: "Bruno's library"
+  desc: the biggest file of archived Discord discussions.
+jargon.md:
+  title: Jargon
+  cat: "Bruno's library"
+gotchas.md:
+  title: Gotchas
+  cat: "Bruno's library"
+
+formatting.md:
+  title: "This Wiki's formatting rules"
+  cat: "Meta"
+
+dotsies.md:
+  title: Dotsies test
+  cat: "I'm a test"
+jax.md:
+  title: MathJax example
+  cat: "I'm a test"
