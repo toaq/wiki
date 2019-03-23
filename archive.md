@@ -492,7 +492,7 @@ A nice game of Translation of the Day :)
 
 **mi Chain**
 > clever, **Lim hu mi**  
-> I do understand why you’d choose days-\>months instead of weeks-\>months  
+> I do understand why you’d choose days→months instead of weeks→months  
 > because the latter would be ill-defined  
 
 **mi Lim**
