@@ -230,7 +230,7 @@ This file contains most of the common frames.
 
 **mi Heunkuelcher**
 > I'm starting to like it too, since I'm slowly learning to interpret its output XD  
-> so, the **na** finishes clauses. and the :t6: takes as argument the phrase that contains it. So, since **jie** is contained in the **luai hoq jie** clause, it takes the head of that clause. If I wanted it to take the whole sentence, I would have to end the clause earlier with a **na**, and put the **jie** after it  
+> so, the **na** finishes clauses. and the ◌̀ takes as argument the phrase that contains it. So, since **jie** is contained in the **luai hoq jie** clause, it takes the head of that clause. If I wanted it to take the whole sentence, I would have to end the clause earlier with a **na**, and put the **jie** after it  
 
 **mi Sheinrel**
 > exactly
@@ -861,7 +861,7 @@ A nice game of Translation of the Day :)
 > can someone explain to me **hi** and **ku**? I understand **hi** when the illocution is **moq**. but what is **hi** with **da**? is this an indirect question, similar to how **ma** becomes an indirect question with **da**? I assume so. But then what is **ku**? in **Báorēo nủq ku** seems to be used for an indirect question instead of **hi** for the sentence "He went and listened, and then noticed that it was the birds who were chattering together"  
 > is this just another instance of my inability to understand {**mi kau**}?  
 **mi Hỏemāı**
-> I think so :smiley:  
+> I think so 😃
 > **ku** marks focus.  
 > **hi** without **moq** (or **hi** in subordinate statements) is used for indirect questions  
 > There are a few examples of that on the website  
@@ -1249,7 +1249,7 @@ Thanks, that's actually pretty insightful
 
 **mi Sainlorhorral**
 > Oh, ok!  
-> Gotta be careful picking them I guess, since there’s only 5 total :stuck_out_tongue:  
+> Gotta be careful picking them I guess, since there’s only 5 total 😛
 
 **mi Shủao**
 > I think that does work, given the tones, unambiguously.  
@@ -1338,7 +1338,7 @@ Thanks, that's actually pretty insightful
 > I’m still curious if words like “iaq” will be an option at some point......  
 
 **mi Hỏemāı**
-> Words cannot begin with a vowel or glottal stop, because it would be ambiguous with the :t7: tone in environments such as **dẽ** vs **dè é**  
+> Words cannot begin with a vowel or glottal stop, because it would be ambiguous with the ◌̃ tone in environments such as **dẽ** vs **dè é**  
 > That's why the currently-proposed interjections have to be considered extra-linguistic or at least grammar-adjacent, the way that laughter or inflating your cheeks with air and the expelling it (to show relief) are meaningful signals, but not grammatical signals, but rather socio-cultural signals.  
 
 
@@ -1400,7 +1400,7 @@ Thanks, that's actually pretty insightful
 > oh, yeah, **ní** is a predıcate, and its argument is the serial predıcate **mủaq pỏq**  
 
 **mi Hỏemāı**
-> More like, **ní mủaq pỏq** is what you get when you apply the :t2: tone to the serial predicate **nỉ mủaq pỏq**  
+> More like, **ní mủaq pỏq** is what you get when you apply the ◌́ tone to the serial predicate **nỉ mủaq pỏq**  
 
 **mi Heunkuelcher**
 > oh! I see!!! thanks. You first make the serial predicate, and then you transform it into a noun XD thanks!!!!  
