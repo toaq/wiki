@@ -1,10 +1,12 @@
 index.md:
   title: Toaq Wiki
+  desc: The Toaq Wiki.
+
 experimental.md:
   title: "An Experimental Catalogue of Experimental Features"
   cat: "uakci's resources"
   suppress_title: true
-  desc: a comprehensive catalogue of the most important experimental grammar proposals made so far, alongside miscellany.
+  desc: A comprehensive catalogue of the most important experimental grammar proposals made so far, alongside miscellany.
 vietoaq.md:
   title: Vietoaq
   cat: "uakci's resources"
@@ -15,18 +17,18 @@ nuogai.md:
 Xmodmap.Xmodmap:
   title: Xmodmap
   cat: "uakci's resources"
-  desc: a helpful file for inputting tones on (most) Linux machines.
+  desc: A helpful file for inputting tones on (most) Linux machines.
 freq.txt:
   title: A frequency list (Feb 2019)
 
 links.md:
   title: Links
   cat: "Bruno's library"
-  desc: a list of links to many other resources.
+  desc: A list of links to many other resources.
 archive.md:
   title: Archive
   cat: "Bruno's library"
-  desc: the biggest file of archived Discord discussions.
+  desc: The biggest file of archived Discord discussions.
 jargon.md:
   title: Jargon
   cat: "Bruno's library"
