@@ -106,7 +106,7 @@ This file contains most of the common frames.
 ### 2019-03-21, #general
 
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > also, what does it mean for a slot to be concrete?  
 
 **mi Hỏaqgīo**
@@ -120,16 +120,16 @@ This file contains most of the common frames.
 > In **de mai**, nothing is inserted into anything, because **de**'s slot is a c slot  
 > %serial **dua mai**  
 
-**mi Nuogai**
+**mi Nuongair**
 > <[c c c] (dủa A mâi B C)>  
 
 **mi Hỏaqgīo**
 > %serial **de mai**  
 
-**mi Nuogai**
+**mi Nuongair**
 > <[c c] (**lủ to ru dẻ A na to mải A B**)>  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > ok... I'll tell you what I got:  
 > Slot types restrict what kind of argument goes into it (whether property, proposition, relation, etc...)  
 > and the c type is the most permissive of them all, it can take any type?  
@@ -139,7 +139,7 @@ This file contains most of the common frames.
 > But the real essence of slot types is that they define what happens during serialization  
 > The 0 type sucks up a proposition, while the c type doesn't  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > so its a dynamic thing. WHEN you're making serial predicates, all this slot type comes into play  
 > so, frames are a way to define the characteristics of serial predicates?  
 
@@ -148,7 +148,7 @@ This file contains most of the common frames.
 
 ### 2019-03-21, #general
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > **mỉo lỉ bỏkē ní da**  
 > would that mean "that is a blue cow"?  
 
@@ -192,50 +192,50 @@ This file contains most of the common frames.
 
 ### 2019-03-21, #general
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > This would mean "it seems funny that you think so"?  
 > Dủ lûaı hóq jìe súq da  
 
-**mi Sheireq**
+**mi Sheinrel**
 > %miu Dủ lûaı hóq jìe súq da  
 
-**mi Nuogai**
+**mi Nuongair**
 > **({Dủ [lûaı <hóq (jìe súq)>]} da)**  
 > [℩𝐻 : hoq(𝐻)] [℩𝑆 : suq(𝑆)] du({jie({luai(𝐻)}, 𝑆)}).  
 
-**mi Sheireq**
+**mi Sheinrel**
 > "It seems that you judge it (**hoq**) to be funny"  
 > **jìe** gets the **lûai** phrase as its first argument; you could also write the sentence as **"Dủ jîe lûai hóq na súq da"**  
 > %miu **Dủ jîe lûai hóq na súq da**  
 
-**mi Nuogai**
+**mi Nuongair**
 > **({Dủ [jîe <(lûaı hóq na) súq>]} da)**  
 > [℩𝐻 : hoq(𝐻)] [℩𝑆 : suq(𝑆)] du({jie({luai(𝐻)}, 𝑆)}).  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > oooh yeah, because of the low tone  
 > wouldn't the first argument to **jie** be **Du luai hoq**  
 > how do you distinguish what part of the sentence becomes the first argument?  
-**mi Sheireq**
+**mi Sheinrel**
 > Take a look at example CCL.3 on toaq.org; basically, adverbs and prepositions take as their argument the content/relative clause (or entire sentence) that in which they're directly contained  
 > So in this case, if you wanted **jìe** to get **dû lûai hóq** as its argument, you would say **Dủ lûai hóq na jìe súq da**  
 > %miu **Dủ lûai hóq na jìe súq da**  
 
-**mi Nuogai**
+**mi Nuongair**
 > **({Dủ [<lûaı hóq na> <jìe súq>]} da)**  
 > [℩𝐻 : hoq(𝐻)] [℩𝑆 : suq(𝑆)] jie({du({luai(𝐻)})}, 𝑆).  
 
-**mi Sheireq**
+**mi Sheinrel**
 > (I love miu so much)  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > I'm starting to like it too, since I'm slowly learning to interpret its output XD  
 > so, the **na** finishes clauses. and the :t6: takes as argument the phrase that contains it. So, since **jie** is contained in the **luai hoq jie** clause, it takes the head of that clause. If I wanted it to take the whole sentence, I would have to end the clause earlier with a **na**, and put the **jie** after it  
 
-**mi Sheireq**
+**mi Sheinrel**
 > exactly
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > Thanks!!
 
 
@@ -271,21 +271,21 @@ You make ordinal compounds by concatenating the number name with the (**ko**) pr
 
 ### 2019-03-16, #general
 
-**mi Heunkueltuar**
+**mi Heunkuelcher**
 > jajajaja
 
 **mi Chain**
 > hahahaha\*  
 > we’re in Toaqistan, sir
 
-**mi Heunkueltuar**
+**mi Heunkuelcher**
 > sorry, my spanish showed XD
 
 **mi Chain**
 > you don’t necessarily want to laugh with the lambda variable quantifier  
 > unless it’s **ja dó ja dó ja dó ja dó**
 
-**mi Heunkueltuar**
+**mi Heunkuelcher**
 > would that mean XXXX?
 
 **mi Chain**
@@ -298,7 +298,7 @@ You make ordinal compounds by concatenating the number name with the (**ko**) pr
 
 […]
 
-**mi Heunkueltuar**
+**mi Heunkuelcher**
 > O.O, I didn't realize that each **ja dop** would represent a different variable
 
 **mi Chain**
@@ -314,7 +314,7 @@ You make ordinal compounds by concatenating the number name with the (**ko**) pr
 **mi Chain**
 > **ja** binds variables
 
-**mi Heunkueltuar**
+**mi Heunkuelcher**
 > oooh, I see! and the variables are predicates?  
 > like **poq** and **do**?  
 
@@ -325,7 +325,7 @@ You make ordinal compounds by concatenating the number name with the (**ko**) pr
 > if you say **ja póq**, then **poq** won’t refer to [the bound variable]  
 > but **ja dó** will[, because **do** is a variable predicate]  
 
-**mi Heunkueltuar**
+**mi Heunkuelcher**
 > oh, its the lambda calculus  
 > ok, the first **ja** means the x, the second **ja** means the y  
 > I don't understand what **ja dop** refers to
@@ -350,7 +350,7 @@ You make ordinal compounds by concatenating the number name with the (**ko**) pr
 ## On Transitive and intransitive verbs
 ### 2019-03-16, #general
 
-**mi Heunkueltuar**
+**mi Heunkuelcher**
 > why are there two different words for "gather", one transitive (**tua tijeq**) and the other intransitive?  
 > wait, I think I misunderstood the idea. is it the **tua** that makes **tijeq** transitive?  
 **mi Hoamgior**
@@ -359,7 +359,7 @@ You make ordinal compounds by concatenating the number name with the (**ko**) pr
 > The second kind has a place for a person making the things gather  
 > And yes, it's **tua** that makes it so  
 
-**mi Heunkueltuar**
+**mi Heunkuelcher**
 > I see, thanks!  
 > could you use the intransitive **tijeq** in a toaq sentence?  
 
@@ -385,7 +385,7 @@ You make ordinal compounds by concatenating the number name with the (**ko**) pr
 ## On inflecting serials
 ### 2019-03-16, #general
 
-**mi Heunkueltuar**
+**mi Heunkuelcher**
 > I'm having trouble parsing this sentence  
 > > **Chỏ jí báq nảo da.**
 
@@ -394,7 +394,7 @@ You make ordinal compounds by concatenating the number name with the (**ko**) pr
 **mi Hoenmair**
 > Probably the báq nảo part  
 
-**mi Heunkueltuar**
+**mi Heunkuelcher**
 > exactly  
 
 **mi Hoenmair**
@@ -405,7 +405,7 @@ You make ordinal compounds by concatenating the number name with the (**ko**) pr
 > **bảq nảo** → **báq nảo**  
 > This works with every tone  
 
-**mi Heunkueltuar**
+**mi Heunkuelcher**
 > so **bảq nảo** is a serial predicate, and a serial predicate can be ?conjugated? to any of the tones, and the first verb of the serial predicate gets the target tone, but the others keep the falling tone.  
 
 **mi Hoenmair**
@@ -419,7 +419,7 @@ You make ordinal compounds by concatenating the number name with the (**ko**) pr
 ## On inflection
 ### 2019-03-16, #general
 
-**mi Heunkueltuar**
+**mi Heunkuelcher**
 > what's the name of applying a tone to a word?  
 
 **mi Seamtal**
@@ -857,7 +857,7 @@ A nice game of Translation of the Day :)
 
 ### 2018-11-02, #general
 
-**mi Jelca**
+**mi Lom**
 > can someone explain to me **hi** and **ku**? I understand **hi** when the illocution is **moq**. but what is **hi** with **da**? is this an indirect question, similar to how **ma** becomes an indirect question with **da**? I assume so. But then what is **ku**? in **Báorēo nủq ku** seems to be used for an indirect question instead of **hi** for the sentence "He went and listened, and then noticed that it was the birds who were chattering together"  
 > is this just another instance of my inability to understand {**mi kau**}?  
 **mi Hỏemāı**
@@ -866,14 +866,14 @@ A nice game of Translation of the Day :)
 > **hi** without **moq** (or **hi** in subordinate statements) is used for indirect questions  
 > There are a few examples of that on the website  
 
-**mi Jelca**
+**mi Lom**
 > ok. I'll hunt them down and see if i can't finally figure it out
 > **Kủaq kỉe ka**  
 
 **mi Hỏemāı**
 > As for **ku**, compare **Mủaqtūa jí rúaı** "I killed the royal". to **Mủaqtūa ku jí rúaı** "It was me who killed the royal". In the latter, it is already known that somebody killed the royal, but it is new information that it was me.  
 
-**mi Jelca**
+**mi Lom**
 > What would **Mủaqtūa hi jí rúai** translate to?
 **mi Hỏemāı**
 > "Which me killed the royal?" ("which thing that is me")  
@@ -886,7 +886,7 @@ A nice game of Translation of the Day :)
 > (Like {mo'oi} in Lojban)  
 > (Except in Lojban, {mo'oi} and all the other question words automatically add an interrogative illocution to the sentence, which is why when you don't want that, you have to undo it with {kau} after the question word.  
 
-**mi Jelca**
+**mi Lom**
 > **Kủaq kỉe ka**
 
 ## the N-Word Stone
@@ -898,7 +898,7 @@ A nice game of Translation of the Day :)
 
 ### 2019-03-17, #general
 
-**mi seaqtaq**
+**mi Seamtal**
 > It is a copypasta  
 > namely this:  
 > I’m gonna say the n word… NUTRI-GRAIN BLUEBERRY BREAKFAST GRANOLA BARS (it’s okay, my cousin’s friend has a brother who’s girlfriend has another cousin that has a childhood friend who grew up to work with a guy that has a dog who was originally from an owner that has a husband who’s father met a guy in the military that had a college roommate who actually has a half nephew who has a step brother who has a girlfriend that growing up in a small town had a friendly neighbor who had a 8 year old daughter who had a 4th grade teacher that had a student that actually had an older sister that had an old friend from preschool who’s mom had a 2nd cousin who was in a short international film that starred a guy who’s sister has a niece that has a boyfriend who had a grandmother who has an ex husband that worked in a bakery and sold bread to this guy that had a barber who learned to cut hair from this guy who has a sister that moved to Madagascar and actually knows a local cashier that had a best friend who has a son that has a health insurance provider who’s ran by a guy that’s cousins with a girl that was born into a rich family with a butler who has a 16 year old son that has a trigonometry class with this girl he likes that has a grandfather who was a professional golfer that once got second place behind a guy that was dating this girl that bought a used car from a guy that has a brother who is a pilot and flys for an airline which is surprisingly responsible for the death of some guy who got in a plane crash that before he died had a girlfriend who was an aspiring musician that made a song that this one guy tweeted about that also has a cousin who has a best friend who’s very religious and has a pastor that actually eats nutri-grain breakfast bars. Oh and who’s black)  
@@ -910,7 +910,7 @@ A nice game of Translation of the Day :)
 
 ### 2019-03-18, #general
 
-**mi Heunkueltuar**
+**mi Heunkuelcher**
 > in the meantime, I have another question about this sentence **Chỏ jí báq nảo da.**  
 > I don't understand why the bab is necesary to say "I like water"  
 > wouldn't **Chon jip naop da** be enough?  
@@ -921,14 +921,14 @@ A nice game of Translation of the Day :)
 > So if you live by a lake, that would be appropriate to say you like the water in the lake  
 > Or if somebody serves you water and asks how it is  
 
-**mi Heunkueltuar**
+**mi Heunkuelcher**
 > ah, its THE water (only the one referred to at the moment. This water), not water in general  
 
 **mi Hỏaqgīo**
 > Yes  
 > (Though not necessarily "this" water. It could be in a cup on the table or it could be on Mars; **náo** just means "the water (the water we're currently talking about, not some random water)")  
 
-**mi Heunkueltuar**
+**mi Heunkuelcher**
 > like, the UofD?  
 > well, A specific water  
 > and is that different from the waters?  
@@ -939,13 +939,13 @@ A nice game of Translation of the Day :)
 > If there are multiple waters in the UoD, then náo is all of them  
 > If we are talking about three lakes then **chỏ jí náo da** means I like the three lakes  
 
-**mi Heunkueltuar**
+**mi Heunkuelcher**
 > so the distinction is between the abstract idea of water, and any concrete instance of water  
 
 **mi Hỏaqgīo**
 > Yes, that's between **báq nảo** and **náo**  
 
-**mi Heunkueltuar**
+**mi Heunkuelcher**
 > is this like Plato's Forms?  
 
 **mi Hỏaqgīo**
@@ -956,7 +956,7 @@ A nice game of Translation of the Day :)
 […]
 
 
-**mi Heunkueltuar**
+**mi Heunkuelcher**
 > but one last thing, with the water question. If I wanted to talk about some concrete waterS (plural), would it be like this?  
 > **Chom jip naop sa da**  
 
@@ -966,7 +966,7 @@ A nice game of Translation of the Day :)
 > It's used like this:  
 > **Chỏ jí sa náo da**  
 
-**mi Heunkueltuar**
+**mi Heunkuelcher**
 > ah, right associating?  
 
 **mi Hỏaqgīo**
@@ -976,7 +976,7 @@ A nice game of Translation of the Day :)
 > "There exists some *X* which is water such that: I like *X*"  
 > (This *X* still could be singular or plural, it isn't specified)  
 
-**mi Heunkueltuar**
+**mi Heunkuelcher**
 > hm, I kinda see. So I'm just saying that there is some thing, which is water, and that I like?  
 > not how many of that thing there is  
 
@@ -994,7 +994,7 @@ A nice game of Translation of the Day :)
 **mi Shủao**
 > TotD 15: **Sẻaq sa hápī ba**.
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > XDDD well done! I'm proud of you (and so is that sexy, sexy bee)
 
 **mi Chain**
@@ -1079,7 +1079,7 @@ A nice game of Translation of the Day :)
 
 ## 2019-03-18, #general
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > On the serial expansion of **Bủ chỏ jí báq bỉrā da.**
 > would it be:  
 > **Bun chot jip bad ja dop biprar da** 
@@ -1115,7 +1115,7 @@ A nice game of Translation of the Day :)
 **mi Chain**
 > (by the way, they are the same)  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > might you tell us the binary solution, @**Hỏemāı** ? different versions of the same thing help a lot to learn  
 
 **mi Hỏemāı**
@@ -1161,16 +1161,16 @@ A nice game of Translation of the Day :)
 ### 2019-03-19, #general
 
 
-**mi Z Mo**
+**mi Jinmor**
 > Hey, I was wondering, how do you ensure that the grammar is actually flexible enough / covers all possibilities etc  
 
 **mi Chain**
 > what do you mean?  
 
-**mi Z Mo**
+**mi Jinmor**
 > How do you know you've finished the grammar?  
 
-**seaqtaq**
+**mi Seamtal**
 > We don't, I mean can you ever know? We don't even think that is the case as we have lists of things we cannot do  
 > like measuring and telling time, the big ones  
 > Normally and seemingly someone has been doing irl things until their brain is like "Hey, somethings wrong with toaq, alert the others ASAP," or something similar. Another way of finding out that we just can't say something (the way we would like) is by doing translations  
@@ -1180,7 +1180,7 @@ A nice game of Translation of the Day :)
 > The grammar is complete in that you can already say everything using the current available syntax.  
 > Making words for measurements is not a matter of grammar.  
  
- **seaqtaq**
+ **mi Seamtal**
 > > But that includes grammar and vocab ofc  
 > Ah nope, that doesnt work  
 
@@ -1191,7 +1191,7 @@ A nice game of Translation of the Day :)
 > Writing the PEG grammar was one of the necessary steps from vision to reality.  
 > Since we have a working parser which can parse any sentence I would deem correct and rejects ones I would reject (with only very minor exceptions which are due to oversights or due to minor syntax/morphology changes between beta and now), we can use that as another measurement for completeness.  
 
-**mi Z Mo**
+**mi Jinmor**
 Thanks, that's actually pretty insightful
 
 
@@ -1199,14 +1199,14 @@ Thanks, that's actually pretty insightful
 
 ### 2019-03-20, #chiejio
 
-**mi Xylochoron**
+**mi Sainlorhorral**
 > Is there a word for making corrections  
 > Like “si” in Lojban,  
 
 **mi Shủao**
 > **huq**?  
 
-**mi Xylochoron**
+**mi Sainlorhorral**
 > Oh ok! Cool  
 > So that’s where you replace one word with another  
 > That seems very useful and works for what I’m trying to do, but  
@@ -1225,7 +1225,7 @@ Thanks, that's actually pretty insightful
 
 ### Summary
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > ok, I'm feeling like summarizing. On Xylochoron's idea, of correcting mistakes in speech. They wanted to correct arbitrary arguments and phrases, and **huq** does that job (by replacing the left hand argument with the right hand argument). But it is ambiguous with phrases and single arguments. So Hoamgior coined **ek** to erase words. **Ek** is not precise, it just cues the listener to replace based on context.  
 
 
@@ -1238,7 +1238,7 @@ Thanks, that's actually pretty insightful
 > It doesn't always erase the same number of words or even the same kind of phrase; it cues the listener to figure it out based on context  
 > Thus **Hảı dủa jí, è súq** would likely replace **jí** with **súq**, whereas **Mỉu súq jâq dẻ, è, hi ráı pa mỉu súq jâq dẻ ráı moq?** starts the sentence over.  
 
-**mi Xylochoron**
+**mi Sainlorhorral**
 > But every word in Toaq starts with a non-“q” consonant so that one can tell where a root starts and ends without listening for pauses, or...?  
 
 **mi Hỏaqgīo**
@@ -1247,7 +1247,7 @@ Thanks, that's actually pretty insightful
 > But Hoemai has declared that the lone vowels, paired with tones, will be interjections, so I think they want us to just pause before them  
 > To make it unambiguous  
 
-**mi Xylochoron**
+**mi Sainlorhorral**
 > Oh, ok!  
 > Gotta be careful picking them I guess, since there’s only 5 total :stuck_out_tongue:  
 
@@ -1257,24 +1257,24 @@ Thanks, that's actually pretty insightful
 [...]
 
 
-**mi Xylochoron**
+**mi Sainlorhorral**
 > Can you have dipthong words, like “iao” by itself  
 > Or “iaq”  
 
 [...]
 
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > from what I remember, Hoemai doesn't want tones to carry semantic meaning, only grammatical meaning.  
 > So, no matter what tone you use, **hapi** always means bee. But it can be a verb, a noun, a dependent clause, and any other kind of grammatical role  
 
-**seaqtaq**
+**mi Seamtal**
 > He does seem to want this with interjections  
 > Just look at the m-interjections  
 
 [...]
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > [so, for (a u i o e, m l r) there are]  
 > (5+3)\*7=56 interjections  
 
@@ -1282,7 +1282,7 @@ Thanks, that's actually pretty insightful
 
 ## 2019-03-20, #general
 
-**seaqtaq**
+**mi Seamtal**
 > **mm**
 > Well on to the next thing while I have your heliosic attention, the **kieq vs **kieqge** and **noi vs **noilie** thing brings me terrible memories of esperanto  
 > Ah yes, reversability!  
@@ -1296,7 +1296,7 @@ Thanks, that's actually pretty insightful
 > or **noilietue**  
 > but the locus etc  
 
-**seaqtaq**
+**mi Seamtal**
 > Like the lojban word...  
 
 **mi Hỏemāı**
@@ -1305,14 +1305,14 @@ Thanks, that's actually pretty insightful
 > (as defined)  
 > With **noi** you can say "a pain"  
 
-**seaqtaq**
+**mi Seamtal**
 > But if **noi** were **noilie**, could you not just say **noige**?  
 > Or if you find **ge** you be ugly, the "base" of this and related words would be **ge** and we would from there apply **lie**  
 
 **mi Hỏemāı**
 > I think **noıgē** would be like the impact of a hammer hitting your thumb  
 
-**seaqtaq**
+**mi Seamtal**
 > **m̄**  
 > m̌akes sense  
 > Well, I do not rest my case as a solution hasn't been found if it is even possible, but I rest my case.  
@@ -1321,7 +1321,7 @@ Thanks, that's actually pretty insightful
 **mi Hỏemāı**
 > The case of "my leg hurts" remains problematic.  
 
-**seaqtaq**
+**mi Seamtal**
 > Oh you are still here, and I agree. Maybe something like **huatī**?  
 > Just made that up on the spot so it may not exactly be the best, but I am now trying to think of a definition for that.  
 > My leg is the source of my pain? Using **ceoriaq** or something less physical?  
@@ -1334,7 +1334,7 @@ Thanks, that's actually pretty insightful
 
 ### 2019-03-21, #chiejio
 
-**mi Xylochoron**
+**mi Sainlorhorral**
 > I’m still curious if words like “iaq” will be an option at some point......  
 
 **mi Hỏemāı**
@@ -1349,60 +1349,60 @@ Thanks, that's actually pretty insightful
 
 
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > flee from death: **bủıfā go cúaq mủaq**  
 
-**mi Sheireq**
+**mi Sheinrel**
 > I would go with just **"rỉeq mủaq"**  
 > possibly prefixed with **"dảqmīq"**  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > **dảqmíq Rỉeq mủaq**  
 
-**mi Sheireq**
+**mi Sheinrel**
 > Yeah; **lẻo rỉeq mủaq báq pỏq**  
 > **Keo bủ lẻo dảqmīq rỉeq mủaq báq pỏq**  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > **lẻo rỉeq mủaq báq pỏq**  
 > woud that mean "tries to avoid the many dead"  
 > or: avoids zombies?  
 > and how does the keo bun changes the phrase? "but doesnt' try to avoid the many dead"?  
 
-**mi Sheireq**
+**mi Sheinrel**
 > **"Keo bủ lẻo dảqmīq rỉeq mủaq"** = "But does-not try-to eternally avoid-satisfying-the-property-of being-dead"  
 
-**mi Sheireq**
+**mi Sheinrel**
 > For "avoid" in the sense of "avoid the zombies" you'd want **"rỉeq tỉjūi"** = "☆ avoids being near / in the vicinity of ☆"  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > ah, I see. You extend the meaning with a serial predicate  
 > **Rỉeq tỉjūı mủaq pỏq nı**  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > would that mean "avoids being near to the dead person over there"?  
 
-**mi Sheireq**
+**mi Sheinrel**
 > I think it means "☆ avoids being near ☆ and being a dead person"  
 > **Rỉeq tỉjūi ☆ ní mủaq pỏq** = ☆ avoids being near that dead person  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > **Rỉeq tỉjūı jí ní mủaq pỏq**  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > "I avoid being near that dead person"?  
 
-**mi Sheireq**
+**mi Sheinrel**
 > Jẻo da!  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > : D thanks!  
 > oh, yeah, **ní** is a predıcate, and its argument is the serial predıcate **mủaq pỏq**  
 
 **mi Hỏemāı**
 > More like, **ní mủaq pỏq** is what you get when you apply the :t2: tone to the serial predicate **nỉ mủaq pỏq**  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > oh! I see!!! thanks. You first make the serial predicate, and then you transform it into a noun XD thanks!!!!  
 
 
@@ -1422,7 +1422,7 @@ Thanks, that's actually pretty insightful
 
 
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > how are "**choakiu**" and "**choadeq**" different?  
 
 [...]
@@ -1438,7 +1438,7 @@ Thanks, that's actually pretty insightful
 > If you just want to get "to be able to do X", you can get that with a serial predicate, so there is no need to make a new compound  
 > E.g., "**dẻq chỏa**"  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > then "**choadeq**" would be the correct one, because @Níucūq wanted to ask if they were able to utter "**shifuediaihei**"  
 > how would you say: can I say X?  
 
@@ -1446,28 +1446,28 @@ Thanks, that's actually pretty insightful
 > **Mả dẻq chỏa jí X moq**  
 > (if say == utter, otherwise use **kuq**)  
 
-**mi seaqtaq**
+**mi Seamtal**
 > Other alternatives would be **man din choan (kum) jip x moq** and **man tiaon kud jip x moq**, depending on what you want, which is most likely not **deq**  
 > **dỉ** is yet another type of can/able  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > so there are three ables: "**kiu**", "**deq**", and "**di**"  
 
 **mi Hỏemāı**
 > You can add **daı** to the list  
 
-**mi seaqtaq**
+**mi Seamtal**
 > Thinking just about how you can translate to  
 > **suain sub**!  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > The Ables: "**kiu**", "**dai**", "**deq**", "**di**"  
 
 **mi Hỏemāı**
 > Another "able" would be "**juaodūe**"  
 > "You can't do that" -> "Doing this would be illegal"  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > so, -unable  
 > law-correct  
 
@@ -1478,16 +1478,16 @@ Thanks, that's actually pretty insightful
 > So what seaqtaq said was correct, and important. You wouldn't want to use "**deq**" for most of those situations  
 > since it is not about ability, but about other things  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > about what is good or bad, about correctness?  
 
-**mi seaqtaq**
+**mi Seamtal**
 > And don't forget about "**tiao**" e.g. "Would it be appropriate if I said this"  
 
 **mi Hỏemāı**
 > possibility, legalilty, appropriateness  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > I see, thanks!  
 
 **mi Mỏılūq**
@@ -1495,7 +1495,7 @@ Thanks, that's actually pretty insightful
 > as in "edible" (eat-able)  
 > and "acceptable" maybe  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > The Ables: "**dai**", "**deq**", "**di**",  "**juaodue**", "**kiu**", "**tiao**"  
 
 **mi Mỏılūq**
