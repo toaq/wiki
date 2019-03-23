@@ -6,7 +6,7 @@
     
     ### date, #channel
     **mi Hoenmair**
-    > I'm **Hoenmai** and this is what I say␣␣
+    > I'm **Hoenmair** and this is what I say␣␣
     > This is another line of my speech␣␣
     > **Linmel** said once:
     > > **Min Linmel jip ka.**
@@ -20,7 +20,7 @@ This will display as:
 > 
 > ### date, #channel
 > **mi Hoenmair**
-> > I'm **Hoenmai** and this is what I say  
+> > I'm **Hoenmair** and this is what I say  
 > > This is another line of my speech  
 > > **Linmel** said once:
 > > > **Min Linmel jip ka.**
@@ -118,20 +118,20 @@ This file contains most of the common frames.
 > The defining characteristic of a c slot is that, during the formation of serial predicates, it's treated as though it isn't an abstraction of any kind  
 > In **dua mai**, you end up with **mâi** (a proposition) being inserted into the second slot of **dua**, because that slot is a 0 slot  
 > In **de mai**, nothing is inserted into anything, because **de**'s slot is a c slot  
-> %serial **dua mai**  
+> `%serial` **dua mai**  
 
 **mi Nuongair**
 > <[c c c] (dủa A mâi B C)>  
 
 **mi Hỏaqgīo**
-> %serial **de mai**  
+> `%serial` **de mai**  
 
 **mi Nuongair**
 > <[c c] (**lủ to ru dẻ A na to mải A B**)>  
 
 **mi Heunkuelcher**
-> ok... I'll tell you what I got:  
-> Slot types restrict what kind of argument goes into it (whether property, proposition, relation, etc...)  
+> ok… I'll tell you what I got:  
+> Slot types restrict what kind of argument goes into it (whether property, proposition, relation, etc…)  
 > and the c type is the most permissive of them all, it can take any type?  
 
 **mi Hỏaqgīo**
@@ -166,7 +166,7 @@ This file contains most of the common frames.
 > `%` **cutaq**
 
 **mi Nuongair**
-> 1–1/1 — **cutaq** + — <▯1, ▯2> are such that <x1, x2, x1> satisfy ternary relation ▯/3; ▯ does/is ▯/3 to themselves.
+> 1–1/1 — **cutaq** + — <▯1, ▯2> are such that <x₁, x₂, x₁> satisfy ternary relation ▯/3; ▯ does/is ▯/3 to themselves.
 
 **mi Hoamgior**
 > Here's one that was added recently  
@@ -184,7 +184,7 @@ This file contains most of the common frames.
 > Everything in Toaq is done with predicates, and adverbials are no different. Ultimately an adverbial always does its thing by taking the entire Toaq sentence, pretending is has a ◌̂ tone (that generates propositions) and sticking it into the first place of a predicate.  
 > For example:  
 > "**Shie jí rào kôi hó**"  
-> Here, the **rao** with the ◌̀ grabs the entire rest of the sentence, throws it into a ◌̂ clause, then passes it as the x1 place to the predicate rao.  ◌̀ also has the effect of taking the following noun and passing it to the predicate as the x2 place.  
+> Here, the **rao** with the ◌̀ grabs the entire rest of the sentence, throws it into a ◌̂ clause, then passes it as the x₁ place to the predicate rao.  ◌̀ also has the effect of taking the following noun and passing it to the predicate as the x₂ place.  
 > Thus the sentence is equivalent to:  
 > "**Rao (shîe jí na) kôi hó**"  
 > With the originally top-level claim in parentheses  
@@ -194,23 +194,23 @@ This file contains most of the common frames.
 
 **mi Heunkuelcher**
 > This would mean "it seems funny that you think so"?  
-> Dủ lûaı hóq jìe súq da  
+> **Dủ lûaı hóq jìe súq da**
 
 **mi Sheinrel**
-> %miu Dủ lûaı hóq jìe súq da  
+> `%miu` **Dủ lûaı hóq jìe súq da**  
 
 **mi Nuongair**
 > **({Dủ [lûaı <hóq (jìe súq)>]} da)**  
-> [℩𝐻 : hoq(𝐻)] [℩𝑆 : suq(𝑆)] du({jie({luai(𝐻)}, 𝑆)}).  
+> \[℩𝐻 : **hoq**(𝐻)\] \[℩𝑆 : **suq**(𝑆)\] **du**({**jie**({**luai**(𝐻)}, 𝑆)}).  
 
 **mi Sheinrel**
 > "It seems that you judge it (**hoq**) to be funny"  
 > **jìe** gets the **lûai** phrase as its first argument; you could also write the sentence as **"Dủ jîe lûai hóq na súq da"**  
-> %miu **Dủ jîe lûai hóq na súq da**  
+> `%miu` **Dủ jîe lûai hóq na súq da**  
 
 **mi Nuongair**
 > **({Dủ [jîe <(lûaı hóq na) súq>]} da)**  
-> [℩𝐻 : hoq(𝐻)] [℩𝑆 : suq(𝑆)] du({jie({luai(𝐻)}, 𝑆)}).  
+> \[℩𝐻 : **hoq**(𝐻)\] \[℩𝑆 : **suq**(𝑆)\] **du**({**jie**({**luai**(𝐻)}, 𝑆)}).  
 
 **mi Heunkuelcher**
 > oooh yeah, because of the low tone  
@@ -219,11 +219,11 @@ This file contains most of the common frames.
 **mi Sheinrel**
 > Take a look at example CCL.3 on toaq.org; basically, adverbs and prepositions take as their argument the content/relative clause (or entire sentence) that in which they're directly contained  
 > So in this case, if you wanted **jìe** to get **dû lûai hóq** as its argument, you would say **Dủ lûai hóq na jìe súq da**  
-> %miu **Dủ lûai hóq na jìe súq da**  
+> `%miu` **Dủ lûai hóq na jìe súq da**  
 
 **mi Nuongair**
 > **({Dủ [<lûaı hóq na> <jìe súq>]} da)**  
-> [℩𝐻 : hoq(𝐻)] [℩𝑆 : suq(𝑆)] jie({du({luai(𝐻)})}, 𝑆).  
+> \[℩𝐻 : **hoq**(𝐻)\] \[℩𝑆 : **suq**(𝑆)\] **jie**({**du**({**luai**(𝐻)})}, 𝑆).  
 
 **mi Sheinrel**
 > (I love miu so much)  
@@ -1006,12 +1006,12 @@ A nice game of Translation of the Day :)
 **mi Shủao**
 > @🍵 Fuck bees.
 
-[...]
+[…]
 
 **mi Shủao**
 > "Fuck bees."  
 > The (meme) phrase I tried to translate; directed at no specific person, yet imperative.  
-> ... perhaps there should be a specific quantifier on **hápī**, and I'm not sure about nothing filling the second spot, but it's nice to have it concise too.  
+> … perhaps there should be a specific quantifier on **hápī**, and I'm not sure about nothing filling the second spot, but it's nice to have it concise too.  
 
 **mi Chain**
 > @Shủao and you’re right. the correct v. would be **Sẻaq súq sa hápī ba**.
@@ -1129,7 +1129,7 @@ A nice game of Translation of the Day :)
 > (`(#f #f)` . **lî ja dóshī ja dógū bı bủ dóshī lî ja dósāq bı pảı dósāq dógū)**
 
 **mi Chain**
-> **bu *x₁* lî pai ja dó *x₂* **, essentially  
+> **bu *x₁* lî pai ja dó *x₂***, essentially  
 
 **mi Hỏaqgīo**
 > `%serial` **bu pai**
@@ -1139,7 +1139,7 @@ A nice game of Translation of the Day :)
 
 **mi Chain**
 > @**Heukueqche**
-> in general, **bu** is binary in serial predicates, so it would work as ‘x1 doesn’t satisfy property of being a friend to x2,’ instead of ‘it isn’t the case that x1 is a friend of x2’  
+> in general, **bu** is binary in serial predicates, so it would work as ‘x₁ doesn’t satisfy property of being a friend to x₂,’ instead of ‘it isn’t the case that x₁ is a friend of x₂’  
 > however these are equal by virtue of the ‘JEO-frame equivalence’ we all know and love  
 > `%serial` **bu mai**
 
@@ -1221,7 +1221,7 @@ Thanks, that's actually pretty insightful
 > It doesn't always erase the same number of words or even the same kind of phrase; it cues the listener to figure it out based on context  
 > Thus **Hảı dủa jí, è súq** would likely replace **jí** with **súq**, whereas **Mỉu súq jâq dẻ, è, hi ráı pa mỉu súq jâq dẻ ráı moq?** starts the sentence over.  
 
-[...]
+[…]
 
 ### Summary
 
@@ -1239,7 +1239,7 @@ Thanks, that's actually pretty insightful
 > Thus **Hảı dủa jí, è súq** would likely replace **jí** with **súq**, whereas **Mỉu súq jâq dẻ, è, hi ráı pa mỉu súq jâq dẻ ráı moq?** starts the sentence over.  
 
 **mi Sainlorhorral**
-> But every word in Toaq starts with a non-“q” consonant so that one can tell where a root starts and ends without listening for pauses, or...?  
+> But every word in Toaq starts with a non-“q” consonant so that one can tell where a root starts and ends without listening for pauses, or…?  
 
 **mi Hỏaqgīo**
 > Yes, there is that  
@@ -1254,14 +1254,14 @@ Thanks, that's actually pretty insightful
 **mi Shủao**
 > I think that does work, given the tones, unambiguously.  
 
-[...]
+[…]
 
 
 **mi Sainlorhorral**
 > Can you have dipthong words, like “iao” by itself  
 > Or “iaq”  
 
-[...]
+[…]
 
 
 **mi Heunkuelcher**
@@ -1272,10 +1272,10 @@ Thanks, that's actually pretty insightful
 > He does seem to want this with interjections  
 > Just look at the m-interjections  
 
-[...]
+[…]
 
 **mi Heunkuelcher**
-> [so, for (a u i o e, m l r) there are]  
+> \[so, for (a u i o e, m l r) there are\]  
 > (5+3)\*7=56 interjections  
 
 ## On Pain
@@ -1297,10 +1297,10 @@ Thanks, that's actually pretty insightful
 > but the locus etc  
 
 **mi Seamtal**
-> Like the lojban word...  
+> Like the lojban word…  
 
 **mi Hỏemāı**
-> The Lojban word has the experiencer in x1, which is what you want  
+> The Lojban word has the experiencer in x₁, which is what you want  
 > **noi**1 is the pain  
 > (as defined)  
 > With **noi** you can say "a pain"  
@@ -1335,7 +1335,7 @@ Thanks, that's actually pretty insightful
 ### 2019-03-21, #chiejio
 
 **mi Sainlorhorral**
-> I’m still curious if words like “iaq” will be an option at some point......  
+> I’m still curious if words like “iaq” will be an option at some point……  
 
 **mi Hỏemāı**
 > Words cannot begin with a vowel or glottal stop, because it would be ambiguous with the ◌̃ tone in environments such as **dẽ** vs **dè é**  
@@ -1425,7 +1425,7 @@ Thanks, that's actually pretty insightful
 **mi Heunkuelcher**
 > how are "**choakiu**" and "**choadeq**" different?  
 
-[...]
+[…]
 
 **mi Hỏemāı**
 > Anyway, the difference between "**choakīu**" and "**choadēq**":  
