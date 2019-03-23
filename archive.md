@@ -487,7 +487,7 @@ A nice game of Translation of the Day :)
 > I reread your explanation with more attention and i see why you skipped weeks, but my ordering beef still stands
 
 **mi Lim**
->** niaqgu** is a twosome of something, a kind of **gu**, namely of consecutive years.  
+> **niaqgu** is a twosome of something, a kind of **gu**, namely of consecutive years.  
 > whereas **guniaq** is a kind of **niaq**, namely the second one.  
 
 **mi Chain**
@@ -1284,16 +1284,16 @@ Thanks, that's actually pretty insightful
 
 **mi Seamtal**
 > **mm**
-> Well on to the next thing while I have your heliosic attention, the **kieq vs **kieqge** and **noi vs **noilie** thing brings me terrible memories of esperanto  
+> Well on to the next thing while I have your heliosic attention, the **kieq** vs **kieqge** and **noi** vs **noilie** thing brings me terrible memories of esperanto  
 > Ah yes, reversability!  
 > That thing where you had to remember the inherent part of speech of every root in order to properly apply derivational affixes  
 > That sucked  
 
 **mi Hỏemāı**
 > I see  
-> I  t h i n k  the reason for **noi** being defined as it is had to do with pain being in a specific place (?)  
-> like, **noi** is not just **lû noilie**  
-> or **noilietue**  
+> I *t h i n k* the reason for **noi** being defined as it is had to do with pain being in a specific place (?)  
+> like, **noi** is not just **lû noinlier**  
+> or **noinliertuer**  
 > but the locus etc  
 
 **mi Seamtal**
