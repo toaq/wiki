@@ -1500,3 +1500,17 @@ Thanks, that's actually pretty insightful
 
 **mi Mỏılūq**
 > in a serial, "**tıao**" wouldn't be exactly the appropriate word tho  
+
+## On making names
+
+### 2019-03-28, #chiejio
+
+**mi Dảqpeōkōıchē**
+> So I'm trying to make my username in Toaq, and I've narrowed the meaning down to (essentially) "one who ambulates through time".  
+> Would **Chẻkōıpeōdāq** work, or am I understanding compound predicates wrong?  
+**mi Hỏaqgīo**
+> I would reverse the order of the syllables  
+> Compound predicates can be defined however you like, but generally if you want to make one that has a meaning related to its parts, you do (descriptor + base)  
+> So I'd have:  
+> **Dampeorkoipchep**  
+> Plus tone markings, which I can't type on this computer  
