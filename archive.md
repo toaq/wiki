@@ -1513,3 +1513,43 @@ Thanks, that's actually pretty insightful
 > Compound predicates can be defined however you like, but generally if you want to make one that has a meaning related to its parts, you do (descriptor + base)  
 > So I'd have:  
 > **Dampeorkoipchep**  
+
+## On compound predicates
+
+### 2019-03-30, #chiejio
+
+HeukueqcheToday at 1:08 AM
+all right, this one's for tomorrow...
+how do you interpret compound predicates? I've heard there are some association rules?
+?like, is there a grammar for decomposing "Hoampirtuir"
+nuogaiBOTToday at 1:10 AM
+lıke, is there a grảqmā fō decỏqposỉg "Hỏaqpītūı"
+HeukueqcheToday at 1:10 AM
+sorry, Hoaqpiotui
+HỏaqgīoToday at 1:10 AM
+Actual rule: Compound predicates are not related to their parts; they are defined as separate words in the dictionary and their definition could be anything
+Rule of thumb: For the sake of making it easy to remember them, we usually break concepts down into parts to design the compound word
+ShủaOwŌToday at 1:11 AM
+lujvo
+… right?
+HỏaqgīoToday at 1:11 AM
+If a concept could be written as a serial with A B̉ C̉ D̉ or something similar, we compoundize it ias DC̄B̄Ā
+ShủaOwŌToday at 1:12 AM
+Or is it tanru? Which is which? I've forgotten…
+HỏaqgīoToday at 1:12 AM
+It's lujvo
+ShủaOwŌToday at 1:12 AM
+Okay.
+HeukueqcheToday at 1:12 AM
+oh, so as an informal rule, you can make a compound as the reverse of its 'equivalent' serial?
+HỏaqgīoToday at 1:12 AM
+Yes
+E.g. demīu = miu dẻ, and duatūa = tua dủa
+But some compound words are just made up
+cukī = ___ nods is not related to cu or ki and in fact neither of those words are predicates
+HeukueqcheToday at 1:14 AM
+hm, so really a compound is more like a combination of sounds than a composition of words, and the sound unit is a syllable?
+ah, is that why there is the high tone to denote compound words? so that each of its component syllables is not confused with a word?
+like cukir does not sound like cu ki
+HỏaqgīoToday at 1:17 AM
+Yes, exactly
