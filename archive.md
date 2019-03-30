@@ -1513,4 +1513,3 @@ Thanks, that's actually pretty insightful
 > Compound predicates can be defined however you like, but generally if you want to make one that has a meaning related to its parts, you do (descriptor + base)  
 > So I'd have:  
 > **Dampeorkoipchep**  
-> Plus tone markings, which I can't type on this computer  
