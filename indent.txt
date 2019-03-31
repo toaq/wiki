@@ -1,0 +1,274 @@
+(
+All right, these are the rules:
+
+I.
+There are:
+   Predicates
+   Arguments
+   Terminators
+
+II.
+Predicates are flat.
+Argumets are indented.
+Nested predicates are indented.
+Each predicate that takes arguments is uppercased.
+Terminators are in the same level as the thing they terminate.
+The prenex goes inside {curly brackets}
+Inline English goes in parentheses.
+The literal meaning of the sentence goes in "double quotes".
+
+III.
+like this:
+
+("Want I eat you that"
+I want you to eat that.
+this uses serial predicates
+, and lambda qualifier)
+Shaon
+   jip
+   Chud
+      sub
+      nip
+da
+
+IV.
+I know that its kind of redundant,
+if there are tones already
+its obvious what is an argument of what.
+But as a begginer,
+it helps a lot to SEE
+what is an argument of what,
+and where different parts of the sentence
+   start and end.
+So this would mostly be a tool for learning.
+
+Here come the experimentals:
+
+V.
+the low tone (\, 6) is a simple way to
+rewrite the sentence with the first part
+as an argument to the word with the low tone.
+
+that is:
+
+Buan sub tik hi raip moq
+=
+Tin Buan sub na hi raip moq
+
+so, the word with the low tone 
+should be flat,
+and its arguments
+should be indented.
+
+that is:
+
+   buan sub
+Tik
+   hi rai
+moq
+
+VI.
+I've heard that the creaky tone (~, 7) is the same
+But I don't understand it well enough 
+to try to do anything with it.
+
+VII.
+Also, ru feels as if it had two arguments,
+the one before and the one that follows:
+A ru B
+
+So maybe write ru like this?
+   A
+ru
+   B
+)
+
+
+(Now, Hoemai's script:)
+(Don't think of the following as a reference
+I'm making this up as I go,
+so be generous
+and if you have any opinion,
+tell me TELLme TELLME!! :D)
+
+Hen chon
+   Jip
+   sa puipjal niain
+da
+
+
+{
+Keo
+raok
+nipchal
+bi
+}
+Kum
+   jip
+   sa pop
+   lup somchor
+   jip
+   hoap
+   tub shuaon
+da
+
+
+{
+Mon
+   hi raip
+pa
+}
+Lun somchor
+   sub
+   hoap
+   tub shuaon
+   moq teo,
+   lup huongair
+   jip
+   Kud
+      sub
+      hoap
+da
+
+
+Je,
+Dain
+Lut hain duan
+   suq
+   haot
+   hi rai
+da
+
+
+Dain
+But dua
+   sub
+   hob
+da
+
+
+Je,
+Hen somchor
+   jip
+   cu shuaop
+   ku bab peinker
+da
+
+
+{
+Bab peinker
+bi 
+}
+   hen jam jam den
+Jiek
+   jip
+da
+
+
+(This was really hard,
+and I think its completely
+wrong)
+   Kuon ru baon
+      mab
+   na
+   ru nuom
+Jav denchar
+   puq huen
+   mioprib gion
+da
+
+
+Maon
+   Lut
+      jam moinjoer
+      bab peinker
+da
+
+
+(I'm not sure the nesting is ok
+is chuokchar part of the lit,
+or the Hen?)
+   Hen dem
+      mab 
+      Lit
+         tam jeingair
+         ja shi
+Chuokchar
+   sa nuob
+da
+            
+
+(I have no idea what the
+falling rising tone does XD)
+Man duan
+   jip
+   sa heop
+??pox
+   bap peinker
+moq
+
+
+(I just gave up on teh nesting here...
+But I think the groupings are maybe correct)
+M--
+   Bun
+puit
+jav
+lup pon
+bab peinker
+hoap
+na ru
+duan jip
+hoap
+da
+
+
+Tum haon
+   Ku lut
+      denmiur jip
+      mab
+da
+
+
+Jeof
+
+
+(Is the Je
+part of the prenex?)
+(all the ru's and na's
+make this really hard to understand.
+Please, help me know
+what is an argument
+for what)
+{
+   Je,
+Raok
+   sa raip
+bi
+}
+moin
+   jip
+   Lut
+      jian paon ji
+      sa peipker
+Cak
+   Lut
+      jeinduar maq
+      jip
+   na
+   ru
+   bun tean mab
+   jip
+na
+Ru
+   hen fan mab
+   jip
+da
+      
+
+keo
+Dun bun len
+   Jiat
+      fam hob
+da
+
