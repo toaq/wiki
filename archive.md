@@ -1764,3 +1764,66 @@ Thanks, that's actually pretty insightful
 > yeah, I had never been conscious of that interpretation of "lo que...", I quite like it, especially because now I'm not really sure what "lo que" means anymore XDD  
 > but that's another story, for another time  
 > thank you so much! I learned a lot  
+
+
+## On first and second order quantification
+## Or, quantification over variables and predicates
+
+### 2019-04-03, #general
+
+TelegramBOTToday at 7:47 AM
+Bruno: what is "second order quantification"?
+Bruno: is it limited to a single slot of a predicate?
+HỏemāıToday at 8:56 AM
+That expansion doesn't work for sa
+@Heukueqche It means quantifying over predicates
+TelegramBOTToday at 9:09 AM
+Bruno: oh, quantifying over an entire predicate, instead of a single argument?
+HỏemāıToday at 9:31 AM
+First-order: ∃x mai(ji, x) "there exists an x such that I love x"
+Second-order predicate logic additionally allows quantification over predicates, e.g.: ∃P P(ji, suq) "there exists a predicate P such that I P you"
+HeukueqcheToday at 9:34 AM
+oh, its more complex than I thought XD
+how can you use that?
+can you use it to imply a relationship between two objects, without saying what relationship they have?
+HỏemāıToday at 9:38 AM
+Yes
+The example above means "there is some relationship between me and you" (relationship in the broad sense)
+HeukueqcheToday at 9:39 AM
+cool
+are there other use cases?
+HỏemāıToday at 9:41 AM
+Not many... You can restrict the domain of the second-order quantifier (using a relative clause), but not many restrictions make sense.
+[∃P : de(P)] P(suq) "There exists a beautiful predicate P such that you satisfy that predicate"
+I.e., "You satisfy some beautiful property"
+With negation, this would be a stronger claim: ¬[∃P : de(P)] P(suq) "You satisfy not a single beautiful predicate"
+(mean!)
+[∃P : noa(P) ∧ pui(P)] P(ho) "They do many difficult things"
+You can say this very easily without second-order quantification
+E.g. Tảo hó sa púı nỏa (or something else in place of tao)
+HeukueqcheToday at 9:48 AM
+"there is a predicate that satisfies both the properties of difficult and many, and it applies to them"
+HỏemāıToday at 9:48 AM
+Yes
+(That particular example requires plural quantification as well, because "to be many" is impossible in normal singular logic)
+(Toaq uses plural quantification, so it's no problem here)
+(so, "There are predicates", not "there is a predicate")
+((but this seems to be an irrelevant tangent at the moment))
+
+[...]
+
+HeukueqcheToday at 9:56 AM
+:smile: nice! Chunfal shon pam nip kainpurmer
+but later, I gotta go soon
+well, not the archive, but the repo
+would first order quantification be called "quantification over variables"?
+HỏemāıToday at 10:00 AM
+Quantification over individuals
+They both use variables
+HeukueqcheToday at 10:01 AM
+I see, thanks!
+HỏemāıToday at 10:01 AM
+they differ in what the variables range over
+HeukueqcheToday at 10:01 AM
+I wanted a nice name so that I could put it on the archive
+oh, in the first, the variable is an individual, and in the second the variable is an entire predicate?
