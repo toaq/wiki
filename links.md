@@ -21,6 +21,7 @@
 [A list of links ;)](links.md)  
 
 ### Fagri's links
+[**Sa Buaip Huonhuar**](https://docs.google.com/document/d/1OZFWqeKOsLNayuwQXfVDPpIvtulL1gcPAibZwBH0Yg0/edit)
 [A true story on youtube](https://www.youtube.com/watch?v=9V6vMfR3rrk)  
 [Their youtube channel, with some fables recorded](https://www.youtube.com/channel/UCWxCrnMhv-7s1Mp8tWc_K2A)  
 [Sa Búai Hủohūa](https://docs.google.com/document/d/1OZFWqeKOsLNayuwQXfVDPpIvtulL1gcPAibZwBH0Yg0/edit)  
@@ -72,6 +73,7 @@
 [A Toaq–only dictionary](https://uakci.pl/toajoe/)  
 
 ### Seaqtaq's links
+[Little phrase collection](https://docs.google.com/document/d/1kgxEFBlYhQblTiHzhOqrwLVbYAQjXXa8OUgnnQRQudo/edit)
 [Seaqtaq's list of links](https://docs.google.com/document/d/1g3AhZm7V-JPS_717QD8nQhLx_cVqGRJhxpyv28N_AMU/edit)  
 [The catalogue, partially devoured to make this one XD](https://drive.google.com/drive/u/0/folders/1gkjH19CrtoXIqRFh9ye3n1akMu2ojbMu)  
 [A collection of short stories, with such classics as the grasshopper and the octopus.](https://drive.google.com/drive/u/0/folders/1mlRRVxx7onT6elHQDPHwHLH_yUDrF2qy)  
