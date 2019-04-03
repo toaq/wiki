@@ -1518,38 +1518,249 @@ Thanks, that's actually pretty insightful
 
 ### 2019-03-30, #chiejio
 
-HeukueqcheToday at 1:08 AM
-all right, this one's for tomorrow...
-how do you interpret compound predicates? I've heard there are some association rules?
-?like, is there a grammar for decomposing "Hoampirtuir"
-nuogaiBOTToday at 1:10 AM
-lıke, is there a grảqmā fō decỏqposỉg "Hỏaqpītūı"
-HeukueqcheToday at 1:10 AM
-sorry, Hoaqpiotui
-HỏaqgīoToday at 1:10 AM
-Actual rule: Compound predicates are not related to their parts; they are defined as separate words in the dictionary and their definition could be anything
-Rule of thumb: For the sake of making it easy to remember them, we usually break concepts down into parts to design the compound word
-ShủaOwŌToday at 1:11 AM
-lujvo
-… right?
-HỏaqgīoToday at 1:11 AM
-If a concept could be written as a serial with A B̉ C̉ D̉ or something similar, we compoundize it ias DC̄B̄Ā
-ShủaOwŌToday at 1:12 AM
-Or is it tanru? Which is which? I've forgotten…
-HỏaqgīoToday at 1:12 AM
-It's lujvo
-ShủaOwŌToday at 1:12 AM
-Okay.
-HeukueqcheToday at 1:12 AM
-oh, so as an informal rule, you can make a compound as the reverse of its 'equivalent' serial?
-HỏaqgīoToday at 1:12 AM
-Yes
-E.g. demīu = miu dẻ, and duatūa = tua dủa
-But some compound words are just made up
-cukī = ___ nods is not related to cu or ki and in fact neither of those words are predicates
-HeukueqcheToday at 1:14 AM
-hm, so really a compound is more like a combination of sounds than a composition of words, and the sound unit is a syllable?
-ah, is that why there is the high tone to denote compound words? so that each of its component syllables is not confused with a word?
-like cukir does not sound like cu ki
-HỏaqgīoToday at 1:17 AM
-Yes, exactly
+**mi Heukueqche**
+> how do you interpret compound predicates? I've heard there are some association rules?  
+> like, is there a grammar for decomposing "**Hỏaqpīotūı**"
+
+**mi Hỏaqgīo**
+> Actual rule: Compound predicates are not related to their parts; they are defined as separate words in the dictionary and their definition could be anything  
+> Rule of thumb: For the sake of making it easy to remember them, we usually break concepts down into parts to design the compound word  
+
+**mi Hỏaqgīo**
+> If a concept could be written as a serial with A B̉ C̉ D̉ or something similar, we compoundize it ias DC̄B̄Ā  
+
+**mi ShủaOwŌ**
+> lujvo  
+> … right?  
+
+**mi Hỏaqgīo**
+> yes
+
+**mi Heukueqche**
+> oh, so as an informal rule, you can make a compound as the reverse of its 'equivalent' serial?  
+
+**mi Hỏaqgīo**
+> Yes  
+> E.g. **demīu** = **miu dẻ**, and **duatūa** = **tua dủa**  
+> But some compound words are just made up  
+> **cukī** = _ nods is not related to **cu** or **ki** and in fact neither of those words are predicates  
+
+**mi Heukueqche**
+> hm, so really a compound is more like a combination of sounds than a composition of words, and the sound unit is a syllable?  
+> ah, is that why there is the high tone to denote compound words? so that each of its component syllables is not confused with a word?  
+> like **cukir** does not sound like **cu ki**  
+
+**mi Hỏaqgīo**
+> Yes, exactly  
+
+## On the problem of indifference, nesting, and subordination
+
+### 2019-03-31, #chiejio
+
+**mi Heukueqche**
+> so, the phrase **Súao nỏacā rǎq hóa chémē lỏjībāq**  
+> which, if I understood correctly, means "The important problem in the lojban community"  
+> I have three questions:  
+> 1) I'm surprised that the sentence starts with a noun (from the :t2:) instead of a verb ( :t4: ).  Why is that?  
+> I thought every sentence had to start with a verb which would take as arguments the rest of the words  
+
+**mi Hỏemāı**
+> 1) It's not a sentence, just like "The important problem in the lojban community" is not a sentence, but a noun phrase.  
+> It's like a single **jí**, except way more complicated. But it's just a single noun  
+
+**mi Heukueqche**
+> oh! its a fragment!  
+> if we wanted to make it into a whole sentence, like "indifference is a big problem in the lojban community"...  
+
+**mi Hỏemāı**
+> But now it looks like you turned "the problem" (noun) into a verb ("to be a problem")  
+
+**mi seaqtaq**
+> so you cannot use "**raz**"  
+> but you can say "**lun**..."  
+> and go from there  
+
+**mi Hỏemāı**
+> You could do "I am aware of the important problem [...]"  
+> (for the sake of the exercise)  
+
+**mi Heukueqche**
+> **Chỉaq jí súao nỏacā rǎq hóa chémē lỏjībāq**  
+
+**mi Heukueqche**
+> I am aware of the big problem in the lojban community  
+
+**mi Hỏemāı**
+> Very good  
+
+**mi Heukueqche**
+> thanks! though I still want to say that that problem is indifference  
+> let me try it out, so you can see the mistakes in my reasoning  
+> **Sủao nỏacā bú sủaojīe nìe Lójībāq chẻmē**  
+
+**mi Heukueqche**
+> problem important not caring inside lojban community  
+
+**mi Hỏemāı**
+> Not bad, but there's a slight mistake. "**bú sủaojīe**" refers to a person who doesn't find something important, but you want to refer to the situation of not finding something important.  
+> And because you used :t2:, the "**nìe**" phrase falls out  
+
+**mi Hỏemāı**
+> The goal is that it groups like this: Sủao nỏacā (bú sủaojīe [nìe Lójībāq chẻmē])  
+> () = the argument phrase, [] the prepositional phrase  
+> [] must be inside ()  
+> but for it to be inside of it, you can't use :t2: like that. Instead, you need a tone that "opens" a new statement  
+> "(that there is indifference) is a problem"  
+
+[...]
+
+**mi Hỏemāı**
+> You need something that takes a statement (subordinate sentence) and wraps it into a nice package so you can use it as an argument  
+
+[...]
+
+**mi Heukueqche**
+> oh! I need to subordinate it!  
+
+**mi Hỏemāı**
+> Well yes!  
+
+**mi Heukueqche**
+> haha, so it would be...  
+> **nîe**  
+
+**mi Hỏemāı**
+> :t5: is correct, but put it on the right word  
+> :t5: is always placed on the verb that starts the subordinate clause  
+> (or on lu, which marks the beginning of the subordinate clause without needing to mark it on a verb)  
+> How do you say "I know that you are asleep" ?  
+
+**mi Heukueqche**
+> hm, let me think  
+> **Dủa jí nûo súq da**  
+
+**mi Hỏemāı**
+> Perfect. Didn't even need my help.  
+> Now step 2  
+
+**mi Heukueqche**
+> ganbate!  
+
+**mi Hỏemāı**
+> How do you say "I know that [people] do not find things important" (use "bu sủaojīe" as you did before, but apply what you just learned)  
+
+**mi Heukueqche**
+> ok, on it  
+> **Sủao nỏacā bû sủaojīe nìe Lójībāq chẻmē**  
+
+**mi Hỏemāı**
+> (I should have asked for a slightly different sentence)  
+> Oh you are jumping way ahead  
+> But it's spot on. :)  
+
+**mi Heukueqche**
+> ?oh, sorry XD **Dủe jí bû sủaojīe póq**  
+
+**mi Hỏemāı**
+> Yeah yeah, now you don't need to do that anymore, but good job anyway :P  
+
+**mi Heukueqche**
+> true, but trying still felt good!  
+> thanks for the help :smiley:  
+
+**mi Hỏemāı**
+> One last challenge before you ask your second question  
+
+**mi Heukueqche**
+> ready!  
+
+**mi Hỏemāı**
+> How would you say this same sentence using the word lu?  
+
+**mi Heukueqche**
+> **Dủa jí lu bủ sủaojīe póq**  
+
+**mi Hỏemāı**
+> **lu** cannot be toneless  
+
+**mi Heukueqche**
+> **Dủa jí lû bủ sủaojīe póq?**  
+
+**mi Hỏemāı**
+> Yes, that's correct.  
+> **lu** has different (related) functions depending on the tone used.  
+
+**mi Hỏemāı**
+> The two basic ones are the verbose forms of :t5: and :t3:  
+> **lû fả jí** = **fâ jí** ("that I go")  
+> **póq lǔ fả hóa** = **póq fǎ hóa** ("the person who goes")  
+> There are two main reasons why someone would want to use the verbose forms: 
+> 1) the added redundancy can make a sentence easier to understand (and it allows a speaker to stall if they need a second to think which verb they want to use), and 
+> 2) it's required if you want to use a prenex in the subordinate clause.  
+> (http://toaq.org/#prenex)  
+
+**mi Heukueqche**
+> hm, I see  
+> what about the other 5 tones? do they change lu too?  
+
+**mi Hỏemāı**
+> lū can be discarded right off the bat, because it's not a possible word  
+> So 4 other tones  
+
+**mi Heukueqche**
+> XD true  
+
+**mi Hỏemāı**
+> **lũ** and **lù** are too complicated for now  
+> But **lú** is useful and very common  
+> **lủ** is similar  
+> **lú** makes nouns like :t2: normally does  
+> but because it's **lu**, it takes a complete statement  
+> and the head of the subordinate statement is marked by the pronoun **hoa**  
+> This pronoun also appears in relative clauses, and it does the same thing here  
+> You could think of "**lú fả hóa**" as a shortcut for "**ráı lǔ fả hóa**"  
+> "That which goes"  
+> "the goer"  
+> It means exactly the same as just "**fá**"  
+> What's the point, then? Well  
+> since **lú** is followed by a statement, you can fit in a lot more than with plain "**fá**"  
+> For example:  
+> **lú fả hóa chíejīo**  
+> that which goes to school  
+> they who go to school  
+> the goers to school  
+> If you said "**fá chíejīo**", you would have two individual nouns: "the goer, the school"  
+
+**mi Heukueqche**
+> ok, so it lets you make noun phrases that are as detailed and structured that you want  
+
+**mi Hỏemāı**
+> Yes, and the important part is that the noun phrases are made from statements.  
+> You can make detailed nouns without **lú**, by using serial predicates and relative clauses  
+> but the structure is different, and often more complex  
+> And advanced way to use **lú** + **hóa** is to bury the **hóa** quite deeply in the subordinate  
+> For example  
+> **lú dủa jí tâo súq hóa**  
+> These can quickly become very hard to translate into natural-sounding English  
+> This one means "that which I know you are doing", "the thing I know you are doing"  
+
+**mi Heukueqche**
+> the knower of the one who does?  
+
+[...]
+
+**mi Hỏemāı**
+> Actually, since you speak Spanish, you can think of it as "lo que"  
+> **lú** = lo que  
+
+**mi Heukueqche**
+> oh, I think it makes sense. "Lo que se que tu estas haciendo"  
+
+**mi Hỏemāı**
+> Yes  
+> The difference is that Toaq has an explicit pronoun (**hóa**) where Spanish and many other languages have a gap  
+
+**mi Heukueqche**
+> yeah, I had never been conscious of that interpretation of "lo que...", I quite like it, especially because now I'm not really sure what "lo que" means anymore XDD  
+> but that's another story, for another time  
+> thank you so much! I learned a lot  
