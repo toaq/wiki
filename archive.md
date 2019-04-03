@@ -1827,3 +1827,9 @@ they differ in what the variables range over
 HeukueqcheToday at 10:01 AM
 I wanted a nice name so that I could put it on the archive
 oh, in the first, the variable is an individual, and in the second the variable is an entire predicate?
+
+
+HỏemāıToday at 10:03 AM
+refers to, or has as its value, an individual vs a predicate
+HeukueqcheToday at 10:03 AM
+all right, thanks!
