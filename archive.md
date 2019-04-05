@@ -1771,194 +1771,239 @@ Thanks, that's actually pretty insightful
 
 ### 2019-04-03, #general
 
-TelegramBOTToday at 7:47 AM
-Bruno: what is "second order quantification"?
-Bruno: is it limited to a single slot of a predicate?
-HỏemāıToday at 8:56 AM
-That expansion doesn't work for sa
-@Heukueqche It means quantifying over predicates
-TelegramBOTToday at 9:09 AM
-Bruno: oh, quantifying over an entire predicate, instead of a single argument?
-HỏemāıToday at 9:31 AM
-First-order: ∃x mai(ji, x) "there exists an x such that I love x"
-Second-order predicate logic additionally allows quantification over predicates, e.g.: ∃P P(ji, suq) "there exists a predicate P such that I P you"
-HeukueqcheToday at 9:34 AM
-oh, its more complex than I thought XD
-how can you use that?
-can you use it to imply a relationship between two objects, without saying what relationship they have?
-HỏemāıToday at 9:38 AM
-Yes
-The example above means "there is some relationship between me and you" (relationship in the broad sense)
-HeukueqcheToday at 9:39 AM
-cool
-are there other use cases?
-HỏemāıToday at 9:41 AM
-Not many... You can restrict the domain of the second-order quantifier (using a relative clause), but not many restrictions make sense.
-[∃P : de(P)] P(suq) "There exists a beautiful predicate P such that you satisfy that predicate"
-I.e., "You satisfy some beautiful property"
-With negation, this would be a stronger claim: ¬[∃P : de(P)] P(suq) "You satisfy not a single beautiful predicate"
-(mean!)
-[∃P : noa(P) ∧ pui(P)] P(ho) "They do many difficult things"
-You can say this very easily without second-order quantification
-E.g. Tảo hó sa púı nỏa (or something else in place of tao)
-HeukueqcheToday at 9:48 AM
-"there is a predicate that satisfies both the properties of difficult and many, and it applies to them"
-HỏemāıToday at 9:48 AM
-Yes
-(That particular example requires plural quantification as well, because "to be many" is impossible in normal singular logic)
-(Toaq uses plural quantification, so it's no problem here)
-(so, "There are predicates", not "there is a predicate")
-((but this seems to be an irrelevant tangent at the moment))
+**mi Heukueqche**
+> what is "second order quantification"?
+> is it limited to a single slot of a predicate?  
+
+**mi Hỏemāı**
+> That expansion doesn't work for sa  
+> @Heukueqche It means quantifying over predicates  
+
+**mi Heukueqche**
+> oh, quantifying over an entire predicate, instead of a single argument?
+
+**mi Hỏemāı**
+> First-order: ∃x mai(ji, x) "there exists an x such that I love x"  
+> Second-order predicate logic additionally allows quantification over predicates, e.g.: ∃P P(ji, suq) "there exists a predicate P such that I P you"  
+
+**mi Heukueqche**
+> oh, its more complex than I thought XD  
+> how can you use that?  
+> can you use it to imply a relationship between two objects, without saying what relationship they have?  
+
+**mi Hỏemāı**
+> Yes  
+> The example above means "there is some relationship between me and you" (relationship in the broad sense)  
+
+**mi Heukueqche**
+> cool  
+> are there other use cases?  
+
+**mi Hỏemāı**
+> Not many... You can restrict the domain of the second-order quantifier (using a relative clause), but not many restrictions make sense.  
+> [∃P : de(P)] P(suq) "There exists a beautiful predicate P such that you satisfy that predicate"  
+> I.e., "You satisfy some beautiful property"  
+> With negation, this would be a stronger claim: ¬[∃P : de(P)] P(suq) "You satisfy not a single beautiful predicate"  
+> (mean!)  
+> [∃P : noa(P) ∧ pui(P)] P(ho) "They do many difficult things"  
+> You can say this very easily without second-order quantification  
+> E.g. Tảo hó sa púı nỏa (or something else in place of tao)  
+
+**mi Heukueqche**
+> "there is a predicate that satisfies both the properties of difficult and many, and it applies to them"  
+
+**mi Hỏemāı**
+> Yes  
+> (That particular example requires plural quantification as well, because "to be many" is impossible in normal singular logic)  
+> (Toaq uses plural quantification, so it's no problem here)  
+> (so, "There are predicates", not "there is a predicate")  
+> ((but this seems to be an irrelevant tangent at the moment))  
 
 [...]
 
-HeukueqcheToday at 9:56 AM
-:smile: nice! Chunfal shon pam nip kainpurmer
-but later, I gotta go soon
-well, not the archive, but the repo
-would first order quantification be called "quantification over variables"?
-HỏemāıToday at 10:00 AM
-Quantification over individuals
-They both use variables
-HeukueqcheToday at 10:01 AM
-I see, thanks!
-HỏemāıToday at 10:01 AM
-they differ in what the variables range over
-HeukueqcheToday at 10:01 AM
-I wanted a nice name so that I could put it on the archive
-oh, in the first, the variable is an individual, and in the second the variable is an entire predicate?
 
+**mi Heukueqche**
+> :smile: nice! Chunfal shon pam nip kainpurmer  
+> but later, I gotta go soon  
+> well, not the archive, but the repo  
+> would first order quantification be called "quantification over variables"?  
 
-HỏemāıToday at 10:03 AM
-refers to, or has as its value, an individual vs a predicate
-HeukueqcheToday at 10:03 AM
+**mi Hỏemāı**
+> Quantification over individuals  
+> They both use variables  
+
+**mi Heukueqche**
+> I see, thanks!  
+
+**mi Hỏemāı**
+> they differ in what the variables range over  
+
+**mi Heukueqche**
+> I wanted a nice name so that I could put it on the archive  
+> oh, in the first, the variable is an individual, and in the second the variable is an entire predicate?  
+
+**mi Hỏemāı**
+> refers to, or has as its value, an individual vs a predicate  
+
+**mi Heukueqche**
 all right, thanks!
 
 ## On quantification and scope
 
 ### 2019-04-04, #general
 
-TelegramBOTToday at 7:56 AM
-Bruno: all right, lets start with terminology: what is a constant?
-Bruno: is it like, an unchanging value instead of a variable?
-HỏemāıToday at 7:57 AM
-Yes
-something that keeps its value within a given scope
-TelegramBOTToday at 7:58 AM
-Bruno: so, a QE is not a constant. That means that its value changes depending on the scope?
-HỏemāıToday at 7:59 AM
-We call anything that isn't a quantified term, a constant
-A quantified expression opens a new scope, within which its variable acts as a constant
-but the quantified expression itself is not a constant
-Something is [a] constant, if moving it around in the sentence doesn't change its meaning
-HeukueqcheToday at 8:01 AM
-oh!
-HỏemāıToday at 8:01 AM
-So e.g.
-"Tỉ bũ sa ráı" is not the same as "Tỉ sa ráı bũ"
-but
-"Tỉ bũ ráı" is the same as "Tỉ ráı bũ"
-the negation by "bũ" does not affect the constant "ráı", but it changes the meaning of the sentence when it crosses paths with the quantifier "sa" in "sa ráı"
-In logic notation:
-∃¬  !=  ¬∃
-¬[∃x] ti(x)  !=  [∃x] ¬ti(x)
-but both "Tỉ bũ ráı" and "Tỉ ráı bũ" have the logical form ¬ti(c)
-HeukueqcheToday at 8:07 AM
-ok, the place of the negation does not change the truth of the expression, when the argument is a constant
-but if it is Quantified, its truth changes depending on the place of the negation
-or at least, its meaning, if not its truth
-HỏemāıToday at 8:08 AM
-Negation being only one example. This applies to all of the following: adverbs (:t7:), prepositions (:t6:), quantifiers, and conjunctions.
-If you have any two of those four in a sentence, their relative order matters
-whereas a constant wouldn't care on which side of any of those it appears
-HeukueqcheToday at 8:10 AM
-I think I'm squinting at the understanding XD
-HỏemāıToday at 8:10 AM
-It's rather advanced
-HeukueqcheToday at 8:10 AM
-so, in the case above, you have an adverb and a quantifier in the same sentence, so the order matters
-HỏemāıToday at 8:11 AM
-Exactly
-HeukueqcheToday at 8:11 AM
-if you had a preposition and a conjunction, the order would matter too?
-HỏemāıToday at 8:11 AM
-Yes
-Want an example?
-HeukueqcheToday at 8:12 AM
-yes!!!
-thank you :smile:
-HỏemāıToday at 8:17 AM
-Kùı hîaq jí bı jẻa jí níjūı ro níjāo
-vs
-Jẻa jí níjūı ro níjāo kùı hîaq jí
-(I can give you translations if you like, or you can try on your own first)
-HeukueqcheToday at 8:18 AM
-I'll try my own first : )
-HeukueqcheToday at 8:27 AM
-1) "Because poor I bi, Buy I this xor that". Since I am poor, I must buy either this or that.
-2) "Buy I this xor that, Because poor I". I have to buy either this or that, because I am poor
-HỏemāıToday at 8:29 AM
-1) is good, but your 2) doesn't sound right. It sounds identical to 1)
-In English, the reading that number 2) expresses would usually be discarded (both 1) and 2) have the same form in English, because English has ambiguous scope)
-but 2) does meaning something very different
-HeukueqcheToday at 8:30 AM
-oh, I'm about to learn beyond english XD
-HỏemāıToday at 8:32 AM
-A natural translation of 2) would be "[exactly] one of these two things is bought by me for reasons of poorness". So for example, you can't afford an X of good quality, so you buy the cheap version of it, because you are poor.
-And this says NOTHING about the other thing
-While 1) says that, because you are poor, you can only buy one of the two.
-So in 1), the reason applies to [either this or that], and in 2), one of the two choices has poorness as the reason
-TelegramBOTToday at 8:37 AM
-Bruno: hm, I am having trouble seeing the difference. I'll make my breakfast and think about it
-Bruno: if you can think of another example in the meantime, that would be very helpful
-HỏemāıToday at 8:37 AM
-If this is still unclear, don't panic. I think this kind of contrast starts out seeming extremely subtle if at all noticeable, but once you understand it, the difference is jarring and you can never unsee it
-TelegramBOTToday at 8:40 AM
-Bruno: XD I think that is a benefit of learning toaq, to learn the subtle clues of logic. That is the unique change to your mind that it does
-HỏemāıToday at 8:44 AM
-Yes, that does happen.
-So, imagine that I bought two things: a marble and a flower. One of the two was bought for reasons of poorness, THE OTHER WAS NOT. The other one might have been bought for a different reason, perhaps because I'm in love and want to give it to someone. But the marble is the cheapest toy I could affort. Sure, I'd prefer to play with a slingshot, but it's too expensive.
-So now, imagine I show you the marble and the flower
-and I tell you Jẻa jí níjūı ro níjāo kùı hîaq jí
-And then I ask you to guess which one.
-TelegramBOTToday at 8:52 AM
-Bruno: oh! so the difference is that 1.  I bought one or the other, but not both because I am poor, and 2. I bought both, but this one I bought because I was poor, and the other I just bought, no qualification
-HỏemāıToday at 8:53 AM
-Yes :)
-TelegramBOTToday at 8:53 AM
-Bruno: :D nice!
-Bruno: I'll keep an eye out for this difference, and archive this conversation
-HỏemāıToday at 8:54 AM
-(technically, in #2, the other one may or may not have been bought, we don't actually know)
-(but in the situation, since I show you both, you can assume that I did buy both)
-TelegramBOTToday at 8:56 AM
-Bruno: so, in 1. the Kuit modifies the Jean*, but in 2. the Kuit modifies the ro?
-lùToday at 8:56 AM
-kuik*
-HỏemāıToday at 8:56 AM
-So in summary, in #1 kùı X scopes over ro, which means that X is the reason for the ro/either-or.
-In #2, the ro scopes over the kùı X, which means that only one of the two things has the kùı X
-lùToday at 8:57 AM
-%miu kùi rái bi hảo shí ra gú
-nuogaiBOTToday at 8:57 AM
-({[kùı ráı] bı} {hảo [shí ra gú]})
-[℩𝑆 : shi(𝑆)] [℩𝐺 : gu(𝐺)] [℩𝑅 : rai(𝑅)] kui({hao(𝑆) ∨ hao(𝐺)}, 𝑅).
-lùToday at 8:58 AM
-%miu hảo shí ra gú kùi rái
-nuogaiBOTToday at 8:58 AM
-(hảo {[shí ra gú] [kùı ráı]})
-[℩𝑆 : shi(𝑆)] [℩𝑅 : rai(𝑅)] [℩𝐺 : gu(𝐺)] kui({hao(𝑆)}, 𝑅) ∨ kui({hao(𝐺)}, 𝑅).
-lùToday at 8:58 AM
-see how there are two kui in the latter expansion?
-you can imagine that ro is a kind of branching of a path; this branching can happen before or after the quantification
-if the branching happens before the quantification, tge quabtification goes in both of the branches
-Rai shí ro gú -> Rai shí, na ro rai gú
-this branching either is or isn’t in the containing :t6: clause
-somebody explain this better – I have no time now
-TelegramBOTToday at 9:08 AM
-Bruno: oh, no no, you've done a great job! The branching path analogy was especially good
-Bruno: thank you, lu
-lùToday at 9:14 AM
-I’m :tea:
-Chai
-none of that lù madness
+**mi Heukueqche**
+> all right, lets start with terminology: what is a constant?  
+> is it like, an unchanging value instead of a variable?  
+
+**mi Hỏemāı**
+> Yes  
+> something that keeps its value within a given scope  
+**mi Heukueqche**
+> so, a QE is not a constant. That means that its value changes depending on the scope?  
+
+**mi Hỏemāı**
+> We call anything that isn't a quantified term, a constant  
+> A quantified expression opens a new scope, within which its variable acts as a constant  
+> but the quantified expression itself is not a constant  
+> Something is [a] constant, if moving it around in the sentence doesn't change its meaning  
+
+**mi Heukueqche**
+> oh!  
+
+**mi Hỏemāı**
+> So e.g.  
+> "Tỉ bũ sa ráı" is not the same as "Tỉ sa ráı bũ"  
+> but  
+> "Tỉ bũ ráı" is the same as "Tỉ ráı bũ"  
+> the negation by "bũ" does not affect the constant "ráı", but it changes the meaning of the sentence when it crosses paths with the quantifier "sa" in "sa ráı"  
+> In logic notation:  
+> ∃¬  !=  ¬∃  
+> ¬[∃x] ti(x)  !=  [∃x] ¬ti(x)  
+> but both "Tỉ bũ ráı" and "Tỉ ráı bũ" have the logical form ¬ti(c)  
+
+**mi Heukueqche**
+> ok, the place of the negation does not change the truth of the expression, when the argument is a constant  
+> but if it is Quantified, its truth changes depending on the place of the negation  
+> or at least, its meaning, if not its truth  
+
+**mi Hỏemāı**
+> Negation being only one example. This applies to all of the following: adverbs (:t7:), prepositions (:t6:), quantifiers, and conjunctions.  
+> If you have any two of those four in a sentence, their relative order matters  
+> whereas a constant wouldn't care on which side of any of those it appears  
+
+**mi Heukueqche**
+> I think I'm squinting at the understanding XD  
+
+**mi Hỏemāı**
+> It's rather advanced  
+
+**mi Heukueqche**
+> so, in the case above, you have an adverb and a quantifier in the same sentence, so the order matters  
+
+**mi Hỏemāı**
+> Exactly  
+
+**mi Heukueqche**
+> if you had a preposition and a conjunction, the order would matter too?  
+
+**mi Hỏemāı**
+> Yes  
+> Want an example?  
+
+**mi Heukueqche**
+> yes!!!  
+> thank you :smile:  
+
+**mi Hỏemāı**
+> Kùı hîaq jí bı jẻa jí níjūı ro níjāo  
+> vs  
+> Jẻa jí níjūı ro níjāo kùı hîaq jí  
+> (I can give you translations if you like, or you can try on your own first)  
+
+**mi Heukueqche**
+> I'll try my own first : )  
+
+**mi Heukueqche**
+> 1) "Because poor I bi, Buy I this xor that". Since I am poor, I must buy either this or that.  
+> 2) "Buy I this xor that, Because poor I". I have to buy either this or that, because I am poor  
+
+**mi Hỏemāı**
+> 1) is good, but your 2) doesn't sound right. It sounds identical to 1)  
+> In English, the reading that number 2) expresses would usually be discarded (both 1) and 2) have the same form in English, because English has ambiguous scope)  
+> but 2) does meaning something very different  
+
+**mi Heukueqche**
+> oh, I'm about to learn beyond english XD  
+
+**mi Hỏemāı**
+> A natural translation of 2) would be "[exactly] one of these two things is bought by me for reasons of poorness". So for example, you can't afford an X of good quality, so you buy the cheap version of it, because you are poor.  
+> And this says NOTHING about the other thing  
+> While 1) says that, because you are poor, you can only buy one of the two.  
+> So in 1), the reason applies to [either this or that], and in 2), one of the two choices has poorness as the reason  
+**mi Heukueqche**
+> hm, I am having trouble seeing the difference. I'll make my breakfast and think about it  
+> if you can think of another example in the meantime, that would be very helpful  
+
+**mi Hỏemāı**
+> If this is still unclear, don't panic. I think this kind of contrast starts out seeming extremely subtle if at all noticeable, but once you understand it, the difference is jarring and you can never unsee it  
+**mi Heukueqche**
+> XD I think that is a benefit of learning toaq, to learn the subtle clues of logic. That is the unique change to your mind that it does  
+
+**mi Hỏemāı**
+> Yes, that does happen.  
+> So, imagine that I bought two things: a marble and a flower. One of the two was bought for reasons of poorness, THE OTHER WAS NOT. The other one might have been bought for a different reason, perhaps because I'm in love and want to give it to someone. But the marble is the cheapest toy I could affort. Sure, I'd prefer to play with a slingshot, but it's too expensive.  
+> So now, imagine I show you the marble and the flower  
+> and I tell you Jẻa jí níjūı ro níjāo kùı hîaq jí  
+> And then I ask you to guess which one.  
+**mi Heukueqche**
+> oh! so the difference is that 1.  I bought one or the other, but not both because I am poor, and 2. I bought both, but this one I bought because I was poor, and the other I just bought, no qualification  
+
+**mi Hỏemāı**
+> Yes :)  
+**mi Heukueqche**
+> :D nice!  
+> I'll keep an eye out for this difference, and archive this conversation  
+
+**mi Hỏemāı**
+> (technically, in #2, the other one may or may not have been bought, we don't actually know)  
+> (but in the situation, since I show you both, you can assume that I did buy both)  
+**mi Heukueqche**
+> so, in 1. the Kuit modifies the Jean*, but in 2. the Kuit modifies the ro?  
+
+**mi lù**
+> kuik*  
+
+**mi Hỏemāı**
+> So in summary, in #1 kùı X scopes over ro, which means that X is the reason for the ro/either-or.  
+> In #2, the ro scopes over the kùı X, which means that only one of the two things has the kùı X  
+
+**mi lù**
+> %miu kùi rái bi hảo shí ra gú  
+
+**mi Nuogai**
+> ({[kùı ráı] bı} {hảo [shí ra gú]})  
+> [℩𝑆 : shi(𝑆)] [℩𝐺 : gu(𝐺)] [℩𝑅 : rai(𝑅)] kui({hao(𝑆) ∨ hao(𝐺)}, 𝑅).  
+
+**mi lù**
+> %miu hảo shí ra gú kùi rái  
+
+**mi Nuogai**
+> (hảo {[shí ra gú] [kùı ráı]})  
+> [℩𝑆 : shi(𝑆)] [℩𝑅 : rai(𝑅)] [℩𝐺 : gu(𝐺)] kui({hao(𝑆)}, 𝑅) ∨ kui({hao(𝐺)}, 𝑅).  
+
+**mi lù**
+> see how there are two kui in the latter expansion?  
+> you can imagine that ro is a kind of branching of a path; this branching can happen before or after the quantification  
+> if the branching happens before the quantification, tge quabtification goes in both of the branches  
+> Rai shí ro gú -> Rai shí, na ro rai gú  
+> this branching either is or isn’t in the containing :t6: clause  
+> somebody explain this better – I have no time now  
+**mi Heukueqche**
+> oh, no no, you've done a great job! The branching path analogy was especially good  
+> thank you, lu  
+
+**mi lù**
+> I’m :tea:  
+> Chai  
+> none of that lù madness  
