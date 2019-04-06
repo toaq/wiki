@@ -2040,3 +2040,131 @@ ref: ## On the problem of indifference, nesting, and subordination
 > oh, :t2: makes nouns, and combined with lu it makes the special noun  
 > yeah, @Hoemai, you're right! we've come full circle!  
 > thanks!  
+
+## On the 5 ways to describe a noun
+## Or, the yellow flower, **ruap luen**
+
+
+**mi Heukueqche**
+> since relative clauses modify nouns, would you say that they are like adjectives?  
+> and, since we're talking about adjectives, how do they work in toaq? I think I've seen serial predication fill the role of making adjectives  
+> like: **Bảorēo Hỉuhēkūo ní**  
+
+**mi seaqtaq**
+> Relative clauses are also called adjectival clauses  
+
+**mi seaqtaq**
+> Hoemai explained adjectives in the alpha primer  
+> here: http://selpahi.de/ToaqAlphaPrimer.html, 6.1  
+
+**mi seaqtaq**
+> So yeah  
+> there are adjective like predicates like **sao**: X is big, and combined with **RU** serialization, you get things like **sao poq or poq sao** (the order doesn't matter because none of those predicates have a subordinating slot)  
+> That last point in parenthesis allows some really fun stuff  
+> e.g. **pom geon saon buain hoin**  
+> although with this you must be careful, because **hoi** does have a slot that subordinates, so you want it either before **poq** or at the end, because with **hoi** in particular it doesnt make that big of a difference whether it subordinates the thing it is meant to or simply connected through **ru**  
+> I guess that putting **hoi** before one of the adjectival like predicates in that example wouldn't affect the meaning too much  
+
+**mi Heukueqche**
+> I like that "context-aware and"  
+> @seaqtaq I'm mulling over your answer, thanks for the pointer to adjectives!  
+
+**mi seaqtaq**
+> np  
+
+**mi Hỏemāı**
+> That "**fi**" is what the implied connective may end up being in **sảo pỏq**. But my research isn't complete yet.  
+> (of course it wouldn't be spelled "**fi**")  
+> (it makes things a lot simpler, logically, but I need to be sure that it's necessary. I have read different opinions)  
+
+**mi Heukueqche**
+> so, there are, like, 4 ways to say more about a noun: relative clauses, **ju**, RU serialization, and fi/ru connective  
+
+**mi seaqtaq**
+> and **lun**  
+
+**mi Mỏılūq**
+> and plain serialization to some extent  
+> example: **rúa lủe** = flower (and) yellow  
+> here you can add or remove **ru** without difference  
+
+**mi Heukueqche**
+> XD all right, like 6: plain serialization, RU serialization, relative clauses, lun, ju,  and fi/ru connectives  
+> what is RU serialization?  
+
+**mi Mỏılūq**
+> **rúa ru lủe**  
+> **rúa ra lủe** = what is either a flower or is yellow (or both)  
+
+**mi seaqtaq**
+> What I meant by it were cases when an implicit **ru** is present  
+> like in **ruan luen**  
+> :V  
+
+**mi Heukueqche**
+> ah, so its a serial where **ru** is implicit  
+
+**mi seaqtaq**
+> I thought that is what it meant, but ilmen seems to have a different interpretation so im not really sure anymore  
+
+**mi Heukueqche**
+> whaddayasay, @Mỏılūq ?  
+
+**mi Mỏılūq**
+> what is your interpretation of what?  
+> **rúa lủe** = **rúa ru lủe**  
+> I don't think there's disagreement there  
+
+**mi seaqtaq**
+> Oh  
+> I thought you were saying that RU  serialization is when a member of RU is explicit  
+
+**mi Mỏılūq**
+> Well, I didn't get what was exactly meant by "RU serialization"  
+> you could say "additive serialization" maybe  
+
+**mi seaqtaq**
+> m̨̄m̨̄m̨̄m̨̄  
+> Yeah i think that is better @Mỏılūq  and then we could use RU serialization for when a member of RU is explicit  
+> that makes more sense  
+> Also I should have just copied and pasted because I wrote the exact same thing  
+
+**mi Heukueqche**
+> hey, practice you touch typing!  
+> btw, **Chủfāq shỏ pảq ní káıpūmē**  
+
+**mi Heukueqche**
+> for the archive:  
+> there are 7 ways to describe a noun: plain serialization, additive serialization, RU serialization, relative clauses, **lun**, **ju**, and fi/ru connectives  
+
+**mi Mỏılūq**
+> the 8th way is to add nothing and leave the details up to the imagination of the reader  
+
+**mi seaqtaq**
+> %)  
+
+**mi nuogaiBO**
+> (%  
+
+[...]
+
+**mi Hỏemāı**
+> Isn't RU serialization = fi/ru connectives ?  
+
+**mi seaqtaq**
+> No that one is supposed to be additive  
+> I think so  
+> RU serialization should encompass fi/ru  
+
+**mi Heukueqche**
+> I think the difference is that fi/ru connection are explicit, while RU serialization leaves the connectives implicit  
+
+**mi Hỏemāı**
+> Why don't you list it as "serial predicates, (implicit or explicit) RU, relative clauses, ju"  
+
+**mi Heukueqche**
+> yeah, I like that order better  
+> less items to remember too XD  
+
+### Summary:
+There are 5 ways to describe a noun: serial predicates, (implicit or explicit) RU, relative clauses, and ju.
