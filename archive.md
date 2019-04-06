@@ -1342,8 +1342,7 @@ Thanks, that's actually pretty insightful
 > That's why the currently-proposed interjections have to be considered extra-linguistic or at least grammar-adjacent, the way that laughter or inflating your cheeks with air and the expelling it (to show relief) are meaningful signals, but not grammatical signals, but rather socio-cultural signals.  
 
 
-## On Voldemort, Zombies, and Cereal Killers.
-## Or, Running from the dead, and inflecting serial predicates.
+## On Voldemort, Zombies, and Cereal Killers. Or, Running from the dead, and inflecting serial predicates.
 
 ### 2019-03-21, #general
 
@@ -1465,14 +1464,14 @@ Thanks, that's actually pretty insightful
 
 **mi Hỏemāı**
 > Another "able" would be "**juaodūe**"  
-> "You can't do that" -> "Doing this would be illegal"  
+> "You can't do that" → "Doing this would be illegal"  
 
 **mi Heunkuelcher**
 > so, -unable  
 > law-correct  
 
 **mi Hỏemāı**
-> Well, you could also phrase it positively: "Can I take this?" -> "Is it legal to take this?"  
+> Well, you could also phrase it positively: "Can I take this?" → "Is it legal to take this?"  
 
 **mi Hỏemāı**
 > So what seaqtaq said was correct, and important. You wouldn't want to use "**deq**" for most of those situations  
@@ -1505,47 +1504,43 @@ Thanks, that's actually pretty insightful
 
 ### 2019-03-28, #chiejio
 
-**mi Dảqpeōkōıchē**
+**mi Dampeorkoircher**
 > So I'm trying to make my username in Toaq, and I've narrowed the meaning down to (essentially) "one who ambulates through time".  
-> Would **Chẻkōıpeōdāq** work, or am I understanding compound predicates wrong?  
+> Would **Chẻkōıpēodāq** work, or am I understanding compound predicates wrong?  
 **mi Hỏaqgīo**
 > I would reverse the order of the syllables  
 > Compound predicates can be defined however you like, but generally if you want to make one that has a meaning related to its parts, you do (descriptor + base)  
 > So I'd have:  
-> **Dampeorkoipchep**  
+> **Dampeorkoircher**  
 
 ## On compound predicates
 
 ### 2019-03-30, #chiejio
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > how do you interpret compound predicates? I've heard there are some association rules?  
-> like, is there a grammar for decomposing "**Hỏaqpīotūı**"
+> like, is there a grammar for decomposing "**hoaqpīotūı**"
 
 **mi Hỏaqgīo**
 > Actual rule: Compound predicates are not related to their parts; they are defined as separate words in the dictionary and their definition could be anything  
 > Rule of thumb: For the sake of making it easy to remember them, we usually break concepts down into parts to design the compound word  
 
 **mi Hỏaqgīo**
-> If a concept could be written as a serial with A B̉ C̉ D̉ or something similar, we compoundize it ias DC̄B̄Ā  
+> If a concept could be written as a serial with A B̉ C̉ D̉ or something similar, we compoundize it as DC̄B̄Ā  
 
-**mi ShủaOwŌ**
+**mi Shuaon**
 > lujvo  
-> … right?  
 
-**mi Hỏaqgīo**
-> yes
-
-**mi Heukueqche**
+**mi Heunkuelcher**
 > oh, so as an informal rule, you can make a compound as the reverse of its 'equivalent' serial?  
 
 **mi Hỏaqgīo**
 > Yes  
-> E.g. **demīu** = **miu dẻ**, and **duatūa** = **tua dủa**  
+> E.g. **demīur** = **miu dẻn**, and **duatūar** = **tua duan**  
 > But some compound words are just made up  
-> **cukī** = _ nods is not related to **cu** or **ki** and in fact neither of those words are predicates  
+> **cukir** = _ nods is not related to **cu** or **ki** and in fact neither of those words are predicates  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > hm, so really a compound is more like a combination of sounds than a composition of words, and the sound unit is a syllable?  
 > ah, is that why there is the high tone to denote compound words? so that each of its component syllables is not confused with a word?  
 > like **cukir** does not sound like **cu ki**  
@@ -1557,85 +1552,85 @@ Thanks, that's actually pretty insightful
 
 ### 2019-03-31, #chiejio
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > so, the phrase **Súao nỏacā rǎq hóa chémē lỏjībāq**  
 > which, if I understood correctly, means "The important problem in the lojban community"  
 > I have three questions:  
-> 1) I'm surprised that the sentence starts with a noun (from the :t2:) instead of a verb ( :t4: ).  Why is that?  
+> 1) I'm surprised that the sentence starts with a noun (from the ◌́) instead of a verb ( ◌̉ ).  Why is that?  
 > I thought every sentence had to start with a verb which would take as arguments the rest of the words  
 
 **mi Hỏemāı**
 > 1) It's not a sentence, just like "The important problem in the lojban community" is not a sentence, but a noun phrase.  
-> It's like a single **jí**, except way more complicated. But it's just a single noun  
+> It's like a single **jip**, except way more complicated. But it's just a single noun  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > oh! its a fragment!  
-> if we wanted to make it into a whole sentence, like "indifference is a big problem in the lojban community"...  
+> if we wanted to make it into a whole sentence, like "indifference is a big problem in the lojban community"…  
 
 **mi Hỏemāı**
 > But now it looks like you turned "the problem" (noun) into a verb ("to be a problem")  
 
-**mi seaqtaq**
+**mi Seamtal**
 > so you cannot use "**raz**"  
-> but you can say "**lun**..."  
+> but you can say "**lun**…"  
 > and go from there  
 
 **mi Hỏemāı**
-> You could do "I am aware of the important problem [...]"  
+> You could do "I am aware of the important problem (…)"  
 > (for the sake of the exercise)  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > **Chỉaq jí súao nỏacā rǎq hóa chémē lỏjībāq**  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > I am aware of the big problem in the lojban community  
 
 **mi Hỏemāı**
 > Very good  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > thanks! though I still want to say that that problem is indifference  
 > let me try it out, so you can see the mistakes in my reasoning  
 > **Sủao nỏacā bú sủaojīe nìe Lójībāq chẻmē**  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > problem important not caring inside lojban community  
 
 **mi Hỏemāı**
 > Not bad, but there's a slight mistake. "**bú sủaojīe**" refers to a person who doesn't find something important, but you want to refer to the situation of not finding something important.  
-> And because you used :t2:, the "**nìe**" phrase falls out  
+> And because you used ◌́, the "**nìe**" phrase falls out  
 
 **mi Hỏemāı**
-> The goal is that it groups like this: Sủao nỏacā (bú sủaojīe [nìe Lójībāq chẻmē])  
+> The goal is that it groups like this: **Sủao nỏacā (bú sủaojīe [nìe Lójībāq chẻmē])**  
 > () = the argument phrase, [] the prepositional phrase  
 > [] must be inside ()  
-> but for it to be inside of it, you can't use :t2: like that. Instead, you need a tone that "opens" a new statement  
+> but for it to be inside of it, you can't use ◌́ like that. Instead, you need a tone that "opens" a new statement  
 > "(that there is indifference) is a problem"  
 
-[...]
+[…]
 
 **mi Hỏemāı**
 > You need something that takes a statement (subordinate sentence) and wraps it into a nice package so you can use it as an argument  
 
-[...]
+[…]
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > oh! I need to subordinate it!  
 
 **mi Hỏemāı**
 > Well yes!  
 
-**mi Heukueqche**
-> haha, so it would be...  
+**mi Heunkuelcher**
+> haha, so it would be…  
 > **nîe**  
 
 **mi Hỏemāı**
-> :t5: is correct, but put it on the right word  
-> :t5: is always placed on the verb that starts the subordinate clause  
+> ◌̂ is correct, but put it on the right word  
+> ◌̂ is always placed on the verb that starts the subordinate clause  
 > (or on lu, which marks the beginning of the subordinate clause without needing to mark it on a verb)  
 > How do you say "I know that you are asleep" ?  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > hm, let me think  
 > **Dủa jí nûo súq da**  
 
@@ -1643,13 +1638,13 @@ Thanks, that's actually pretty insightful
 > Perfect. Didn't even need my help.  
 > Now step 2  
 
-**mi Heukueqche**
-> ganbate!  
+**mi Heunkuelcher**
+> ganbat[t]e!  
 
 **mi Hỏemāı**
-> How do you say "I know that [people] do not find things important" (use "bu sủaojīe" as you did before, but apply what you just learned)  
+> How do you say "I know that [people] do not find things important" (use "**bu sủaojīe**" as you did before, but apply what you just learned)  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > ok, on it  
 > **Sủao nỏacā bû sủaojīe nìe Lójībāq chẻmē**  
 
@@ -1658,32 +1653,26 @@ Thanks, that's actually pretty insightful
 > Oh you are jumping way ahead  
 > But it's spot on. :)  
 
-**mi Heukueqche**
-> ?oh, sorry XD **Dủe jí bû sủaojīe póq**  
+**mi Heunkuelcher**
+> ?oh, sorry XD **Dủ[a] jí bû sủaojīe póq**  
 
 **mi Hỏemāı**
 > Yeah yeah, now you don't need to do that anymore, but good job anyway :P  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > true, but trying still felt good!  
-> thanks for the help :smiley:  
+> thanks for the help 😃
 
 **mi Hỏemāı**
 > One last challenge before you ask your second question  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > ready!  
 
 **mi Hỏemāı**
-> How would you say this same sentence using the word lu?  
+> How would you say this same sentence using the word **lu**?  
 
-**mi Heukueqche**
-> **Dủa jí lu bủ sủaojīe póq**  
-
-**mi Hỏemāı**
-> **lu** cannot be toneless  
-
-**mi Heukueqche**
+**mi Heunkuelcher**
 > **Dủa jí lû bủ sủaojīe póq?**  
 
 **mi Hỏemāı**
@@ -1691,30 +1680,25 @@ Thanks, that's actually pretty insightful
 > **lu** has different (related) functions depending on the tone used.  
 
 **mi Hỏemāı**
-> The two basic ones are the verbose forms of :t5: and :t3:  
+> The two basic ones are the verbose forms of ◌̂ and ◌̌  
 > **lû fả jí** = **fâ jí** ("that I go")  
 > **póq lǔ fả hóa** = **póq fǎ hóa** ("the person who goes")  
 > There are two main reasons why someone would want to use the verbose forms: 
 > 1) the added redundancy can make a sentence easier to understand (and it allows a speaker to stall if they need a second to think which verb they want to use), and 
 > 2) it's required if you want to use a prenex in the subordinate clause.  
-> (http://toaq.org/#prenex)  
+> (<http://toaq.org/#prenex>)  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > hm, I see  
-> what about the other 5 tones? do they change lu too?  
+> what about the other 5 tones? do they change **lu** too?  
 
 **mi Hỏemāı**
-> lū can be discarded right off the bat, because it's not a possible word  
-> So 4 other tones  
-
-**mi Heukueqche**
-> XD true  
-
-**mi Hỏemāı**
+> **lū** can be discarded right off the bat, because it's not a possible word  
+> So 4 other tones […]  
 > **lũ** and **lù** are too complicated for now  
 > But **lú** is useful and very common  
 > **lủ** is similar  
-> **lú** makes nouns like :t2: normally does  
+> **lú** makes nouns like ◌́ normally does  
 > but because it's **lu**, it takes a complete statement  
 > and the head of the subordinate statement is marked by the pronoun **hoa**  
 > This pronoun also appears in relative clauses, and it does the same thing here  
@@ -1731,7 +1715,7 @@ Thanks, that's actually pretty insightful
 > the goers to school  
 > If you said "**fá chíejīo**", you would have two individual nouns: "the goer, the school"  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > ok, so it lets you make noun phrases that are as detailed and structured that you want  
 
 **mi Hỏemāı**
@@ -1744,64 +1728,63 @@ Thanks, that's actually pretty insightful
 > These can quickly become very hard to translate into natural-sounding English  
 > This one means "that which I know you are doing", "the thing I know you are doing"  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > the knower of the one who does?  
 
-[...]
+[…]
 
 **mi Hỏemāı**
 > Actually, since you speak Spanish, you can think of it as "lo que"  
 > **lú** = lo que  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > oh, I think it makes sense. "Lo que se que tu estas haciendo"  
 
 **mi Hỏemāı**
 > Yes  
 > The difference is that Toaq has an explicit pronoun (**hóa**) where Spanish and many other languages have a gap  
 
-**mi Heukueqche**
-> yeah, I had never been conscious of that interpretation of "lo que...", I quite like it, especially because now I'm not really sure what "lo que" means anymore XDD  
+**mi Heunkuelcher**
+> yeah, I had never been conscious of that interpretation of "lo que…", I quite like it, especially because now I'm not really sure what "lo que" means anymore XDD  
 > but that's another story, for another time  
 > thank you so much! I learned a lot  
 
 
-## On first and second order quantification
-## Or, quantification over variables and predicates
+## On first and second order quantification. Or, quantification over variables and predicates
 
 ### 2019-04-03, #general
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > what is "second order quantification"?
 > is it limited to a single slot of a predicate?  
 
 **mi Hỏemāı**
 > It means quantifying over predicates  
-> First-order: ∃x **mai**(**ji**, x) "there exists an x such that I love x"  
-> Second-order predicate logic additionally allows quantification over predicates, e.g.: ∃P P(**ji**, **suq**) "there exists a predicate P such that I P you"  
+> First-order: ∃*x* **mai**(**ji**, *x*) "there e*x*ists an *x* such that I love *x*"  
+> Second-order predicate logic additionally allows quantification over predicates, e.g.: ∃*P* *P*(**ji**, **suq**) "there exists a predicate *P* such that I *P* you"  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > can you use it to imply a relationship between two objects, without saying what relationship they have?  
 
 **mi Hỏemāı**
 > Yes  
 > The example above means "there is some relationship between me and you" (relationship in the broad sense)  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > cool  
 > are there other use cases?  
 
 **mi Hỏemāı**
-> Not many... You can restrict the domain of the second-order quantifier (using a relative clause), but not many restrictions make sense.  
-> [∃P : **de**(P)] P(**suq**) "There exists a beautiful predicate P such that you satisfy that predicate"  
+> Not many… You can restrict the domain of the second-order quantifier (using a relative clause), but not many restrictions make sense.  
+> [∃*P* : **de**(*P*)] *P*(**suq**) "There exists a beautiful predicate *P* such that you satisfy that predicate"  
 > I.e., "You satisfy some beautiful property"  
-> With negation, this would be a stronger claim: ¬[∃P : **de**(P)] P(**suq**) "You satisfy not a single beautiful predicate"  
+> With negation, this would be a stronger claim: ¬[∃*P* : **de**(*P*)] *P*(**suq**) "You satisfy not a single beautiful predicate"  
 > (mean!)  
-> [∃P : **noa**(P) ∧ **pui**(P)] P(**ho**) "They do many difficult things"  
+> [∃*P* : **noa**(*P*) ∧ **pui**(*P*)] *P*(**ho**) "They do many difficult things"  
 > You can say this very easily without second-order quantification  
 > E.g. **Tảo hó sa púı nỏa** (or something else in place of tao)  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > "there is a predicate that satisfies both the properties of difficult and many, and it applies to them"  
 
 **mi Hỏemāı**
@@ -1811,10 +1794,10 @@ Thanks, that's actually pretty insightful
 > (so, "There are predicates", not "there is a predicate")  
 > ((but this seems to be an irrelevant tangent at the moment))  
 
-[...]
+[…]
 
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > would first order quantification be called "quantification over variables"?  
 
 **mi Hỏemāı**
@@ -1822,13 +1805,13 @@ Thanks, that's actually pretty insightful
 > They both use variables  
 > they differ in what the variables range over  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > oh, in the first, the variable is an individual, and in the second the variable is an entire predicate?  
 
 **mi Hỏemāı**
 > refers to, or has as its value, an individual vs a predicate  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 all right, thanks!
 
 
@@ -1836,7 +1819,7 @@ all right, thanks!
 
 ### 2019-04-04, #general
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > all right, lets start with terminology: what is a constant?  
 > is it like, an unchanging value instead of a variable?  
 
@@ -1844,14 +1827,14 @@ all right, thanks!
 > Yes  
 > something that keeps its value within a given scope  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > so, a QE (Quantified Expression) is not a constant. That means that its value changes depending on the scope?  
 
 **mi Hỏemāı**
 > We call anything that isn't a quantified term, a constant  
 > A quantified expression opens a new scope, within which its variable acts as a constant  
 > but the quantified expression itself is not a constant  
-> Something is [a] constant, if moving it around in the sentence doesn't change its meaning  
+> Something is (a) constant, if moving it around in the sentence doesn't change its meaning  
 > So e.g.  
 > "**Tỉ bũ sa ráı**" is not the same as "**Tỉ sa ráı bũ**"  
 > but  
@@ -1859,26 +1842,26 @@ all right, thanks!
 > the negation by "**bũ**" does not affect the constant "**ráı**", but it changes the meaning of the sentence when it crosses paths with the quantifier "**sa**" in "**sa ráı**"  
 > In logic notation:  
 > ∃¬  !=  ¬∃  
-> ¬[∃x] **ti**(x)  !=  [∃x] ¬**ti**(x)  
-> but both "**Tỉ bũ ráı**" and "**Tỉ ráı bũ**" have the logical form ¬ti(c)  
+> ¬[∃*x*] **ti**(*x*)  !=  [∃*x*] ¬**ti**(*x*)  
+> but both "**Tỉ bũ ráı**" and "**Tỉ ráı bũ**" have the logical form ¬**ti**(*c*)  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > ok, the place of the negation does not change the truth of the expression, when the argument is a constant  
 > but if it is Quantified, its truth changes depending on the place of the negation  
 > or at least, its meaning, if not its truth  
 
 **mi Hỏemāı**
-> Negation being only one example. This applies to all of the following: adverbs (:t7:), prepositions (:t6:), quantifiers, and conjunctions.  
+> Negation being only one example. This applies to all of the following: adverbs (◌̃), prepositions (◌̀), quantifiers, and conjunctions.  
 > If you have any two of those four in a sentence, their relative order matters  
 > whereas a constant wouldn't care on which side of any of those it appears  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > so, in the case above, you have an adverb and a quantifier in the same sentence, so the order matters  
 
 **mi Hỏemāı**
 > Exactly  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > if you had a preposition and a conjunction, the order would matter too?  
 
 **mi Hỏemāı**
@@ -1887,27 +1870,27 @@ all right, thanks!
 > vs  
 > 2) **Jẻa jí níjūı ro níjāo kùı hîaq jí**  
 
-**mi Heukueqche**
-> 1) "Because poor I bi, Buy I this xor that". Since I am poor, I must buy either this or that.  
+**mi Heunkuelcher**
+> 1) "Because poor I **bi**, Buy I this xor that". Since I am poor, I must buy either this or that.  
 > 2) "Buy I this xor that, Because poor I". I have to buy either this or that, because I am poor  
 
 **mi Hỏemāı**
 > 1) is good, but your 2) doesn't sound right. It sounds identical to 1)  
 > In English, the reading that number 2) expresses would usually be discarded (both 1) and 2) have the same form in English, because English has ambiguous scope)  
 > but 2) does mean something very different  
-> A natural translation of 2) would be "[exactly] one of these two things is bought by me for reasons of poorness". So for example, you can't afford an X of good quality, so you buy the cheap version of it, because you are poor.  
+> A natural translation of 2) would be "[exactly] one of these two things is bought by me for reasons of poorness". So for example, you can't afford an *X* of good quality, so you buy the cheap version of it, because you are poor.  
 > And this says NOTHING about the other thing  
 > While 1) says that, because you are poor, you can only buy one of the two.  
 > So in 1), the reason applies to [either this or that], and in 2), one of the two choices has poorness as the reason  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > hm, I am having trouble seeing the difference. I'll make my breakfast and think about it  
 > if you can think of another example in the meantime, that would be very helpful  
 
 **mi Hỏemāı**
 > If this is still unclear, don't panic. I think this kind of contrast starts out seeming extremely subtle if at all noticeable, but once you understand it, the difference is jarring and you can never unsee it  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > XD I think that is a benefit of learning toaq, to learn the subtle clues of logic. That is the unique change to your mind that it does  
 
 **mi Hỏemāı**
@@ -1917,13 +1900,13 @@ all right, thanks!
 > and I tell you **Jẻa jí níjūı ro níjāo kùı hîaq jí**  
 > And then I ask you to guess which one.  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > oh! so the difference is that in 1) I bought one or the other, but not both because I am poor, and 2) I bought both, but this one I bought because I was poor, and the other I just bought, no qualification  
 
 **mi Hỏemāı**
 > Yes :)  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > :D nice!  
 > I'll keep an eye out for this difference, and archive this conversation  
 
@@ -1931,156 +1914,140 @@ all right, thanks!
 > (technically, in #2, the other one may or may not have been bought, we don't actually know)  
 > (but in the situation, since I show you both, you can assume that I did buy both)  
 
-**mi Heukueqche**
-> so, in 1# the **Kuik** modifies the **Jean**, but in 2# the **Kuik** modifies the ro?  
+**mi Heunkuelcher**
+> so, in 1# the **kuik** modifies the **jean**, but in 2# the **kuik** modifies the **ro**?  
 
 **mi Hỏemāı**
-> So in summary, in #1 **kùı** X scopes over **ro**, which means that X is the reason for the **ro**/either-or.  
-> In #2, the **ro** scopes over the **kùı** X, which means that only one of the two things has the **kùı** X  
+> So in summary, in #1 **kùı** *X* scopes over **ro**, which means that *X* is the reason for the **ro**/either-or.  
+> In #2, the **ro** scopes over the **kùı** *X*, which means that only one of the two things has the **kùı** *X*  
 
 **mi Chain**
-> %miu **kùi rái bi hảo shí ra gú**  
+> `%miu` **kùi rái bi hảo shí ra gú**  
 
-**mi Nuogai**
-> ({[kùı ráı] bı} {hảo [shí ra gú]})  
-> [℩𝑆 : shi(𝑆)] [℩𝐺 : gu(𝐺)] [℩𝑅 : rai(𝑅)] kui({hao(𝑆) ∨ hao(𝐺)}, 𝑅).  
+**mi Nuongair**
+> **({[kùı ráı] bı} {hảo [shí ra gú]})** 
+> \[℩𝑆 : **shi**(𝑆)\] \[℩𝐺 : **gu**(𝐺)\] \[℩𝑅 : **rai**(𝑅)\] **kui**({**hao**(𝑆) ∨ **hao**(𝐺)}, 𝑅).  
 
 **mi Chain**
-> %miu hảo shí ra gú kùi rái  
+> `%miu` hảo shí ra gú kùi rái  
 
-**mi Nuogai**
-> (hảo {[shí ra gú] [kùı ráı]})  
-> [℩𝑆 : shi(𝑆)] [℩𝑅 : rai(𝑅)] [℩𝐺 : gu(𝐺)] kui({hao(𝑆)}, 𝑅) ∨ kui({hao(𝐺)}, 𝑅).  
+**mi Nuongair**
+> **(hảo {[shí ra gú] [kùı ráı]})**  
+> \[℩𝑆 : **shi**(𝑆)\] \[℩𝑅 : **rai**(𝑅)\] \[℩𝐺 : **gu**(𝐺)\] **kui**({**hao**(𝑆)}, 𝑅) ∨ **kui**({**hao**(𝐺)}, 𝑅).  
 
 **mi Chain**
 > see how there are two **kui** in the latter expansion?  
 > you can imagine that **ro** is a kind of branching of a path; this branching can happen before or after the quantification  
 > if the branching happens before the quantification, the quantification goes in both of the branches  
-> **Rai shí ro gú** -> **Rai shí, na ro rai gú**  
-> this branching either is or isn’t in the containing :t6: clause  
+> **Rai shí ro gú** → **Rai shí, na ro rai gú**  
+> this branching either is or isn’t in the containing ◌̀ clause  
 > somebody explain this better – I have no time now  
 
-**mi Heukueqche**
-> oh, no no, you've done a great job! The branching path analogy was especially good  
-> thank you, **Chain**  
 
-
-## On horses and relative clauses
-## Or, falling-rising, incidentals, and lup
+## On horses and relative clauses. Or, falling-rising, incidentals, and **lup**
 
 ### 2019-04-5, #chiejio
 
-**mi Heukueqche**
-> I've also been reading on relative clauses, and there seems to be two types in english:  
-> the ones that distinguish the noun from other similar nouns (in a stable full of horses, "I want the horse THAT is white") 
-> and the one that just gives you more information on it ("My horse, which is white, is so pretty!")  
+**mi Heunkuelcher**
+> I've also been reading on relative clauses, and there seems to be two types in English:  
+> * the ones that distinguish the noun from other similar nouns (in a stable full of horses, "I want the horse THAT is white")
+> * and the one that just gives you more information on it ("My horse, which is white, is so pretty!")  
 
-**mi ShủaOwŌ**
+**mi Shuaon**
 > Restrictive and non-restrictive?  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > exaclty  
-> does that distinction exist in toaq too?  
+> does that distinction exist in Toaq too?  
 
 **mi Hỏaqgīo**
 > Yes  
-
-**mi Hỏaqgīo**
 > In the sense that it only has restrictive ones, directly speaking  
-> Incidental information of any kind can be included with ju  
+> Incidental information of any kind can be included with **ju**  
 
-**mi ShủaOwŌ**
+**mi Shuaon**
 > non-restrictive clauses are called 'incidentals'  
-
-**mi ShủaOwŌ**
 > There's a section on those on toaq.org.  
 
 **mi Hỏaqgīo**
-> Like this: "**Mai jip popjir kantur, ju baon hop**" = "I like my cat, which is white"  
-> As opposed to "**Mai jip ponjir kantur baox**" = "I like my white cat [and maybe not the other one(s)]"  
+> Like this: "**Main jip popjir kantur, ju baon hop**" = "I like my cat, which is white"  
+> As opposed to "**Main jip ponjir kantur baox**" = "I like my white cat [and maybe not the other one(s)]"  
 
-**mi Heukueqche**
-> oh, so all relative clauses are restrictive, and the equivalent of non-restrictive relative clauses are ju incidentals  
+**mi Heunkuelcher**
+> oh, so all relative clauses are restrictive, and the equivalent of non-restrictive relative clauses are **ju** incidentals  
 
 **mi Hỏaqgīo**
 > Yes, exactly  
 > (Though **ju** is more general, you can put anything you like inside a **ju** clause)  
 
-**mi Heukueqche**
-> @ShủaOwŌ , there is indeed. I'm just confirming my understanding now  
-> @Hỏaqgīo , you're right, it does seem more general. Like a parentetical, where you can put anything in there.  Just that it is often used AS a non-restrictive clause  
+**mi Heunkuelcher**
+> @Hỏaqgīo , you're right, it does seem more general. Like a parenthetical, where you can put anything in there.  Just that it is often used AS a non-restrictive clause  
 
 **mi Hỏaqgīo**
 > Exactly  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > the wikipedia article also mentioned bound relative clause (one that refers to a head) and a free relative clause (one that doesn't refer to any head, acting itself as a noun)  
 > does that exist in toaq too?  
 
-[...]
+[…]
 
-**mi Heukueqche**
-> my understanding is that it doesn't, because toaq.org DOES say that (in a way) every relative clause refers to a head. And that that's why you can imply hoa as the first argument of the relative clause  
-> the example they use is: I like *what I see*, where the *what I see* is the free relative clause  
+**mi Heunkuelcher**
+> my understanding is that it doesn't, because toaq.org DOES say that (in a way) every relative clause refers to a head. And that that's why you can imply **hóa** as the first argument of the relative clause  
+> the example they use is: I like *what I see*, where the ‘what I see’ is the free relative clause  
 
 **mi Hỏaqgīo**
 > Oh, I see  
 > Those exist in Toaq, but they aren't considered "relative clauses"  
-> They are accomplished by using lu with :t2:  
+> They are accomplished by using **lu** with ◌́  
 > Like this:  
-> "lup pain jip hoap" -> The one I'm friends with  
+> "**lup pain jip hoap**" → The one I'm friends with  
 
 **mi Hỏemāı**
 > We learned about those the other day.  
 > (lo que)  
 
-ref: ## On the problem of indifference, nesting, and subordination
+cf. [On the problem of indifference, nesting, and subordination](#on-the-problem-of-indifference-nesting-and-subordination)
 
-**mi Heukueqche**
-> oh, :t2: makes nouns, and combined with lu it makes the special noun  
-> yeah, @Hoemai, you're right! we've come full circle!  
-> thanks!  
+**mi Heunkuelcher**
+> oh, ◌́ makes nouns, and combined with lu it makes the special noun  
 
-## On the 5 ways to describe a noun
-## Or, the yellow flower, **ruap luen**
+## On the 5 ways to describe a noun. Or, the yellow flower, **ruap luen**
 
-
-**mi Heukueqche**
+**mi Heunkuelcher**
 > since relative clauses modify nouns, would you say that they are like adjectives?  
 > and, since we're talking about adjectives, how do they work in toaq? I think I've seen serial predication fill the role of making adjectives  
-> like: **Bảorēo Hỉuhēkūo ní**  
+> like: **bảorēo hỉuhēkūo ní**  
 
-**mi seaqtaq**
+**mi Seamtal**
 > Relative clauses are also called adjectival clauses  
 
-**mi seaqtaq**
+**mi Seamtal**
 > Hoemai explained adjectives in the alpha primer  
-> here: http://selpahi.de/ToaqAlphaPrimer.html, 6.1  
+> here: <http://selpahi.de/ToaqAlphaPrimer.html>, 6.1  
 
-**mi seaqtaq**
+**mi Seamtal**
 > So yeah  
-> there are adjective like predicates like **sao**: X is big, and combined with **RU** serialization, you get things like **sao poq or poq sao** (the order doesn't matter because none of those predicates have a subordinating slot)  
+> there are adjective like predicates like **sao**: *X* is big, and combined with **RU** serialization, you get things like **sao pom** or **poq saon** (the order doesn't matter because none of those predicates have a subordinating slot)  
 > That last point in parenthesis allows some really fun stuff  
 > e.g. **pom geon saon buain hoin**  
 > although with this you must be careful, because **hoi** does have a slot that subordinates, so you want it either before **poq** or at the end, because with **hoi** in particular it doesnt make that big of a difference whether it subordinates the thing it is meant to or simply connected through **ru**  
 > I guess that putting **hoi** before one of the adjectival like predicates in that example wouldn't affect the meaning too much  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > I like that "context-aware and"  
-> @seaqtaq I'm mulling over your answer, thanks for the pointer to adjectives!  
 
-**mi seaqtaq**
-> np  
+[…]
 
 **mi Hỏemāı**
 > That "**fi**" is what the implied connective may end up being in **sảo pỏq**. But my research isn't complete yet.  
 > (of course it wouldn't be spelled "**fi**")  
 > (it makes things a lot simpler, logically, but I need to be sure that it's necessary. I have read different opinions)  
 
-**mi Heukueqche**
-> so, there are, like, 4 ways to say more about a noun: relative clauses, **ju**, RU serialization, and fi/ru connective  
+**mi Heunkuelcher**
+> so, there are, like, 4 ways to say more about a noun: relative clauses, **ju**, RU serialization, and **fi**/**ru** connective  
 
-**mi seaqtaq**
+**mi Seamtal**
 > and **lun**  
 
 **mi Mỏılūq**
@@ -2088,26 +2055,26 @@ ref: ## On the problem of indifference, nesting, and subordination
 > example: **rúa lủe** = flower (and) yellow  
 > here you can add or remove **ru** without difference  
 
-**mi Heukueqche**
-> XD all right, like 6: plain serialization, RU serialization, relative clauses, lun, ju,  and fi/ru connectives  
+**mi Heunkuelcher**
+> XD all right, like 6: plain serialization, RU serialization, relative clauses, **lun**, **ju**, and **fi**/**ru** connectives  
 > what is RU serialization?  
 
 **mi Mỏılūq**
 > **rúa ru lủe**  
 > **rúa ra lủe** = what is either a flower or is yellow (or both)  
 
-**mi seaqtaq**
+**mi Seamtal**
 > What I meant by it were cases when an implicit **ru** is present  
 > like in **ruan luen**  
 > :V  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > ah, so its a serial where **ru** is implicit  
 
-**mi seaqtaq**
+**mi Seamtal**
 > I thought that is what it meant, but ilmen seems to have a different interpretation so im not really sure anymore  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > whaddayasay, @Mỏılūq ?  
 
 **mi Mỏılūq**
@@ -2115,7 +2082,7 @@ ref: ## On the problem of indifference, nesting, and subordination
 > **rúa lủe** = **rúa ru lủe**  
 > I don't think there's disagreement there  
 
-**mi seaqtaq**
+**mi Seamtal**
 > Oh  
 > I thought you were saying that RU  serialization is when a member of RU is explicit  
 
@@ -2123,48 +2090,45 @@ ref: ## On the problem of indifference, nesting, and subordination
 > Well, I didn't get what was exactly meant by "RU serialization"  
 > you could say "additive serialization" maybe  
 
-**mi seaqtaq**
+**mi Seamtal**
 > m̨̄m̨̄m̨̄m̨̄  
 > Yeah i think that is better @Mỏılūq  and then we could use RU serialization for when a member of RU is explicit  
 > that makes more sense  
 > Also I should have just copied and pasted because I wrote the exact same thing  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > hey, practice you touch typing!  
 > btw, **Chủfāq shỏ pảq ní káıpūmē**  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > for the archive:  
-> there are 7 ways to describe a noun: plain serialization, additive serialization, RU serialization, relative clauses, **lun**, **ju**, and fi/ru connectives  
+> there are 7 ways to describe a noun: plain serialization, additive serialization, RU serialization, relative clauses, **lun**, **ju**, and **fi**/**ru** connectives  
 
 **mi Mỏılūq**
 > the 8th way is to add nothing and leave the details up to the imagination of the reader  
 
-**mi seaqtaq**
+**mi Seamtal**
 > %)  
 
-**mi nuogaiBO**
-> (%  
-
-[...]
+[…]
 
 **mi Hỏemāı**
-> Isn't RU serialization = fi/ru connectives ?  
+> Isn't RU serialization = **fi**/**ru** connectives ?  
 
-**mi seaqtaq**
+**mi Seamtal**
 > No that one is supposed to be additive  
 > I think so  
-> RU serialization should encompass fi/ru  
+> RU serialization should encompass **fi**/**ru**  
 
-**mi Heukueqche**
-> I think the difference is that fi/ru connection are explicit, while RU serialization leaves the connectives implicit  
+**mi Heunkuelcher**
+> I think the difference is that **fi**/**ru** connection are explicit, while RU serialization leaves the connectives implicit  
 
 **mi Hỏemāı**
-> Why don't you list it as "serial predicates, (implicit or explicit) RU, relative clauses, ju"  
+> Why don't you list it as "serial predicates, (implicit or explicit) RU, relative clauses, **ju**"  
 
-**mi Heukueqche**
+**mi Heunkuelcher**
 > yeah, I like that order better  
 > less items to remember too XD  
 
 ### Summary:
-There are 5 ways to describe a noun: serial predicates, (implicit or explicit) RU, relative clauses, and ju.
+There are 5 ways to describe a noun: serial predicates, (implicit or explicit) RU, relative clauses, and **ju**.
