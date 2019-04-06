@@ -32,6 +32,7 @@
 [An AutoKey script](https://github.com/acotis/autokey-toaq-tones)  
 
 ### Hoemai's links
+[Pronouncing a list of Toaq animal words](https://www.youtube.com/watch?v=KtXVdm4x0RY&feature=youtu.be)  
 [Toaq Gold](http://toaq.org/todo/)  
 [Toaq with Ease](http://toaq.org/TwE/)  
 [The document for editing Toaq with Ease](https://docs.google.com/document/d/1DXPhnUXNREGbKbsHLr56QroBXcrdaruQRj2koriE1DU/edit?usp=sharing)  
