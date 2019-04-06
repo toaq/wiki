@@ -17,7 +17,7 @@
 
 ## Individuals
 
-### Bruno's links
+### Heukueqche's links
 [A list of links ;)](links.md)  
 [On Relative Clauses, Or the horse that is white](https://docs.google.com/document/d/1oIiqo1O1M7wgJbbV64k4mv_csOZB_HARd6_3E_DlV5s/edit)  
 
