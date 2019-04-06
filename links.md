@@ -19,6 +19,7 @@
 
 ### Bruno's links
 [A list of links ;)](links.md)  
+[On Relative Clauses, Or the horse that is white](https://docs.google.com/document/d/1oIiqo1O1M7wgJbbV64k4mv_csOZB_HARd6_3E_DlV5s/edit)  
 
 ### Fagri's links
 [Lui shai suo (ru ca beo mu tei). ToanKuer, a metric system](https://docs.google.com/document/d/1YrmVWnsaMOhvYsThkLvviGLVYqfCjDXjfPOAGn7f6l4/edit)  
