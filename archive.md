@@ -1963,3 +1963,80 @@ all right, thanks!
 **mi Heukueqche**
 > oh, no no, you've done a great job! The branching path analogy was especially good  
 > thank you, **Chain**  
+
+
+## On horses and relative clauses
+## Or, falling-rising, incidentals, and lup
+
+### 2019-04-5, #chiejio
+
+**mi Heukueqche**
+> I've also been reading on relative clauses, and there seems to be two types in english:  
+> the ones that distinguish the noun from other similar nouns (in a stable full of horses, "I want the horse THAT is white") 
+> and the one that just gives you more information on it ("My horse, which is white, is so pretty!")  
+
+**mi ShủaOwŌ**
+> Restrictive and non-restrictive?  
+
+**mi Heukueqche**
+> exaclty  
+> does that distinction exist in toaq too?  
+
+**mi Hỏaqgīo**
+> Yes  
+
+**mi Hỏaqgīo**
+> In the sense that it only has restrictive ones, directly speaking  
+> Incidental information of any kind can be included with ju  
+
+**mi ShủaOwŌ**
+> non-restrictive clauses are called 'incidentals'  
+
+**mi ShủaOwŌ**
+> There's a section on those on toaq.org.  
+
+**mi Hỏaqgīo**
+> Like this: "**Mai jip popjir kantur, ju baon hop**" = "I like my cat, which is white"  
+> As opposed to "**Mai jip ponjir kantur baox**" = "I like my white cat [and maybe not the other one(s)]"  
+
+**mi Heukueqche**
+> oh, so all relative clauses are restrictive, and the equivalent of non-restrictive relative clauses are ju incidentals  
+
+**mi Hỏaqgīo**
+> Yes, exactly  
+> (Though **ju** is more general, you can put anything you like inside a **ju** clause)  
+
+**mi Heukueqche**
+> @ShủaOwŌ , there is indeed. I'm just confirming my understanding now  
+> @Hỏaqgīo , you're right, it does seem more general. Like a parentetical, where you can put anything in there.  Just that it is often used AS a non-restrictive clause  
+
+**mi Hỏaqgīo**
+> Exactly  
+
+**mi Heukueqche**
+> the wikipedia article also mentioned bound relative clause (one that refers to a head) and a free relative clause (one that doesn't refer to any head, acting itself as a noun)  
+> does that exist in toaq too?  
+
+[...]
+
+**mi Heukueqche**
+> my understanding is that it doesn't, because toaq.org DOES say that (in a way) every relative clause refers to a head. And that that's why you can imply hoa as the first argument of the relative clause  
+> the example they use is: I like *what I see*, where the *what I see* is the free relative clause  
+
+**mi Hỏaqgīo**
+> Oh, I see  
+> Those exist in Toaq, but they aren't considered "relative clauses"  
+> They are accomplished by using lu with :t2:  
+> Like this:  
+> "lup pain jip hoap" -> The one I'm friends with  
+
+**mi Hỏemāı**
+> We learned about those the other day.  
+> (lo que)  
+
+ref: ## On the problem of indifference, nesting, and subordination
+
+**mi Heukueqche**
+> oh, :t2: makes nouns, and combined with lu it makes the special noun  
+> yeah, @Hoemai, you're right! we've come full circle!  
+> thanks!  
