@@ -2007,7 +2007,7 @@ all right, thanks!
 > We learned about those the other day.  
 > (lo que)  
 
-cf. [On the problem of indifference, nesting, and subordination](#on-the-problem-of-indifference-nesting-and-subordination)
+cf. [On the problem of indifference, nesting, and subordination](#On-the-problem-of-indifference-nesting-and-subordination)
 
 **mi Heunkuelcher**
 > oh, ◌́ makes nouns, and combined with lu it makes the special noun  
