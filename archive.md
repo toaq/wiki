@@ -1077,7 +1077,7 @@ A nice game of Translation of the Day :)
 
 ## On beer and expanding serial predicates
 
-## 2019-03-18, #general
+### 2019-03-18, #general
 
 **mi Heunkuelcher**
 > On the serial expansion of **Bủ chỏ jí báq bỉrā da.**
@@ -1280,7 +1280,7 @@ Thanks, that's actually pretty insightful
 
 ## On Pain
 
-## 2019-03-20, #general
+### 2019-03-20, #general
 
 **mi Seamtal**
 > **mm**
@@ -2012,16 +2012,9 @@ cf. [On the problem of indifference, nesting, and subordination](#on-the-problem
 **mi Heunkuelcher**
 > oh, ◌́ makes nouns, and combined with lu it makes the special noun  
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 ## On the 5 ways to describe a noun. Or, the yellow flower, **ruap luen**
 
 **mi Heunkuelcher**
-=======
-=======
->>>>>>> Stashed changes
-**mi Heunkuelcher**
->>>>>>> Stashed changes
 > since relative clauses modify nouns, would you say that they are like adjectives?  
 > and, since we're talking about adjectives, how do they work in toaq? I think I've seen serial predication fill the role of making adjectives  
 > like: **bảorēo hỉuhēkūo ní**  
