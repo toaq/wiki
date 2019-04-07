@@ -1504,7 +1504,7 @@ Thanks, that's actually pretty insightful
 
 ### 2019-03-28, #chiejio
 
-**mi Dampeorkoircher**
+**mi Dảqpeōkōıchē**
 > So I'm trying to make my username in Toaq, and I've narrowed the meaning down to (essentially) "one who ambulates through time".  
 > Would **Chẻkōıpēodāq** work, or am I understanding compound predicates wrong?  
 **mi Hỏaqgīo**
@@ -1536,9 +1536,9 @@ Thanks, that's actually pretty insightful
 
 **mi Hỏaqgīo**
 > Yes  
-> E.g. **demīur** = **miu dẻn**, and **duatūar** = **tua duan**  
+> E.g. **demīur** = **miu dẻ**, and **duatūar** = **tua duan**  
 > But some compound words are just made up  
-> **cukir** = _ nods is not related to **cu** or **ki** and in fact neither of those words are predicates  
+> **cukī** = _ nods is not related to **cu** or **ki** and in fact neither of those words are predicates  
 
 **mi Heunkuelcher**
 > hm, so really a compound is more like a combination of sounds than a composition of words, and the sound unit is a syllable?  
@@ -1561,7 +1561,7 @@ Thanks, that's actually pretty insightful
 
 **mi Hỏemāı**
 > 1) It's not a sentence, just like "The important problem in the lojban community" is not a sentence, but a noun phrase.  
-> It's like a single **jip**, except way more complicated. But it's just a single noun  
+> It's like a single **jí**, except way more complicated. But it's just a single noun  
 
 **mi Heunkuelcher**
 > oh! its a fragment!  
@@ -1639,10 +1639,10 @@ Thanks, that's actually pretty insightful
 > Now step 2  
 
 **mi Heunkuelcher**
-> ganbat[t]e!  
+> ganbatte!  
 
 **mi Hỏemāı**
-> How do you say "I know that [people] do not find things important" (use "**bu sủaojīe**" as you did before, but apply what you just learned)  
+> How do you say "I know that (people) do not find things important" (use "**bu sủaojīe**" as you did before, but apply what you just learned)  
 
 **mi Heunkuelcher**
 > ok, on it  
@@ -1654,7 +1654,7 @@ Thanks, that's actually pretty insightful
 > But it's spot on. :)  
 
 **mi Heunkuelcher**
-> ?oh, sorry XD **Dủ[a] jí bû sủaojīe póq**  
+> ?oh, sorry XD **Dủa jí bû sủaojīe póq**  
 
 **mi Hỏemāı**
 > Yeah yeah, now you don't need to do that anymore, but good job anyway :P  
@@ -1929,7 +1929,7 @@ all right, thanks!
 > \[℩𝑆 : **shi**(𝑆)\] \[℩𝐺 : **gu**(𝐺)\] \[℩𝑅 : **rai**(𝑅)\] **kui**({**hao**(𝑆) ∨ **hao**(𝐺)}, 𝑅).  
 
 **mi Chain**
-> `%miu` hảo shí ra gú kùi rái  
+> `%miu **hảo shí ra gú kùi rái**  
 
 **mi Nuongair**
 > **(hảo {[shí ra gú] [kùı ráı]})**  
@@ -1950,8 +1950,8 @@ all right, thanks!
 
 **mi Heunkuelcher**
 > I've also been reading on relative clauses, and there seems to be two types in English:  
-> * the ones that distinguish the noun from other similar nouns (in a stable full of horses, "I want the horse THAT is white")
-> * and the one that just gives you more information on it ("My horse, which is white, is so pretty!")  
+> * the ones that distinguish the noun from other similar nouns (in a stable full of horses, "I want the horse THAT is white")  
+> * and the one that just gives you more information on it ("My horse, WHICH is white, is so pretty!")  
 
 **mi Shuaon**
 > Restrictive and non-restrictive?  
@@ -2013,11 +2013,14 @@ cf. [On the problem of indifference, nesting, and subordination](#on-the-problem
 > oh, ◌́ makes nouns, and combined with lu it makes the special noun  
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ## On the 5 ways to describe a noun. Or, the yellow flower, **ruap luen**
 
 **mi Heunkuelcher**
 =======
-**mi Heukueqche**
+=======
+>>>>>>> Stashed changes
+**mi Heunkuelcher**
 >>>>>>> Stashed changes
 > since relative clauses modify nouns, would you say that they are like adjectives?  
 > and, since we're talking about adjectives, how do they work in toaq? I think I've seen serial predication fill the role of making adjectives  
