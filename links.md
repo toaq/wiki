@@ -33,6 +33,7 @@
 [An AutoKey script](https://github.com/acotis/autokey-toaq-tones)  
 
 ### Hoemai's links
+[Dỉo da, nủaq da (TOAQ RAP)](https://www.youtube.com/watch?v=n00L4Y4tvDQ&feature=youtu.be)  
 [Pronouncing a list of Toaq animal words](https://www.youtube.com/watch?v=KtXVdm4x0RY&feature=youtu.be)  
 [Toaq Gold](http://toaq.org/todo/)  
 [Toaq with Ease](http://toaq.org/TwE/)  
@@ -90,6 +91,9 @@
 
 ### Melopee's links
 [An old dictionary for Toaq](https://melopee.github.io/mietoa/)  
+
+### Z Mo's links
+[Toaq Information Density](https://docs.google.com/spreadsheets/d/10Rr2x84kOH8OdTCInoPDZ8YNHhx10eCqiT_E18_uVbk/edit#gid=1395088029)  
 
 ### unknown
 [A memrise deck, learn how to use the tones](https://www.memrise.com/course/1573407/toaq-language/)  
