@@ -1,22 +1,39 @@
-The table you're looking for:
-```
-8   q
-4 n m
-1 r l
-2 p b
-5 t d
-6 k g
-7 f v
-3 x z
-```
+<b>Vietoaq</b> (Toaq: **mi Fientoal** ‘Ugly-language’) is a Roman alphabet-only method of writing Toaq – it can represent any Toaq utterance with just the letters of the Latin alphabet. Its end purpose is to be integrated into an IME (Input Method Editor) for quick, strainless Toaq keyboard input; for now, though, it doubles as a romanisation of Toaq for those who aren't able to write tones at the moment. The name ‘Vietoaq’ is a portmanteau of ‘Vietnamese’ and ‘Toaq’ – ‘Vietnamese’ corresponding to the Telex input method which, similarly to Vietoaq, doesn't require any special keystrokes despite the heavily accented language it is used for.
 
-This site automatically replaces Vietoaq in double asterisks (`**...**`) with proper, tone-marked Toaq. Example: `**toa toaq toan toam toar toal toap toab toat toad toak toag toaf toav toax toaz**` → **toa toaq toan toam toar toal toap toab toat toad toak toag toaf toav toax toaz**.
+Vietoaq is easy to learn: after each vowel sequence in a syllable – where the final **-q** would normally come – a consonant which encodes both tone and the presence or absence of the **-q** is inserted. Consult the list below:
 
-Convert for yourself [here](http://uakci.pl/toadua/vietoaq) or use [nuogai](nuogai)'s `?` feature.
+* `Eighth  tone (particle       )`: `da␣` → **da**,  `daq` → **daq** (\*)
+* `Fourth  tone (predicate      )`: `dan` → **dan**, `dam` → **dam**
+* `First   tone (compound       )`: `dar` → **dar**, `dal` → **dal**
+* `Second  tone (argument       )`: `dap` → **dap**, `dab` → **dab**
+* `Fifth   tone (content clause )`: `dat` → **dat**, `dad` → **dad**
+* `Sixth   tone (preposition    )`: `dak` → **dak**, `dag` → **dag**
+* `Seventh tone (adverb         )`: `daf` → **daf**, `dav` → **dav**
+* `Third   tone (relative clause)`: `dax` → **dax**, `daz` → **daz**
 
-## *Usage example*: **Baopreor Num** (`**Baopreor Num**`)
-****
-`**`Pufjaor bi mien sa ship ruainjoal doax tik tu lup pam hoap guap na, duatgir hoap da. Bun gain hop sia raip na, ru dun tintuar bab cu hop nibdaor raz hoap sob shuin na, peok riop da. Keo dum hop sa juap da. Raok tu chab biek chud hop reobhal na, raok titshear tobfuar na, ru tin sia meapheor bi, duain tintuar sa ship cheam luemcher sa ship meanheor ham da. Keo mu tien mab na, ru juam bun duan luebcher hed mab hi raip da. Ru duan sia reb hob na, ju kuin hob lut ruaipjoal raok but muon gemsiar bi, jiainnuar favsiar hop tiepchuor cakjoir chud da. Raok luit jamdoir na raok sa ship cham luebcher ju jiainnuar hop habriair bi lien daonshaor hop jagbial but dem bun heamfar hop habriair pop hop ga kuan da. Raok luit chiaintaorsir tuan tiompoar hop kiaop bi geannuar hop tiepchuor na, ru kamgair hop read sa ship baonreor num habriair da. Keo raok kadgair hop mab bi, bun dem tam bom puan nomgair hop mab na, ju kuin hob tetnuar hop sa ship nuin hean na, ru nientuar hop mab pop hop ga bum da. Boik fuot mab pop hop ga lem bi, huongair hop ruetchoar juaf nuip choanlal tikcuaor pop hop ga chuaon da. Fan hop na, ru huonsir hop da. Ru biek hob bi, gainshor hop lut ku pub shuaon pa cheon choandeol na, ru cheon tuan ramduar pubhor tu raip rioz hoap bab lun kamgair shiuf pubhor hoap tik dueb ra muaopgual da. Chud hop nub pa can ded muinduar hop pop bab niain ga toam da.`**`
-****
-**Pufjaor bi mien sa ship ruainjoal doax tik tu lup pam hoap guap na, duatgir hoap da. Bun gain hop sia raip na, ru dun tintuar bab cu hop nibdaor raz hoap sob shuin na, peok riop da. Keo dum hop sa juap da. Raok tu chab biek chud hop reobhal na, raok titshear tobfuar na, ru tin sia meapheor bi, duain tintuar sa ship cheam luemcher sa ship meanheor ham da. Keo mu tien mab na, ru juam bun duan luebcher hed mab hi raip da. Ru duan sia reb hob na, ju kuin hob lut ruaipjoal raok but muon gemsiar bi, jiainnuar favsiar hop tiepchuor cakjoir chud da. Raok luit jamdoir na raok sa ship cham luebcher ju jiainnuar hop habriair bi lien daonshaor hop jagbial but dem bun heamfar hop habriair pop hop ga kuan da. Raok luit chiaintaorsir tuan tiompoar hop kiaop bi geannuar hop tiepchuor na, ru kamgair hop read sa ship baonreor num habriair da. Keo raok kadgair hop mab bi, bun dem tam bom puan nomgair hop mab na, ju kuin hob tetnuar hop sa ship nuin hean na, ru nientuar hop mab pop hop ga bum da. Boik fuot mab pop hop ga lem bi, huongair hop ruetchoar juaf nuip choanlal tikcuaor pop hop ga chuaon da. Fan hop na, ru huonsir hop da. Ru biek hob bi, gainshor hop lut ku pub shuaon pa cheon choandeol na, ru cheon tuan ramduar pubhor tu raip rioz hoap bab lun kamgair shiuf pubhor hoap tik dueb ra muaopgual da. Chud hop nub pa can ded muinduar hop pop bab niain ga toam da.**
-****
+> (\*) The space is not required. In fact, Vietoaq can be written without any spaces.
+
+The astute (obviously) reader will notice the patterns hidden within the 16 assignments. For example, nasal endings (**-q** as in **daq**, as opposed to e.g. **da**) correspond to letters typically assigned to voiced consonants: `p–b`, `t–d`, `k–g`, `f–v`. There are other patterns – try to look for them yourself and you might find that you're learning Vietoaq faster than you should. You can notice the weird assignments for the third tone – they're here because `c` and `s` would create ambiguity with the `ch-` and `sh-` onsets (`gic-hal` or `gi-chal`?), and there aren't many other consonant letters to choose from.
+
+You can convert Vietoaq to fully accented, aesthetically pleasing Toaq either on the Discord guild/Telegram group with the `?` command (handy when you forget to bring your accented keyboard with you) or with [this weblet](http://uakci.pl/toadua/vietoaq).
+
+## Interjections
+
+It has become increasingly common to use syllables with empty onsets (i.e., without a consonant at the start) for interjections – for example, **è** (hesitation), **â** (realisation), **ỏı** (‘I'm British’). What's more, nasal consonants have been being used for this exact purpose, too: **ḿ** (acknowledgement), **q̀** (contemplation), **f̄** (**mi Seamtal**). In order to represent these extralinguistic interjections while preserving Vietoaq's unambiguity, the letter `y` – either as the ghost consonant or the ghost vowel – is used: `yek`, `yat`, `yoin`, `myp`, `qyk`, `fyr`. (This proposal has not yet been made official or final, nor has it been yet implemented anywhere).
+
+## Example
+
+> Pufjaor bi mien sa ship ruainjoal doax tik tu lup pam hoap guap na, duatgir hoap da.  
+> > **Pufjaor bi mien sa ship ruainjoal doax tik tu lup pam hoap guap na, duatgir hoap da.**  
+>
+> Bun gain hop sia raip na, ru dun tintuar bab cu hop nibdaor raz hoap sob shuin na, peok riop da.  
+> > **Bun gain hop sia raip na, ru dun tintuar bab cu hop nibdaor raz hoap sob shuin na, peok riop da.**  
+>
+> Keo dum hop sa juap da.  
+> > **Keo dum hop sa juap da.**  
+>
+> Raok tu chab biek chud hop reobhal na, raok titshear tobfuar na, ru tin sia meapheor bi, duain tintuar sa ship cheam luemcher sa ship meanheor ham da.  
+> > **Raok tu chab biek chud hop reobhal na, raok titshear tobfuar na, ru tin sia meapheor bi, duain tintuar sa ship cheam luemcher sa ship meanheor ham da.**  
+>
+> Keo mu tien mab na, ru juam bun duan luebcher hed mab hi raip da.  
+> > **Keo mu tien mab na, ru juam bun duan luebcher hed mab hi raip da.**  
