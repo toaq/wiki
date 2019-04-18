@@ -17,11 +17,12 @@
 
 ## Individuals
 
-### Bruno's links
+### Heukueqche's links
 [A list of links ;)](links.md)  
+[On Relative Clauses, Or the horse that is white](https://docs.google.com/document/d/1oIiqo1O1M7wgJbbV64k4mv_csOZB_HARd6_3E_DlV5s/edit)  
 
 ### Fagri's links
-[Lui shai suo (ru ca beo mu tei). ToanKuer, a metric system](https://docs.google.com/document/d/1YrmVWnsaMOhvYsThkLvviGLVYqfCjDXjfPOAGn7f6l4/edit)  
+[**Luin shain suon (ru can beon mu tein)**; **Toankuer**; a metric system](https://docs.google.com/document/d/1YrmVWnsaMOhvYsThkLvviGLVYqfCjDXjfPOAGn7f6l4/edit)  
 [A true story on youtube](https://www.youtube.com/watch?v=9V6vMfR3rrk)  
 [Their youtube channel, with some fables recorded](https://www.youtube.com/channel/UCWxCrnMhv-7s1Mp8tWc_K2A)  
 [Sa Búai Hủohūa](https://docs.google.com/document/d/1OZFWqeKOsLNayuwQXfVDPpIvtulL1gcPAibZwBH0Yg0/edit)  
@@ -32,6 +33,7 @@
 [An AutoKey script](https://github.com/acotis/autokey-toaq-tones)  
 
 ### Hoemai's links
+[**Dỉo da, nủaq da** (TOAQ RAP)](https://www.youtube.com/watch?v=n00L4Y4tvDQ&feature=youtu.be)  
 [Pronouncing a list of Toaq animal words](https://www.youtube.com/watch?v=KtXVdm4x0RY&feature=youtu.be)  
 [Toaq Gold](http://toaq.org/todo/)  
 [Toaq with Ease](http://toaq.org/TwE/)  
@@ -69,12 +71,12 @@
 <http://itsapad.appspot.com/1ka8kmo7ta8>  
 
 ### Uakci's links
-[Nuigui (Smallcorn) – Tiny Toaq serial predicate engine](https://github.com/ciuak/nuigui)  
+[**Nuinguir** (Smallcorn) – Tiny Toaq serial predicate engine](https://github.com/ciuak/nuigui)  
 [The community dictionary](https://uakci.pl/toadua/)  
 [A Toaq–only dictionary](https://uakci.pl/toajoe/)  
 
 ### Seaqtaq's links
-[Ruaipjoal pon tu huoipciar](https://docs.google.com/document/d/1-Rrh9nR_aNHzsF0L2_1jSat85SGikuExi-Ztowa0jMM/edit)  
+[**Ruaipjoal pon tu huoipciar**](https://docs.google.com/document/d/1-Rrh9nR_aNHzsF0L2_1jSat85SGikuExi-Ztowa0jMM/edit)  
 [Little phrase collection](https://docs.google.com/document/d/1kgxEFBlYhQblTiHzhOqrwLVbYAQjXXa8OUgnnQRQudo/edit)
 [Seaqtaq's list of links](https://docs.google.com/document/d/1g3AhZm7V-JPS_717QD8nQhLx_cVqGRJhxpyv28N_AMU/edit)  
 [The catalogue, partially devoured to make this one XD](https://drive.google.com/drive/u/0/folders/1gkjH19CrtoXIqRFh9ye3n1akMu2ojbMu)  
@@ -89,6 +91,9 @@
 
 ### Melopee's links
 [An old dictionary for Toaq](https://melopee.github.io/mietoa/)  
+
+### Z Mo's links
+[Toaq Information Density](https://docs.google.com/spreadsheets/d/10Rr2x84kOH8OdTCInoPDZ8YNHhx10eCqiT_E18_uVbk/edit#gid=1395088029)  
 
 ### unknown
 [A memrise deck, learn how to use the tones](https://www.memrise.com/course/1573407/toaq-language/)  
