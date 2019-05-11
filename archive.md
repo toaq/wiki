@@ -121,13 +121,13 @@ This file contains most of the common frames.
 > `%serial` **dua mai**  
 
 **mi Nuongair**
-> <[c c c] (dủa A mâi B C)>  
+> <`[c c c]` (**dủa A mâi B C**)>  
 
 **mi Hỏaqgīo**
 > `%serial` **de mai**  
 
 **mi Nuongair**
-> <[c c] (**lủ to ru dẻ A na to mải A B**)>  
+> <`[c c]` (**lủ to ru dẻ A na to mải A B**)>  
 
 **mi Heunkuelcher**
 > ok… I'll tell you what I got:  
@@ -1107,7 +1107,7 @@ A nice game of Translation of the Day :)
 **mi Chain**
 > `%nui` **bu pai go baq rai**
 
-**nuogai**
+**mi Nuongair**
 > (`(#f)` . **lî ja dóshī bı bủ dóshī lî ja dógū bı pảı dógū sa lí ja dósāq bı bảq dósāq lî ja dójō bı rảı dójō**)  
 
 […]
@@ -1125,7 +1125,7 @@ A nice game of Translation of the Day :)
 > see what it does with **bu pai**
 > `%nui` **bu pai**
 
-**nuogai**
+**mi Nuongair**
 > (`(#f #f)` . **lî ja dóshī ja dógū bı bủ dóshī lî ja dósāq bı pảı dósāq dógū)**
 
 **mi Chain**
@@ -1134,7 +1134,7 @@ A nice game of Translation of the Day :)
 **mi Hỏaqgīo**
 > `%serial` **bu pai**
 
-**nuogai**
+**mi Nuongair**
 > <`[c c]` (**bủ A pâi ja dó B**)>  
 
 **mi Chain**
@@ -1143,13 +1143,13 @@ A nice game of Translation of the Day :)
 > however these are equal by virtue of the ‘JEO-frame equivalence’ we all know and love  
 > `%serial` **bu mai**
 
-**nuogai**
+**mi Nuongair**
 > <`[c c]` (**bủ A mâi ja dó B**)>  
 
 **mi Chain**
 > `%nui` **bu mai**
 
-**nuogai**
+**mi Nuongair**
 > (`(#f #f)` . **lî ja dóshī ja dógū bı bủ dóshī lî ja dósāq bı mảı dósāq dógū**)
 
 **mi Chain**

@@ -1,3 +1,6 @@
+@@toc@@
+
+## Summary
 <b>Vietoaq</b> (Toaq: **mi Fientoal** ‘Ugly-language’) is a Roman alphabet-only method of writing Toaq – it can represent any Toaq utterance with just the letters of the Latin alphabet. Its end purpose is to be integrated into an IME (Input Method Editor) for quick, strainless Toaq keyboard input; for now, though, it doubles as a romanisation of Toaq for those who aren't able to write tones at the moment. The name ‘Vietoaq’ is a portmanteau of ‘Vietnamese’ and ‘Toaq’ – ‘Vietnamese’ corresponding to the Telex input method which, similarly to Vietoaq, doesn't require any special keystrokes despite the heavily accented language it is used for.
 
 Vietoaq is easy to learn: after each vowel sequence in a syllable – where the final **-q** would normally come – a consonant which encodes both tone and the presence or absence of the **-q** is inserted. Consult the list below:
@@ -18,11 +21,9 @@ The astute (obviously) reader will notice the patterns hidden within the 16 assi
 You can convert Vietoaq to fully accented, aesthetically pleasing Toaq either on the Discord guild/Telegram group with the `?` command (handy when you forget to bring your accented keyboard with you) or with [this weblet](http://uakci.pl/toadua/vietoaq).
 
 ## Interjections
-
-It has become increasingly common to use syllables with empty onsets (i.e., without a consonant at the start) for interjections – for example, **è** (hesitation), **â** (realisation), **ỏı** (‘I'm British’). What's more, nasal consonants have been being used for this exact purpose, too: **ḿ** (acknowledgement), **q̀** (contemplation), **f̄** (**mi Seamtal**). In order to represent these extralinguistic interjections while preserving Vietoaq's unambiguity, the letter `y` – either as the ghost consonant or the ghost vowel – is used: `yek`, `yat`, `yoin`, `myp`, `qyk`, `fyr`. (This proposal has not yet been made official or final, nor has it been yet implemented anywhere).
+It has become increasingly common to use syllables with empty onsets (i.e., without a consonant at the start) for interjections – for example, **è** (hesitation), **â** (realisation), **ỏı** (‘I'm British’). What's more, nasal consonants have been being used for this exact purpose, too: **ḿ** (acknowledgement), **q̀** (contemplation), **f̄** (**mi Seamtal**). In order to represent these extralinguistic interjections while preserving Vietoaq's unambiguity, the letter `y` as the ‘ghost vowel’ or the letter `w` as the ‘ghost consonant’ should be used: `wek`, `wat`, `woin`, `myp`, `qyk`, `fyr`. (This proposal has not yet been made official or final, nor has it been yet implemented anywhere).
 
 ## Example
-
 > Pufjaor bi mien sa ship ruainjoal doax tik tu lup pam hoap guap na, duatgir hoap da.  
 > > **Pufjaor bi mien sa ship ruainjoal doax tik tu lup pam hoap guap na, duatgir hoap da.**  
 >
