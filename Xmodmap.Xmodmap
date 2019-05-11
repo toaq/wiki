@@ -14,4 +14,5 @@ keycode 31 = i I i I idotless U03BB idotless
 
 ! AltGr + tone number + letter = accented letter
 ! the letter should be pressed after.
+! AltGr+1, releasing that, and then A
 ! AltGr + i = dotless i
