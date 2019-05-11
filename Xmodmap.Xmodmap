@@ -11,3 +11,6 @@ keycode 18 = 9 parenleft 9 parenleft NoSymbol U2089 NoSymbol
 keycode 19 = 0 parenright 0 parenright NoSymbol U2080 NoSymbol 
 keycode 24 = q Q q Q dead_ogonek NoSymbol dead_ogonek 
 keycode 31 = i I i I idotless U03BB idotless 
+
+! AltGr + tone number + letter = accented letter
+! AltGr + i = dotless i
