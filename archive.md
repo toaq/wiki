@@ -419,12 +419,13 @@ You make ordinal compounds by concatenating the number name with the (**ko**) pr
 ### 2019-04-13, #general
 
 **mi Mỏılūq**
-> **kảqgāı jí chíe** = I see th learner(s)  
+> **kảqgāı jí chíe** = I see the learner(s)  
 > **kảqgāı jí chỉe** = I, who learn, see  
 > notice the tone change on **chıe**  
 > An highfall ʔ tone elsewhere than at the beginning of a sentence indicates an addition to a serial predicate  
 > so in the second sentence, there's a serial **jı chỉe** converted into a noun with the raising / tone on the first word  
 > in a serial, the tone on the first word indicates the role of the whole serial in the sentence  
+
 
 ## On inflection
 ### 2019-03-16, #general
@@ -1087,7 +1088,7 @@ A nice game of Translation of the Day :)
 
 ## On beer and expanding serial predicates
 
-### 2019-03-18, #general
+## 2019-03-18, #general
 
 **mi Heunkuelcher**
 > On the serial expansion of **Bủ chỏ jí báq bỉrā da.**
@@ -1290,7 +1291,7 @@ Thanks, that's actually pretty insightful
 
 ## On Pain
 
-### 2019-03-20, #general
+## 2019-03-20, #general
 
 **mi Seamtal**
 > **mm**
@@ -1546,7 +1547,7 @@ Thanks, that's actually pretty insightful
 
 **mi Hỏaqgīo**
 > Yes  
-> E.g. **demiur** = **miu den**, and **duatuar** = **tua duan**  
+> E.g. **demīur** = **miu dẻn**, and **duatūar** = **tua duan**  
 > But some compound words are just made up  
 > **cukir** = _ nods is not related to **cu** or **ki** and in fact neither of those words are predicates  
 
@@ -1649,10 +1650,10 @@ Thanks, that's actually pretty insightful
 > Now step 2  
 
 **mi Heunkuelcher**
-> ganbatte!  
+> ganbat[t]e!  
 
 **mi Hỏemāı**
-> How do you say "I know that (people) do not find things important" (use "**bu sủaojīe**" as you did before, but apply what you just learned)  
+> How do you say "I know that [people] do not find things important" (use "**bu sủaojīe**" as you did before, but apply what you just learned)  
 
 **mi Heunkuelcher**
 > ok, on it  
@@ -1664,7 +1665,7 @@ Thanks, that's actually pretty insightful
 > But it's spot on. :)  
 
 **mi Heunkuelcher**
-> ?oh, sorry XD **Dủa jí bû sủaojīe póq**  
+> ?oh, sorry XD **Dủ[a] jí bû sủaojīe póq**  
 
 **mi Hỏemāı**
 > Yeah yeah, now you don't need to do that anymore, but good job anyway :P  
@@ -1939,7 +1940,7 @@ all right, thanks!
 > \[℩𝑆 : **shi**(𝑆)\] \[℩𝐺 : **gu**(𝐺)\] \[℩𝑅 : **rai**(𝑅)\] **kui**({**hao**(𝑆) ∨ **hao**(𝐺)}, 𝑅).  
 
 **mi Chain**
-> `%miu` **hảo shí ra gú kùi rái**  
+> `%miu` hảo shí ra gú kùi rái  
 
 **mi Nuongair**
 > **(hảo {[shí ra gú] [kùı ráı]})**  
@@ -1960,8 +1961,8 @@ all right, thanks!
 
 **mi Heunkuelcher**
 > I've also been reading on relative clauses, and there seems to be two types in English:  
-> * the ones that distinguish the noun from other similar nouns (in a stable full of horses, "I want the horse THAT is white")  
-> * and the one that just gives you more information on it ("My horse, WHICH is white, is so pretty!")  
+> * the ones that distinguish the noun from other similar nouns (in a stable full of horses, "I want the horse THAT is white")
+> * and the one that just gives you more information on it ("My horse, which is white, is so pretty!")  
 
 **mi Shuaon**
 > Restrictive and non-restrictive?  
@@ -2017,10 +2018,11 @@ all right, thanks!
 > We learned about those the other day.  
 > (lo que)  
 
-cf. [On the problem of indifference, nesting, and subordination](#On-the-problem-of-indifference-nesting-and-subordination)
+cf. [On the problem of indifference, nesting, and subordination](#on-the-problem-of-indifference-nesting-and-subordination)
 
 **mi Heunkuelcher**
 > oh, ◌́ makes nouns, and combined with lu it makes the special noun  
+
 
 ## On the 5 ways to describe a noun. Or, the yellow flower, **ruap luen**
 
