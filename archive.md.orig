@@ -121,13 +121,13 @@ This file contains most of the common frames.
 > `%serial` **dua mai**  
 
 **mi Nuongair**
-> <`[c c c]` (**dủa A mâi B C**)>  
+> <[c c c] (dủa A mâi B C)>  
 
 **mi Hỏaqgīo**
 > `%serial` **de mai**  
 
 **mi Nuongair**
-> <`[c c]` (**lủ to ru dẻ A na to mải A B**)>  
+> <[c c] (**lủ to ru dẻ A na to mải A B**)>  
 
 **mi Heunkuelcher**
 > ok… I'll tell you what I got:  
@@ -415,17 +415,6 @@ You make ordinal compounds by concatenating the number name with the (**ko**) pr
 
 **mi Hoenmair**
 > Inflection in Toaq happens by way of suprafixation.  
-
-### 2019-04-13, #general
-
-**mi Mỏılūq**
-> **kảqgāı jí chíe** = I see the learner(s)  
-> **kảqgāı jí chỉe** = I, who learn, see  
-> notice the tone change on **chıe**  
-> An highfall ʔ tone elsewhere than at the beginning of a sentence indicates an addition to a serial predicate  
-> so in the second sentence, there's a serial **jı chỉe** converted into a noun with the raising / tone on the first word  
-> in a serial, the tone on the first word indicates the role of the whole serial in the sentence  
-
 
 ## On inflection
 ### 2019-03-16, #general
@@ -1118,7 +1107,7 @@ A nice game of Translation of the Day :)
 **mi Chain**
 > `%nui` **bu pai go baq rai**
 
-**mi Nuongair**
+**nuogai**
 > (`(#f)` . **lî ja dóshī bı bủ dóshī lî ja dógū bı pảı dógū sa lí ja dósāq bı bảq dósāq lî ja dójō bı rảı dójō**)  
 
 […]
@@ -1136,7 +1125,7 @@ A nice game of Translation of the Day :)
 > see what it does with **bu pai**
 > `%nui` **bu pai**
 
-**mi Nuongair**
+**nuogai**
 > (`(#f #f)` . **lî ja dóshī ja dógū bı bủ dóshī lî ja dósāq bı pảı dósāq dógū)**
 
 **mi Chain**
@@ -1145,7 +1134,7 @@ A nice game of Translation of the Day :)
 **mi Hỏaqgīo**
 > `%serial` **bu pai**
 
-**mi Nuongair**
+**nuogai**
 > <`[c c]` (**bủ A pâi ja dó B**)>  
 
 **mi Chain**
@@ -1154,13 +1143,13 @@ A nice game of Translation of the Day :)
 > however these are equal by virtue of the ‘JEO-frame equivalence’ we all know and love  
 > `%serial` **bu mai**
 
-**mi Nuongair**
+**nuogai**
 > <`[c c]` (**bủ A mâi ja dó B**)>  
 
 **mi Chain**
 > `%nui` **bu mai**
 
-**mi Nuongair**
+**nuogai**
 > (`(#f #f)` . **lî ja dóshī ja dógū bı bủ dóshī lî ja dósāq bı mảı dósāq dógū**)
 
 **mi Chain**
@@ -2023,10 +2012,16 @@ cf. [On the problem of indifference, nesting, and subordination](#on-the-problem
 **mi Heunkuelcher**
 > oh, ◌́ makes nouns, and combined with lu it makes the special noun  
 
-
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ## On the 5 ways to describe a noun. Or, the yellow flower, **ruap luen**
 
 **mi Heunkuelcher**
+=======
+=======
+>>>>>>> Stashed changes
+**mi Heukueqche**
+>>>>>>> Stashed changes
 > since relative clauses modify nouns, would you say that they are like adjectives?  
 > and, since we're talking about adjectives, how do they work in toaq? I think I've seen serial predication fill the role of making adjectives  
 > like: **bảorēo hỉuhēkūo ní**  
