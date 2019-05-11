@@ -41,14 +41,14 @@ This will display as:
 
 **mi Nuongair**
 > **(mỉ bũ)**
-> {λ𝑋 chua(‹bũ›, 𝑋)}().
+> {λ*X* **chua**(‹**bũ**›, *X*)}().
 
 **mi Hoenmair**
 > `%miu` **min neok nip**
 
 **mi Nuongair**
 > **(mỉ {nèo ní})**
-> {λ𝑋 chua(‹nèo ní›, 𝑋)}().
+> {λ*X* **chua**(‹**nèo ní**›, *X*)}().
 
 **mi Hoenmair**
 > So here the names are **bũ** and **nèo ní**  
@@ -65,7 +65,7 @@ This will display as:
 > syntax error :1.7: want [bB], [cC], [dD], [fF], [gG], [hH], [jJ], [kK], [lL], [mM], [nN], [pP], [rR], [sS], or [tT]; got EOF
 
 **mi Lim**
-> so, if my name is **Lı̉q**, that tone is part of the name? as in, **mi Líq** and **mi Lĩq** are different persons
+> so, if my name is **Lim**, that tone is part of the name? as in, **mi Lib** and **mi Liv** are different persons
 
 **mi Hoenmair**
 > Unless you also go by those names
@@ -201,7 +201,7 @@ This file contains most of the common frames.
 
 **mi Nuongair**
 > **({Dủ [lûaı <hóq (jìe súq)>]} da)**  
-> \[℩𝐻 : **hoq**(𝐻)\] \[℩𝑆 : **suq**(𝑆)\] **du**({**jie**({**luai**(𝐻)}, 𝑆)}).  
+> \[℩*H* : **hoq**(*H*)\] \[℩*S* : **suq**(*S*)\] **du**({**jie**({**luai**(*H*)}, *S*)}).  
 
 **mi Sheinrel**
 > "It seems that you judge it (**hoq**) to be funny"  
@@ -210,7 +210,7 @@ This file contains most of the common frames.
 
 **mi Nuongair**
 > **({Dủ [jîe <(lûaı hóq na) súq>]} da)**  
-> \[℩𝐻 : **hoq**(𝐻)\] \[℩𝑆 : **suq**(𝑆)\] **du**({**jie**({**luai**(𝐻)}, 𝑆)}).  
+> \[℩*H* : **hoq**(*H*)\] \[℩*S* : **suq**(*S*)\] **du**({**jie**({**luai**(*H*)}, *S*)}).  
 
 **mi Heunkuelcher**
 > oooh yeah, because of the low tone  
@@ -223,7 +223,7 @@ This file contains most of the common frames.
 
 **mi Nuongair**
 > **({Dủ [<lûaı hóq na> <jìe súq>]} da)**  
-> \[℩𝐻 : **hoq**(𝐻)\] \[℩𝑆 : **suq**(𝑆)\] **jie**({**du**({**luai**(𝐻)})}, 𝑆).  
+> \[℩*H* : **hoq**(*H*)\] \[℩*S* : **suq**(*S*)\] **jie**({**du**({**luai**(*H*)})}, *S*).  
 
 **mi Sheinrel**
 > (I love miu so much)  
@@ -338,14 +338,14 @@ You make ordinal compounds by concatenating the number name with the (**ko**) pr
 
 **mi Nuongair**
 > **(lẻo {jí [lî <nủo (ja dó)>]})**  
-> [℩𝐽 : ji(𝐽)] leo(𝐽, {λ𝑋 nuo(𝑋)}).  
+> \[℩*J* : ji(*J*)\] **leo**(*J*, {λ*X* **nuo**(*X*)}).  
 
 **mi Chain**
 > `%miu` **lẻo jí lî nủo ja póq**
 
 **mi Nuongair**
 > **(lẻo {jí [lî <nủo (ja póq)>]})**  
-> [℩𝐽 : ji(𝐽)] leo(𝐽, {[λ𝑃 : poq(𝑃)] nuo(𝑃)}).  
+> \[℩*J* : **ji**(*J*)\] **leo**(*J*, {\[λ*P* : **poq**(*P*)\] **nuo**(*P*)}).  
 
 ## On Transitive and intransitive verbs
 ### 2019-03-16, #general
@@ -418,12 +418,12 @@ You make ordinal compounds by concatenating the number name with the (**ko**) pr
 
 ### 2019-04-13, #general
 
-**mi Mỏılūq**
+**mi Moinlul**
 > **kảqgāı jí chíe** = I see the learner(s)  
 > **kảqgāı jí chỉe** = I, who learn, see  
 > notice the tone change on **chıe**  
-> An highfall ʔ tone elsewhere than at the beginning of a sentence indicates an addition to a serial predicate  
-> so in the second sentence, there's a serial **jı chỉe** converted into a noun with the raising / tone on the first word  
+> A falling ʔ tone elsewhere than at the beginning of a sentence indicates an addition to a serial predicate  
+> so in the second sentence, there's a serial **jı chien** converted into a noun with the raising / tone on the first word  
 > in a serial, the tone on the first word indicates the role of the whole serial in the sentence  
 
 
@@ -1088,7 +1088,7 @@ A nice game of Translation of the Day :)
 
 ## On beer and expanding serial predicates
 
-## 2019-03-18, #general
+### 2019-03-18, #general
 
 **mi Heunkuelcher**
 > On the serial expansion of **Bủ chỏ jí báq bỉrā da.**
@@ -1291,7 +1291,7 @@ Thanks, that's actually pretty insightful
 
 ## On Pain
 
-## 2019-03-20, #general
+### 2019-03-20, #general
 
 **mi Seamtal**
 > **mm**
@@ -1547,7 +1547,7 @@ Thanks, that's actually pretty insightful
 
 **mi Hỏaqgīo**
 > Yes  
-> E.g. **demīur** = **miu dẻn**, and **duatūar** = **tua duan**  
+> E.g. **demiur** = **miu den**, and **duatuar** = **tua duan**  
 > But some compound words are just made up  
 > **cukir** = _ nods is not related to **cu** or **ki** and in fact neither of those words are predicates  
 
@@ -1653,7 +1653,7 @@ Thanks, that's actually pretty insightful
 > ganbat[t]e!  
 
 **mi Hỏemāı**
-> How do you say "I know that [people] do not find things important" (use "**bu sủaojīe**" as you did before, but apply what you just learned)  
+> How do you say "I know that (people) do not find things important" (use "**bu sủaojīe**" as you did before, but apply what you just learned)  
 
 **mi Heunkuelcher**
 > ok, on it  
@@ -1937,14 +1937,14 @@ all right, thanks!
 
 **mi Nuongair**
 > **({[kùı ráı] bı} {hảo [shí ra gú]})** 
-> \[℩𝑆 : **shi**(𝑆)\] \[℩𝐺 : **gu**(𝐺)\] \[℩𝑅 : **rai**(𝑅)\] **kui**({**hao**(𝑆) ∨ **hao**(𝐺)}, 𝑅).  
+> \[℩*S* : **shi**(*S*)\] \[℩*G* : **gu**(*G*)\] \[℩*R* : **rai**(*R*)\] **kui**({**hao**(*S*) ∨ **hao**(*G*)}, *R*).  
 
 **mi Chain**
-> `%miu` hảo shí ra gú kùi rái  
+> `%miu` **hảo shí ra gú kùi rái**  
 
 **mi Nuongair**
 > **(hảo {[shí ra gú] [kùı ráı]})**  
-> \[℩𝑆 : **shi**(𝑆)\] \[℩𝑅 : **rai**(𝑅)\] \[℩𝐺 : **gu**(𝐺)\] **kui**({**hao**(𝑆)}, 𝑅) ∨ **kui**({**hao**(𝐺)}, 𝑅).  
+> \[℩*S* : **shi**(*S*)\] \[℩*R* : **rai**(*R*)\] \[℩*G* : **gu**(*G*)\] **kui**({**hao**(*S*)}, *R*) ∨ **kui**({**hao**(*G*)}, *R*).  
 
 **mi Chain**
 > see how there are two **kui** in the latter expansion?  
@@ -1962,7 +1962,7 @@ all right, thanks!
 **mi Heunkuelcher**
 > I've also been reading on relative clauses, and there seems to be two types in English:  
 > * the ones that distinguish the noun from other similar nouns (in a stable full of horses, "I want the horse THAT is white")
-> * and the one that just gives you more information on it ("My horse, which is white, is so pretty!")  
+> * and the one that just gives you more information on it ("My horse, WHICH is white, is so pretty!")  
 
 **mi Shuaon**
 > Restrictive and non-restrictive?  
@@ -2018,7 +2018,7 @@ all right, thanks!
 > We learned about those the other day.  
 > (lo que)  
 
-cf. [On the problem of indifference, nesting, and subordination](#on-the-problem-of-indifference-nesting-and-subordination)
+cf. [On the problem of indifference, nesting, and subordination](#On-the-problem-of-indifference-nesting-and-subordination)
 
 **mi Heunkuelcher**
 > oh, ◌́ makes nouns, and combined with lu it makes the special noun  
