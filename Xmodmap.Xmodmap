@@ -13,4 +13,5 @@ keycode 24 = q Q q Q dead_ogonek NoSymbol dead_ogonek
 keycode 31 = i I i I idotless U03BB idotless 
 
 ! AltGr + tone number + letter = accented letter
+! the letter should be pressed after.
 ! AltGr + i = dotless i
