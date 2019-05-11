@@ -416,6 +416,16 @@ You make ordinal compounds by concatenating the number name with the (**ko**) pr
 **mi Hoenmair**
 > Inflection in Toaq happens by way of suprafixation.  
 
+### 2019-04-13, #general
+
+**mi Mỏılūq**
+> **kảqgāı jí chíe** = I see th learner(s)  
+> **kảqgāı jí chỉe** = I, who learn, see  
+> notice the tone change on **chıe**  
+> An highfall ʔ tone elsewhere than at the beginning of a sentence indicates an addition to a serial predicate  
+> so in the second sentence, there's a serial **jı chỉe** converted into a noun with the raising / tone on the first word  
+> in a serial, the tone on the first word indicates the role of the whole serial in the sentence  
+
 ## On inflection
 ### 2019-03-16, #general
 
