@@ -10,7 +10,7 @@ u {
 }
 </style>
 
-<h1><u>EhNoykR</u></h1>
+<h1 style="margin: 0 auto; font-size: 300%"><u>EhNoykR</u></h1>
 
 <b>ToaqScript</b>, hereafter referred to as Hoekai, is a writing system developed by **mi Hoenmair**.
 
@@ -20,7 +20,7 @@ u {
 
 ## Description
 
-**Mi Hoenmair** shared a list of all symbols in a PDF. You can get it [here](assets/script-sheet.pdf).
+**Mi Hoenmair** has shared a list of glyphs in a PDF. You can get it [here](assets/script-sheet.pdf).
 
 A Toaq syllable is analysed into four Hoekai parts:
 1. the consonant, which becomes the glyph in the middle;
@@ -59,9 +59,11 @@ A_a  U_u  I_i  O_o  E_e  y_  v_  z_  W_  qY
 
 `(3)` comes first, then `(1)`, then `(4)`, then `(2)`. The null consonant (circle) is `q`; the null vowel (underdot) is `Y`. The first sentence from the sample text below would be `pFuvjR bi EmNi s xPi yrNuAjLo AdXo tKi tu lPu pM AhPo AgPu n, AdTugRi AhPo d`.
 
-Automated ways of converting plain Toaq into ToaqScript input will be made publicly available soon. Currently, [the Discord bot understands `%hoe`](nuogai.md).
+Automated ways of converting plain Toaq into ToaqScript input will be made publicly available soon. Currently, [the Discord bot](nuogai.md) can generate an image of the script for you: use `%hoe` with plain Toaq as input.
 
 ## Sample text
+
+(Note: The Toaq font is rendered at 150% of its nominal size.)
 
 > <u>pFuvjR bi EmNi s xPi yrNuAjLo AdXo tKi tu lPu pM AhPo AgPu n, AdTugRi AhPo d.</u>
 > > **Pufjaor bi mien sa ship ruainjoal doax tik tu lup pam hoap guap na, duatgir hoap da.**  
