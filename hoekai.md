@@ -6,6 +6,7 @@
 u {
   text-decoration: none;
   font-family: ToaqScript;
+  font-size: 150%;
 }
 </style>
 
