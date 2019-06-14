@@ -6,7 +6,7 @@ Here's a short list of commands:
 * `%stitch` – a tool for examining serial predicates
 * `%serial` – *la fagri*'s serial predicate engine ([web version](/fagri), [github](https://github.com/acotis/serial-predicate-engine))
 * `%nui`/`%gui`/`%nuigui` – *la uakci*'s **nuiguir**/Smallcorn, a serial predicate engine ([github](https://github.com/ciuak/nuigui))
-* `%verba` explains Toaq serial predicates that use common auxiliary-like verbs (e.g., **jia bun chunfam pien**) in English, awkwardly.
+* `%hoe` – convert plain Toaq and render it in [ToaqScript/Hoekai](hoekai.md)
 * `%)` – **moipbiar fanralserpol**
 * `?` – convert [Vietoaq](vietoaq) to normal Toaq
 
