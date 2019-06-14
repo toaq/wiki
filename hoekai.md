@@ -10,7 +10,7 @@ u {
 }
 </style>
 
-<h1 style="margin: 0 auto; font-size: 500%; font-family: ToaqScript">EhNoykR</h1>
+<h1 style="font-size: 500%; font-family: ToaqScript; text-align: center;">EhNoykR</h1>
 
 <b>ToaqScript</b>, hereafter referred to as Hoekai, is a writing system developed by **mi Hoenmair**.
 
