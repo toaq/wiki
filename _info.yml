@@ -14,6 +14,7 @@ vietoaq.md:
 hoekai.md:
   title: Hỏekāı
   desc: Information on Hỏekāı, Hỏemāı's kâı.
+  suppress_title: true
   cat: "uakci's resources"
 nuogai.md:
   title: Help for Nuogai
