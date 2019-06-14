@@ -28,7 +28,7 @@ A Toaq syllable is analysed into four Hoekai parts:
 3. the rest of the nucleus, written left of the consonant (optional);
 4. the tone, together with the coda (presence/absence of **-q**), written above. (This part is empty for neutral tone syllables without **-q**.)
 
-Note that if the entire nucleus is a diphthong – one of **-ai, -ao, -oi, -ei** – it is treated as a `(3)`.
+Note that if the nucleus ends in a diphthong – one of **-ai, -ao, -oi, -ei** – it is treated as a `(3)`. Moreover, if this diphthong is the whole nucleus, `(2)` is omitted in favour of it. For example, **mai** is understood to be `m--ai`, not `m-a-i`; it would be written with the **-ai** glyph from `(3)`.
 
 ### Reference sheet
 
