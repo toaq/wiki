@@ -34,6 +34,14 @@ Note that if the nucleus ends in a diphthong – one of **-ai, -ao, -oi, -ei** �
 
 ![Reference sheet](assets/reference-sheet.png)
 
+Here's how your browser renders these characters:
+
+<u>
+<p>q qQ&ensp;qR qL&ensp;qP qB&ensp;qX qZ&ensp;qN qM&ensp;qT qD&ensp;qK qG&ensp;qF qV </p>
+<p>m p b&ensp;f&ensp;n t d c s r l&ensp;w j x&ensp;qQ k g&ensp;h </p>
+<p>A_a&ensp;U_u&ensp;I_i&ensp;O_o&ensp;E_e&ensp;y_&ensp;v_&ensp;z_&ensp;W_&ensp;qY</p>
+</u>
+
 In this reference sheet, there are three rows:
 1. All the tones with and without **-q** (`(4)` in the list above), in the usual order.
 2. All the consonant glyphs (`(1)` in the list above), in this order: **m p b – f – n t d c s r l – ch j sh – q k g h**.
@@ -41,7 +49,7 @@ In this reference sheet, there are three rows:
 
 The circle ‘consonant’ signifies the lack of a consonant; an underdot signifies the lack of a vowel. This is the reason why **q** from the second row was written as a null consonant + **-q**.
 
-## Font files
+## The font
 
 Get the latest version: [v0.331](fonts/ToaqScript.ttf).
 
