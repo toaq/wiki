@@ -61,6 +61,119 @@ A_a  U_u  I_i  O_o  E_e  y_  v_  z_  W_  qY
 
 Automated ways of converting plain Toaq into ToaqScript input will be made publicly available soon. Currently, [the Discord bot](nuogai.md) can generate an image of the script for you: use `%hoe` with plain Toaq as input.
 
+## Demonstration
+
+1. <span style="color: #ffaa00;"><code>(3)</code> last vowels</span>
+2. <span style="color: #770033;"><code>(1)</code> consonants</span>
+3. <span style="color: #aa3333;"><code>(4)</code> tone + <strong>-q</strong></span>
+4. <span style="color: #ff44ff;"><code>(2)</code> first vowels</span>
+
+<u>OjFe bi mQY dMmLi ymT qNe rG pBo vkNu</u>
+
+<!-- This is the dumbest ever way to do this, I know. -->
+
+<u style="font-size: 300%">
+<span style="color: #fa0;">O</span><!--
+  --><span style="color: #703;">j</span><!--
+  --><span style="color: #a33;">F</span><!--
+  --><span style="color: #f4f;">e</span> <!--
+  --><span style="color: #703;">b</span><!--
+  --><span style="color: #f4f;">i</span> <!--
+  --><span style="color: #703;">m</span><!--
+  --><span style="color: #a33;">Q</span><!--
+  --><span style="color: #f4f;">Y</span> <!--
+  --><span style="color: #703;">d</span><!--
+  --><span style="color: #a33;">M</span><!--
+  --><span style="color: #703;">m</span><!--
+  --><span style="color: #a33;">L</span><!--
+  --><span style="color: #f4f;">i</span> <!--
+  --><span style="color: #fa0;">y</span><!--
+  --><span style="color: #703;">m</span><!--
+  --><span style="color: #a33;">T</span> <!--
+  --><span style="color: #703;">q</span><!--
+  --><span style="color: #a33;">N</span><!--
+  --><span style="color: #f4f;">e</span> <!--
+  --><span style="color: #703;">r</span><!--
+  --><span style="color: #a33;">G</span> <!--
+  --><span style="color: #703;">p</span><!--
+  --><span style="color: #a33;">B</span><!--
+  --><span style="color: #f4f;">o</span> <!--
+  --><span style="color: #fa0;">v</span><!--
+  --><span style="color: #703;">k</span><!--
+  --><span style="color: #a33;">N</span><!--
+  --><span style="color: #fa0;">u</span>
+</u>
+
+<pre>
+<span style="color: #fa0;">O</span><!--
+  --><span style="color: #703;">j</span><!--
+  --><span style="color: #a33;">F</span><!--
+  --><span style="color: #f4f;">e</span> <!--
+  --><span style="color: #703;">b</span><!--
+  --><span style="color: #f4f;">i</span> <!--
+  --><span style="color: #703;">m</span><!--
+  --><span style="color: #a33;">Q</span><!--
+  --><span style="color: #f4f;">Y</span> <!--
+  --><span style="color: #703;">d</span><!--
+  --><span style="color: #a33;">M</span><!--
+  --><span style="color: #703;">m</span><!--
+  --><span style="color: #a33;">L</span><!--
+  --><span style="color: #f4f;">i</span> <!--
+  --><span style="color: #fa0;">y</span><!--
+  --><span style="color: #703;">m</span><!--
+  --><span style="color: #a33;">T</span> <!--
+  --><span style="color: #703;">q</span><!--
+  --><span style="color: #a33;">N</span><!--
+  --><span style="color: #f4f;">e</span> <!--
+  --><span style="color: #703;">r</span><!--
+  --><span style="color: #a33;">G</span> <!--
+  --><span style="color: #703;">p</span><!--
+  --><span style="color: #a33;">B</span><!--
+  --><span style="color: #f4f;">o</span> <!--
+  --><span style="color: #fa0;">v</span><!--
+  --><span style="color: #703;">k</span><!--
+  --><span style="color: #a33;">N</span><!--
+  --><span style="color: #fa0;">u</span>
+</pre>
+
+<strong style="font-size: 150%">
+<span style="color: #703;">J</span><!--
+  --><span style="color: #f4f;">e</span><!--
+  --><span style="color: #a33;">&#x303;</span><!--
+  --><span style="color: #fa0;">o</span> <!--
+  --><span style="color: #703;">b</span><!--
+  --><span style="color: #f4f;">ı</span> <!--
+  --><span style="color: #703;">m</span><!--
+  --><span style="color: #a33;">&#x304;</span> <!--
+  --><span style="color: #703;">d</span><!--
+  --><span style="color: #f4f;">a</span><!--
+  --><span style="color: #a33;">&#x309;</span><!--
+  --><span style="color: #a33;">q</span><!--
+  --><span style="color: #703;">m</span><!--
+  --><span style="color: #f4f;">ı</span><!--
+  --><span style="color: #a33;">&#x304;</span><!--
+  --><span style="color: #a33;">q</span> <!--
+  --><span style="color: #703;">m</span><!--
+  --><span style="color: #fa0;">a</span><!--
+  --><span style="color: #a33;">&#x302;</span><!--
+  --><span style="color: #fa0;">ı</span> <!--
+  --><span style="color: #f4f;">e</span><!--
+  --><span style="color: #a33;">&#x309;</span> <!--
+  --><span style="color: #703;">r</span><!--
+  --><span style="color: #f4f;">a</span><!--
+  --><span style="color: #a33;">&#x300;</span><!--
+  --><span style="color: #a33;">q</span> <!--
+  --><span style="color: #703;">p</span><!--
+  --><span style="color: #f4f;">o</span><!--
+  --><span style="color: #a33;">&#x301;</span><!--
+  --><span style="color: #a33;">q</span> <!--
+  --><span style="color: #703;">k</span><!--
+  --><span style="color: #f4f;">u</span><!--
+  --><span style="color: #a33;">&#x30c;</span><!--
+  --><span style="color: #fa0;">a</span><!--
+  --><span style="color: #fa0;">o</span>
+</strong>
+
 ## Sample text
 
 (Note: The Toaq font is rendered at 150% of its nominal size.)
