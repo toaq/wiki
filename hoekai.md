@@ -28,11 +28,19 @@ A Toaq syllable is analysed into four Hoekai parts:
 3. the rest of the nucleus, written left of the consonant (optional);
 4. the tone, together with the coda (presence/absence of **-q**), written above. (This part is empty for neutral tone syllables without **-q**.)
 
-Note that if the entire nucleus is a diphthong – one of **-ai, -ao, -oi, -ei** – it is treated as a `(3)`.
+Note that if the nucleus ends in a diphthong – one of **-ai, -ao, -oi, -ei** – it is treated as a `(3)`. Moreover, if this diphthong is the whole nucleus, `(2)` is omitted in favour of it. For example, **mai** is understood to be `m--ai`, not `m-a-i`; it would be written with the **-ai** glyph from `(3)`.
 
 ### Reference sheet
 
 ![Reference sheet](assets/reference-sheet.png)
+
+Here's how your browser renders these characters:
+
+<u>
+<p>q qQ&ensp;qR qL&ensp;qP qB&ensp;qX qZ&ensp;qN qM&ensp;qT qD&ensp;qK qG&ensp;qF qV </p>
+<p>m p b&ensp;f&ensp;n t d c s r l&ensp;w j x&ensp;qQ k g&ensp;h </p>
+<p>A_a&ensp;U_u&ensp;I_i&ensp;O_o&ensp;E_e&ensp;y_&ensp;v_&ensp;z_&ensp;W_&ensp;qY</p>
+</u>
 
 In this reference sheet, there are three rows:
 1. All the tones with and without **-q** (`(4)` in the list above), in the usual order.
@@ -41,7 +49,7 @@ In this reference sheet, there are three rows:
 
 The circle ‘consonant’ signifies the lack of a consonant; an underdot signifies the lack of a vowel. This is the reason why **q** from the second row was written as a null consonant + **-q**.
 
-## Font files
+## The font
 
 Get the latest version: [v0.331](fonts/ToaqScript.ttf).
 
