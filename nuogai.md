@@ -1,13 +1,13 @@
-# Help for **mi Nuongair**
+# Help for **mı nủogāı**
 
 Here's a short list of commands:
 * `%` – Toadua querying & simple (buggy) glosser
-* `%miu` – *la jelca*'s **mi Miun** ([github](https://github.com/eaburns/toaq))
+* `%miu` – *la jelca*'s **mı mỉu** ([github](https://github.com/eaburns/toaq))
 * `%stitch` – a tool for examining serial predicates
 * `%serial` – *la fagri*'s serial predicate engine ([web version](/fagri), [github](https://github.com/acotis/serial-predicate-engine))
-* `%nui`/`%gui`/`%nuigui` – *la uakci*'s **nuiguir**/Smallcorn, a serial predicate engine ([github](https://github.com/ciuak/nuigui))
+* `%nui`/`%gui`/`%nuigui` – *la uakci*'s **nuıgūı**/Smallcorn, a serial predicate engine ([github](https://github.com/ciuak/nuigui))
 * `%hoe` – convert plain Toaq and render it in [ToaqScript/Hoekai](hoekai.md)
-* `%)` – **moipbiar fanralserpol**
+* `%)` – **móıbīa fảrāqsēpōq**
 * `?` – convert [Vietoaq](vietoaq) to normal Toaq
 
-**Mi Nuongair** also outputs a random sentence twice a day.
+**mı nủogāı** also outputs a random sentence twice a day.

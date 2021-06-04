@@ -13,7 +13,7 @@ DWIM:
 
 Empty slot:
 > An argument to a predicate that is left empty.
-> In **main jip**, the slot for the beloved has been left empty.
+> In **mảı jí**, the slot for the beloved has been left empty.
 
 contentive:
 > That carries content – predicate, i.e., root word or compound word.
@@ -25,7 +25,7 @@ frame:
 > A family of words, all having the same signature.  
 > Each frame is named after a familiar word in the frame.
 
-See [**mi Hoamgior**'s list of predicate frames](https://github.com/acotis/serial-predicate-engine/blob/master/code/dict/frame-list.txt) for a list of all major frames.
+See [**mı hỏaqgīo**'s list of predicate frames](https://github.com/acotis/serial-predicate-engine/blob/master/code/dict/frame-list.txt) for a list of all major frames.
 
 predicate:
 > Verb – a word that relates a number of arguments.

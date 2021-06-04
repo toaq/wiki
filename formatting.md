@@ -1,9 +1,9 @@
 1. Files cannot be extensionless, because the default extension is `.md`. For structured text, use Markdown files, not plain text.
 2. Since <https://uakci.pl/wiki/> is the preferred place to view the wiki (not GitHub), the formatting used here is superior to the one used there.
 3. British spelling is preferred.
-4. All Toaq phrases should be put in bold markers (`**hion ka**`) – even names and single words. They can be written in Vietoaq or verbatim; the text in `**` will be properly formatted and converted.
-  * Toaq contained within `**` *must* be fully toned; lightweight-styled Toaq, such as `Die jí rûqshua`, must be fixed to have all the tones (**Dien jip rudshuar**). Remember not to skip the first tone when single words are cited (**ruqshuar**, not `**ruqshua**`).
-5. Toaqise names. The same rendition of a name should be used across the entirety of a document. Tones are required: `mi Seamtal` **mi Seamtal** is correct; `mi Seaqtaq` isn't.
+4. All Toaq phrases should be put in bold markers (`**hỉo ka**`) – even names and single words. They can be written in Vietoaq or verbatim; the text in `**` will be propēly fōmâtêq and cỏvertêq.**
+  * Toaq contained within `**` *must* be fūqly tonêq; lìqhtweight-stylêq toaq, such as `dıe jı́ rûqshua`, must be fıêq to hãqe all the tones (**Dien jip rudshuar**). remẻqbē nô to skí the fīst tone whẻ sỉgle words are cıtêq (**ruqshuar**, nô `**ruqshua**`).**
+5. Toaqise names. The same rendition of a name should be used across the entirety of a document. Tones are required: `mi Seamtal` **mı sẻaqtāq** is correct; `mi Seaqtaq` isn't.
 6. Remember to escape special characters: `^\_^` is a pretty little face ^\_^, but `^_^` will turn on italics.
 7. Fancy quotes `“”‘’`, en- and em-dashes – —, and the ellipsis character `…` should always be preferred to straight ASCII quotes `'"`, hyphens `-` (where applicable), and three full stops `...`. Same goes for arrows (`->` → `→`), emotes from Discord (`:t1:` → `◌̄`), subscripts (`₁₂₃`), and others. It's 2019, so Unicode fanciness is always preferred.
 8. Edit raw quoted text by these guidelines:

@@ -5,11 +5,11 @@
     ## On *Title*
     
     ### date, #channel
-    **mi Hoenmair**
-    > I'm **Hoenmair** and this is what I say␣␣
+    **mı hỏemāı**
+    > I'm **hỏemāı** and this is what I say␣␣
     > This is another line of my speech␣␣
-    > **Linmel** said once:
-    > > **Min Linmel jip ka.**
+    > **lỉmēq** said once:
+    > > **mỉ lỉmēq jí ka.**
     >
     > I find that very deep.
 
@@ -19,76 +19,76 @@ This will display as:
 > ## On *Title*
 > 
 > ### date, #channel
-> **mi Hoenmair**
-> > I'm **Hoenmair** and this is what I say  
+> **mı hỏemāı**
+> > I'm **hỏemāı** and this is what I say  
 > > This is another line of my speech  
-> > **Linmel** said once:
-> > > **Min Linmel jip ka.**
+> > **lỉmēq** said once:
+> > > **mỉ lỉmēq jí ka.**
 > >
 > > I find that very deep.
 
 ## On names with falling tone
 
 ### 2018-07-10, #chiejio
-**mi Lim**:
+**mı lỉq**:
 > > In (NAM.1) and (NAM.2), the name after mi carries a falling tone. It can also carry any other tone. The name ends automatically when the phrase started by the name's tone ends.  
 >
 > I'm actually a little confused about this phrasing  
 > oh, phrase means something very specific, right
 
-**mi Hoenmair**
-> `%miu` **min buf**
+**mı hỏemāı**
+> `%miu` **mỉ bũ**
 
-**mi Nuongair**
-> **(mỉ bũ)**
+**mı nủogāı**
+> **(mı̉ bũ)**
 > {λ*X* **chua**(‹**bũ**›, *X*)}().
 
-**mi Hoenmair**
-> `%miu` **min neok nip**
+**mı hỏemāı**
+> `%miu` **mỉ nèo ní**
 
-**mi Nuongair**
-> **(mỉ {nèo ní})**
-> {λ*X* **chua**(‹**nèo ní**›, *X*)}().
+**mı nủogāı**
+> **(mı̉ {nèo nı́})**
+> {λ*X* **chua**(‹**nèo nı́**›, *X*)}().
 
-**mi Hoenmair**
-> So here the names are **bũ** and **nèo ní**  
+**mı hỏemāı**
+> So here the names are **bũ** and **nèo nı́**  
 > An adverbial phrase and a prepositional phrase  
 > the prepositional phrase ends with its noun complement (which itself ends once
 > its serial verb is over and once there aren't any attached relative clauses
 > anymore)  
 > And then the name is automatically over
 
-**mi Linmel**
-> `%miu` **mỉ mỏq**
+**mı lỉmēq**
+> `%miu` **mı̉ mỏq**
 
-**mi Nuongair**
+**mı nủogāı**
 > syntax error :1.7: want [bB], [cC], [dD], [fF], [gG], [hH], [jJ], [kK], [lL], [mM], [nN], [pP], [rR], [sS], or [tT]; got EOF
 
-**mi Lim**
-> so, if my name is **Lim**, that tone is part of the name? as in, **mi Lib** and **mi Liv** are different persons
+**mı lỉq**
+> so, if my name is **lỉq**, that tone is part of the name? as in, **mı líq** and **mı lĩq** are different persons
 
-**mi Hoenmair**
+**mı hỏemāı**
 > Unless you also go by those names
 
-**mi Lim**
+**mı lỉq**
 > right
 
-**mi Huamchir**
+**mı hủaqchī**
 > That’s the difference between Ms. Being a female, Ms. A Female and Ms. Femininely  
 > roughly  
 > zo’orei
 
 ### 2019-03-07, #general
-**mi Seamtal**
+**mı sẻaqtāq**
 > Anyhow normally you will find a name in the fourth tone
 
 ### 2019-03-08, #general
-**mi Niuncul**
-> **m̂**, fragments of terms and serial predicates also can be taken as a name/phrase by **mi**/**shu**
+**mı nỉucūq**
+> **m̂**, fragments of terms and serial predicates also can be taken as a name/phrase by **mı**/**shu**
 
 ### Summary
 Names can have any tone, but the most common one is the fourth tone.
-Two names with the same word, but different tones are technically different names (**mi Lim** ≶ **mi Lib** ≶ **mi Liv**).
+Two names with the same word, but different tones are technically different names (**mı lỉq** ≶ **mı líq** ≶ **mı lĩq**).
 
 ## On frames and signatures 
 
@@ -96,153 +96,153 @@ This file contains most of the common frames.
 [frames-list.txt](https://github.com/acotis/serial-predicate-engine/blob/master/code/dict/frame-list.txt)
 
 ### 2019-03-08, #general
-**mi Hoamgior**
+**mı hỏaqgīo**
 > As for frames-list.txt…  
 > Since there are only a few common types in the type system (c, 0, 1, and 2), and since each word has usually only one or two slots, it happens that a lot of words have the same signature as each other.  
-> (This is bolstered by the fact that Toaq tries to build patterns into the vocabulary, so many words that deal with similar concepts are given them same signature on purpose – see the triplet (**dua**, **chi**, **miu**) or (**jui**, **jao**, **leaq**, **poe**, **cuao**))   
+> (This is bolstered by the fact that Toaq tries to build patterns into the vocabulary, so many words that deal with similar concepts are given them same signature on purpose – see the triplet (**dua**, **chı**, **mıu**) or (**juı**, **jao**, **leaq**, **poe**, **cuao**))   
 > A frame is just a common signature that lots of words fit into. For example, the LEO frame is the signature [(c) (c 1)] – predicates whose 1-ary meaning takes just a concrete object and whose 2-ary meaning takes a concrete object and a property (a proposition with one open slot).  
 > Math stuff here, don't look if you're already feeling overwhelmed 😃 : There's also the special case of the JEO frame, which has the signature [(0) (c 1)] and the special requirement that, for a predicate *P* to be in the JEO frame, it must satisfy the equivalence *P*(*x*, *y*) = *P*(**jeo**(*x*, *y*)).  We also have the MAO frame, which is defined as predicates which have a signature of [(0) (c 1)] but which don't satisfy that equality, which is named the "JEO-frame Equivalence"
 
 ### 2019-03-21, #general
 
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > also, what does it mean for a slot to be concrete?  
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > In general, slot types do define what type of argument goes into a slot  
-> So, a 1 slot always takes a property with one hole, like **lî mảı ja dó súq**  
-> And a 2 slot always takes a property with two holes, like **lî pai ja dó ja dó**  
+> So, a 1 slot always takes a property with one hole, like **lı̂ mảı ja dó súq**  
+> And a 2 slot always takes a property with two holes, like **lı̂ paı ja dó ja dó**  
 > And a 0 slot takes a proposition, like **lû koaq hó**  
 > But a c slot can take anything -- properties, propositions, persons, potatoes  
 > The defining characteristic of a c slot is that, during the formation of serial predicates, it's treated as though it isn't an abstraction of any kind  
-> In **dua mai**, you end up with **mâi** (a proposition) being inserted into the second slot of **dua**, because that slot is a 0 slot  
-> In **de mai**, nothing is inserted into anything, because **de**'s slot is a c slot  
-> `%serial` **dua mai**  
+> In **dua maı**, you end up with **mâi** (a proposition) being inserted into the second slot of **dua**, because that slot is a 0 slot  
+> In **de maı**, nothing is inserted into anything, because **de**'s slot is a c slot  
+> `%serial` **dua maı**  
 
-**mi Nuongair**
-> <`[c c c]` (**dủa A mâi B C**)>  
+**mı nủogāı**
+> <`[c c c]` (**dủa a mâi b c**)>  
 
-**mi Hỏaqgīo**
-> `%serial` **de mai**  
+**mı hỏaqgı̄o**
+> `%serial` **de maı**  
 
-**mi Nuongair**
-> <`[c c]` (**lủ to ru dẻ A na to mải A B**)>  
+**mı nủogāı**
+> <`[c c]` (**lủ to ru dẻ a na to mải a b**)>  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > ok… I'll tell you what I got:  
 > Slot types restrict what kind of argument goes into it (whether property, proposition, relation, etc…)  
 > and the c type is the most permissive of them all, it can take any type?  
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > Those sentences are true  
 > But the real essence of slot types is that they define what happens during serialization  
 > The 0 type sucks up a proposition, while the c type doesn't  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > so its a dynamic thing. WHEN you're making serial predicates, all this slot type comes into play  
 > so, frames are a way to define the characteristics of serial predicates?  
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > Yes  
 
 ### 2019-03-21, #general
 
-**mi Heunkuelcher**
-> **mỉo lỉ bỏkē ní da**  
+**mı hẻukūeqchē**
+> **mı̉o lı̉ bỏkē nı́ da**  
 > would that mean "that is a blue cow"?  
 
-**mi Hỏaqgīo**
-> **"Miorēo bokē ní da"**  
-> **mio** is the color blue, **miorēo** is something that's blue  
-> No need for **li**  
+**mı hỏaqgı̄o**
+> **"mıorēo bokē nı́ da"**  
+> **mıo** is the color blue, **mıorēo** is something that's blue  
+> No need for **lı**  
 > (Words with just one slot of the c type combine with a simple AND: blue-and-a-cow = "blue cow")  
 
 ## On ternary predicates
 
 ### 2019-03-13, #general
 
-**mi Hoamgior**
+**mı hỏaqgīo**
 > `%` **cutaq**
 
-**mi Nuongair**
+**mı nủogāı**
 > 1–1/1 — **cutaq** + — <▯1, ▯2> are such that <x₁, x₂, x₁> satisfy ternary relation ▯/3; ▯ does/is ▯/3 to themselves.
 
-**mi Hoamgior**
+**mı hỏaqgīo**
 > Here's one that was added recently  
 > It's the first one I know of though  
-> 2-ary properties are useful for words like **mia** (▯ satisfies property ▯ with many things) and **jeq** (▯ and ▯ satisfy property ▯ with the same thing)
+> 2-ary properties are useful for words like **mıa** (▯ satisfies property ▯ with many things) and **jeq** (▯ and ▯ satisfy property ▯ with the same thing)
 > 3-ary properties aren't useful for much, as far as we've discovered
 
 
 ## On the low tone
 
 ### 2019-03-13, #general
-**mi Hoamgior**
+**mı hỏaqgīo**
 > Here's how ◌̀ works:
 > Both ◌̀ and ◌̃ serve to create adverbials. An adverbial is a part of a sentence that makes a claim about the sentence itself (not its text, but its content).  
 > Everything in Toaq is done with predicates, and adverbials are no different. Ultimately an adverbial always does its thing by taking the entire Toaq sentence, pretending is has a ◌̂ tone (that generates propositions) and sticking it into the first place of a predicate.  
 > For example:  
-> "**Shie jí rào kôi hó**"  
+> "**shıe jı́ rào kôi hó**"  
 > Here, the **rao** with the ◌̀ grabs the entire rest of the sentence, throws it into a ◌̂ clause, then passes it as the x₁ place to the predicate rao.  ◌̀ also has the effect of taking the following noun and passing it to the predicate as the x₂ place.  
 > Thus the sentence is equivalent to:  
-> "**Rao (shîe jí na) kôi hó**"  
+> "**rao (shı̂e jı́ na) kôi hó**"  
 > With the originally top-level claim in parentheses  
 > It means "I am awake while he/she is walking"
 
 ### 2019-03-21, #general
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > This would mean "it seems funny that you think so"?  
-> **Dủ lûaı hóq jìe súq da**
+> **dủ lûaı hóq jı̀e súq da**
 
-**mi Sheinrel**
-> `%miu` **Dủ lûaı hóq jìe súq da**  
+**mı shẻırēq**
+> `%miu` **dủ lûaı hóq jı̀e súq da**  
 
-**mi Nuongair**
-> **({Dủ [lûaı <hóq (jìe súq)>]} da)**  
-> \[℩*H* : **hoq**(*H*)\] \[℩*S* : **suq**(*S*)\] **du**({**jie**({**luai**(*H*)}, *S*)}).  
+**mı nủogāı**
+> **({dủ [lûaı <hóq (jı̀e súq)>]} da)**  
+> \[℩*H* : **hoq**(*H*)\] \[℩*S* : **suq**(*S*)\] **du**({**jıe**({**luaı**(*H*)}, *S*)}).  
 
-**mi Sheinrel**
+**mı shẻırēq**
 > "It seems that you judge it (**hoq**) to be funny"  
-> **jìe** gets the **lûai** phrase as its first argument; you could also write the sentence as **"Dủ jîe lûai hóq na súq da"**  
-> `%miu` **Dủ jîe lûai hóq na súq da**  
+> **jı̀e** gets the **lûai** phrase as its first argument; you could also write the sentence as **"dủ jı̂e lûai hóq na súq da"**  
+> `%miu` **dủ jı̂e lûai hóq na súq da**  
 
-**mi Nuongair**
-> **({Dủ [jîe <(lûaı hóq na) súq>]} da)**  
-> \[℩*H* : **hoq**(*H*)\] \[℩*S* : **suq**(*S*)\] **du**({**jie**({**luai**(*H*)}, *S*)}).  
+**mı nủogāı**
+> **({dủ [jı̂e <(lûaı hóq na) súq>]} da)**  
+> \[℩*H* : **hoq**(*H*)\] \[℩*S* : **suq**(*S*)\] **du**({**jıe**({**luaı**(*H*)}, *S*)}).  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > oooh yeah, because of the low tone  
-> wouldn't the first argument to **jie** be **Du luai hoq**  
+> wouldn't the first argument to **jıe** be **du luaı hoq**  
 > how do you distinguish what part of the sentence becomes the first argument?  
-**mi Sheinrel**
+**mı shẻırēq**
 > Take a look at example CCL.3 on toaq.org; basically, adverbs and prepositions take as their argument the content/relative clause (or entire sentence) that in which they're directly contained  
-> So in this case, if you wanted **jìe** to get **dû lûai hóq** as its argument, you would say **Dủ lûai hóq na jìe súq da**  
-> `%miu` **Dủ lûai hóq na jìe súq da**  
+> So in this case, if you wanted **jı̀e** to get **dû lûai hóq** as its argument, you would say **dủ lûai hóq na jı̀e súq da**  
+> `%miu` **dủ lûai hóq na jı̀e súq da**  
 
-**mi Nuongair**
-> **({Dủ [<lûaı hóq na> <jìe súq>]} da)**  
-> \[℩*H* : **hoq**(*H*)\] \[℩*S* : **suq**(*S*)\] **jie**({**du**({**luai**(*H*)})}, *S*).  
+**mı nủogāı**
+> **({dủ [<lûaı hóq na> <jı̀e súq>]} da)**  
+> \[℩*H* : **hoq**(*H*)\] \[℩*S* : **suq**(*S*)\] **jıe**({**du**({**luaı**(*H*)})}, *S*).  
 
-**mi Sheinrel**
+**mı shẻırēq**
 > (I love miu so much)  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > I'm starting to like it too, since I'm slowly learning to interpret its output XD  
-> so, the **na** finishes clauses. and the ◌̀ takes as argument the phrase that contains it. So, since **jie** is contained in the **luai hoq jie** clause, it takes the head of that clause. If I wanted it to take the whole sentence, I would have to end the clause earlier with a **na**, and put the **jie** after it  
+> so, the **na** finishes clauses. and the ◌̀ takes as argument the phrase that contains it. So, since **jıe** is contained in the **luaı hoq jıe** clause, it takes the head of that clause. If I wanted it to take the whole sentence, I would have to end the clause earlier with a **na**, and put the **jıe** after it  
 
-**mi Sheinrel**
+**mı shẻırēq**
 > exactly
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > Thanks!!
 
 
 ## On the necessity of the tones
 
 ### 2019-03-13, #general
-**mi Hoamgior**
+**mı hỏaqgīo**
 > ◌̀ and ◌̃ can be excluded without too much difficulty  
 > ◌̌ might be possible to get rid of, but it would take some work to prove that. It doesn't just expand to something else like those other two tones do  
 > ◌̄, ◌́, ◌̉, ◌̂, and ◌ are all 100% necessary
@@ -251,153 +251,153 @@ This file contains most of the common frames.
 
 ### 2019-03-14, #general
 
-**mi Seamtal**
+**mı sẻaqtāq**
 > Those are lojban words  
 > * rinka = **ca**
-> * nibli = **lucar**
-> * krinu ≈ **mu kui**
+> * nibli = **lucā**
+> * krinu ≈ **mu kuı**
 
 ## On ordinal compounds
 
 ### 2019-03-14, #general
 
-**mi Hoenmair**
+**mı hỏemāı**
 > I have written a possible lesson 2.  
 > Also I need to add the ordinal compounds to the official dictionary.
 
-You make ordinal compounds by concatenating the number name with the (**ko**) predicate: **shikor**, **gukor**, **saqkor**…
+You make ordinal compounds by concatenating the number name with the (**ko**) predicate: **shıkō**, **gukō**, **saqkō**…
 
 ## On laughter and the lambda quantifier (ja)
 
 ### 2019-03-16, #general
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > jajajaja
 
-**mi Chain**
+**mı chảı**
 > hahahaha\*  
 > we’re in Toaqistan, sir
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > sorry, my spanish showed XD
 
-**mi Chain**
+**mı chảı**
 > you don’t necessarily want to laugh with the lambda variable quantifier  
 > unless it’s **ja dó ja dó ja dó ja dó**
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > would that mean XXXX?
 
-**mi Chain**
+**mı chảı**
 > it would  
 > kind of  
 
-**mi Chain**
+**mı chảı**
 > although each of the X’s would be distinct  
 > and the whole wouldn’t really mean anything without context  
 
 […]
 
-**mi Heunkuelcher**
-> O.O, I didn't realize that each **ja dop** would represent a different variable
+**mı hẻukūeqchē**
+> O.O, I didn't realize that each **ja dó** would represent a different variable
 
-**mi Chain**
+**mı chảı**
 > it always does  
 > so, how do you differentiate between their values? by position?
 
-**mi Chain**
-> **chẻo súqjī lî sẻaq ja póq ja póq**  
+**mı chảı**
+> **chẻo súqjı̄ lı̂ sẻaq ja póq ja póq**  
 > = we are reciprocal in relation λxy. x has sex with y  
 > = we have sex with each other  
-> = **chẻo sẻaq súqjī**
+> = **chẻo sẻaq súqjı̄**
 
-**mi Chain**
+**mı chảı**
 > **ja** binds variables
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > oooh, I see! and the variables are predicates?  
 > like **poq** and **do**?  
 
-**mi Chain**
+**mı chảı**
 > no  
 > I mean, yes  
 > but **poq** isn’t a variable predicate  
 > if you say **ja póq**, then **poq** won’t refer to [the bound variable]  
 > but **ja dó** will[, because **do** is a variable predicate]  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > oh, its the lambda calculus  
 > ok, the first **ja** means the x, the second **ja** means the y  
-> I don't understand what **ja dop** refers to
+> I don't understand what **ja dó** refers to
 
-**mi Chain**
+**mı chảı**
 > **do** doesn’t mean anything until it’s bound by a quantifier
 
-**mi Hoenmair**
-> `%miu` **lẻo jí lî nủo ja dó**
+**mı hỏemāı**
+> `%miu` **lẻo jı́ lı̂ nủo ja dó**
 
-**mi Nuongair**
-> **(lẻo {jí [lî <nủo (ja dó)>]})**  
+**mı nủogāı**
+> **(lẻo {jı́ [lı̂ <nủo (ja dó)>]})**  
 > \[℩*J* : ji(*J*)\] **leo**(*J*, {λ*X* **nuo**(*X*)}).  
 
-**mi Chain**
-> `%miu` **lẻo jí lî nủo ja póq**
+**mı chảı**
+> `%miu` **lẻo jı́ lı̂ nủo ja póq**
 
-**mi Nuongair**
-> **(lẻo {jí [lî <nủo (ja póq)>]})**  
-> \[℩*J* : **ji**(*J*)\] **leo**(*J*, {\[λ*P* : **poq**(*P*)\] **nuo**(*P*)}).  
+**mı nủogāı**
+> **(lẻo {jı́ [lı̂ <nủo (ja póq)>]})**  
+> \[℩*J* : **jı**(*J*)\] **leo**(*J*, {\[λ*P* : **poq**(*P*)\] **nuo**(*P*)}).  
 
 ## On Transitive and intransitive verbs
 ### 2019-03-16, #general
 
-**mi Heunkuelcher**
-> why are there two different words for "gather", one transitive (**tua tijeq**) and the other intransitive?  
-> wait, I think I misunderstood the idea. is it the **tua** that makes **tijeq** transitive?  
-**mi Hoamgior**
+**mı hẻukūeqchē**
+> why are there two different words for "gather", one transitive (**tua tıjeq**) and the other intransitive?  
+> wait, I think I misunderstood the idea. is it the **tua** that makes **tıjeq** transitive?  
+**mı hỏaqgīo**
 > Intransitive is used like "The marbles all gathered together at the bottom of the bucket"  
 > Transitive is used as "I gathered together some firewood"  
 > The second kind has a place for a person making the things gather  
 > And yes, it's **tua** that makes it so  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > I see, thanks!  
-> could you use the intransitive **tijeq** in a toaq sentence?  
+> could you use the intransitive **tıjeq** in a toaq sentence?  
 
-**mi Hoamgior**
+**mı hỏaqgīo**
 > Sure!  
-> "**Tinjel sa róai deon ní da**"  
+> "**tỉjēq sa róai dẻo nı́ da**"  
 > Would you like me to give the translation or do you want to work it out?  
 
 […]
 
-**mi Seamtal**
-> It would be better with **sho tinjel**  
+**mı sẻaqtāq**
+> It would be better with **sho tỉjēq**  
 
-**mi Hoenmair**
-> **tıjēq** only means "to be in the same place", not "to gather" (which would be **sho tỉjēq**). But also, note that there is a root for "gather" (**kueq**)  
+**mı hỏemāı**
+> **tıjēq** only means "to be in the same place", not "to gather" (which would be **sho tı̉jēq**). But also, note that there is a root for "gather" (**kueq**)  
 
-**mi Hoamgior**
+**mı hỏaqgīo**
 > Oh  
 > Then let me try again  
-> "**Kuem sa róai deon ní da.**"  
+> "**kủeq sa róai dẻo nı́ da.**"  
 > The translation is: "Eight children gather here."  
 
 ## On inflecting serials
 ### 2019-03-16, #general
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > I'm having trouble parsing this sentence  
-> > **Chỏ jí báq nảo da.**
+> > **chỏ jı́ báq nảo da.**
 
 […]
 
-**mi Hoenmair**
+**mı hỏemāı**
 > Probably the báq nảo part  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > exactly  
 
-**mi Hoenmair**
+**mı hỏemāı**
 > So the trick here is  
 > you can turn serial predicates into nouns, just like you can turn single predicates into nouns, using ◌́  
 > But when you do this with serial predicates, only the first predicate gets that tone  
@@ -405,55 +405,55 @@ You make ordinal compounds by concatenating the number name with the (**ko**) pr
 > **bảq nảo** → **báq nảo**  
 > This works with every tone  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > so **bảq nảo** is a serial predicate, and a serial predicate can be ?conjugated? to any of the tones, and the first verb of the serial predicate gets the target tone, but the others keep the falling tone.  
 
-**mi Hoenmair**
+**mı hỏemāı**
 > Exactly.  
 
 […]
 
-**mi Hoenmair**
+**mı hỏemāı**
 > Inflection in Toaq happens by way of suprafixation.  
 
 ### 2019-04-13, #general
 
-**mi Moinlul**
-> **kảqgāı jí chíe** = I see the learner(s)  
-> **kảqgāı jí chỉe** = I, who learn, see  
+**mı mỏılūq**
+> **kảqgāı jı́ chı́e** = I see the learner(s)  
+> **kảqgāı jı́ chı̉e** = I, who learn, see  
 > notice the tone change on **chıe**  
 > A falling ʔ tone elsewhere than at the beginning of a sentence indicates an addition to a serial predicate  
-> so in the second sentence, there's a serial **jı chien** converted into a noun with the raising / tone on the first word  
+> so in the second sentence, there's a serial **jı chỉe** converted into a noun with the raising / tone on the first word  
 > in a serial, the tone on the first word indicates the role of the whole serial in the sentence  
 
 
 ## On inflection
 ### 2019-03-16, #general
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > what's the name of applying a tone to a word?  
 
-**mi Seamtal**
+**mı sẻaqtāq**
 > suprafixation  
 > i love them, and have used tones to mark the scope of affixes in one of my conlangs  
 
-**mi Hoenmair**
+**mı hỏemāı**
 > I think you can say "inflect"  
 
-**mi Seamtal**
+**mı sẻaqtāq**
 > Suprafixation is also broader than just tones tho  
 
-**mi Seamtal**
+**mı sẻaqtāq**
 > > In linguistics, a suprafix is a type of affix that gives a suprasegmental pattern (such as tone, stress, or nasalization) to either a neutral base or a base with a preexisting suprasegmental pattern. This affix will, then, convey a derivational or inflectional meaning.
 
-**mi Hoenmair**
+**mı hỏemāı**
 > I would say inflect or decline  
 > But conjugate would also be understood  
 
-**mi Seamtal**
+**mı sẻaqtāq**
 > Suprafixation would just be applying a suprafix, so just use the above definition when archiving and uh for the others
 
-**mi Hoenmair**
+**mı hỏemāı**
 > Inflection in Toaq happens by way of suprafixation.  
 
 ### Summary
@@ -463,7 +463,7 @@ Inflect, Decline, Conjugate, Suprafixate.
 
 ### 2019-02-24, #general
 
-**mi Moinlul**
+**mı mỏılūq**
 > suprafix — (linguistic morphology) A type of affix where a suprasegmental change (such as tone or stress) modifies an existing morpheme's meaning.  
 > Ah, that's relevant to Toaq.  
 
@@ -473,76 +473,76 @@ Inflect, Decline, Conjugate, Suprafixate.
 
 A nice game of Translation of the Day :)
 
-**mi Lim**
+**mı lỉq**
 > I elect @Hỏemāı as the winner \^\_\^  
 > (thank you for the new roots)  
 
-**mi Chain**
+**mı chảı**
 > …and the new dealer  
 
-**mi Hoenmair**
+**mı hỏemāı**
 > TotD #3  
 > "The train will arrive at ten o'clock, which is when I'm usually still asleep."  
 
-**mi Lim**
+**mı lỉq**
 > (TotD.LIQ.3)  (that's how I intended the numbering to go, for what it's worth.)  
-> **Tỉshā chúe(chāo) rào héıhōrāsīao, lǔ dủq nủo jí rào hóa da.**  
+> **tı̉shā chúe(chāo) rào héıhōrāsı̄ao, lǔ dủq nủo jı́ rào hóa da.**  
 > * **heıhōrā** = hour 10 of the day (the 10:00–11:00 hour), just like **shıchāq** = day 1 of the month (I already defined this in Toadua).  
-> → **heıhōrāsīao** = the start of hour 10 of the day.  
+> → **heıhōrāsı̄ao** = the start of hour 10 of the day.  
 
-**mi Seamtal**
-> *n* + **horar** gives that part of the day, but *n* + **chaq** gives that part of the month? Why not that part of the week since that is the next unit up?  
-> Also we have been adding numbers to subscript kinda e.g. **doshir**, **hoagur** so why not continue that and have **horarheir** and **chaqshir**?  
-> **semcur shuaif keo jam chon jip lut moin sa raip pop bab damchiur**  
+**mı sẻaqtāq**
+> *n* + **horā** gives that part of the day, but *n* + **chaq** gives that part of the month? Why not that part of the week since that is the next unit up?  
+> Also we have been adding numbers to subscript kinda e.g. **doshī**, **hoagū** so why not continue that and have **horāhēı** and **chaqshī**?  
+> **sẻqcū shũaı keo jảq chỏ jí lû mỏı sa ráı pó báq dảqchīu**  
 > Ah  
 > I reread your explanation with more attention and i see why you skipped weeks, but my ordering beef still stands
 
-**mi Lim**
-> **niaqgu** is a twosome of something, a kind of **gu**, namely of consecutive years.  
-> whereas **guniaq** is a kind of **niaq**, namely the second one.  
+**mı lỉq**
+> **nıaqgu** is a twosome of something, a kind of **gu**, namely of consecutive years.  
+> whereas **gunıaq** is a kind of **nıaq**, namely the second one.  
 
-**mi Chain**
-> clever, **Lim hu mi**  
+**mı chảı**
+> clever, **lỉq hu mı**  
 > I do understand why you’d choose days→months instead of weeks→months  
 > because the latter would be ill-defined  
 
-**mi Lim**
+**mı lỉq**
 > it also mimics Chinese/Japanese 2019年, 3月, that kinda stuff  
 
-**mi Niuncul**
-> (TotD.3.NCQ) **Jỉa tỉshā chúe lũ chảqpāqchīu kó hẻı hóa, ju dủq rảo hóa hôaı nủo jí da.**  
+**mı nỉucūq**
+> (TotD.3.NCQ) **jı̉a tı̉shā chúe lũ chảqpāqchı̄u kó hẻı hóa, ju dủq rảo hóa hôaı nủo jı́ da.**  
 
-**mi Niuncul**
-> **(soan pó mí nimdaor roi mí Lim jí bâi ru je taonroar jí tîe kúo kúqtoair nò mí Dinkor da.) (kuam hain tuan shain tien ka.)**  
+**mı nỉucūq**
+> **(sỏa pó mı́ nỉqdāo roı mı́ lỉq jı́ bâi ru je tảorōa jı́ tı̂e kúo kúqtōaı nò mı́ dỉkō da.) (kủaq hảı tủa shảı tỉe ka.)**  
 
-**mi Hoamgior**
-> (TodD.3.HGO) **Tỉshā chúe rào hórāchīu hẻı, ju dủq jí lî hỏaı nủo rào hóa da.**  
+**mı hỏaqgīo**
+> (TodD.3.HGO) **tı̉shā chúe rào hórāchı̄u hẻı, ju dủq jı́ lı̂ hỏaı nủo rào hóa da.**  
 
-**mi Niuncul**
-> **(pójībi dun huam gin mó Tỉshā jĩa teo mǔa ru je len gin tûa beon keo taonroar shoen bun hoin lun tuan beon da)**  
+**mı nỉucūq**
+> **(pójı̄bı dủ hủaq gỉ mó tı̉shā jı̃a teo mǔa ru je lẻ gỉ tûa bẻo keo tảorōa shỏe bủ hỏı lủ tủa bẻo da)**  
 
-**mi Hoenmair**
+**mı hỏemāı**
 > So should we vote or should I just declare a winner?  
 
-**mi Niuncul**
+**mı nỉucūq**
 > setting up an emoji poll by the dealer in the case of indecision sounds sufficient  
 
-**mi Hoenmair**
+**mı hỏemāı**
 > Okay, so I'll just make a decision.   
-> First, some comments: I like both of the suggested systems. A downside with **Lỉq**'s system is that because it's all in the form a single compound, it is less flexible w.r.t. other complements, like questions ("at what time") and if you want to fill in things like "(at the time we agreed to meet"). I think this is easier to do with Hoaqgīo's proposal. Also conceptually, the **-sīao** in Lỉq's system bugs me a little. I'm sure the system itself is still very useful outside of specifying X o'clock, so it's still good to have no matter what.   
+> First, some comments: I like both of the suggested systems. A downside with **lı̉q**'s system is that because it's all in the form a single compound, it is less flexible w.r.t. other complements, like questions ("at what time") and if you want to fill in things like "(at the time we agreed to meet"). I think this is easier to do with Hoaqgīo's proposal. Also conceptually, the **-sı̄ao** in Lỉq's system bugs me a little. I'm sure the system itself is still very useful outside of specifying X o'clock, so it's still good to have no matter what.   
 > Second comment: Everyone used **hoa** in the **ju** phrase, but this is illegal. It should be **maq** or **hoq**. Also, **ju** is better than **lǔ** here.   
-> All things considered, I'll go with **Hoaqgīo**.  
+> All things considered, I'll go with **hoaqgı̄o**.  
 > @Hỏaqgīo congratulations  
 
-**mi Lim**
+**mı lỉq**
 > oh, because it's a {noi}, not a {poi}  
 
-**mi Hoamgior**
+**mı hỏaqgīo**
 > Woot woot  
 
 ### 2019-02-24, #general
 
-**mi Lim**
+**mı lỉq**
 > To elaborate on my #luaq submission:  
 >
 > I've envisioned a convention where  (number)+(time unit)  is a compound for   “the *n*-th time unit within the one-level-up unit, going  second → minute → hour → day → month → year → calendar era.”  
@@ -550,30 +550,30 @@ A nice game of Translation of the Day :)
 > and  (time unit)+(number)  is a new time unit that's *n* times longer,  like  **nıaqhēı** decade, **joagū** fortnight.  
 > and probably concatenating  (*m* + unit₁ + *n* + unit₂) means:   the *n*-th unit₂ of the *m*-th unit₁ (of the salient unit-above-unit₁).  
 > **saqjūe pāchāq** = the 1st of March (of the year).  
-> **heıcīhōrā jōhēımīnū** = 16:40 o'clock (of the day).   (would probably be written **16hōrā40mīnū** or **16h̄40m̄**)  
+> **heıcı̄hōrā jōhēımı̄nū** = 16:40 o'clock (of the day).   (would probably be written **16hōrā40mı̄nū** or **16h̄40m̄**)  
 > now, people talk about “10 a.m.” more than they talk about the 10 a.m. – 11 a.m. hour range.  so maybe heıhōrāsīao deserves some sort of abbreviation  
 
-**mi Lim**
-> (but then again **heıshīhōrāsīao** is as many syllables as  e-le-ven o'clock !  maybe it's fine)  
+**mı lỉq**
+> (but then again **heıshı̄hōrāsı̄ao** is as many syllables as  e-le-ven o'clock !  maybe it's fine)  
 
-**mi Niuncul**
-> **m̂**, *lertcitydetrysmi* **nò** *a compound* **jufhorshurhir**  
+**mı nỉucūq**
+> **m̂**, *lertcitydetrysmi* **nò** *a compound* **jũhōshūhī**  
 
-**mi Lim**
+**mı lỉq**
 > ja'a  
 
-**mi Moinlul**
+**mı mỏılūq**
 > With the number serial rule, **nıaqnē gủ** = the duration of two years, i.e. 2 × 365¼ days  
 
 ## On indirect questions
 
 ### 2019-03-17, #general
 
-**mi Shủao**
+**mı shủao**
 > The concept of 'indirect questions' has always confused me.  
 > What is this black magic?  
 
-**mi Chain**
+**mı chảı**
 > what exactly about indirect questions do you find to be like black magic?  
 > there is a significant difference about a question mentioned (not asked – thus ‘indirect’) in the sentence and its answer  
 > ’I don't know what friends he has’ means that you don't know what would answer the question: ’What friends does he have?’  
@@ -581,10 +581,10 @@ A nice game of Translation of the Day :)
 > on the one hand, it can mean: ‘I don't know the thing that you're pointing at,’ so if you were pointing at Bob, I'd be saying: ’I don't know Bob’  
 > on the other hand, it can mean, ‘I don't know what the answer to the question: What you're pointing at? is’  
 
-**mi Shủao**
+**mı shủao**
 > But… how?!  
 
-**mi Chain**
+**mı chảı**
 > thow  
 > indirect questions are a concept that can't be analysed into smaller parts, and it's so by definition  
 > an indirect question is a subordinate clause that pertains to an unasked question  
@@ -593,274 +593,274 @@ A nice game of Translation of the Day :)
 > ’I don't know him who did that’ – I don't know the person  
 > ’I don't know who did that’ – I don't know the answer to the question: ‘Who did that?’  
 > <https://en.wikipedia.org/wiki/Content_clause#Interrogative_content_clauses>  
-**mi Shủao**
+**mı shủao**
 > Are there not less nonsensical methods with the same effect?  
 
-**mi Chain**
+**mı chảı**
 > > [T]hey are often direct objects of verbs of cognition, reporting, and perception, but here they emphasize knowledge or lack of knowledge of one element of a fact[.]  
 >
 > no  
 > if you have content clauses, you have to have indirect questions too  
 > in case of Toaq, you have:  
-> **Bủ dủa jí tâo hı ráı máq da.** – I don't know who did that.  
-> **Bủ rảqdūa jí lú tảo hóa máq da.** – I don't know the one who did that.  
+> **bủ dủa jı́ tâo hı ráı máq da.** – I don't know who did that.  
+> **bủ rảqdūa jı́ lú tảo hóa máq da.** – I don't know the one who did that.  
 > **dua** can be applied to context clauses only; I used **raqdūa** here for the meaning: ‘I know of him.’  
-> @**Shủao** of course, you might try making a language where, instead of indirect questions, you have predicates like ‘X doesn't know what has property Y,’ but indirect questions are handier in that they don't require you to know that you're going to use one before the moment they're stated  
+> @**shủao** of course, you might try making a language where, instead of indirect questions, you have predicates like ‘X doesn't know what has property Y,’ but indirect questions are handier in that they don't require you to know that you're going to use one before the moment they're stated  
 > in general, every sentence with an interrogative content clause can be transformed into one with declarative content clauses only:  
-> **Bủ dủa jí tâo hı ráı máq da.** (I don't know who did that.) → **Sa dó tǔq lủ tảo hóa máq bı, bủ dủa jí tâo dó máq da.** (There's somebody who did that for which I don't know to have done that.)  
+> **bủ dủa jı́ tâo hı ráı máq da.** (I don't know who did that.) → **sa dó tǔq lủ tảo hóa máq bı, bủ dủa jı́ tâo dó máq da.** (There's somebody who did that for which I don't know to have done that.)  
 > but, as you can see, the above is messy  
 > and, to nitpick even further, the above transformation relies on the assumption that there is somebody who did that  
 > in the end, you'd need to construct a sentence like: ‘If there isn't anybody who *X*-es, then I don't know that there is nobody who *X*-es; and if there is somebody who *X*-es, then for all people *p* such that *p* *X*-es, I don't know that *p* *X*-es’  
 > or, even better: ‘For all plural constants *pp*, I know that *pp* has p-ty *X* if *pp* has p-ty *X*, and I know that *pp* doesn't have p-ty *X* if *pp* doesn't have p-ty *X*.‘  
 
-**mi Chain**
+**mı chảı**
 > the need for indirect questions could also be avoided with a predicate with a definition like: ‘*X* knows what *n*-tuple of arguments satisfies *n*-ary relation *Y*’ (for any *n*, including 0)
 
 […]
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > uakci, your expansion of the indirect question was wrong […]  
 
-**mi Chain**
-> @**Hỏaqgīo** therefore, I am asking to nitpick and correct  
+**mı chảı**
+> @**hỏaqgı̄o** therefore, I am asking to nitpick and correct  
 > I should emphasise that it’s my understanding of indirect questions that I was dwelling  
 > it isn’t necessarily the most elegant definition  
 > I, too, would like indirect questions gone  
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > First problem:  
-> > **Bủ dủa jí tâo hı ráı máq da.** – I don't know who did that.  
-> > **Bủ rảqdūa jí lú tảo hóa máq da.** – I don't know the one who did that.  
+> > **bủ dủa jı́ tâo hı ráı máq da.** – I don't know who did that.  
+> > **bủ rảqdūa jı́ lú tảo hóa máq da.** – I don't know the one who did that.  
 >
 > These sentences aren't alike  
 
-**mi Chain**
+**mı chảı**
 > I’m aware  
 > what point are you trying to make here?  
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > I'm not really making a point, unless you consider "that's wrong" to be a point  
 > (Which I do – retracting incorrect information is important even if you don't have correct information to replace it with)  
 > But that there wasn't my main correction  
 
-**mi Chain**
+**mı chảı**
 > I was showing an example of the almost same sentence and its not so same translation  
 > they were somewhat supposed to turn out as different from each other  
 > but, to the main tea, please  
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > Ah wait, I just found:  
 > or, even better: ‘For all plural constants *pp*, I know that *pp* has p-ty *X* if *pp* has p-ty *X*, and I know that *pp* doesn't have p-ty *X* if *pp* doesn't have p-ty *X*.‘  
 > I was going to correct you on:  
 > in the end, you'd need to construct a sentence like: ‘If there isn't anybody who *X*-es, then I don't know that there is nobody who *X*-es; and if there is somebody who *X*-es, then for all people *p* such that *p* *X*-es, I don't know that *p* *X*-es’  
 > But the "even better" one isn't wrong  
 
-**mi Chain**
+**mı chảı**
 > are you saying that the one above is correct and the one below is wrong?  
 > because if so, I agree  
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > Yes  
 > (Or slightly more accurately: that the one above is a plausible rendition. We might not go with that)  
 
-**mi Chain**
+**mı chảı**
 > I didn’t say we should go with any of that – again, it’s my interpretation specifically  
 > although indeed it would be beneficial to keep this definition at the back of your head and see if it works in different, more convoluted sentences  
 > note, however, how such an îndirect quẻstion is dependent in meaning on the containing predication  
 > which means that ◌̂ + hi dó attains special semantic powers, just like ◌̀ in Toaq and macros in Scheme  
 > (not Scheme macros, because they can only operate on their own arguments and not on their surroundings, and I’m trying to make the point that ◌̂ + hi dó does transform the outer clause)  
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > How do they transform the outer clause?  
 
-**mi Chain**
+**mı chảı**
 > ‘I don’t know what caused this’ → ‘for all pp, I don’t know that pp caused this if pp caused this, and I don’t know that pp didn’t cause this if pp didn’t cause this.’  
 > the italic parts are attachments onto the outer clause; moreover, this clause, with the modification (did → didn’t), is copied to make a second claim (underlined)  
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > Hmm, I think I understand  
 > Are you saying that Bủ dủa jí câ hi ráı ní should be the same as Bủ dûa jí câ hi ráı ní, since there is no change in scope, but it requires special semantics to do so?  
 
-**mi Chain**
+**mı chảı**
 > this is not what I’m scared about – serial predicates and scoping in sentences where they’re present don’t bother me because they’re lightweight and predictable  
 > (lightweight = requiring little thinking power to crack, allowing one to gain an intuitive, no-brainer understanding over time)  
 > what I’m scared about is this:  
-> you can’t consider **râi hi rái** in isolation, but only **rai râi hi rái** – one level up from the clause  
-> furthermore, if you answer a question with a fragment that is a case of ◌̂ + **hi dop**, you’re actively transforming the asker’s sentence  
+> you can’t consider **râi hı rái** in isolation, but only **raı râi hı rái** – one level up from the clause  
+> furthermore, if you answer a question with a fragment that is a case of ◌̂ + **hı dó**, you’re actively transforming the asker’s sentence  
 > and the change is not lightweight  
 > this means that the answer doesn’t really answer the original question, but a transformed version of it  
-> this is different from, for example, ‘**ma shie súq moq**’ — ‘**[jeo hóq] rào dío**’  
+> this is different from, for example, ‘**ma shıe súq moq**’ — ‘**[jeo hóq] rào dı́o**’  
 > because the answerer gives an explicit condition of the sentence being true, using an afterthought sentence transformer that ◌̀ is one of  
-> with ◌̂ + **hi dop**, it’s nothing like that  
+> with ◌̂ + **hı dó**, it’s nothing like that  
 
-**mi Hỏaqgīo**
-> So would **Dủa súq hi ráı** → **câ hi dó be** an example of this?  
+**mı hỏaqgı̄o**
+> So would **dủa súq hı ráı** → **câ hı dó be** an example of this?  
 
-**mi Chain**
+**mı chảı**
 > yes, I was going to type this exact example in right now  
 > the question is transformed opaquely  
 > and it’s done with what’s supposed to be the most transparent and well-behaved construct in the grammar, namely ◌̂  
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > But isn't your interpretation -- that an indirect Q is just a statment in disguise -- the antidote for this problem?  
 > In that interpretation, the sentence isn't transformed  
 
-**mi Chain**
+**mı chảı**
 > I’ve come to realise that indirect questions can’t be statements in disguise  
 > they do complex stuff  
 > all their heavy work is abstracted out into a mere collocation of a tone and a question word  
 > so I can no longer accept an interpretation where the outer claim isn’t transformed  
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > I still don't understand what transformation is necessary  
 
-**mi Chain**
+**mı chảı**
 > I, on the other hand, don’t understand how it can be not essential  
 > of course, we can keep indirect q’s as an inanalysable construct that you’re just supposed to understand  
 > if you find a satisfactory transformation that is bounded by the ◌̂, let me know  
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > What's wrong with "what caused this" → "that whatever caused this caused this and whatever didn't didn't"?  
 
-**mi Chain**
+**mı chảı**
 > »[…] the philosophy that indirect questions are their own type of semantic object and cannot be reduced to statements to be fed into "**dua**".«  
 > (this is what I’m trying to put into doubt and see if there are alternatives)  
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > What's wrong with "what caused this" → "that whatever caused this caused this and whatever didn't didn't"?
 
-**mi Chain**
+**mı chảı**
 > there are two issues here
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > Oh wait a second wait a second  
 > The quantification leaks out into the outer claim, right?  
 
-**mi Chain**
-> 1) **bu dua jí câ hi rái** → either **bu dua jí câ cá**, which is a tautology, or **sa dó ca3 bi bu dua jí câ dó** (same problem)  
+**mı chảı**
+> 1) **bu dua jı́ câ hı rái** → either **bu dua jı́ câ cá**, which is a tautology, or **sa dó ca3 bı bu dua jı́ câ dó** (same problem)  
 > yes ^^  
 > smart one  
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > Now I see  
 > Okay, that sucks  
 
-**mi Chain**
+**mı chảı**
 > 2) even if there’s a way to keep the quantification inside, there’s still relativism that ought to be remembered. I might know what caused this, but it might not be the actual things that caused this  
 > …and implementing this behaviour would require to… know the outer predication  
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > Hmm, what now?  
 > I don't know what you mean by that  
 > I might know what caused this, but it might not be the actual things that caused this
 > this  
 
-**mi Chain**
+**mı chảı**
 > okay, let’s switch around the outer predicate:  
-> **dua jí chîaidua jí câ hi rái**  
+> **dua jı́ chı̂aidua jı́ câ hı rái**  
 > we would somehow need to transform this into dua jí chîaidua jí câ + an argument phrase that would signify some referent for which the chîaidua clause holds  
 > because we can’t substitute it with the real cá, because we know we’re supposed to be wrong about what we know  
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > Aha  
 > So even if "I know [what caused this]" goes magically to "I know [that the candle caused this]", that breaks on "I am wrong about [what cause this]" because that will go to "I am wrong about [that the candle caused this]"  
 
-**mi Chain**
+**mı chảı**
 > yes  
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > Looks like a big oof for "questions are statements in disguise" theory  
 
-**mi Chain**
+**mı chảı**
 > and the ‘questions are black boxes’ theory too, unless we allow ◌̂ to transform their containing clauses  
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > Is that so?  
 > "I am wrong about [what caused this]" seems fine as a black box  
 
-**mi Chain**
+**mı chảı**
 > the indirect questions are black boxes theory would stand solid if either ◌̂ could transform the outer clauses or predicates that expect indirect q’s had rules on handling them  
 > the latter is easier to prove the existence of a feasible implementation of, of course  
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > Oh, well yes  
 
-**mi Chain**
+**mı chảı**
 > let’s call it a small oof  
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > I was counting "rules for indirect q's built into the predicate" as part of black box thoery  
 
-**mi Chain**
+**mı chảı**
 > okay  
 > then give it a better name, if you may  
 > »indirect questions are black boxes with special handling from their receiving predicates«  
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > black box theory is the perfect name already  
 
-**mi Chain**
+**mı chảı**
 > alright  
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > Just remember that "black box" is stronger than "opaque in-place transformation"  
 
-**mi Chain**
+**mı chảı**
 > or maybe ‘primitive indirect question(s) theory’  
 > which makes a looser claim  
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > Or "the amiguity approach" (predicates which can take IQs are ambiguos)  
 > This one is stolen from a paper than was linked here  
 
-**mi Chain**
+**mı chảı**
 > kay  
 > the amiguilty approach  
 > and its friend, the yesyouare implementation  
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > I'm wooshing  
-> Anyhow **Dủa súq hi ráı** → **Bỏao jí câ hi ráı** becomes sensible because now the latter is an explicit transformation of the former  
+> Anyhow **dủa súq hı ráı** → **bỏao jı́ câ hı ráı** becomes sensible because now the latter is an explicit transformation of the former  
 
-**mi Chain**
+**mı chảı**
 > just playing around with words  
 > wait  
 > how is that a transformation?
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > Well  
 > The latter stands in for a transformation of the former  
-> "**boaon jí…**" expands to "**tu … bi duan jí …**]"  
+> "**bỏao jı́…**" expands to "**tu … bı dủa jı́ …**]"  
 > Thus you get the satisfying "What do you know?" → "I know …" without forcing quantifiers into somebody else's sentence  
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > I mean, I propose a texture pack where dua splits into dua and boao but yes  
 
-**mi Chain**
+**mı chảı**
 > make an edit for the future generations  
 > and smile!  
 > 📸
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > 😬  
 
-**mi Chain**
+**mı chảı**
 > I’m okay with **dua** being polymorphic like it seems to be now  
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > Oops, I was making a face  
 
-**mi Chain**
+**mı chảı**
 > too late  
 
-**mi Hỏaqgīo**
-> But the polymorphis lets you be lazy and say **câ hi ráı** alone as a response  
+**mı hỏaqgı̄o**
+> But the polymorphis lets you be lazy and say **câ hı ráı** alone as a response  
 > Hoemai, thoughts on this conversation?  
 
-**mi Shủao**
+**mı shủao**
 > 😬  
 
-**mi Chain**
+**mı chảı**
 > @Hỏaqgīo
 > > I’m okay with **dua** being polymorphic like it seems to be now  
 >
@@ -868,98 +868,98 @@ A nice game of Translation of the Day :)
 
 ### 2018-11-02, #general
 
-**mi Lom**
-> can someone explain to me **hi** and **ku**? I understand **hi** when the illocution is **moq**. but what is **hi** with **da**? is this an indirect question, similar to how **ma** becomes an indirect question with **da**? I assume so. But then what is **ku**? in **Báorēo nủq ku** seems to be used for an indirect question instead of **hi** for the sentence "He went and listened, and then noticed that it was the birds who were chattering together"  
-> is this just another instance of my inability to understand {**mi kau**}?  
-**mi Hỏemāı**
+**mı lỏq**
+> can someone explain to me **hı** and **ku**? I understand **hı** when the illocution is **moq**. but what is **hı** with **da**? is this an indirect question, similar to how **ma** becomes an indirect question with **da**? I assume so. But then what is **ku**? in **báorēo nủq ku** seems to be used for an indirect question instead of **hı** for the sentence "He went and listened, and then noticed that it was the birds who were chattering together"  
+> is this just another instance of my inability to understand {**mı kau**}?  
+**mı hỏemāı**
 > I think so 😃
 > **ku** marks focus.  
-> **hi** without **moq** (or **hi** in subordinate statements) is used for indirect questions  
+> **hı** without **moq** (or **hı** in subordinate statements) is used for indirect questions  
 > There are a few examples of that on the website  
 
-**mi Lom**
+**mı lỏq**
 > ok. I'll hunt them down and see if i can't finally figure it out
-> **Kủaq kỉe ka**  
+> **kủaq kı̉e ka**  
 
-**mi Hỏemāı**
-> As for **ku**, compare **Mủaqtūa jí rúaı** "I killed the royal". to **Mủaqtūa ku jí rúaı** "It was me who killed the royal". In the latter, it is already known that somebody killed the royal, but it is new information that it was me.  
+**mı hỏemāı**
+> As for **ku**, compare **mủaqtūa jı́ rúaı** "I killed the royal". to **mủaqtūa ku jı́ rúaı** "It was me who killed the royal". In the latter, it is already known that somebody killed the royal, but it is new information that it was me.  
 
-**mi Lom**
-> What would **Mủaqtūa hi jí rúai** translate to?
-**mi Hỏemāı**
+**mı lỏq**
+> What would **mủaqtūa hı jı́ rúai** translate to?
+**mı hỏemāı**
 > "Which me killed the royal?" ("which thing that is me")  
 > (with **moq**, to make the question)  
-> **hi** without **moq** is usually not used at top level  
+> **hı** without **moq** is usually not used at top level  
 > The **moq** can be implicit (dropped) in casual speech  
 > Or when you're just saying a fragment  
-> For example, **tîo dẻ for** "How beautiful"  
+> For example, **tı̂o dẻ fō** "How beautiful"  
 > Anyway, **hı** is for asking "which/what" things fill a place.  
 > (Like {mo'oi} in Lojban)  
 > (Except in Lojban, {mo'oi} and all the other question words automatically add an interrogative illocution to the sentence, which is why when you don't want that, you have to undo it with {kau} after the question word.  
 
-**mi Lom**
-> **Kủaq kỉe ka**
+**mı lỏq**
+> **kủaq kı̉e ka**
 
 ## the N-Word Stone
 
 ### 2019-03-17, #off-topic
 
-**mi Seamtal**
-> **tảoshāo nảıjīa kủq jí tóa pỏ nílāı da…NỦTĪRĪSHŌQHĒQCĀI GỦIBĒAQHĀQ MỦOQ GO KỦORĪBĀ (kıo hỏkēı la tủa fỏaq so dảıchī na, kùı lû nảqpīa go pó gójī rỏaqpīafū ga pảı sa ráı rǒaqpīafū sa méahēo mu pǎı sa lú gảq hóa hóı nỉq rỏaqpīafū bòı dêo na ceı jǔlū gủaıgāq hóa sa póq bǒ hóa sa kúnē pảınīaı, ju cěorīaq pỏ máq pó sa méahēo củe nǎqpāo go hóa sa lú pủ lủeq go sỏıfūaı hóa ju pủ bủagāq hó sa chíegāq rào chîetāo na ju jẽo bı chủrīe pỉafū go hó sa lú tủaobū mu pỉa hóa sa ráı mǎıpāı go hóa sa lú rào kôaqshō tì sa núı bı rảqdūa hó sa jáq pảırūo lẻaqbūe, ju lỉqfū go hó sa lú geonē sa níaqnē rỏaı hó ju chỉetūa go hó sa ráı hǎo hóı chẻ hóa mu lǐqpīa sa géonēhūaq ju pảı go hó sa lú gảq hóa bòı pó céochīejīo ga hóı lỉqpīa  lǐqpāo sa lú mu rỏaqpīafū hóa sa lú kỉqrūotāo hóa sa núı kỉq pỏ sa púı gủa ga ju fảq lû mu lỉqpīa sa náq sa lú mu lỉqpīafū hóa sa ráı mǎıpāı sa póq pǎosū sa lú pủ sẻoshō hóa sa náq gǔaı go pó sa dúaogūıjēarīaq ru těqdōa hóa sa rótī sa lú dủq tẻq hóa sa kíaqchē chǐe chẻ tẻ go bảq kỉaq hóa mu sòa sa póq mu lǐqpīa hóa sa lú to ru lủı bủadūo pèa sa dáqjāq to jãq jẻo bı rảqdūa hóa sa téqjūqchē mu pǎı hóa sa ráı mu nǎqfū hóa hóa sa lú mu lủeq hóa sa róalūeqdōa kỏqpānī cǔe go hóa sa ráı rǒaqpīafū hóa sa níq lǐe jảq bỏmīa hóa bòı jîu na kùı pó lúo ju bỏ  pó hóa sa lúeqchē mu nǎqpīa hóa sa ráı gěonē go hóa sa níaqnē shỉcēı ru chǐe hóa pó téıdīu mu gàq sa líq chǒ jãq hó hóa ju mu pảosū hó sa lú pủ chẻ gỏlūfū ju rảo kỏ gủ sa ráı hó sa súaıkōı měa go hóa sa lú mảıgēq hóa sa líq lǔı jẻa bỏ hóa sa cháo hảı mu chỏq sa póq lủ mu pỉa hóa sa lú rỉochē hóa  ju rỉoqhēaqfā pòı lủeq sa ríokōqpānī lủ põı dảı tủa pỉaq bı sẻcāq hóa gûaqtīshō**
+**mı sẻaqtāq**
+> **tảoshāo nảıjı̄a kủq jı́ tóa pỏ nı́lāı da…nủtı̄rı̄shōqhēqcāi gủibēaqhāq mủoq go kủorı̄bā (kıo hỏkēı la tủa fỏaq so dảıchı̄ na, kùı lû nảqpı̄a go pó gójı̄ rỏaqpı̄afū ga pảı sa ráı rǒaqpı̄afū sa méahēo mu pǎı sa lú gảq hóa hóı nı̉q rỏaqpı̄afū bòı dêo na ceı jǔlū gủaıgāq hóa sa póq bǒ hóa sa kúnē pảını̄aı, ju cěorı̄aq pỏ máq pó sa méahēo củe nǎqpāo go hóa sa lú pủ lủeq go sỏıfūaı hóa ju pủ bủagāq hó sa chı́egāq rào chı̂etāo na ju jẽo bı chủrı̄e pı̉afū go hó sa lú tủaobū mu pı̉a hóa sa ráı mǎıpāı go hóa sa lú rào kôaqshō tı̀ sa núı bı rảqdūa hó sa jáq pảırūo lẻaqbūe, ju lı̉qfū go hó sa lú geonē sa nı́aqnē rỏaı hó ju chı̉etūa go hó sa ráı hǎo hóı chẻ hóa mu lı̌qpı̄a sa géonēhūaq ju pảı go hó sa lú gảq hóa bòı pó céochı̄ejı̄o ga hóı lı̉qpı̄a  lı̌qpāo sa lú mu rỏaqpı̄afū hóa sa lú kı̉qrūotāo hóa sa núı kı̉q pỏ sa púı gủa ga ju fảq lû mu lı̉qpı̄a sa náq sa lú mu lı̉qpı̄afū hóa sa ráı mǎıpāı sa póq pǎosū sa lú pủ sẻoshō hóa sa náq gǔaı go pó sa dúaogūıjēarı̄aq ru těqdōa hóa sa rótı̄ sa lú dủq tẻq hóa sa kı́aqchē chı̌e chẻ tẻ go bảq kı̉aq hóa mu sòa sa póq mu lı̌qpı̄a hóa sa lú to ru lủı bủadūo pèa sa dáqjāq to jãq jẻo bı rảqdūa hóa sa téqjūqchē mu pǎı hóa sa ráı mu nǎqfū hóa hóa sa lú mu lủeq hóa sa róalūeqdōa kỏqpānı̄ cǔe go hóa sa ráı rǒaqpı̄afū hóa sa nı́q lı̌e jảq bỏmı̄a hóa bòı jı̂u na kùı pó lúo ju bỏ  pó hóa sa lúeqchē mu nǎqpı̄a hóa sa ráı gěonē go hóa sa nı́aqnē shı̉cēı ru chı̌e hóa pó téıdı̄u mu gàq sa lı́q chǒ jãq hó hóa ju mu pảosū hó sa lú pủ chẻ gỏlūfū ju rảo kỏ gủ sa ráı hó sa súaıkōı měa go hóa sa lú mảıgēq hóa sa lı́q lǔı jẻa bỏ hóa sa cháo hảı mu chỏq sa póq lủ mu pı̉a hóa sa lú rı̉ochē hóa  ju rı̉oqhēaqfā pòı lủeq sa rı́okōqpānı̄ lủ põı dảı tủa pı̉aq bı sẻcāq hóa gûaqtı̄shō**
 
 ### 2019-03-17, #general
 
-**mi Seamtal**
+**mı sẻaqtāq**
 > It is a copypasta  
 > namely this:  
 > I’m gonna say the n word… NUTRI-GRAIN BLUEBERRY BREAKFAST GRANOLA BARS (it’s okay, my cousin’s friend has a brother who’s girlfriend has another cousin that has a childhood friend who grew up to work with a guy that has a dog who was originally from an owner that has a husband who’s father met a guy in the military that had a college roommate who actually has a half nephew who has a step brother who has a girlfriend that growing up in a small town had a friendly neighbor who had a 8 year old daughter who had a 4th grade teacher that had a student that actually had an older sister that had an old friend from preschool who’s mom had a 2nd cousin who was in a short international film that starred a guy who’s sister has a niece that has a boyfriend who had a grandmother who has an ex husband that worked in a bakery and sold bread to this guy that had a barber who learned to cut hair from this guy who has a sister that moved to Madagascar and actually knows a local cashier that had a best friend who has a son that has a health insurance provider who’s ran by a guy that’s cousins with a girl that was born into a rich family with a butler who has a 16 year old son that has a trigonometry class with this girl he likes that has a grandfather who was a professional golfer that once got second place behind a guy that was dating this girl that bought a used car from a guy that has a brother who is a pilot and flys for an airline which is surprisingly responsible for the death of some guy who got in a plane crash that before he died had a girlfriend who was an aspiring musician that made a song that this one guy tweeted about that also has a cousin who has a best friend who’s very religious and has a pastor that actually eats nutri-grain breakfast bars. Oh and who’s black)  
 > Now yall other humans can practice your vietoaq more [note: the original was in Vietoaq]  
 > There are a few errors in my translation I have noticed, but i sped through this one (≈45mins) so i am not too worried  
-> I also had to coin some stuff on the fly and quite hastily, like **temjulcher** for cashier  
+> I also had to coin some stuff on the fly and quite hastily, like **tẻqjūqchē** for cashier  
 
 ## On water, waters, and the idea of water
 
 ### 2019-03-18, #general
 
-**mi Heunkuelcher**
-> in the meantime, I have another question about this sentence **Chỏ jí báq nảo da.**  
+**mı hẻukūeqchē**
+> in the meantime, I have another question about this sentence **chỏ jı́ báq nảo da.**  
 > I don't understand why the bab is necesary to say "I like water"  
-> wouldn't **Chon jip naop da** be enough?  
+> wouldn't **chỏ jí náo da** be enough?  
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > No  
 > The reason is that **náo** means "the water"  
 > So if you live by a lake, that would be appropriate to say you like the water in the lake  
 > Or if somebody serves you water and asks how it is  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > ah, its THE water (only the one referred to at the moment. This water), not water in general  
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > Yes  
 > (Though not necessarily "this" water. It could be in a cup on the table or it could be on Mars; **náo** just means "the water (the water we're currently talking about, not some random water)")  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > like, the UofD?  
 > well, A specific water  
 > and is that different from the waters?  
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > No  
 > In fact you've hit on an important point  
 > If there are multiple waters in the UoD, then náo is all of them  
-> If we are talking about three lakes then **chỏ jí náo da** means I like the three lakes  
+> If we are talking about three lakes then **chỏ jı́ náo da** means I like the three lakes  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > so the distinction is between the abstract idea of water, and any concrete instance of water  
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > Yes, that's between **báq nảo** and **náo**  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > is this like Plato's Forms?  
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > I am not familiar with those 😛
 > Oh wait! Yes I am  
 > Yes, I think that's a good way to think about it  
@@ -967,242 +967,242 @@ A nice game of Translation of the Day :)
 […]
 
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > but one last thing, with the water question. If I wanted to talk about some concrete waterS (plural), would it be like this?  
-> **Chom jip naop sa da**  
+> **chỏq jí náo sa da**  
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > In any case, the answer is no 😛
 > sa may be glossed as "some", but it's not a willy-nilly word like English has, it's the E quantifier  
 > It's used like this:  
-> **Chỏ jí sa náo da**  
+> **chỏ jı́ sa náo da**  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > ah, right associating?  
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > No associating  
 > This is equivalent to the logical proposition:  
 > ∃*x*. *x* is-water: I like *x*  
 > "There exists some *X* which is water such that: I like *X*"  
 > (This *X* still could be singular or plural, it isn't specified)  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > hm, I kinda see. So I'm just saying that there is some thing, which is water, and that I like?  
 > not how many of that thing there is  
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > Yes  
 > To specify that there are multiple things, you can use the predicate puq  
-> **Chỏ jí sa púq nảo da** = "I like some multiple waters"  
-> Or: **Chỏq jí púq nảo da** = "I like the multiple waters"  
+> **chỏ jı́ sa púq nảo da** = "I like some multiple waters"  
+> Or: **chỏq jı́ púq nảo da** = "I like the multiple waters"  
 
 
 ## On having sex with bees
 
 ### 2019-18-03, #totd
 
-**mi Shủao**
-> TotD 15: **Sẻaq sa hápī ba**.
+**mı shủao**
+> TotD 15: **sẻaq sa hápı̄ ba**.
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > XDDD well done! I'm proud of you (and so is that sexy, sexy bee)
 
-**mi Chain**
+**mı chảı**
 > @Heukueqche @Shủao  
 > it’s not ‘sexy bee,’ but ‘The bee has (is having) sex.’  
 > those are two fundamentally different concepts; you can have sex despite not being sexy and you can have no sex despite being sexy  
 > for ‘sexy,’ consider something like **seaqdē** (‘sexually beautiful’)  
 
-**mi Shủao**
+**mı shủao**
 > @🍵 Fuck bees.
 
 […]
 
-**mi Shủao**
+**mı shủao**
 > "Fuck bees."  
 > The (meme) phrase I tried to translate; directed at no specific person, yet imperative.  
-> … perhaps there should be a specific quantifier on **hápī**, and I'm not sure about nothing filling the second spot, but it's nice to have it concise too.  
+> … perhaps there should be a specific quantifier on **hápı̄**, and I'm not sure about nothing filling the second spot, but it's nice to have it concise too.  
 
-**mi Chain**
-> @Shủao and you’re right. the correct v. would be **Sẻaq súq sa hápī ba**.
+**mı chảı**
+> @Shủao and you’re right. the correct v. would be **sẻaq súq sa hápı̄ ba**.
 
-**mi Shủao**
+**mı shủao**
 > Why **súq**?
 
-**mi Chain**
+**mı chảı**
 > without **súq**, it could be **go**.  
 > ‘May (indetermined) have sex with one or more bees.’
 
-**mi Shủao**
+**mı shủao**
 > The places of **seaq** don't seem that specific.
 
-**mi Chain**
+**mı chảı**
 > wdym
 
-**mi Shủao**
+**mı shủao**
 > In the definition I saw, they seemed interchangable.
 
-**mi Chain**
+**mı chảı**
 > **seaq**, I believe, is symmetric.
 
-**mi Shủao**
+**mı shủao**
 > Then the **go** would be redundant, would it not?
 
-**mi Chain**
-> well then, **seaq go hápi** would suffer from the same issue as **seaq hápi**  
+**mı chảı**
+> well then, **seaq go hápı** would suffer from the same issue as **seaq hápı**  
 > I guess it’s only fair to assume that the **go** omits an implied **suq**, or whoever the command is actually directed towards.
 
-**mi Shủao**
+**mı shủao**
 > It's not directed towards anyone, as I said.
 
-**mi Chain**
-> **seaq sa póq sa hápi ba** = may somebody fuck a bee  
+**mı chảı**
+> **seaq sa póq sa hápı ba** = may somebody fuck a bee  
 
-**mi Shủao**
+**mı shủao**
 > I'm not telling people to go out and fuck bees, I'm just telling bees to get fucked.
 
-**mi Chain**
-> okay then, **seaq hápi ba**, then
+**mı chảı**
+> okay then, **seaq hápı ba**, then
 >
 
-**mi Shủao**
+**mı shủao**
 > No more **sa**?  
 
-**mi Chain**
+**mı chảı**
 > oh yes, **sa**
 
-**mi Shủao**
+**mı shủao**
 > Would **tu** be bad in place of **sa**?
 
-**mi Chain**
+**mı chảı**
 > **tu** would be bad
 > as it would imply all sets of bees
 
-**mi Shủao**
+**mı shủao**
 > Fuck 'em all.  
 > Pokémon style.
 
-**mi Chain**
+**mı chảı**
 > catch ‘em all first.
 
 ## On beer and expanding serial predicates
 
 ### 2019-03-18, #general
 
-**mi Heunkuelcher**
-> On the serial expansion of **Bủ chỏ jí báq bỉrā da.**
+**mı hẻukūeqchē**
+> On the serial expansion of **bủ chỏ jı́ báq bı̉rā da.**
 > would it be:  
-> **Bun chot jip bad ja dop biprar da** 
+> **bủ chô jí bâq ja dó bírā da** 
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > **bâq** is not correct  
-> If you want to expand the argument phrase (**báq bỉrā**) as well, then:  
-> **Bủ chô jí lú bảq bỉrā hóa da**
+> If you want to expand the argument phrase (**báq bı̉rā**) as well, then:  
+> **bủ chô jı́ lú bảq bı̉rā hóa da**
 
-**mi Chain**
+**mı chảı**
 > you didn’t expand it  
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > There is also another solution using binary **bủ**, but I see no point  
 > Yes true  
 
-**mi Chain**
-> **lú baq hóa lî bira ja dó**
+**mı chảı**
+> **lú baq hóa lı̂ bıra ja dó**
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > Yes, that.  
-> **Bủ chô jí lú bảq hóa bîrā ja dó**
-> or **Bủ chô jí lú bảq hóa lî bỉrā ja dó**
+> **bủ chô jı́ lú bảq hóa bı̂rā ja dó**
+> or **bủ chô jı́ lú bảq hóa lı̂ bı̉rā ja dó**
 
-**mi Chain**
-> `%nui` **bu pai go baq rai**
+**mı chảı**
+> `%nui` **bu paı go baq raı**
 
-**mi Nuongair**
-> (`(#f)` . **lî ja dóshī bı bủ dóshī lî ja dógū bı pảı dógū sa lí ja dósāq bı bảq dósāq lî ja dójō bı rảı dójō**)  
+**mı nủogāı**
+> (`(#f)` . **lı̂ ja dóshı̄ bı bủ dóshı̄ lı̂ ja dógū bı pảı dógū sa lı́ ja dósāq bı bảq dósāq lı̂ ja dójō bı rảı dójō**)  
 
 […]
 
-**mi Chain**
+**mı chảı**
 > (by the way, they are the same)  
 
-**mi Heunkuelcher**
-> might you tell us the binary solution, @**Hỏemāı** ? different versions of the same thing help a lot to learn  
+**mı hẻukūeqchē**
+> might you tell us the binary solution, @**hỏemāı** ? different versions of the same thing help a lot to learn  
 
-**mi Hỏemāı**
-> It's what **miu** would give if it knew **cho**
+**mı hỏemāı**
+> It's what **mıu** would give if it knew **cho**
 
-**mi Chain**
-> see what it does with **bu pai**
-> `%nui` **bu pai**
+**mı chảı**
+> see what it does with **bu paı**
+> `%nui` **bu paı**
 
-**mi Nuongair**
-> (`(#f #f)` . **lî ja dóshī ja dógū bı bủ dóshī lî ja dósāq bı pảı dósāq dógū)**
+**mı nủogāı**
+> (`(#f #f)` . **lı̂ ja dóshı̄ ja dógū bı bủ dóshı̄ lı̂ ja dósāq bı pảı dósāq dógū)**
 
-**mi Chain**
-> **bu *x₁* lî pai ja dó *x₂***, essentially  
+**mı chảı**
+> **bu *x₁* lı̂ paı ja dó *x₂***, essentially  
 
-**mi Hỏaqgīo**
-> `%serial` **bu pai**
+**mı hỏaqgı̄o**
+> `%serial` **bu paı**
 
-**mi Nuongair**
-> <`[c c]` (**bủ A pâi ja dó B**)>  
+**mı nủogāı**
+> <`[c c]` (**bủ a pâi ja dó b**)>  
 
-**mi Chain**
-> @**Heukueqche**
+**mı chảı**
+> @**heukueqche**
 > in general, **bu** is binary in serial predicates, so it would work as ‘x₁ doesn’t satisfy property of being a friend to x₂,’ instead of ‘it isn’t the case that x₁ is a friend of x₂’  
 > however these are equal by virtue of the ‘JEO-frame equivalence’ we all know and love  
-> `%serial` **bu mai**
+> `%serial` **bu maı**
 
-**mi Nuongair**
-> <`[c c]` (**bủ A mâi ja dó B**)>  
+**mı nủogāı**
+> <`[c c]` (**bủ a mâi ja dó b**)>  
 
-**mi Chain**
-> `%nui` **bu mai**
+**mı chảı**
+> `%nui` **bu maı**
 
-**mi Nuongair**
-> (`(#f #f)` . **lî ja dóshī ja dógū bı bủ dóshī lî ja dósāq bı mảı dósāq dógū**)
+**mı nủogāı**
+> (`(#f #f)` . **lı̂ ja dóshı̄ ja dógū bı bủ dóshı̄ lı̂ ja dósāq bı mảı dósāq dógū**)
 
-**mi Chain**
-> @**Heukueqche** if you examine this definition closely, you should get this:  
-> λ*a b*. **bu**(*a*, λ*x*. **pai**(*x*, *b*))  
+**mı chảı**
+> @**heukueqche** if you examine this definition closely, you should get this:  
+> λ*a b*. **bu**(*a*, λ*x*. **paı**(*x*, *b*))  
 
 ## On a Complete Grammar
 
 ### 2019-03-19, #general
 
 
-**mi Jinmor**
+**mı jỉmō**
 > Hey, I was wondering, how do you ensure that the grammar is actually flexible enough / covers all possibilities etc  
 
-**mi Chain**
+**mı chảı**
 > what do you mean?  
 
-**mi Jinmor**
+**mı jỉmō**
 > How do you know you've finished the grammar?  
 
-**mi Seamtal**
+**mı sẻaqtāq**
 > We don't, I mean can you ever know? We don't even think that is the case as we have lists of things we cannot do  
 > like measuring and telling time, the big ones  
 > Normally and seemingly someone has been doing irl things until their brain is like "Hey, somethings wrong with toaq, alert the others ASAP," or something similar. Another way of finding out that we just can't say something (the way we would like) is by doing translations  
 > But that includes grammar and vocab ofc  
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > The grammar is complete in that you can already say everything using the current available syntax.  
 > Making words for measurements is not a matter of grammar.  
  
- **mi Seamtal**
+ **mı sẻaqtāq**
 > > But that includes grammar and vocab ofc  
 > Ah nope, that doesnt work  
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > Serial predicates alone have unlimited expressive power.  
 > The only way in which the grammar could be incomplete at this point would be a missing terminator (if we find an ambiguity in the syntax).  
 > So, how do I know the grammar is finished? I know, because I know what my vision for the grammar was and I made the grammar exactly as I wanted.  
 > Writing the PEG grammar was one of the necessary steps from vision to reality.  
 > Since we have a working parser which can parse any sentence I would deem correct and rejects ones I would reject (with only very minor exceptions which are due to oversights or due to minor syntax/morphology changes between beta and now), we can use that as another measurement for completeness.  
 
-**mi Jinmor**
+**mı jỉmō**
 Thanks, that's actually pretty insightful
 
 
@@ -1210,14 +1210,14 @@ Thanks, that's actually pretty insightful
 
 ### 2019-03-20, #chiejio
 
-**mi Sainlorhorral**
+**mı sảılōhōrāq**
 > Is there a word for making corrections  
 > Like “si” in Lojban,  
 
-**mi Shủao**
+**mı shủao**
 > **huq**?  
 
-**mi Sainlorhorral**
+**mı sảılōhōrāq**
 > Oh ok! Cool  
 > So that’s where you replace one word with another  
 > That seems very useful and works for what I’m trying to do, but  
@@ -1227,65 +1227,65 @@ Thanks, that's actually pretty insightful
 > Like I mean what if you said an argument word but you meant to say a predicate word, could you do a replacement? How in the structure of **huq** would you say you want to replace an argument with a predicate, it seems the grammar might get tricky, I dunno  
 > Maybe anything in **huq** has to go in quotes? And the quotes are removed before replacement?  
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > I've just coined **è**, an interjection whose purpose is to erase "some" words  
 > It doesn't always erase the same number of words or even the same kind of phrase; it cues the listener to figure it out based on context  
-> Thus **Hảı dủa jí, è súq** would likely replace **jí** with **súq**, whereas **Mỉu súq jâq dẻ, è, hi ráı pa mỉu súq jâq dẻ ráı moq?** starts the sentence over.  
+> Thus **hảı dủa jı́, è súq** would likely replace **jı́** with **súq**, whereas **mı̉u súq jâq dẻ, è, hı ráı pa mı̉u súq jâq dẻ ráı moq?** starts the sentence over.  
 
 […]
 
 ### Summary
 
-**mi Heunkuelcher**
-> ok, I'm feeling like summarizing. On Xylochoron's idea, of correcting mistakes in speech. They wanted to correct arbitrary arguments and phrases, and **huq** does that job (by replacing the left hand argument with the right hand argument). But it is ambiguous with phrases and single arguments. So Hoamgior coined **ek** to erase words. **Ek** is not precise, it just cues the listener to replace based on context.  
+**mı hẻukūeqchē**
+> ok, I'm feeling like summarizing. On Xylochoron's idea, of correcting mistakes in speech. They wanted to correct arbitrary arguments and phrases, and **huq** does that job (by replacing the left hand argument with the right hand argument). But it is ambiguous with phrases and single arguments. So Hoamgior coined **ek** to erase words. **ek** is not precise, it just cues the listener to replace based on context.  
 
 
 ## On Single Words and Interjections
 
 ### 2019-03-20, #chiejio
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > I've just coined **è**, an interjection whose purpose is to erase "some" words  
 > It doesn't always erase the same number of words or even the same kind of phrase; it cues the listener to figure it out based on context  
-> Thus **Hảı dủa jí, è súq** would likely replace **jí** with **súq**, whereas **Mỉu súq jâq dẻ, è, hi ráı pa mỉu súq jâq dẻ ráı moq?** starts the sentence over.  
+> Thus **hảı dủa jı́, è súq** would likely replace **jı́** with **súq**, whereas **mı̉u súq jâq dẻ, è, hı ráı pa mı̉u súq jâq dẻ ráı moq?** starts the sentence over.  
 
-**mi Sainlorhorral**
+**mı sảılōhōrāq**
 > But every word in Toaq starts with a non-“q” consonant so that one can tell where a root starts and ends without listening for pauses, or…?  
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > Yes, there is that  
 > E.g. **dẽ** sounds exactly like **dè   é** if you don't pause  
 > But Hoemai has declared that the lone vowels, paired with tones, will be interjections, so I think they want us to just pause before them  
 > To make it unambiguous  
 
-**mi Sainlorhorral**
+**mı sảılōhōrāq**
 > Oh, ok!  
 > Gotta be careful picking them I guess, since there’s only 5 total 😛
 
-**mi Shủao**
+**mı shủao**
 > I think that does work, given the tones, unambiguously.  
 
 […]
 
 
-**mi Sainlorhorral**
+**mı sảılōhōrāq**
 > Can you have dipthong words, like “iao” by itself  
 > Or “iaq”  
 
 […]
 
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > from what I remember, Hoemai doesn't want tones to carry semantic meaning, only grammatical meaning.  
-> So, no matter what tone you use, **hapi** always means bee. But it can be a verb, a noun, a dependent clause, and any other kind of grammatical role  
+> So, no matter what tone you use, **hapı** always means bee. But it can be a verb, a noun, a dependent clause, and any other kind of grammatical role  
 
-**mi Seamtal**
+**mı sẻaqtāq**
 > He does seem to want this with interjections  
 > Just look at the m-interjections  
 
 […]
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > \[so, for (a u i o e, m l r) there are\]  
 > (5+3)\*7=56 interjections  
 
@@ -1293,62 +1293,62 @@ Thanks, that's actually pretty insightful
 
 ### 2019-03-20, #general
 
-**mi Seamtal**
+**mı sẻaqtāq**
 > **mm**
-> Well on to the next thing while I have your heliosic attention, the **kieq** vs **kieqge** and **noi** vs **noilie** thing brings me terrible memories of esperanto  
+> Well on to the next thing while I have your heliosic attention, the **kıeq** vs **kıeqge** and **noı** vs **noılıe** thing brings me terrible memories of esperanto  
 > Ah yes, reversability!  
 > That thing where you had to remember the inherent part of speech of every root in order to properly apply derivational affixes  
 > That sucked  
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > I see  
-> I *t h i n k* the reason for **noi** being defined as it is had to do with pain being in a specific place (?)  
-> like, **noi** is not just **lû noinlier**  
-> or **noinliertuer**  
+> I *t h i n k* the reason for **noı** being defined as it is had to do with pain being in a specific place (?)  
+> like, **noı** is not just **lû nỏılīe**  
+> or **nỏılīetūe**  
 > but the locus etc  
 
-**mi Seamtal**
+**mı sẻaqtāq**
 > Like the lojban word…  
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > The Lojban word has the experiencer in x₁, which is what you want  
-> **noi**1 is the pain  
+> **noı**1 is the pain  
 > (as defined)  
-> With **noi** you can say "a pain"  
+> With **noı** you can say "a pain"  
 
-**mi Seamtal**
-> But if **noi** were **noilie**, could you not just say **noige**?  
-> Or if you find **ge** you be ugly, the "base" of this and related words would be **ge** and we would from there apply **lie**  
+**mı sẻaqtāq**
+> But if **noı** were **noılıe**, could you not just say **noıge**?  
+> Or if you find **ge** you be ugly, the "base" of this and related words would be **ge** and we would from there apply **lıe**  
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > I think **noıgē** would be like the impact of a hammer hitting your thumb  
 
-**mi Seamtal**
+**mı sẻaqtāq**
 > **m̄**  
 > m̌akes sense  
 > Well, I do not rest my case as a solution hasn't been found if it is even possible, but I rest my case.  
 > for now ofc  
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > The case of "my leg hurts" remains problematic.  
 
-**mi Seamtal**
-> Oh you are still here, and I agree. Maybe something like **huatī**?  
+**mı sẻaqtāq**
+> Oh you are still here, and I agree. Maybe something like **huatı̄**?  
 > Just made that up on the spot so it may not exactly be the best, but I am now trying to think of a definition for that.  
-> My leg is the source of my pain? Using **ceoriaq** or something less physical?  
-> **nỏı tì gójī shỉaq**  
+> My leg is the source of my pain? Using **ceorıaq** or something less physical?  
+> **nỏı tı̀ gójı̄ shı̉aq**  
 
-**mi Hỏemāı**
-> Indeed, **tì** alone doesn't work.  
+**mı hỏemāı**
+> Indeed, **tı̀** alone doesn't work.  
 
 ## On Starting words with Vowels or glottal stops
 
 ### 2019-03-21, #chiejio
 
-**mi Sainlorhorral**
+**mı sảılōhōrāq**
 > I’m still curious if words like “iaq” will be an option at some point……  
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > Words cannot begin with a vowel or glottal stop, because it would be ambiguous with the ◌̃ tone in environments such as **dẽ** vs **dè é**  
 > That's why the currently-proposed interjections have to be considered extra-linguistic or at least grammar-adjacent, the way that laughter or inflating your cheeks with air and the expelling it (to show relief) are meaningful signals, but not grammatical signals, but rather socio-cultural signals.  
 
@@ -1359,60 +1359,60 @@ Thanks, that's actually pretty insightful
 
 
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > flee from death: **bủıfā go cúaq mủaq**  
 
-**mi Sheinrel**
-> I would go with just **"rỉeq mủaq"**  
-> possibly prefixed with **"dảqmīq"**  
+**mı shẻırēq**
+> I would go with just **"rı̉eq mủaq"**  
+> possibly prefixed with **"dảqmı̄q"**  
 
-**mi Heunkuelcher**
-> **dảqmíq Rỉeq mủaq**  
+**mı hẻukūeqchē**
+> **dảqmı́q rı̉eq mủaq**  
 
-**mi Sheinrel**
-> Yeah; **lẻo rỉeq mủaq báq pỏq**  
-> **Keo bủ lẻo dảqmīq rỉeq mủaq báq pỏq**  
+**mı shẻırēq**
+> Yeah; **lẻo rı̉eq mủaq báq pỏq**  
+> **keo bủ lẻo dảqmı̄q rı̉eq mủaq báq pỏq**  
 
-**mi Heunkuelcher**
-> **lẻo rỉeq mủaq báq pỏq**  
+**mı hẻukūeqchē**
+> **lẻo rı̉eq mủaq báq pỏq**  
 > woud that mean "tries to avoid the many dead"  
 > or: avoids zombies?  
 > and how does the keo bun changes the phrase? "but doesnt' try to avoid the many dead"?  
 
-**mi Sheinrel**
-> **"Keo bủ lẻo dảqmīq rỉeq mủaq"** = "But does-not try-to eternally avoid-satisfying-the-property-of being-dead"  
+**mı shẻırēq**
+> **"keo bủ lẻo dảqmı̄q rı̉eq mủaq"** = "But does-not try-to eternally avoid-satisfying-the-property-of being-dead"  
 
-**mi Sheinrel**
-> For "avoid" in the sense of "avoid the zombies" you'd want **"rỉeq tỉjūi"** = "☆ avoids being near / in the vicinity of ☆"  
+**mı shẻırēq**
+> For "avoid" in the sense of "avoid the zombies" you'd want **"rı̉eq tı̉jūi"** = "☆ avoids being near / in the vicinity of ☆"  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > ah, I see. You extend the meaning with a serial predicate  
-> **Rỉeq tỉjūı mủaq pỏq nı**  
+> **rı̉eq tı̉jūı mủaq pỏq nı**  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > would that mean "avoids being near to the dead person over there"?  
 
-**mi Sheinrel**
+**mı shẻırēq**
 > I think it means "☆ avoids being near ☆ and being a dead person"  
-> **Rỉeq tỉjūi ☆ ní mủaq pỏq** = ☆ avoids being near that dead person  
+> **rı̉eq tı̉jūi ☆ nı́ mủaq pỏq** = ☆ avoids being near that dead person  
 
-**mi Heunkuelcher**
-> **Rỉeq tỉjūı jí ní mủaq pỏq**  
+**mı hẻukūeqchē**
+> **rı̉eq tı̉jūı jı́ nı́ mủaq pỏq**  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > "I avoid being near that dead person"?  
 
-**mi Sheinrel**
+**mı shẻırēq**
 > Jẻo da!  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > : D thanks!  
-> oh, yeah, **ní** is a predıcate, and its argument is the serial predıcate **mủaq pỏq**  
+> oh, yeah, **nı́** is a predıcate, and its argument is the serial predıcate **mủaq pỏq**  
 
-**mi Hỏemāı**
-> More like, **ní mủaq pỏq** is what you get when you apply the ◌́ tone to the serial predicate **nỉ mủaq pỏq**  
+**mı hỏemāı**
+> More like, **nı́ mủaq pỏq** is what you get when you apply the ◌́ tone to the serial predicate **nı̉ mủaq pỏq**  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > oh! I see!!! thanks. You first make the serial predicate, and then you transform it into a noun XD thanks!!!!  
 
 
@@ -1420,7 +1420,7 @@ Thanks, that's actually pretty insightful
 
 ### 2019-02-07, #general
 
-**mi Mỏılūq**
+**mı mỏılūq**
 > As for why Toaq compound words are left-branching (i.e. suffixal) whereas serials are right-branching, I don't know; it is the same order as in Lojban compound words and it's also probably for naturalistichood, as most languages with a single affixation direction are suffixal, such as Mandarin or Japanese.  
 > There are many natlangs that use both recursive suffixation and recursive prefixation at the same time  
 > However exclusive recursive prefixation seems to be uncommon or rare  
@@ -1432,187 +1432,187 @@ Thanks, that's actually pretty insightful
 
 
 
-**mi Heunkuelcher**
-> how are "**choakiu**" and "**choadeq**" different?  
+**mı hẻukūeqchē**
+> how are "**choakıu**" and "**choadeq**" different?  
 
 […]
 
-**mi Hỏemāı**
-> Anyway, the difference between "**choakīu**" and "**choadēq**":  
+**mı hỏemāı**
+> Anyway, the difference between "**choakı̄u**" and "**choadēq**":  
 > deq means "to have an ability" -- the first place is an actor, the second place the ability.  
-> "-**kīu**" means "-able" -- there is no actor place. It is more of a passivizer.   
+> "-**kı̄u**" means "-able" -- there is no actor place. It is more of a passivizer.   
 
-> "**choakīu**" means "to be utterable", while "**choadēq**" means "to be able to utter".  
-> A sound is utterable ("**choakīu**"). I am able to utter (it) ("**choadēq**")  
-> "-**kīu**" is a common suffix. "-**dēq**" is not.  
+> "**choakı̄u**" means "to be utterable", while "**choadēq**" means "to be able to utter".  
+> A sound is utterable ("**choakı̄u**"). I am able to utter (it) ("**choadēq**")  
+> "-**kı̄u**" is a common suffix. "-**dēq**" is not.  
 > If you just want to get "to be able to do X", you can get that with a serial predicate, so there is no need to make a new compound  
 > E.g., "**dẻq chỏa**"  
 
-**mi Heunkuelcher**
-> then "**choadeq**" would be the correct one, because @Níucūq wanted to ask if they were able to utter "**shifuediaihei**"  
+**mı hẻukūeqchē**
+> then "**choadeq**" would be the correct one, because @Níucūq wanted to ask if they were able to utter "**shıfuedıaıheı**"  
 > how would you say: can I say X?  
 
-**mi Hỏemāı**
-> **Mả dẻq chỏa jí X moq**  
+**mı hỏemāı**
+> **mả dẻq chỏa jı́ x moq**  
 > (if say == utter, otherwise use **kuq**)  
 
-**mi Seamtal**
-> Other alternatives would be **man din choan (kum) jip x moq** and **man tiaon kud jip x moq**, depending on what you want, which is most likely not **deq**  
-> **dỉ** is yet another type of can/able  
+**mı sẻaqtāq**
+> Other alternatives would be **mả dỉ chỏa (kủq) jí x moq** and **mả tỉao kûq jí x moq**, depending on what you want, which is most likely not **deq**  
+> **dı̉** is yet another type of can/able  
 
-**mi Heunkuelcher**
-> so there are three ables: "**kiu**", "**deq**", and "**di**"  
+**mı hẻukūeqchē**
+> so there are three ables: "**kıu**", "**deq**", and "**dı**"  
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > You can add **daı** to the list  
 
-**mi Seamtal**
+**mı sẻaqtāq**
 > Thinking just about how you can translate to  
-> **suain sub**!  
+> **sủaı súq**!  
 
-**mi Heunkuelcher**
-> The Ables: "**kiu**", "**dai**", "**deq**", "**di**"  
+**mı hẻukūeqchē**
+> The Ables: "**kıu**", "**daı**", "**deq**", "**dı**"  
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > Another "able" would be "**juaodūe**"  
 > "You can't do that" → "Doing this would be illegal"  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > so, -unable  
 > law-correct  
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > Well, you could also phrase it positively: "Can I take this?" → "Is it legal to take this?"  
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > So what seaqtaq said was correct, and important. You wouldn't want to use "**deq**" for most of those situations  
 > since it is not about ability, but about other things  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > about what is good or bad, about correctness?  
 
-**mi Seamtal**
-> And don't forget about "**tiao**" e.g. "Would it be appropriate if I said this"  
+**mı sẻaqtāq**
+> And don't forget about "**tıao**" e.g. "Would it be appropriate if I said this"  
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > possibility, legalilty, appropriateness  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > I see, thanks!  
 
-**mi Mỏılūq**
+**mı mỏılūq**
 > Another meaning of -able is closer to "**tıao**"  
 > as in "edible" (eat-able)  
 > and "acceptable" maybe  
 
-**mi Heunkuelcher**
-> The Ables: "**dai**", "**deq**", "**di**",  "**juaodue**", "**kiu**", "**tiao**"  
+**mı hẻukūeqchē**
+> The Ables: "**daı**", "**deq**", "**dı**",  "**juaodue**", "**kıu**", "**tıao**"  
 
-**mi Mỏılūq**
+**mı mỏılūq**
 > in a serial, "**tıao**" wouldn't be exactly the appropriate word tho  
 
 ## On making names
 
 ### 2019-03-28, #chiejio
 
-**mi Dampeorkoircher**
+**mı dảqpēokōıchē**
 > So I'm trying to make my username in Toaq, and I've narrowed the meaning down to (essentially) "one who ambulates through time".  
-> Would **Chẻkōıpēodāq** work, or am I understanding compound predicates wrong?  
-**mi Hỏaqgīo**
+> Would **chẻkōıpēodāq** work, or am I understanding compound predicates wrong?  
+**mı hỏaqgı̄o**
 > I would reverse the order of the syllables  
 > Compound predicates can be defined however you like, but generally if you want to make one that has a meaning related to its parts, you do (descriptor + base)  
 > So I'd have:  
-> **Dampeorkoircher**  
+> **dảqpēokōıchē**  
 
 ## On compound predicates
 
 ### 2019-03-30, #chiejio
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > how do you interpret compound predicates? I've heard there are some association rules?  
-> like, is there a grammar for decomposing "**hoaqpīotūı**"
+> like, is there a grammar for decomposing "**hoaqpı̄otūı**"
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > Actual rule: Compound predicates are not related to their parts; they are defined as separate words in the dictionary and their definition could be anything  
 > Rule of thumb: For the sake of making it easy to remember them, we usually break concepts down into parts to design the compound word  
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > If a concept could be written as a serial with A B̉ C̉ D̉ or something similar, we compoundize it as DC̄B̄Ā  
 
-**mi Shuaon**
+**mı shủao**
 > lujvo  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > oh, so as an informal rule, you can make a compound as the reverse of its 'equivalent' serial?  
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > Yes  
-> E.g. **demiur** = **miu den**, and **duatuar** = **tua duan**  
+> E.g. **demīu** = **mıu dẻ**, and **duatūa** = **tua dủa**  
 > But some compound words are just made up  
-> **cukir** = _ nods is not related to **cu** or **ki** and in fact neither of those words are predicates  
+> **cukī** = _ nods is not related to **cu** or **kı** and in fact neither of those words are predicates  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > hm, so really a compound is more like a combination of sounds than a composition of words, and the sound unit is a syllable?  
 > ah, is that why there is the high tone to denote compound words? so that each of its component syllables is not confused with a word?  
-> like **cukir** does not sound like **cu ki**  
+> like **cukī** does not sound like **cu kı**  
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > Yes, exactly  
 
 ## On the problem of indifference, nesting, and subordination
 
 ### 2019-03-31, #chiejio
 
-**mi Heunkuelcher**
-> so, the phrase **Súao nỏacā rǎq hóa chémē lỏjībāq**  
+**mı hẻukūeqchē**
+> so, the phrase **súao nỏacā rǎq hóa chémē lỏjı̄bāq**  
 > which, if I understood correctly, means "The important problem in the lojban community"  
 > I have three questions:  
 > 1) I'm surprised that the sentence starts with a noun (from the ◌́) instead of a verb ( ◌̉ ).  Why is that?  
 > I thought every sentence had to start with a verb which would take as arguments the rest of the words  
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > 1) It's not a sentence, just like "The important problem in the lojban community" is not a sentence, but a noun phrase.  
-> It's like a single **jip**, except way more complicated. But it's just a single noun  
+> It's like a single **jí**, except way more complicated. But it's just a single noun  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > oh! its a fragment!  
 > if we wanted to make it into a whole sentence, like "indifference is a big problem in the lojban community"…  
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > But now it looks like you turned "the problem" (noun) into a verb ("to be a problem")  
 
-**mi Seamtal**
-> so you cannot use "**raz**"  
-> but you can say "**lun**…"  
+**mı sẻaqtāq**
+> so you cannot use "**räq**"  
+> but you can say "**lủ**…"  
 > and go from there  
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > You could do "I am aware of the important problem (…)"  
 > (for the sake of the exercise)  
 
-**mi Heunkuelcher**
-> **Chỉaq jí súao nỏacā rǎq hóa chémē lỏjībāq**  
+**mı hẻukūeqchē**
+> **chı̉aq jı́ súao nỏacā rǎq hóa chémē lỏjı̄bāq**  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > I am aware of the big problem in the lojban community  
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > Very good  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > thanks! though I still want to say that that problem is indifference  
 > let me try it out, so you can see the mistakes in my reasoning  
-> **Sủao nỏacā bú sủaojīe nìe Lójībāq chẻmē**  
+> **sủao nỏacā bú sủaojı̄e nı̀e lójı̄bāq chẻmē**  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > problem important not caring inside lojban community  
 
-**mi Hỏemāı**
-> Not bad, but there's a slight mistake. "**bú sủaojīe**" refers to a person who doesn't find something important, but you want to refer to the situation of not finding something important.  
-> And because you used ◌́, the "**nìe**" phrase falls out  
+**mı hỏemāı**
+> Not bad, but there's a slight mistake. "**bú sủaojı̄e**" refers to a person who doesn't find something important, but you want to refer to the situation of not finding something important.  
+> And because you used ◌́, the "**nı̀e**" phrase falls out  
 
-**mi Hỏemāı**
-> The goal is that it groups like this: **Sủao nỏacā (bú sủaojīe [nìe Lójībāq chẻmē])**  
+**mı hỏemāı**
+> The goal is that it groups like this: **sủao nỏacā (bú sủaojı̄e [nı̀e lójı̄bāq chẻmē])**  
 > () = the argument phrase, [] the prepositional phrase  
 > [] must be inside ()  
 > but for it to be inside of it, you can't use ◌́ like that. Instead, you need a tone that "opens" a new statement  
@@ -1620,90 +1620,90 @@ Thanks, that's actually pretty insightful
 
 […]
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > You need something that takes a statement (subordinate sentence) and wraps it into a nice package so you can use it as an argument  
 
 […]
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > oh! I need to subordinate it!  
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > Well yes!  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > haha, so it would be…  
-> **nîe**  
+> **nı̂e**  
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > ◌̂ is correct, but put it on the right word  
 > ◌̂ is always placed on the verb that starts the subordinate clause  
 > (or on lu, which marks the beginning of the subordinate clause without needing to mark it on a verb)  
 > How do you say "I know that you are asleep" ?  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > hm, let me think  
-> **Dủa jí nûo súq da**  
+> **dủa jı́ nûo súq da**  
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > Perfect. Didn't even need my help.  
 > Now step 2  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > ganbat[t]e!  
 
-**mi Hỏemāı**
-> How do you say "I know that (people) do not find things important" (use "**bu sủaojīe**" as you did before, but apply what you just learned)  
+**mı hỏemāı**
+> How do you say "I know that (people) do not find things important" (use "**bu sủaojı̄e**" as you did before, but apply what you just learned)  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > ok, on it  
-> **Sủao nỏacā bû sủaojīe nìe Lójībāq chẻmē**  
+> **sủao nỏacā bû sủaojı̄e nı̀e lójı̄bāq chẻmē**  
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > (I should have asked for a slightly different sentence)  
 > Oh you are jumping way ahead  
 > But it's spot on. :)  
 
-**mi Heunkuelcher**
-> ?oh, sorry XD **Dủ[a] jí bû sủaojīe póq**  
+**mı hẻukūeqchē**
+> ?oh, sorry XD **dủ[a] jı́ bû sủaojı̄e póq**  
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > Yeah yeah, now you don't need to do that anymore, but good job anyway :P  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > true, but trying still felt good!  
 > thanks for the help 😃
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > One last challenge before you ask your second question  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > ready!  
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > How would you say this same sentence using the word **lu**?  
 
-**mi Heunkuelcher**
-> **Dủa jí lû bủ sủaojīe póq?**  
+**mı hẻukūeqchē**
+> **dủa jı́ lû bủ sủaojı̄e póq?**  
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > Yes, that's correct.  
 > **lu** has different (related) functions depending on the tone used.  
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > The two basic ones are the verbose forms of ◌̂ and ◌̌  
-> **lû fả jí** = **fâ jí** ("that I go")  
+> **lû fả jı́** = **fâ jı́** ("that I go")  
 > **póq lǔ fả hóa** = **póq fǎ hóa** ("the person who goes")  
 > There are two main reasons why someone would want to use the verbose forms: 
 > 1) the added redundancy can make a sentence easier to understand (and it allows a speaker to stall if they need a second to think which verb they want to use), and 
 > 2) it's required if you want to use a prenex in the subordinate clause.  
 > (<http://toaq.org/#prenex>)  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > hm, I see  
 > what about the other 5 tones? do they change **lu** too?  
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > **lū** can be discarded right off the bat, because it's not a possible word  
 > So 4 other tones […]  
 > **lũ** and **lù** are too complicated for now  
@@ -1720,42 +1720,42 @@ Thanks, that's actually pretty insightful
 > What's the point, then? Well  
 > since **lú** is followed by a statement, you can fit in a lot more than with plain "**fá**"  
 > For example:  
-> **lú fả hóa chíejīo**  
+> **lú fả hóa chı́ejı̄o**  
 > that which goes to school  
 > they who go to school  
 > the goers to school  
-> If you said "**fá chíejīo**", you would have two individual nouns: "the goer, the school"  
+> If you said "**fá chı́ejı̄o**", you would have two individual nouns: "the goer, the school"  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > ok, so it lets you make noun phrases that are as detailed and structured that you want  
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > Yes, and the important part is that the noun phrases are made from statements.  
 > You can make detailed nouns without **lú**, by using serial predicates and relative clauses  
 > but the structure is different, and often more complex  
 > And advanced way to use **lú** + **hóa** is to bury the **hóa** quite deeply in the subordinate  
 > For example  
-> **lú dủa jí tâo súq hóa**  
+> **lú dủa jı́ tâo súq hóa**  
 > These can quickly become very hard to translate into natural-sounding English  
 > This one means "that which I know you are doing", "the thing I know you are doing"  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > the knower of the one who does?  
 
 […]
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > Actually, since you speak Spanish, you can think of it as "lo que"  
 > **lú** = lo que  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > oh, I think it makes sense. "Lo que se que tu estas haciendo"  
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > Yes  
 > The difference is that Toaq has an explicit pronoun (**hóa**) where Spanish and many other languages have a gap  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > yeah, I had never been conscious of that interpretation of "lo que…", I quite like it, especially because now I'm not really sure what "lo que" means anymore XDD  
 > but that's another story, for another time  
 > thank you so much! I learned a lot  
@@ -1765,40 +1765,40 @@ Thanks, that's actually pretty insightful
 
 ### 2019-04-03, #general
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > what is "second order quantification"?
 > is it limited to a single slot of a predicate?  
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > It means quantifying over predicates  
-> First-order: ∃*x* **mai**(**ji**, *x*) "there e*x*ists an *x* such that I love *x*"  
-> Second-order predicate logic additionally allows quantification over predicates, e.g.: ∃*P* *P*(**ji**, **suq**) "there exists a predicate *P* such that I *P* you"  
+> First-order: ∃*x* **maı**(**jı**, *x*) "there e*x*ists an *x* such that I love *x*"  
+> Second-order predicate logic additionally allows quantification over predicates, e.g.: ∃*P* *P*(**jı**, **suq**) "there exists a predicate *P* such that I *P* you"  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > can you use it to imply a relationship between two objects, without saying what relationship they have?  
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > Yes  
 > The example above means "there is some relationship between me and you" (relationship in the broad sense)  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > cool  
 > are there other use cases?  
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > Not many… You can restrict the domain of the second-order quantifier (using a relative clause), but not many restrictions make sense.  
 > [∃*P* : **de**(*P*)] *P*(**suq**) "There exists a beautiful predicate *P* such that you satisfy that predicate"  
 > I.e., "You satisfy some beautiful property"  
 > With negation, this would be a stronger claim: ¬[∃*P* : **de**(*P*)] *P*(**suq**) "You satisfy not a single beautiful predicate"  
 > (mean!)  
-> [∃*P* : **noa**(*P*) ∧ **pui**(*P*)] *P*(**ho**) "They do many difficult things"  
+> [∃*P* : **noa**(*P*) ∧ **puı**(*P*)] *P*(**ho**) "They do many difficult things"  
 > You can say this very easily without second-order quantification  
-> E.g. **Tảo hó sa púı nỏa** (or something else in place of tao)  
+> E.g. **tảo hó sa púı nỏa** (or something else in place of tao)  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > "there is a predicate that satisfies both the properties of difficult and many, and it applies to them"  
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > Yes  
 > (That particular example requires plural quantification as well, because "to be many" is impossible in normal singular logic)  
 > (Toaq uses plural quantification, so it's no problem here)  
@@ -1808,21 +1808,21 @@ Thanks, that's actually pretty insightful
 […]
 
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > would first order quantification be called "quantification over variables"?  
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > Quantification over individuals  
 > They both use variables  
 > they differ in what the variables range over  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > oh, in the first, the variable is an individual, and in the second the variable is an entire predicate?  
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > refers to, or has as its value, an individual vs a predicate  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 all right, thanks!
 
 
@@ -1830,62 +1830,62 @@ all right, thanks!
 
 ### 2019-04-04, #general
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > all right, lets start with terminology: what is a constant?  
 > is it like, an unchanging value instead of a variable?  
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > Yes  
 > something that keeps its value within a given scope  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > so, a QE (Quantified Expression) is not a constant. That means that its value changes depending on the scope?  
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > We call anything that isn't a quantified term, a constant  
 > A quantified expression opens a new scope, within which its variable acts as a constant  
 > but the quantified expression itself is not a constant  
 > Something is (a) constant, if moving it around in the sentence doesn't change its meaning  
 > So e.g.  
-> "**Tỉ bũ sa ráı**" is not the same as "**Tỉ sa ráı bũ**"  
+> "**tı̉ bũ sa ráı**" is not the same as "**tı̉ sa ráı bũ**"  
 > but  
-> "**Tỉ bũ ráı**" is the same as "**Tỉ ráı bũ**"  
+> "**tı̉ bũ ráı**" is the same as "**tı̉ ráı bũ**"  
 > the negation by "**bũ**" does not affect the constant "**ráı**", but it changes the meaning of the sentence when it crosses paths with the quantifier "**sa**" in "**sa ráı**"  
 > In logic notation:  
 > ∃¬  !=  ¬∃  
-> ¬[∃*x*] **ti**(*x*)  !=  [∃*x*] ¬**ti**(*x*)  
-> but both "**Tỉ bũ ráı**" and "**Tỉ ráı bũ**" have the logical form ¬**ti**(*c*)  
+> ¬[∃*x*] **tı**(*x*)  !=  [∃*x*] ¬**tı**(*x*)  
+> but both "**tı̉ bũ ráı**" and "**tı̉ ráı bũ**" have the logical form ¬**tı**(*c*)  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > ok, the place of the negation does not change the truth of the expression, when the argument is a constant  
 > but if it is Quantified, its truth changes depending on the place of the negation  
 > or at least, its meaning, if not its truth  
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > Negation being only one example. This applies to all of the following: adverbs (◌̃), prepositions (◌̀), quantifiers, and conjunctions.  
 > If you have any two of those four in a sentence, their relative order matters  
 > whereas a constant wouldn't care on which side of any of those it appears  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > so, in the case above, you have an adverb and a quantifier in the same sentence, so the order matters  
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > Exactly  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > if you had a preposition and a conjunction, the order would matter too?  
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > Yes  
-> 1) **Kùı hîaq jí bı jẻa jí níjūı ro níjāo**  
+> 1) **kùı hı̂aq jı́ bı jẻa jı́ nı́jūı ro nı́jāo**  
 > vs  
-> 2) **Jẻa jí níjūı ro níjāo kùı hîaq jí**  
+> 2) **jẻa jı́ nı́jūı ro nı́jāo kùı hı̂aq jı́**  
 
-**mi Heunkuelcher**
-> 1) "Because poor I **bi**, Buy I this xor that". Since I am poor, I must buy either this or that.  
+**mı hẻukūeqchē**
+> 1) "Because poor I **bı**, Buy I this xor that". Since I am poor, I must buy either this or that.  
 > 2) "Buy I this xor that, Because poor I". I have to buy either this or that, because I am poor  
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > 1) is good, but your 2) doesn't sound right. It sounds identical to 1)  
 > In English, the reading that number 2) expresses would usually be discarded (both 1) and 2) have the same form in English, because English has ambiguous scope)  
 > but 2) does mean something very different  
@@ -1894,251 +1894,251 @@ all right, thanks!
 > While 1) says that, because you are poor, you can only buy one of the two.  
 > So in 1), the reason applies to [either this or that], and in 2), one of the two choices has poorness as the reason  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > hm, I am having trouble seeing the difference. I'll make my breakfast and think about it  
 > if you can think of another example in the meantime, that would be very helpful  
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > If this is still unclear, don't panic. I think this kind of contrast starts out seeming extremely subtle if at all noticeable, but once you understand it, the difference is jarring and you can never unsee it  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > XD I think that is a benefit of learning toaq, to learn the subtle clues of logic. That is the unique change to your mind that it does  
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > Yes, that does happen.  
 > So, imagine that I bought two things: a marble and a flower. One of the two was bought for reasons of poorness, THE OTHER WAS NOT. The other one might have been bought for a different reason, perhaps because I'm in love and want to give it to someone. But the marble is the cheapest toy I could affort. Sure, I'd prefer to play with a slingshot, but it's too expensive.  
 > So now, imagine I show you the marble and the flower  
-> and I tell you **Jẻa jí níjūı ro níjāo kùı hîaq jí**  
+> and I tell you **jẻa jı́ nı́jūı ro nı́jāo kùı hı̂aq jı́**  
 > And then I ask you to guess which one.  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > oh! so the difference is that in 1) I bought one or the other, but not both because I am poor, and 2) I bought both, but this one I bought because I was poor, and the other I just bought, no qualification  
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > Yes :)  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > :D nice!  
 > I'll keep an eye out for this difference, and archive this conversation  
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > (technically, in #2, the other one may or may not have been bought, we don't actually know)  
 > (but in the situation, since I show you both, you can assume that I did buy both)  
 
-**mi Heunkuelcher**
-> so, in 1# the **kuik** modifies the **jean**, but in 2# the **kuik** modifies the **ro**?  
+**mı hẻukūeqchē**
+> so, in 1# the **kùı** modifies the **jẻa**, but in 2# the **kùı** modifies the **ro**?  
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > So in summary, in #1 **kùı** *X* scopes over **ro**, which means that *X* is the reason for the **ro**/either-or.  
 > In #2, the **ro** scopes over the **kùı** *X*, which means that only one of the two things has the **kùı** *X*  
 
-**mi Chain**
-> `%miu` **kùi rái bi hảo shí ra gú**  
+**mı chảı**
+> `%miu` **kùi rái bı hảo shı́ ra gú**  
 
-**mi Nuongair**
-> **({[kùı ráı] bı} {hảo [shí ra gú]})** 
-> \[℩*S* : **shi**(*S*)\] \[℩*G* : **gu**(*G*)\] \[℩*R* : **rai**(*R*)\] **kui**({**hao**(*S*) ∨ **hao**(*G*)}, *R*).  
+**mı nủogāı**
+> **({[kùı ráı] bı} {hảo [shı́ ra gú]})** 
+> \[℩*S* : **shı**(*S*)\] \[℩*G* : **gu**(*G*)\] \[℩*R* : **raı**(*R*)\] **kuı**({**hao**(*S*) ∨ **hao**(*G*)}, *R*).  
 
-**mi Chain**
-> `%miu` **hảo shí ra gú kùi rái**  
+**mı chảı**
+> `%miu` **hảo shı́ ra gú kùi rái**  
 
-**mi Nuongair**
-> **(hảo {[shí ra gú] [kùı ráı]})**  
-> \[℩*S* : **shi**(*S*)\] \[℩*R* : **rai**(*R*)\] \[℩*G* : **gu**(*G*)\] **kui**({**hao**(*S*)}, *R*) ∨ **kui**({**hao**(*G*)}, *R*).  
+**mı nủogāı**
+> **(hảo {[shı́ ra gú] [kùı ráı]})**  
+> \[℩*S* : **shı**(*S*)\] \[℩*R* : **raı**(*R*)\] \[℩*G* : **gu**(*G*)\] **kuı**({**hao**(*S*)}, *R*) ∨ **kuı**({**hao**(*G*)}, *R*).  
 
-**mi Chain**
-> see how there are two **kui** in the latter expansion?  
+**mı chảı**
+> see how there are two **kuı** in the latter expansion?  
 > you can imagine that **ro** is a kind of branching of a path; this branching can happen before or after the quantification  
 > if the branching happens before the quantification, the quantification goes in both of the branches  
-> **Rai shí ro gú** → **Rai shí, na ro rai gú**  
+> **raı shı́ ro gú** → **raı shı́, na ro raı gú**  
 > this branching either is or isn’t in the containing ◌̀ clause  
 > somebody explain this better – I have no time now  
 
 
-## On horses and relative clauses. Or, falling-rising, incidentals, and **lup**
+## On horses and relative clauses. Or, falling-rising, incidentals, and **lú**
 
 ### 2019-04-5, #chiejio
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > I've also been reading on relative clauses, and there seems to be two types in English:  
 > * the ones that distinguish the noun from other similar nouns (in a stable full of horses, "I want the horse THAT is white")
 > * and the one that just gives you more information on it ("My horse, WHICH is white, is so pretty!")  
 
-**mi Shuaon**
+**mı shủao**
 > Restrictive and non-restrictive?  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > exaclty  
 > does that distinction exist in Toaq too?  
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > Yes  
 > In the sense that it only has restrictive ones, directly speaking  
 > Incidental information of any kind can be included with **ju**  
 
-**mi Shuaon**
+**mı shủao**
 > non-restrictive clauses are called 'incidentals'  
 > There's a section on those on toaq.org.  
 
-**mi Hỏaqgīo**
-> Like this: "**Main jip popjir kantur, ju baon hop**" = "I like my cat, which is white"  
-> As opposed to "**Main jip ponjir kantur baox**" = "I like my white cat [and maybe not the other one(s)]"  
+**mı hỏaqgı̄o**
+> Like this: "**mảı jí pójī kảtū, ju bảo hó**" = "I like my cat, which is white"  
+> As opposed to "**mảı jí pỏjī kảtū bäo**" = "I like my white cat [and maybe not the other one(s)]"  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > oh, so all relative clauses are restrictive, and the equivalent of non-restrictive relative clauses are **ju** incidentals  
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > Yes, exactly  
 > (Though **ju** is more general, you can put anything you like inside a **ju** clause)  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > @Hỏaqgīo , you're right, it does seem more general. Like a parenthetical, where you can put anything in there.  Just that it is often used AS a non-restrictive clause  
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > Exactly  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > the wikipedia article also mentioned bound relative clause (one that refers to a head) and a free relative clause (one that doesn't refer to any head, acting itself as a noun)  
 > does that exist in toaq too?  
 
 […]
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > my understanding is that it doesn't, because toaq.org DOES say that (in a way) every relative clause refers to a head. And that that's why you can imply **hóa** as the first argument of the relative clause  
 > the example they use is: I like *what I see*, where the ‘what I see’ is the free relative clause  
 
-**mi Hỏaqgīo**
+**mı hỏaqgı̄o**
 > Oh, I see  
 > Those exist in Toaq, but they aren't considered "relative clauses"  
 > They are accomplished by using **lu** with ◌́  
 > Like this:  
-> "**lup pain jip hoap**" → The one I'm friends with  
+> "**lú pảı jí hóa**" → The one I'm friends with  
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > We learned about those the other day.  
 > (lo que)  
 
 cf. [On the problem of indifference, nesting, and subordination](#On-the-problem-of-indifference-nesting-and-subordination)
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > oh, ◌́ makes nouns, and combined with lu it makes the special noun  
 
 
-## On the 5 ways to describe a noun. Or, the yellow flower, **ruap luen**
+## On the 5 ways to describe a noun. Or, the yellow flower, **rúa lủe**
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > since relative clauses modify nouns, would you say that they are like adjectives?  
 > and, since we're talking about adjectives, how do they work in toaq? I think I've seen serial predication fill the role of making adjectives  
-> like: **bảorēo hỉuhēkūo ní**  
+> like: **bảorēo hı̉uhēkūo nı́**  
 
-**mi Seamtal**
+**mı sẻaqtāq**
 > Relative clauses are also called adjectival clauses  
 
-**mi Seamtal**
+**mı sẻaqtāq**
 > Hoemai explained adjectives in the alpha primer  
 > here: <http://selpahi.de/ToaqAlphaPrimer.html>, 6.1  
 
-**mi Seamtal**
+**mı sẻaqtāq**
 > So yeah  
-> there are adjective like predicates like **sao**: *X* is big, and combined with **RU** serialization, you get things like **sao pom** or **poq saon** (the order doesn't matter because none of those predicates have a subordinating slot)  
+> there are adjective like predicates like **sao**: *X* is big, and combined with **ru** serialization, you get things like **sao pỏq** or **poq sảo** (the order doesn't matter because none of those predicates have a subordinating slot)  
 > That last point in parenthesis allows some really fun stuff  
-> e.g. **pom geon saon buain hoin**  
-> although with this you must be careful, because **hoi** does have a slot that subordinates, so you want it either before **poq** or at the end, because with **hoi** in particular it doesnt make that big of a difference whether it subordinates the thing it is meant to or simply connected through **ru**  
-> I guess that putting **hoi** before one of the adjectival like predicates in that example wouldn't affect the meaning too much  
+> e.g. **pỏq gẻo sảo bủaı hỏı**  
+> although with this you must be careful, because **hoı** does have a slot that subordinates, so you want it either before **poq** or at the end, because with **hoı** in particular it doesnt make that big of a difference whether it subordinates the thing it is meant to or simply connected through **ru**  
+> I guess that putting **hoı** before one of the adjectival like predicates in that example wouldn't affect the meaning too much  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > I like that "context-aware and"  
 
 […]
 
-**mi Hỏemāı**
-> That "**fi**" is what the implied connective may end up being in **sảo pỏq**. But my research isn't complete yet.  
-> (of course it wouldn't be spelled "**fi**")  
+**mı hỏemāı**
+> That "**fı**" is what the implied connective may end up being in **sảo pỏq**. But my research isn't complete yet.  
+> (of course it wouldn't be spelled "**fı**")  
 > (it makes things a lot simpler, logically, but I need to be sure that it's necessary. I have read different opinions)  
 
-**mi Heunkuelcher**
-> so, there are, like, 4 ways to say more about a noun: relative clauses, **ju**, RU serialization, and **fi**/**ru** connective  
+**mı hẻukūeqchē**
+> so, there are, like, 4 ways to say more about a noun: relative clauses, **ju**, RU serialization, and **fı**/**ru** connective  
 
-**mi Seamtal**
-> and **lun**  
+**mı sẻaqtāq**
+> and **lủ**  
 
-**mi Mỏılūq**
+**mı mỏılūq**
 > and plain serialization to some extent  
 > example: **rúa lủe** = flower (and) yellow  
 > here you can add or remove **ru** without difference  
 
-**mi Heunkuelcher**
-> XD all right, like 6: plain serialization, RU serialization, relative clauses, **lun**, **ju**, and **fi**/**ru** connectives  
+**mı hẻukūeqchē**
+> XD all right, like 6: plain serialization, RU serialization, relative clauses, **lủ**, **ju**, and **fı**/**ru** connectives  
 > what is RU serialization?  
 
-**mi Mỏılūq**
+**mı mỏılūq**
 > **rúa ru lủe**  
 > **rúa ra lủe** = what is either a flower or is yellow (or both)  
 
-**mi Seamtal**
+**mı sẻaqtāq**
 > What I meant by it were cases when an implicit **ru** is present  
-> like in **ruan luen**  
+> like in **rủa lủe**  
 > :V  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > ah, so its a serial where **ru** is implicit  
 
-**mi Seamtal**
+**mı sẻaqtāq**
 > I thought that is what it meant, but ilmen seems to have a different interpretation so im not really sure anymore  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > whaddayasay, @Mỏılūq ?  
 
-**mi Mỏılūq**
+**mı mỏılūq**
 > what is your interpretation of what?  
 > **rúa lủe** = **rúa ru lủe**  
 > I don't think there's disagreement there  
 
-**mi Seamtal**
+**mı sẻaqtāq**
 > Oh  
 > I thought you were saying that RU  serialization is when a member of RU is explicit  
 
-**mi Mỏılūq**
+**mı mỏılūq**
 > Well, I didn't get what was exactly meant by "RU serialization"  
 > you could say "additive serialization" maybe  
 
-**mi Seamtal**
+**mı sẻaqtāq**
 > m̨̄m̨̄m̨̄m̨̄  
 > Yeah i think that is better @Mỏılūq  and then we could use RU serialization for when a member of RU is explicit  
 > that makes more sense  
 > Also I should have just copied and pasted because I wrote the exact same thing  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > hey, practice you touch typing!  
-> btw, **Chủfāq shỏ pảq ní káıpūmē**  
+> btw, **chủfāq shỏ pảq nı́ káıpūmē**  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > for the archive:  
-> there are 7 ways to describe a noun: plain serialization, additive serialization, RU serialization, relative clauses, **lun**, **ju**, and **fi**/**ru** connectives  
+> there are 7 ways to describe a noun: plain serialization, additive serialization, RU serialization, relative clauses, **lủ**, **ju**, and **fı**/**ru** connectives  
 
-**mi Mỏılūq**
+**mı mỏılūq**
 > the 8th way is to add nothing and leave the details up to the imagination of the reader  
 
-**mi Seamtal**
+**mı sẻaqtāq**
 > %)  
 
 […]
 
-**mi Hỏemāı**
-> Isn't RU serialization = **fi**/**ru** connectives ?  
+**mı hỏemāı**
+> Isn't RU serialization = **fı**/**ru** connectives ?  
 
-**mi Seamtal**
+**mı sẻaqtāq**
 > No that one is supposed to be additive  
 > I think so  
-> RU serialization should encompass **fi**/**ru**  
+> RU serialization should encompass **fı**/**ru**  
 
-**mi Heunkuelcher**
-> I think the difference is that **fi**/**ru** connection are explicit, while RU serialization leaves the connectives implicit  
+**mı hẻukūeqchē**
+> I think the difference is that **fı**/**ru** connection are explicit, while RU serialization leaves the connectives implicit  
 
-**mi Hỏemāı**
+**mı hỏemāı**
 > Why don't you list it as "serial predicates, (implicit or explicit) RU, relative clauses, **ju**"  
 
-**mi Heunkuelcher**
+**mı hẻukūeqchē**
 > yeah, I like that order better  
 > less items to remember too XD  
 
