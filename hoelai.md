@@ -1,7 +1,7 @@
 <style>
 @font-face {
   font-family: 'ToaqScript';
-  src: url(fonts/ToaqScript.ttf);
+  src: url(https://cdn.discordapp.com/attachments/321591555158966273/602289826464661504/ToaqScript_v0.341.ttf);
 }
 u {
   text-decoration: none;
@@ -12,7 +12,7 @@ u {
 
 <h1 style="font-size: 500%; font-family: ToaqScript; text-align: center;">EhNoykR</h1>
 
-<b>ToaqScript</b>, hereafter referred to as Hoekai, is a writing system developed by **mı hỏemāı**.
+<b>ToaqScript</b>, hereafter referred to as Hoelai, is a writing system developed by **mı hỏemāı**.
 
 *Note: the following is not endorsed by **mı hỏemāı** himself. Not only that, but most of the linked material is his. I am sharing it under his permission. All credit should go to him, not me.*
 
@@ -22,7 +22,7 @@ u {
 
 **mı hỏemāı** has shared a list of glyphs in a PDF. You can get it [here](assets/script-sheet.pdf).
 
-A Toaq syllable is analysed into four Hoekai parts:
+A Toaq syllable is analysed into four Hoelai parts:
 1. the consonant, which becomes the glyph in the middle;
 2. the first phoneme in the nucleus, which is written right of the consonant (unless it is **a**, in which case it should be omitted);
 3. the rest of the nucleus, written left of the consonant (optional);
