@@ -1,7 +1,7 @@
 <style>
 @font-face {
   font-family: 'ToaqScript';
-  src: url(../assets/ToaqScript_v0.341.ttf);
+  src: url({{ 'assets/ToaqScript_v0.341.ttf' | relative_url }});
 }
 u {
   text-decoration: none;
@@ -20,7 +20,7 @@ u {
 
 ## Description
 
-**mı hỏemāı** has shared a list of glyphs in a PDF. You can get it [here](assets/script-sheet.pdf).
+**mı hỏemāı** has shared a list of glyphs in a PDF. You can get it [here]({{ 'assets/script-sheet.pdf' | relative_url }}).
 
 A Toaq syllable is analysed into four Hoelai parts:
 1. the consonant, which becomes the glyph in the middle;
@@ -32,15 +32,17 @@ Note that if the nucleus ends in a diphthong – one of **-ai, -ao, -oi, -ei** �
 
 ### Reference sheet
 
-![Reference sheet](assets/reference-sheet.png)
+![Reference sheet]({{ 'assets/reference-sheet.png' | relative_url }})
 
 Here's how your browser renders these characters:
 
-<u>
-<p>q qQ&ensp;qR qL&ensp;qP qB&ensp;qX qZ&ensp;qN qM&ensp;qT qD&ensp;qK qG&ensp;qF qV </p>
-<p>m p b&ensp;f&ensp;n t d c s r l&ensp;w j x&ensp;qQ k g&ensp;h </p>
-<p>A_a&ensp;U_u&ensp;I_i&ensp;O_o&ensp;E_e&ensp;y_&ensp;v_&ensp;z_&ensp;W_&ensp;qY</p>
-</u>
+<div>
+  <u>
+    <p>q qQ&ensp;qR qL&ensp;qP qB&ensp;qX qZ&ensp;qN qM&ensp;qT qD&ensp;qK qG&ensp;qF qV</p>
+    <p>m p b&ensp;f&ensp;n t d c s r l&ensp;w j x&ensp;qQ k g&ensp;h</p>
+    <p>A_a&ensp;U_u&ensp;I_i&ensp;O_o&ensp;E_e&ensp;y_&ensp;v_&ensp;z_&ensp;W_&ensp;qY</p>
+  </u>
+</div>
 
 In this reference sheet, there are three rows:
 1. All the tones with and without **-q** (`(4)` in the list above), in the usual order.
@@ -51,7 +53,7 @@ The circle ‘consonant’ signifies the lack of a consonant; an underdot signif
 
 ## The font
 
-Get the latest version: [v0.341](assets/ToaqScript_v0.341.ttf).
+Get the latest version: [v0.341]({{ 'assets/ToaqScript_v0.341.ttf' | relative_url }}).
 
 The reference sheet from above is typed as follows:
 ```
