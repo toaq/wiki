@@ -1,7 +1,7 @@
 <style>
 @font-face {
   font-family: 'ToaqScript';
-  src: url(https://cdn.discordapp.com/attachments/321591555158966273/602289826464661504/ToaqScript_v0.341.ttf);
+  src: url(../assets/ToaqScript_v0.341.ttf);
 }
 u {
   text-decoration: none;
@@ -51,7 +51,7 @@ The circle ‘consonant’ signifies the lack of a consonant; an underdot signif
 
 ## The font
 
-Get the latest version: [v0.331](fonts/ToaqScript.ttf).
+Get the latest version: [v0.341](assets/ToaqScript_v0.341.ttf).
 
 The reference sheet from above is typed as follows:
 ```
