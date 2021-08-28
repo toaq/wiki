@@ -81,3 +81,25 @@ Number Notation:
 > predicate1, predicate2, predicate3  
 > for example:  
 > > koe1, koe2, koe3, koe4 are the first, second, third, and fouth arguments.
+
+Auto-hoa:
+> A family of proposals for automatically inserting **hoa** into a relative clause. None has been settled on (as of 2021), but you can compare the candidate proposals [here](https://toaqlanguage.wordpress.com/2020/05/31/the-auto-hoa-suite/).
+
+Great Root Expansion (GRE):
+> A 2019 phonology proposal ([link](https://toaqlanguage.wordpress.com/2019/10/10/the-great-root-expansion-phonology-update/)). 
+
+Exhibitor slots:
+> A proposed kind of predicate slot with special serial behavior. Written `e` in signatures. Semantically, this slot is filled with a concrete (`c`) value, but it participates in serial merges, sort of like a `1`: if **muoq** “\_\_\_ is made of \_\_\_” is `c e`, then **muoq peq** is “\_\_\_ is made of paper”.
+
+New Segmentation (newseg):
+>  A 2020 proposal for a change to the tone system. http://toaq.org/Tones.pdf
+
+Small Grammar Update (SGU):
+> An often-quoted 2020 Discord message announcing a grammar update. https://discord.com/channels/311223912044167168/311223912044167168/726562475012522096
+> > [00:19] Hoemaı: A small update on the grammar: I have decided to simplify adverbials. Together with my recent conclusion that Toaq does (or should) have a TP, this solves all the previously unsolvable problems.
+What this means is that there will simply be two types of adverbs, depending on where they attach. For now,  the low-attaching adverbials are those formed with :t6: and :t7: , while the high-attaching ones need a non-tonal head (ıq, for instance). Low adverbs have lower scope than quantifiers and they don't scope over each other. High adverbs work like the old adverbs. The placement of all adverbials is also simplified so that low adverbs (x) must appear either right after the verb or after the arguments (V x SO x), while high adverbs (y) are sentence-final but can be moved to be prenex (y bı V S O y).  
+> > I also looked into the possibility of merging :t6: and :t7: so that one of them could be used for high adverbs instead, but this isn't possible without introducing a terminator, as far as I can tell (let me know if you can think of another solution).  
+> > [00:21] Hoemaı: In any case, this would put the overall progress at 90+%, so I'm going with that instead of the frustrating-to-formalize (and hard-to-use) status quo.
+>
+> It has since been announced that there will be [no actual word like "ıq"](https://toaqlanguage.wordpress.com/2021/08/08/miscellanea1/).
+
