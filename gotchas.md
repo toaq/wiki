@@ -13,4 +13,4 @@ Instead, it's like this:
 > **mảı** Subject Object  
 > **mảı jí súq**
 
-Verb Subject Object is the standard; if you really need the subject to appear before the predicate, use **pa**: **jı́ pa mảı súq**.
+Toaq word order is "Verb, Subject, Object".
